@@ -1,6 +1,6 @@
 ---
 title: Project
-sidebar: home_sidebar
+sidebar: project_sidebar
 keywords: jsj0per, project, reference
 permalink: project.html
 toc: false

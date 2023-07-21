@@ -4,9 +4,11 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://github.com/Jsj0per/Jsj0per.github.io
+      external_url: https://https://github.com/Jsj0per/Jsj0per.github.io
     - title: News
       url: /news
+    - title: project
+      url: /project
 
 #Topnav dropdowns
 topnav_dropdowns:

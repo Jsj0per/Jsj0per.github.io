@@ -1,5 +1,5 @@
 ---
-title: project
+title: Project
 sidebar: home_sidebar
 keywords: jsj0per, project, reference
 permalink: project.html

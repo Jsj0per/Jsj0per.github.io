@@ -47,7 +47,7 @@ feedback_email: kor0peration@naver.com
 # 이전 줄을 주석 해제하면 피드백 링크가 가리키는 위치가 변경됩니다
 
 highlighter: rouge
-# library used for syntax highlighting
+# 구문 강조에 사용되는 라이브러리
 
 markdown: kramdown
 kramdown:

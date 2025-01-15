@@ -20,15 +20,15 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Getting Started
+  - title: SSAFY diary
     output: web, pdf
     folderitems:
     - title: Product 1 home
       url: /p1_landing_page.html
       output: web
 
-    - title: Sample 1
-      url: /p1_sample1.md
+    - title: SSAFY 1st Month
+      url: /SSAFY_Jan.md
       output: web, pdf
 
     - title: Sample 2

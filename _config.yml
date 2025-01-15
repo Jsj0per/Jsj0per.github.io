@@ -3,10 +3,10 @@ repository: tomjoht/documentation-theme-jekyll
 output: web
 # 이 속성은 PDF와 별도의 콘텐츠를 조건부로 필터링하는 데 유용합니다.
 
-topnav_title: Jekyll Documentation Theme
+topnav_title: kor0peration Blog
 # 홈 버튼 옆 상단 내비게이션 바에 표시됩니다
 
-site_title: Jekyll theme for documentation
+site_title: Jsj0per github Blog System
 # 이것은 사이트 제목에 대한 HTML 브라우저 탭에 나타납니다(사용자가 아닌 검색 엔진에서 주로 볼 수 있음)
 
 company_name: Copyright 2021 Google LLC

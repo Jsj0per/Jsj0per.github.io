@@ -12,10 +12,10 @@ site_title: Jekyll theme for documentation
 company_name: Copyright 2021 Google LLC
 # 이것은 바닥글에 나타납니다
 
-github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
+github_editme_path: 
 # Github를 사용하는 경우, 샘플을 따라 리뷰를 위해 생성한 지점의 기본 경로를 여기에 입력하세요. 그렇지 않다면 이 값을 비워 두세요.
 
-# gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
+# gitlab_editme_path: 
 # GitLab을 사용하는 경우, 샘플을 따라 리뷰를 위해 생성한 지점의 기본 경로를 여기에 입력하세요. 그렇지 않다면 이 값을 비워 두세요.
 
 google_analytics: UA-66296557-1

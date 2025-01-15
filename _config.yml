@@ -1,51 +1,50 @@
 repository: tomjoht/documentation-theme-jekyll
 
 output: web
-# this property is useful for conditional filtering of content that is separate from the PDF.
+# 이 속성은 PDF와 별도의 콘텐츠를 조건부로 필터링하는 데 유용합니다.
 
 topnav_title: Jekyll Documentation Theme
-# this appears on the top navigation bar next to the home button
+# 홈 버튼 옆 상단 내비게이션 바에 표시됩니다
 
 site_title: Jekyll theme for documentation
-# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
+# 이것은 사이트 제목에 대한 HTML 브라우저 탭에 나타납니다(사용자가 아닌 검색 엔진에서 주로 볼 수 있음)
 
 company_name: Copyright 2021 Google LLC
-# this appears in the footer
+# 이것은 바닥글에 나타납니다
 
 github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
-# if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
+# Github를 사용하는 경우, 샘플을 따라 리뷰를 위해 생성한 지점의 기본 경로를 여기에 입력하세요. 그렇지 않다면 이 값을 비워 두세요.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
-# if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
+# GitLab을 사용하는 경우, 샘플을 따라 리뷰를 위해 생성한 지점의 기본 경로를 여기에 입력하세요. 그렇지 않다면 이 값을 비워 두세요.
 
 google_analytics: UA-66296557-1
-# if you have google-analytics ID, put it in. if not, edit this value to blank.
+# Google 분석 ID가 있는 경우 입력하고, 없는 경우 이 값을 빈칸으로 편집합니다.
 
 host: 127.0.0.1
-# the preview server used. Leave as is.
+# 미리보기 서버가 사용되었습니다. 그대로 두십시오.
 
 port: 4000
-# the port where the preview is rendered. You can leave this as is unless you have other Jekyll builds using this same port that might cause conflicts. in that case, use another port such as 4006.
-
+# 미리보기가 렌더링되는 포트입니다. 충돌을 일으킬 수 있는 동일한 포트를 사용하는 다른 지킬 빌드가 없는 한 이 포트를 그대로 둘 수 있습니다. 이 경우 4006과 같은 다른 포트를 사용하세요.
 exclude:
   - .idea/
   - .gitignore
   - vendor
-# these are the files and directories that jekyll will exclude from the build
+# 다음은 jekyll 빌드에서 제외할 파일과 디렉터리입니다
 
 feedback_subject_line: Jekyll documentation theme
 
-feedback_email: tomjoht@gmail.com
-# used as a contact email for the Feedback link in the top navigation bar
+feedback_email: kor0peration@naver.com
+# 상단 탐색 모음에서 피드백 링크의 연락처 이메일로 사용됨
 
 # feedback_disable: true
-# if you uncomment the previous line, the Feedback link gets removed
+# 이전 줄에 댓글을 달지 않으면 피드백 링크가 제거됩니다
 
 # feedback_text: "Need help?"
-# if you uncomment the previous line, it changes the Feedback text
+# 이전 줄을 주석 해제하면 피드백 텍스트가 변경됩니다
 
 # feedback_link: "http://helpy.io/"
-# if you uncomment the previous line, it changes where the feedback link points to
+# 이전 줄을 주석 해제하면 피드백 링크가 가리키는 위치가 변경됩니다
 
 highlighter: rouge
 # library used for syntax highlighting
@@ -56,13 +55,12 @@ kramdown:
  auto_ids: true
  hard_wrap: false
  syntax_highlighter: rouge
-
-# filter used to process markdown. note that kramdown differs from github-flavored markdown in some subtle ways
+# 마크다운을 처리하는 데 사용되는 필터입니다. 크램다운은 깃허브-flavored 마크다운과 미묘한 차이가 있습니다
 
 collections:
   tooltips:
     output: false
-# collections are declared here. this renders the content in _tooltips and processes it, but doesn't output it as actual files in the output unless you change output to true
+# 컬렉션은 여기에 선언되어 있습니다. 이렇게 하면 콘텐츠가 _tooltips로 렌더링되어 처리되지만, 출력을 true로 변경하지 않는 한 출력에서 실제 파일로 출력되지 않습니다
 
 defaults:
   -
@@ -72,7 +70,7 @@ defaults:
     values:
       layout: "page"
       comments: true
-      # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
+      # Commento.io 을 사용하지 않고 댓글만 숨기고 싶다면 댓글 속성이 표시되는 곳마다 true를 false로 변경하세요
       search: true
       sidebar: home_sidebar
       topnav: topnav
@@ -92,12 +90,12 @@ defaults:
     values:
       layout: "post"
       comments: true
-      # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
+      # Commento.io 을 사용하지 않고 댓글만 숨기고 싶다면 댓글 속성이 표시되는 곳마다 true를 false로 변경하세요
       search: true
       sidebar: home_sidebar
       topnav: topnav
 
-# these are defaults used for the frontmatter for these file types
+# 다음 파일 형식의 프론트 매터에 사용되는 기본값입니다
 
 sidebars:
 - home_sidebar
@@ -108,9 +106,9 @@ sidebars:
 - other
 
 description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."
-# the description is used in the feed.xml file
+# 설명은 feed.xml 파일에서 사용됩니다
 
-# needed for sitemap.xml file only
+# sitemap.xml 파일에만 필요합니다
 # url: http://idratherbewriting.com
 # baseurl: /documentation-theme-jekyll
 

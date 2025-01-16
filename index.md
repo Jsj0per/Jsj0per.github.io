@@ -4,7 +4,7 @@ keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: This is my blog with everything about me as a developer. Powered by Jekyll Theme.
+summary: This is my blog with everything about me as a developer. based on the Jekyll theme.
 ---
 
 ### 안녕하세요!
@@ -25,4 +25,4 @@ I wish you all the best today, and I hope you continue to do everything you wish
 このブログは私が開発を始めた時から製作して今までも大切に管理しているブログです。  
 今日一日も良いことばかりあるように願いながら望むことをすべて成し遂げられる日々が続くことを祈ります。
 
-#### This blog is Powered by Jekyll Theme. which made by [[Tom Johnson]](https://idratherbewriting.com/category-jekyll/).
+#### This blog is based on the Jekyll theme created by [[Tom Johnson]](https://idratherbewriting.com/category-jekyll/).

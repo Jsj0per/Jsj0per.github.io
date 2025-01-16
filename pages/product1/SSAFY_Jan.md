@@ -8,16 +8,13 @@ folder: product1
 ---
 
 ## 1월 7일
-[Top Page](#){: .btn .btn--primary }
+[Top Page](#)
 
 8시 30분 싸피 목걸이 배부, 8시 42분 출석.  
 
 ![SSAFY_0107_01](./JanImg/SSAFY_0107_01.jpg)  
 첫날 목걸이 받으니까 이제 진짜 SSAFY 시작이구나 하는 느낌을 받았음.  
-
 싸피 강의장은 입구에서 가까운 곳에 있어서 통학하면 10분 정도 잡으면 좋겠다 싶었다.  
-
-
 첫날은 한 게 많지는 않고 전반적인 싸피에 대한 OT에 관련된 전달사항들 전파가 9to6에 거쳐서 진행되었다.  
 
 ![SSAFY_0107_02](./JanImg/SSAFY_0107_02.jpg)  
@@ -25,11 +22,8 @@ folder: product1
 오늘의 점심 싸밥  
 
 낙지 볶음/삼겹삼합 중 택 1인데 나는 낚지 볶음 선택  
-
 맛 자체는 상상하기 쉬운 짬뽕의 정석인데  
-
 싸밥의 명성답게 상당히 맛있으면서 건강한 맛이 드는 게 묘함  
-
 
 오후 수업도 매나 OT였는데 총프로님(일명 싸버지, 상추쌤)의 마지막 말이 의미심장했다.  
 
@@ -46,24 +40,70 @@ folder: product1
 ![SSAFY_0107_04](./JanImg/SSAFY_0107_04.jpg)  
 
 저녁 싸밥은 몽글두부찌개 / 막국수 중 택1(저녁 싸밥은 돈 내고 먹어야한다. 그래도 저렴)  
-
 말해 뭐해. 진짜 존맛.  
 
 내일 분반테스트 라고 한다.  
-
 솔까 컴퓨팅사고 파트는 SWEA를 봐도 10년 간 수학과 담 쌓았던 나라서 합격 직후 지금까지 봐도 이해가 전혀 안 되었다. 아니 학생 시절때 공부했던 컴퓨터 개론보다도 어렵게 느껴졌다.  
-
 그래서 반 쯤 마음 놨다.  
 
 18시 40분 퇴실  
 
-## More sample content
-[Top Page](#){: .btn .btn--primary }
+## 1월 8일
+[Top Page](#)
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+8시 37분 출석  
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+![SSAFY_0108_01](./JanImg/SSAFY_0108_01.jpg)  
+p.s. 어제 찍은 사진이다.  
 
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+오늘은 분반테스트다. 힘내자.  
+한 가지 마음가짐이자 루틴으로서  
+반드시 7:30분 전에 일어나고 출근 목표 시간을 8:30으로 목표하여 지각할 일을 1도 없도록 하기로 하였다.  
 
-{% include links.html %}
+분반테스트는 당연히 구미 비전공반이라 Python을 선택.  
+
+이유는 전공자반에 섞여 들 깡은 나에게 없고 Python은 예전부터 배워보고 싶은 언어 버킷 리스트에 있었기 때문이다. 다소 힘들긴 하나 비전공자라도 JAVA, mobile 반에 들어갈 길은 있는 것 처럼 보인다. **보안 상 상세 내용은 말해줄 수 없으나** 그 수준에 맞는 시험을 잘 치면 된다. 인터넷에 좀 만 검색해보면 대외비 경계를 아슬아슬하게 줄타기하여 말해둔 다른 선배의 수기가 있을지도 모르니 함 찾아보자. 나는 쫄보라 어디까지 말해도 되는질 몰라서 몸을 사리도록 하겠다.  
+
+일간 시험 후기는 사전에 겁먹을 필요가 전혀 없었다. 이 이상의 말은 안 하겠지만, 부담이 갈만한 수준은 아니다. 물론, 사전에 파이썬은 당일 날 아침에 대충 벼락치기로 명령어 셋 한 두번만 훑어본 수준이고 SWEA는 아예 집어 던진 수준이라서 못 풀거나 찍은 부분도 많긴 한데, 어? 생각보다… 로 마무리 하겠다.(아 참고로 본인은 첫 언어가 JAVA다. 파이썬이 첫 언어가 아니라는 점은 고려를 부탁한다.)  
+
+아, JAVA 공부는 계속 하기로 마음먹었다. 어짜피 추후 알고리즘 B형 자격을 딸 거라면 JAVA도 아는 게 맞는 것 같다. 최근 정신없었어서 진행을 더 못했는데, 지금같은 여유로울 때 해야겠다.  
+
+![SSAFY_0108_02](./JanImg/SSAFY_0108_02.jpg)  
+
+오늘의 점심 싸밥은 우사태수육전골 과 에비동 중 택 1이다.  
+나는 우사태수육전골을 택했다. 사유는 진짜 별거없다.  
+난 해산물을 잘 못 먹는다. 추가로 김치도 잘 못 먹는다.  
+편식을 줄여보려 노력하지만 김치만큼은 안 익숙해지더라.  
+고로 반찬류가 좀 허하게 찍혀있더라도 이해해주길 바란다.  
+버릴 반찬이면 안 가져온다가 내 철칙인지라.  
+
+![SSAFY_0108_03](./JanImg/SSAFY_0108_03.jpg)  
+![SSAFY_0108_04](./JanImg/SSAFY_0108_04.jpg)  
+
+전날 수업 받는 공간을 찍을 여유가 없어서 못 찍었는데  
+분반테스트가 끝난 지금은 살짝 여유가 나서 내 강의실이 위치한 층의 휴게 공간 전경을 한번 찍어봤다.  
+사진 보안은 싸피 구미캠퍼스 내라면(즉, 삼성전자 구미사업장 부분만 안 찍으면) 자유롭게 찍어도 된다고 허락 받았으니 걱정은 안 해도 될듯하다.  
+상당히 깔끔하고 개방적인 분위기가 물씬 풍기니 앞으로의 여유 없는 날이 되더라도 환경에서 만큼은 갑갑함을 느끼지 않길 간절히 소망 해본다.  
+오후 수업은 어떤 개발자가 되고 싶냐는 비전 수립과 관련된 레크리에이션으로 진행되었다.  
+
+![SSAFY_0108_05](./JanImg/SSAFY_0108_05.jpg)
+
+어제랑 맥락은 같은 비전을 모토로 삼고 전진하기로 하였다.  
+이후는 프로젝트를 짜는 요령을 훈련하는 듯한 레크레이션을 하루 종일 진행하였다.  
+어렵진않고 오히려 즐거웠다.  
+쉬는 시간에 나가봤는데 눈 오더라 오늘… 것도 펑펑.  
+
+마지막으로  
+Feeling - 피드백을 통해서 타인의 의견을 보완하는 과정의 뿌듯함과 기여감을 느꼈다.  
+Fact - 올바른 PT를 만드는 과정은 고되다.  
+Finding - 타인의 피드백으로 우리 조의 PT를 쉽고 효율적으로 보완할 수 있다는 사실을 깨달았다.  
+Future - 협력을 통하여 어려운 과제를 서로서로 분담하여 효율적으로 해결해나갈 방안을 미래에 적용시킬 수 있게 되었다.  
+
+오늘 배운 4F를 통하여 오늘의 하루를 정리하는 것으로 마무리.  
+
+![SSAFY_0108_06](./JanImg/SSAFY_0108_06.jpg)  
+
+오늘의 저녁 식권싸밥은  
+차돌버섯된장찌개/김치잔치국수/프랭크버거(C코너는 식권사면 먹을 수 있단다)라고한다.  
+된장찌개 선택. 마무리는 단촐하게.  
+18시 21분 퇴실 완료  

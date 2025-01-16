@@ -19,10 +19,10 @@ I would like to welcome you to my blog.
 This blog has been produced since the beginning of development and has been treated and cultivated with great value to this day.
 I wish you all the best today, and I hope you continue to do everything you wish for day by day.
 
-### こんにちは
+### 歓迎致します!
 
-私のブログに来てくださった皆さんを歓迎します。  
-このブログは私が開発を始めた時から製作して今までも大切に管理しているブログです。  
-今日一日も良いことばかりあるように願いながら望むことをすべて成し遂げられる日々が続くことを祈ります。
+私のブログに来てくださった皆さんを歓迎します。
+このブログは私が開発を始めた時から製作して今までも大切に管理しているブログです。
+今日一日も良いことばかりあるように願いながら望むことをすべて成し遂げることができる日々が続くことを祈ります。
 
 #### This blog is based on the Jekyll theme created by [[Tom Johnson]](https://idratherbewriting.com/category-jekyll/).

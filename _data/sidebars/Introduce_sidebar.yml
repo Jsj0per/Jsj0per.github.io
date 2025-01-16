@@ -5,12 +5,9 @@ entries:
   levels: one
   folders:
 
-  - title: Products
+  - title: Quick_Guide
     output: web
     folderitems:
-    - title: News
-      url: /news.html
-      output: web
     - title: SSAFY_LIFE
       url: /p1_landing_page.html
       output: web

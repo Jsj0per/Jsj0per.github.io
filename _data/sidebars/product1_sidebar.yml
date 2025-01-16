@@ -3,7 +3,7 @@
 
 entries:
 - title: Sidebar
-  product: Product1
+  product: SSAFY_LIFE
   version: 1.0
   folders:
 
@@ -28,7 +28,7 @@ entries:
       output: web, pdf
 
     - title: SSAFY 2nd Month
-      url: /SSAFY_Fev.html
+      url: /SSAFY_Feb.html
       output: web, pdf
 
     - title: SSAFY 3rd Month

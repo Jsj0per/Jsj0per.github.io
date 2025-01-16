@@ -308,157 +308,267 @@ SSAFY에서는 intelij, mangoDB같은 상업용 프로그램들을 라이선스�
 오전에는 강사 님과 학생들 간 자기소개 시간을 가졌다.  
 [PPT도 만들어서 제출했는데 이건 직접 확인해보시라…](https://www.canva.com/design/DAGcOCz7kgo/3tqOyBpSN1NhME3l2Zieyg/view?utm_content=DAGcOCz7kgo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h15705eb4d4#6)
 
-앞으로의 사용 프로그램 버전들은  
-
-git-2.47.1 (git bash)  
-
-pycharm community 2020.3.5  
-
-vscodeUser 1.95.3  
-
-python 3.9.13  
-
-pypy3.7 v.7.3.4  
-
-mysql 8.0.37.0  
-
-spring tool suite 4-4.22.1 release e4.31.0  
-
-bellsoft-jdk17.0.9 +11  
-
-이다.  
-
 ![SSAFY_0115_03](./JanImg/SSAFY_0115_03.jpg)    
 오늘의 점심 싸밥은 한방설렁탕/동파육덮밥 이었다.  
 나는 한방설렁탕을 선택했다.  
 둘다 진짜 좋아하는거라 엄청 고민 많았는데, 고심끝에 내 기준 원탑 국밥인 설렁탕이 너어무 땡겨서 선택하였다.  
 
 ![SSAFY_0115_04](./JanImg/SSAFY_0115_04.png)    
-
 오전에 이어 파이썬 강의다.  
+아래 내용은 전체 수업 내용이 아닌 내가 기억하기 위해 RAW하게 기록해놓은 내용.
+상세한 강의 내용이나 방식은 보안 서약에 의거하여 적지 않겠다.
 
-먼저 GIT 사용에 대해 배웠다.  
-
-> git bash 사용 설명서
->  
-
-$ls : 현재 위치의 파일 목록 표시  
-
-$cd <폴더명> : 디렉토리 이동  
-
-$cd .. : 상위 디렉토리로 이동  
-
-$Python : 현재 설치된 파이썬 정보 ( 윈도우에 깔려있는 파이썬을 인식, 개발환경 구축하기 전에 이 명령어를 입력하여 혹시 사전에 깔린 python 정보가 있는지 확인해야한다. 만약 윈도우 스토어가 뜬다면 안 깔려있는거고 버전명이 뜬다면 파이썬이 깔려 있는 것이다.  
-
-$Python -V : 현재 파이썬 정보를 확인하는 명령어  
-
-$git init : git 레퍼지토리 경로 마스터 설정(CLI에서 가장 중요한 점은 내가 지금 어느 경로에 있는가를 확인하는 것이 중요하다.)  
-
-$touch [README.md](http://README.md) : readme 파일 생성  
-
-$notepad [README.md](http://README.md) : 메모장으로 readme 파일 열기  
-
-$git log  : 커밋 로그 확인  
-
-$git log —oneline : 커밋 로그 한 줄로 보기  
-
-$git log —oneline -l : git global 설정 정보 보기  
-
-$git log —oneline —graph : 커밋 로그 한 줄로 보는데 더해 로그 그래프 까지 확인하기  
-
-$git status : git 현재 상태 확인(현재 상태를 보고 싶을 때 수시로 부담없이 확인할 것)  
-
-$git add <파일 명> : 깃 변경 사항을 Staging Area로 이동.  
-
-$git add . : 현재 경로 아래에 있는 모든 변경 사항/신규 사항을 전부 Staging Area로 이동시킴  
-
-$git remote add origin https://github.com/<사용자명>/<레파지토리 명> : github에 리모트 시키는 명령어  
-
+> git bash 사용 설명서  
+`$ls` : 현재 위치의 파일 목록 표시  
+`$cd <폴더명>`  : 디렉토리 이동  
+`$cd ..` : 상위 디렉토리로 이동  
+`$Python` : 현재 설치된 파이썬 정보 ( 윈도우에 깔려있는 파이썬을 인식, 개발환경 구축하기 전에 이 명령어를 입력하여 혹시 사전에 깔린 python 정보가 있는지 확인해야한다. 만약 윈도우 스토어가 뜬다면 안 깔려있는거고 버전명이 뜬다면 파이썬이 깔려 있는 것이다.  
+`$Python -V` : 현재 파이썬 정보를 확인하는 명령어  
+`$git init : git` 레퍼지토리 경로 마스터 설정(CLI에서 가장 중요한 점은 내가 지금 어느 경로에 있는가를 확인하는 것이 중요하다.)  
+`$touch README.md’`: readme 파일 생성  
+`$notepad README.md` : 메모장으로 readme 파일 열기  
+`$git log`  : 커밋 로그 확인  
+`$git log —oneline` : 커밋 로그 한 줄로 보기  
+`$git log —oneline —graph` : 커밋 로그 한 줄로 보는데 더해 로그 그래프 까지 확인하기  
+`$git log —oneline -l` : git global 설정 정보 보기  
+`$git status` : git 현재 상태 확인(현재 상태를 보고 싶을 때 수시로 부담없이 확인할 것)  
+`$git add <파일 명>` : 깃 변경 사항을 Staging Area로 이동.  
+`$git add .` : 현재 경로 아래에 있는 모든 변경 사항/신규 사항을 전부 Staging Area로 이동시킴  
+`$git remote add origin https://github.com/<사용자명>/<레파지토리 명>` : github에 리모트 시키는 명령어  
 └origin : 원격 저장소 명  
-
-$git push origin master : github에 푸쉬하기  
-
-$git clone <git URL> : 사본 가져오기(최초 1회때 사용 권장)  
-
-$git pull <git URL>  : github에서 가져오기  
-
-$git clone <git URL> .  : 폴더가 만들어지지 않고 바로 만들어짐.  
-
-$git commit -m “<커밋 메시지>” : Staging Area의 내용을 Repository로 보내겠다.  
+`$git push origin master` : github에 푸쉬하기  
+`$git clone <git URL>` : 사본 가져오기(최초 1회때 사용 권장)  
+`$git pull <git URL>`  : github에서 가져오기  
+`$git clone <git URL>` .  : 폴더가 만들어지지 않고 바로 만들어짐.  
+`$git commit -m “<커밋 메시지>”` : Staging Area의 내용을 Repository로 보내겠다.
 └ -m : 메세지 적겠다는 선언  
 
-![SSAFY_0115_05](./JanImg/SSAFY_0115_05.png)    
+![SSAFY_0115_05](./JanImg/SSAFY_0115_05.png)  
+`$git commit —amend` : amend 모드 진입(바로 직전에 commit한 내용 편집)  
+└ 명령어 모드에서 `i` 누를 시 insert 모드(편집모드)로 변경됨  
+└ 편집모드에서 `esc` 누를 시 다시 명령어 모드로 변경됨  
+└ 명령어 모드에서 `dd` 입력시 1줄식 삭제  
+└ `:wq` : 저장 후 나가기  
+└ `:q!` 저장하지 않고 강제로 나가기  
 
-$git commit —amend : amend 모드 진입(바로 직전에 commit한 내용 편집)  
-
-└ 명령어 모드에서 i 누를 시 insert 모드(편집모드)로 변경됨  
-
-└ 편집모드에서 esc 모드를 누를 시 다시 명령어 모드로 변경됨  
-
-└ 명령어 모드에서 dd 입력시 1줄식 삭제  
-
-└ :wq : 저장 후 나가기  
-
-└ :q! 저장하지 않고 강제로 나가기  
-
-$git config —global [user](http://user.name).email “<이메일 명>” : git 정보 입력 이메일명.  
-
-$git config —global [user](http://user.name).name“<닉네임 명>” : git 정보 임력 이름.  
-
+`$git config —global user.email “<이메일 명>”` : git 정보 입력 이메일명.  
+`$git config —global user.name“<닉네임 명>”` : git 정보 임력 이름.  
 └ 둘 다 하면 된다.  
 
 만약 오류가 생겼다면  
-
 > 시스템 설정 - 환경변수 - Path 환경변수 편집 - Window 부분 삭제, Python 경로 설정 되어있는지 확인  
-> 
 
-> C:\Users\ <사용자명> \AppData\Local\Programs\Python\Python39 
-> 
+> C:\Users\ <사용자명> \AppData\Local\Programs\Python\Python39  
 > 
 > "C:\Users\ <사용자명> \AppData\Local\Programs\Python\Python39\python.exe"  
-> 
 
 VS Code의 기본 실행을 윈도우 파워셀에서 gitbash로 설정하는 방법  
 
 > Ctrl + ~ → +: 클릭 → select default profile → gitbash  
-> 
-
-이 형태로 설정하면 된다고 한다.  
 
 > GIT 유의사항  
-> 
-
 중첩된 형태로 git을 만들지 말것.(하위 폴더에 .git 폴더가 있는 것을 지양할 것)  
 작업하고 add 하고 commit 하기  
 
 레퍼지토리의 상태가 3가지 정도 있을 수 있다.  
-
 Working Directory - 작업하는 공간  
-
 Staging Area - 임시 저장 공간, WD에서 변경된 파일 중 다음 버전에 포함시킬 파일들을 추가하거나 제외할 수 있는 중간 준비 영역  
-
 Repository - 버전, 이력, 파일 들이 영구적으로 저장되는 영역  
 
-![SSAFY_0115_06](./JanImg/SSAFY_0115_06.png)   
-
+![SSAFY_0115_06](./JanImg/SSAFY_0115_06.png)  
 오랫만의 묵직한 git의 감각. 서늘하다.  
-
 자치위원 중 CA를 신청 해봤는데, 경쟁자분이 경력이 너무 쟁쟁하고 소개를 너무 잘하셔서 아쉽게도 떨어졌다. 그래서 직후 바로 SSAFYcial 신청에 도전하기로 하였다.  
-
-오늘 저녁도 나랑은 영 별로일것 같아서 집와서 먹었다.  
-
-금일 저녁 메뉴였던 것.  
-
-돈육김치찜/참치김치밥버거/프랭크버거  
 
 퇴실 18시 05분  
 
 ---
 
-## 1월 16일  
-[Top Page](#)
+## 1월 16일
 
+입실 8시 36분
 
+![SSAFY_0116_01](./JanImg/SSAFY_0116_01.png)  
+놀랍게도(혹은 전혀 놀랍지 않게도) 삼성전자 앞 번화가에도 스타벅스는 있다.  
+오늘은 한번 이용해보려고 집에서 좀 일찍 출발해서 한잔 뽑아봤다.  
+해리포터 콜라보를 하는 것 같던데 막내는 좋아할 지도 모르겠다는 생각이 들었다.  
+
+![SSAFY_0116_02](./JanImg/SSAFY_0116_01.png)    
+또한, 최근 블로그 관리를 다시 손 보기 시작했다.  
+
+오전/오후는 약간의 강의 이후로 어제의 강의를 이어서 하였다. 
+아래 내용은 전체 수업 내용이 아닌 내가 기억하기 위해 RAW하게 기록해놓은 내용.
+상세한 강의 내용이나 방식은 보안 서약에 의거하여 적지 않겠다.
+
+git은 상위 디렉토리에서 하위 디렉토리 관리가 다 가능하기 때문에, git bash를 이용할 때,
+가장 상위 디렉토리에서 작업을 시작하면 된다.  
+
+**Markdown**  
+: 일반 텍스트로 문서를 작성하는 간단한 방법, 주로 개발자들이 텍스트와 코드를 작성해 문서화 하기 위해 사용.  
+
+**Marktest 단축키**  
+`Ctrl+E` : 소스 코드 모드랑 일반 모드 전환  
+이외에는 [마크다운 가이드](https://www.markdownguide.org/) 사이트 참고  
+
+**마크다운 문법**
+
+```markdown
+# 큰 제목
+
+## 중간 제목.
+
+### 소제목
+
+**볼드체**
+
+> 인용문
+> 
+> > 두칸 가능
+
+### 리스트
+
+- '-'를 쓰거나
+* '*'곱하기나
++ '+'더하기도
+
+1. 숫자
+2. 리스트
+3. 가능
+
+   가끔 가다가 따로 써야할 때는 직접 써도 된다.
+
+문법이다보니 소스코드랑 곂치는 경우가 있는데,
+파이썬에서는 주석을 남길 때 #를 쓰는데,
+
+1 옆에 있는 백틱(`) 활용하면 된다.
+
+간단한 단어를 따로 빼야 하는 경우가 있을 수 있는데 그때도 백틱.
+
+>`![git push force.jpg](C:\Users\<계정 명>\Desktop\git_Test\git%20push%20force.jpg)`  
+강제 경로의 대표적인 예시  
+
+>`![git push force.jpg](git%20push%20force.jpg)`  
+간접 경로의 대표적인 예시  
+
+이미지를 넣고 싶다면 이러한 문법을 쓰면 된다.  
+파일 자체에 이미지가 들어가는 것이 아니라, 주소 참조만 하기 때문에,  
+repository 환경에 따라서 파일 경로를 따로 설정해주는 것을 잊으면 안 된다.  
+
+만약에 이미지가 포함된 마크다운을 과제 등으로 제출할 때는 이미지도 같이 제출해야한다.  
+
+절대경로: 모든 컴퓨터에 위치한 고유의 경로(최초의 시작점으로 경유한 경로를 전부 기입하는 방식)  
+
+상대경로: readme를 기준으로 경로를 설정함  
+
+이미지를 쓸때는 상대 경로로 쓰자  
+
+`[네이버](http://www.naver.com)`
+[네이버](http://www.naver.com
+링크는 !를 빼고 적으면 된다.  
+
+`---`
+---
+이건 줄 긋기
+
+```
+
+![SSAFY_0116_03](./JanImg/SSAFY_0116_03.png)  
+
+금일 점심은 소불고기버섯 전골/왕돈까스 중 택 1 이었다.  
+나는 최근에 돈까스를 먹었기 때문에 소불고기 전골을 선택하였다.  
+소불고기전골은 대학 시절때도 수시로 먹었던 내 소울푸드라 나름의 애착이 있는 편이다.  
+
+**CLI**  
+가장 중요한 것은 내가 어디에 있는지(경로)를 아는 것  
+
+`touch`: 파일 생성  
+`mkdir`: 새 디렉토리 생성  
+`ls`: 현재 작업중인 디렉토리 내부의 폴더/파일 목록을 출력  
+`cd`: 현재 작업중인 디렉토리를 변경(위치 이동)  
+`start`: 폴더/파일을 열기 (Mac에서는 Open 사용)  
+`rm`: 파일 삭제 (디렉토리 삭제는 -r 옵션을 추가 사용)  
+
+존재하는 폴더일 경우 일부 이름을 입력하고 Tap을 누르면 자동 입력된다.  
+
+**Git 폴더 지정하는 방법**  
+
+1. 대상의 폴더(빈 폴더 권장)에서 git bash 를 킨다음 `git init`를 한다.  
+2. `git remote add origin <주소>` 를 하여 github의 대응되는 레퍼지토리를 지정한다.  
+3. `$git config —global user.email "<이메일 명>"`  
+4. `$git config —global user.name "<닉네임 명>"`  
+   이 둘을 각각 입력한다. 이미 이전에 입력한 내력이 있다면 3,4번은 생략한다.  
+
+**Git Push 하는 방법**  
+
+1. 위의 init 과정을 거친다. 거쳤다면 해당 단계는 생략한다.  
+2. `git add <파일 명>`, 혹은 `git add .`(하위 파일 전부 인식) 를 한다.  
+3. `git commit -m “입력할 커밋 메시지 명”` 을 입력하여 Staging Area로 넘긴다.  
+4. `git push origin master` 를 입력하여 push 한다.  
+
+**Git Pull 하는 방법**  
+
+1. 최초 한번은 `git clone <깃 주소>`을 한다. 이때 init은 할 필요가 없다.  
+2. 이후는 `git pull <깃 주소>`를 하여 가져온다.  
+
+**Conflict(충돌) 발생 상황**  
+
+![SSAFY_0116_04](./JanImg/SSAFY_0116_04.png)  
+
+먼저 업데이트 된 버전의 파일이 repository가 있는데 동일 파일이 이미 수정된 상대라면 충돌이 난다. 여기서도 pull을 먼저하라고 요청하고 있다.  
+
+![SSAFY_0116_05](./JanImg/SSAFY_0116_05.png) 
+
+그렇지만 이미 수정한 파일이 있는 상태에서 무작정 pull을 받으려 한다면 겉보기에는 정상처럼 보이지만, 이는 변경된 중복 파일에 변경사항을 강제로 입력시켜 더한 오류를 만들어낼 수 있으니 조심해야한다.
+
+![SSAFY_0116_06](./JanImg/SSAFY_0116_06.png)  
+
+정상 파일 A
+
+![SSAFY_0116_07](./JanImg/SSAFY_0116_07.png)  
+
+정상 파일 B
+
+![SSAFY_0116_08](./JanImg/SSAFY_0116_08.png)  
+
+강제 pull을 받아 강제 merge 당해 개판이 되어버린 중복 파일.  
+
+따라서, 개인 작업 시(애초에 팀플이면 브랜치를 여러개 팔테니) Pull-(변경)-Push-(타 컴퓨터 접속했을 때 필요 시 Pull)-(변경)-Push 이런 일련의 과정을 빼 먹지 않을 것을 권장한다.  
+
+**브랜치(branch)**
+
+![SSAFY_0116_09](./JanImg/SSAFY_0116_09.png)  
+
+git 저장소 내부에서 작업 공간을 분리 시키기. 팀 프로젝트를 할 때 브랜치를 따로 쓰는 것이 중요하다.  
+
+`$git branch <이름>` : branch 만들기  
+`$git branch` : 현재 모든 branch 내역 및 현재 설정되어있는 branch 보기  
+`$git switch <이름>` : 다른 branch 로 이동.  
+`$git merge <이름>` : branch 병합  
+`$git branch -d <이름>` : 병합 완료된 브랜치 삭제. 병합 완료된 브랜치는 삭제하는 것을 권장.  
+
+이외 git의 자세한 명령어는 [Git Cheet Sheet](https://education.github.com/git-cheat-sheet-education.pdf) 에서 확인 가능하다. 
+
+![SSAFY_0116_10](./JanImg/SSAFY_0116_10.png)  
+
+`$git reset <시점 코드> (—hard(—h) 하드, —soft(—s) 소프트, —mixed 믹스드)` : 과거로 시계 돌리기 ( 특정 commit으로 이후 내역 삭제 )  
+└ 옵션: 변경사항 남기기, 삭제하기 선택가능  
+└ hard(싹 지우기), soft(파일 복구하고, add 된 상황으로 reset), mixed(add가 안 된 시점으로 reset)  
+`$git revert <시점 코드>`  : 특정 사건 삭제(’특정 커밋 삭제’라는 커밋 생성)  
+└ 내역만 남고, 실 파일은 없애는 형식으로 없던 일로 만든다.  
+└ reset보다는 revert를 하되, revert 로도 오류가 해결이 안 될 시 reset을 하는 것을 권장.  
+
+![SSAFY_0116_11](./JanImg/SSAFY_0116_11.jpg)  
+금일 저녁은 우거지곰탕/제주고기국수/쉬림프버거세트 중 택1 이었다.
+나는 을 선택하였다.
+
+퇴실 시 분
+
+---
+
+이번 주를 버티게 해준 고마운 애니메이션
+
+약사의 거짓말 2기 1화(넷플릭스)
+
+토라도라 1-2화(라프텔)
 ---
 
 이번 주를 버티게 해준 고마운 애니메이션

@@ -1,9 +1,9 @@
 ---
-title: Sample 3 Topic (Product 1)
-keywords: sample
-summary: "This is just a sample topic..."
+title: SSAFY March
+keywords: SSAFY
+summary: "싸피에서의 1년간의 생활을 적는 공간. 3월"
 sidebar: product1_sidebar
-permalink: p1_sample3.html
+permalink: SSAFY_Mar.html
 folder: product1
 ---
 

@@ -338,7 +338,7 @@ SSAFY에서는 intelij, mangoDB같은 상업용 프로그램들을 라이선스�
 └origin : 원격 저장소 명  
 `$git push origin master` : github에 푸쉬하기  
 `$git clone <git URL>` : 사본 가져오기(최초 1회때 사용 권장)  
-`$git pull <git URL>`  : github에서 가져오기  
+`$git pull origin <git URL or master>`  : github에서 가져오기  
 `$git clone <git URL>` .  : 폴더가 만들어지지 않고 바로 만들어짐.  
 `$git commit -m “<커밋 메시지>”` : Staging Area의 내용을 Repository로 보내겠다.
 └ -m : 메세지 적겠다는 선언  
@@ -507,7 +507,7 @@ repository 환경에 따라서 파일 경로를 따로 설정해주는 것을 �
 **Git Pull 하는 방법**  
 
 1. 최초 한번은 `git clone <깃 주소>`을 한다. 이때 init은 할 필요가 없다.  
-2. 이후는 `git pull <깃 주소>`를 하여 가져온다.  
+2. 이후는 `git pull <깃 주소 or origin>`를 하여 가져온다.  
 
 **Conflict(충돌) 발생 상황**  
 

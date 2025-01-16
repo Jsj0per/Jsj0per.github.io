@@ -5,10 +5,8 @@ topnav:
   items:
     - title: GitHub
       external_url: https://github.com/Jsj0per
-    - title: News
-      url: /news
-    - title: project
-      url: /project
+    - title: Introduce
+      url: /Introduce
 
 #Topnav dropdowns
 topnav_dropdowns:

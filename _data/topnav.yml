@@ -20,7 +20,7 @@ topnav_dropdowns:
           url: /p1_landing_page.html
         - title: Portfolio
           url: /p2_landing_page.html
-    - title: Powered by Jekyll
+    - title: Jekyll
       folderitems:
         - title: Powered by Jekyll
           url: /mydoc_introduction.html

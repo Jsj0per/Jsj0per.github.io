@@ -364,6 +364,8 @@ $git log —oneline : 커밋 로그 한 줄로 보기
 
 $git log —oneline -l : git global 설정 정보 보기  
 
+$git log —oneline —graph : 커밋 로그 한 줄로 보는데 더해 로그 그래프 까지 확인하기  
+
 $git status : git 현재 상태 확인(현재 상태를 보고 싶을 때 수시로 부담없이 확인할 것)  
 
 $git add <파일 명> : 깃 변경 사항을 Staging Area로 이동.  

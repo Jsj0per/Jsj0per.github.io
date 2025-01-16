@@ -1,17 +1,19 @@
 ---
-title: Sample 1 Topic (Product 1)
-keywords: sample
-summary: "This is just a sample topic..."
+title: SSAFY January
+keywords: SSAFY
+summary: "싸피에서의 1년간의 생활을 적는 공간"
 sidebar: product1_sidebar
-permalink: p1_sample1.html
+permalink: SSAFY_Jan.html
 folder: product1
 ---
 
-## Sample Content
+## 1월 7일
+8시 30분 싸피 목걸이 배부, 8시 42분 출석.
 
-"Lorem Ipsum" is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+첫날 목걸이 받으니까 이제 진짜 SSAFY 시작이구나 하는 느낌을 받았음.
+싸피 강의장은 입구에서 가까운 곳에 있어서 통학하면 10분 정도 잡으면 좋겠다 싶었다.
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+첫날은 한 게 많지는 않고 전반적인 싸피에 대한 OT에 관련된 전 달사항들 전파가 9to6에 거쳐서 진행되었다.
 
 
 ## More sample content

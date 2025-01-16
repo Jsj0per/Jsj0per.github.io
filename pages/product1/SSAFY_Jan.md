@@ -1,7 +1,7 @@
 ---
 title: SSAFY January
 keywords: SSAFY
-summary: "싸피에서의 1년간의 생활을 적는 공간. 1월 공"
+summary: "싸피에서의 1년간의 생활을 적는 공간. 1월"
 sidebar: product1_sidebar
 permalink: SSAFY_Jan.html
 folder: product1

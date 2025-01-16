@@ -24,5 +24,3 @@ I wish you all the best today, and I hope you continue to do everything you wish
 私のブログに来てくださった皆さんを歓迎します。  
 このブログは私が開発を始めた時から製作して今までも大切に管理しているブログです。  
 今日一日も良いことばかりあるように願いながら望むことをすべて成し遂げられる日々が続くことを祈ります。
-
-{% include links.html %}

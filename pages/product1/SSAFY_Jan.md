@@ -412,10 +412,10 @@ $git config —global [user](http://user.name).name“<닉네임 명>” : git �
 > 시스템 설정 - 환경변수 - Path 환경변수 편집 - Window 부분 삭제, Python 경로 설정 되어있는지 확인  
 > 
 
-> C:\Users\<사용자명>\AppData\Local\Programs\Python\Python39 
+> C:\Users\ <사용자명> \AppData\Local\Programs\Python\Python39 
 > 
 > 
-> "C:\Users\<사용자명>\AppData\Local\Programs\Python\Python39\python.exe"  
+> "C:\Users\ <사용자명> \AppData\Local\Programs\Python\Python39\python.exe"  
 > 
 
 VS Code의 기본 실행을 윈도우 파워셀에서 gitbash로 설정하는 방법  

@@ -28,7 +28,7 @@ entries:
       output: web
 
     - title: SSAFY 1st Month
-      url: /SSAFY_Jan.md
+      url: /SSAFY_Jan.html
       output: web, pdf
 
     - title: Sample 2

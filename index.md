@@ -15,7 +15,7 @@ summary: This is my blog with everything about me as a developer. based on the J
 
 ### Hello, and Welcome!
 
-I would like to welcome you to my blog.
+welcome to my blog.
 This blog has been produced since the beginning of development and has been treated and cultivated with great value to this day.
 I wish you all the best today, and I hope you continue to do everything you wish for day by day.
 

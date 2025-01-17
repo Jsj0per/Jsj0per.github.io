@@ -1,8 +1,8 @@
 ---
-title: Daily Log 01
+title: LifeLog
 sidebar: LifeLog_sidebar
 keywords: jsj0per, project, reference
-permalink: Daily_01.html
+permalink: LifeLog.html
 toc: false
 folder: LifeLog
 ---

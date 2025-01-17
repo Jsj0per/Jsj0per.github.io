@@ -80,7 +80,7 @@ entries:
       url: /CockT_Etc.html
       output: web, pdf    
 
-   - title: Mocktail
+    - title: Mocktail
       url: /CockT_Moc.html
       output: web, pdf    
 # Copyright 2021 Google LLC

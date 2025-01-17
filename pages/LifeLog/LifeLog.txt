@@ -1,6 +1,6 @@
 ---
 title: LifeLog
-sidebar: project_sidebar
+sidebar: LifeLog_sidebar
 keywords: jsj0per, project, reference
 permalink: LifeLog.html
 toc: false

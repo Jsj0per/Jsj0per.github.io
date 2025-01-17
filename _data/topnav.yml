@@ -14,6 +14,10 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
+    - title: LifeLog
+      folderitems:
+        - title: LifeLog
+          url: /LifeLog
     - title: Programing
       folderitems:
         - title: SSAFY_LIFE

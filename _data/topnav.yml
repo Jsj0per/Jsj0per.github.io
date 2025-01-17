@@ -7,8 +7,6 @@ topnav:
       external_url: https://github.com/Jsj0per
     - title: Introduce
       url: /Introduce
-    - title: LifeLog
-      url: /LifeLog
 
 #Topnav dropdowns
 topnav_dropdowns:

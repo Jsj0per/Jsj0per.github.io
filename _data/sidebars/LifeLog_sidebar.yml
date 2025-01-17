@@ -7,7 +7,7 @@ entries:
   version: 1.0
   folders:
 
-  - title:
+  - title: 
     output: pdf
     type: frontmatter
     folderitems:
@@ -20,40 +20,67 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: SSAFY_LIFE
+  - title: Daily Log
     output: web, pdf
     
     folderitems:
-    - title: SSAFY 1st Month
-      url: /SSAFY_Jan.html
+    - title: Daily Log 01
+      url: /Daily_01.html
       output: web, pdf
 
-    - title: SSAFY 2nd Month
-      url: /SSAFY_Feb.html
-      output: web, pdf
-
-    - title: SSAFY 3rd Month
-      url: /SSAFY_Mar.html
-      output: web, pdf
-
-  - title: project 2
+  - title: Travel_Japan
     output: web, pdf
 
     folderitems:
-    - title: Sample 1
-      url: /project2_sample1.html
+    - title: 1st Travel
+      url: /jp_Travel_01.html
       output: web, pdf
 
-    - title: Sample 2
-      url: /project2_sample2.html
+    - title: 2nd Travel
+      url: /jp_Travel_02.html
       output: web, pdf
 
-    - title: Sample 3
-      url: /project2_sample3.html
+    - title: 3rd Travel
+      url: /jp_Travel_03.html
       output: web, pdf
 
-    - title: Sample 4
-      url: /project2_sample4.html
+    - title: 4th Travel
+      url: /jp_Travel_04.html
       output: web, pdf
 
+  - title: Cocktail
+    output: web, pdf
+
+    folderitems:
+    - title: Gin Base
+      url: /CockT_Gin.html
+      output: web, pdf
+
+    - title: Vodka Base
+      url: /CockT_Vod.html
+      output: web, pdf
+
+    - title: Rum Base
+      url: /CockT_Rum.html
+      output: web, pdf
+
+    - title: Tequila Base
+      url: /CockT_Teq.html
+      output: web, pdf
+
+    - title: Brandy Base
+      url: /CockT_Bra.html
+      output: web, pdf
+
+    - title: Whiskey Base
+      url: /CockT_Whi.html
+      output: web, pdf
+
+    - title: ETC Base
+      url: /CockT_Etc.html
+      output: web, pdf    
+
+   - title: Mocktail
+      url: /CockT_Moc.html
+      output: web, pdf    
 # Copyright 2021 Google LLC

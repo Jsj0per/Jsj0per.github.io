@@ -2,7 +2,7 @@
 title: SSAFY January
 keywords: SSAFY
 summary: "싸피에서의 1년간의 생활을 적는 공간. 1월"
-sidebar: product1_sidebar
+sidebar: SSAFY_sidebar
 permalink: SSAFY_Jan.html
 folder: product1
 ---
@@ -148,7 +148,8 @@ Future - 협력이 필요할 사항이 생기면 망설이지말고 협력하자
 
 ---
 
-## 1월 10일  
+## 1월 10일
+
 [Top Page](#)
 
 8시 40분 입실  
@@ -193,7 +194,8 @@ SSAFY에서는 intelij, mangoDB같은 상업용 프로그램들을 라이선스�
 
 ---
 
-## 1주차 총평  
+## 1주차 총평
+
 [Top Page](#)
 
 1주차는 스타트캠프라는 말 그대로 SSAFY의 교육과정 및 내부 규정, 생활 수칙들을 전파하고 코딩/알고리즘 수업에 앞서 SSAFY와 앞으로의 개발자 생활을 위한 교양 수업 + 트렌드를 강의하는 주차였던 감상평을 남기고 싶다. 특히 요즘 개발 트렌드가 인공지능에 상당히 집중되어 있는듯한 인상을 받았다.  
@@ -212,9 +214,10 @@ SSAFY에서는 intelij, mangoDB같은 상업용 프로그램들을 라이선스�
 
 ---
 
-# 2주차  
+# 2주차
 
-## 1월 13일  
+## 1월 13일
+
 [Top Page](#)
 
 입실 8시 38분  
@@ -253,6 +256,7 @@ SSAFY에서는 intelij, mangoDB같은 상업용 프로그램들을 라이선스�
 ---
 
 ## 1월 14일
+
 [Top Page](#)
 
 출석 08시 38분  
@@ -293,6 +297,7 @@ SSAFY에서는 intelij, mangoDB같은 상업용 프로그램들을 라이선스�
 ---
 
 ## 1월 15일 ~ 1월 16일
+
 [Top Page](#)
 
 입실 8시 48분  

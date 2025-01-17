@@ -16,6 +16,10 @@ topnav_dropdowns:
       folderitems:
         - title: LifeLog
           url: /LifeLog
+        - title: Travel_Japan
+          url: /Tr_landing_page.html
+        - title: Cocktail
+          url: /Co_landing_page.html
     - title: Programing
       folderitems:
         - title: SSAFY_LIFE

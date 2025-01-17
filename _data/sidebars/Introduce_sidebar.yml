@@ -8,6 +8,9 @@ entries:
   - title: Quick_Guide
     output: web
     folderitems:
+    - title: Introduce
+      url: /Introduce.html
+      output: web
     - title: SSAFY_LIFE
       url: /p1_landing_page.html
       output: web

@@ -15,6 +15,8 @@ folder: LifeLog
 
 This page is not a recipe I developed, but a recipe made by someone or an organization. Only leave original Source, and I don't write down the recipe separately. Please refer to the link or video for detailed recipes.
 
+---
+
 ## 진 데이즈
 
 [![진 데이즈](http://img.youtube.com/vi/DcZdeCw9Agg/0.jpg)](https://youtube.com/shorts/DcZdeCw9Agg?si=33kB_bXVYKI7753y)  
@@ -39,6 +41,8 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 약간 남은 시원한 솔향을 베이스로 석류맛과 상큼한 레몬계 신맛,  
 달달구리한 느낌의 베리류 칵테일.  
 다음에는 그레나딘 시럽을 살짝 1-2ml정도 줄이는 편이 좋겠다.
+
+---
 
 ## 비스니즈(Bee's Knees)
 

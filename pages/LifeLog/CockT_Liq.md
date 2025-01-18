@@ -34,7 +34,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 ### 그래서 만들었어?
 
-![도화](./CockT_Img/peach_crush.jpg)  
+![도화](./CockT_Img/peach_flower.jpg)  
 
 ### 맛은 어땠어?
 

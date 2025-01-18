@@ -20,13 +20,9 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Daily Log
+  - title: LifeLog
+    url: /LifeLog.html
     output: web, pdf
-    
-    folderitems:
-    - title: Daily Log 01
-      url: /Daily_01.html
-      output: web, pdf
 
   - title: Travel_Japan
     output: web, pdf

@@ -32,7 +32,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 ### 그래서 만들었어?
 
-![진 데이즈](./CockT_Img/Gin_Daisy.jpg)]  
+![진 데이즈](./CockT_Img/Gin_Daisy.jpg)  
 
 야매식으로 만들어서 영상처럼 이쁘게는 안 나옵니다.
 

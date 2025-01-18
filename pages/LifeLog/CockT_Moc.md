@@ -1,9 +1,9 @@
 ---
-title: Mocktail Base
+title: Mocktail
 keywords: Non-alcohol, Cocktail
 summary: "내가 보려고 적어두는 칵테일 레시피들. 논알콜 칵테일(목테일)"
 sidebar: LifeLog_sidebar
-permalink: CockT_ㅡMoc.html
+permalink: CockT_Moc.html
 simple_map: true
 map_name: usermap
 box_number: 1

@@ -4,7 +4,6 @@ keywords: Rum, Cocktail
 summary: "내가 보려고 적어두는 칵테일 레시피들"
 sidebar: LifeLog_sidebar
 permalink: CockT_Rum.html
-simple_map: true
 map_name: usermap
 box_number: 1
 folder: LifeLog

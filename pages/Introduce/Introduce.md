@@ -6,13 +6,7 @@ sidebar: Introduce_sidebar
 permalink: Introduce.html
 folder: Introduce
 ---
-
-# 정 승재 Student Developer
-
-### SungJae Jung, 鄭 承宰(ゾン, スンゼ)
-
-
-## Introduce
+## Introduce  
 
 한 걸음 한 걸음 나아가며 정진하는 개발자 되기위해 노력하는 학생 개발자입니다.  
 Student Developer who strives to become a developer who goes step by step.  

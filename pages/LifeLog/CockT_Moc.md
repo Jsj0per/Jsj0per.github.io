@@ -31,11 +31,9 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 상세 레시피는 원본 영상 참조.
 
 ### 그래서 만들었어?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KsjqUwWy1YE?si=jbOXmBjx8LLRNs33" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KsjqUwWy1YE?si=jbOXmBjx8LLRNs33" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### 맛은 어땠어?
 
 약간 다 녹여둔 조스바 같은 느낌?　재료도 간단해서 생각날때 만들 예정.
-
-{% include links.html %}

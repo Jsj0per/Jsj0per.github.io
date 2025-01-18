@@ -57,7 +57,7 @@ IBA 공식 레시피. 현재 공식 레시피는 삭제.
 
 ### 그래서 만들었어?
 
-![비스니즈](./CockT_Img/Bees_knees.jpg)]  
+![비스니즈](./CockT_Img/Bees_knees.jpg)  
 
 ### 맛은 어땠어?
 

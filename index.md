@@ -1,7 +1,7 @@
 ---
 title: "Welcome to My Blog"
 keywords: sample homepage
-tags: [getting_started]
+tags: MainPage
 sidebar: Introduce_sidebar
 permalink: index.html
 summary: This is my blog with everything about me as a developer. based on the Jekyll theme.

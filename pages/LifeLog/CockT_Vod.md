@@ -23,9 +23,9 @@ IBA 공식 레시피. 현재 공식 레시피는 삭제.
 > 재료
 > > Vodka 45ml  
 > > Lime Juice 10ml    
-> > Ginger Bear 120ml
-> > Mint Leaf(개인 변형)
-> > Cinamon Stick(개인 변형)
+> > Ginger Bear 120ml  
+> > Mint Leaf(개인 변형)  
+> > Cinamon Stick(개인 변형)  
 
 1. 잔에 라임주스, 보드카, 진저비어, 얼음, 민트 잎을 넣는다.  
 2. 잘 섞는다.  

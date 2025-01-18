@@ -17,17 +17,17 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 ## 환타 하와이안
 
-[![환타 하와이안](http://img.youtube.com/vi/LcHxZt3KC-A/0.jpg)](https://youtube.com/shorts/LcHxZt3KC-A?si=nyA8zO2ScVVPNIkg) 
-[영상 제작자: Zstile](https://www.youtube.com/@ZsTile)
+[![환타 하와이안](http://img.youtube.com/vi/LcHxZt3KC-A/0.jpg)](https://youtube.com/shorts/LcHxZt3KC-A?si=nyA8zO2ScVVPNIkg)  
+[영상 제작자: Zstile](https://www.youtube.com/@ZsTile)  
 
 > 재료
 > 
-> > Blue Curaçao syrup
-> > Cocopalm
-> > Pineapple juice
-> > Fanta
+> > Blue Curaçao syrup  
+> > Cocopalm  
+> > Pineapple juice  
+> > Fanta  
 
-상세 레시피는 원본 영상 참조.
+상세 레시피는 원본 영상 참조.  
 
 ### 그래서 만들었어?
 

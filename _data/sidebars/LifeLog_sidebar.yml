@@ -76,6 +76,10 @@ entries:
       url: /CockT_Whi.html
       output: web, pdf
 
+    - title: Liqueur Base
+      url: /CockT_Liq.html
+      output: web, pdf
+
     - title: ETC Base
       url: /CockT_Etc.html
       output: web, pdf    

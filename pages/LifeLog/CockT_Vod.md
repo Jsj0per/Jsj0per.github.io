@@ -15,6 +15,8 @@ folder: LifeLog
 
 This page is not a recipe I developed, but a recipe made by someone or an organization. Only leave original Source, and I don't write down the recipe separately. Please refer to the link or video for detailed recipes.
 
+---
+
 ## 모스코뮬
 
 [모스코뮬](https://namu.wiki/w/%EB%AA%A8%EC%8A%A4%EC%BD%94%20%EB%AE%AC)  
@@ -40,6 +42,8 @@ IBA 공식 레시피. 현재 공식 레시피는 삭제.
 시원하고 상쾌함.  
 여름에 마신다면 다른 어떤 술도 바랄 필요 없는 최적의 술.  
 약간의 시트러스함과 약간의 생강향 그리고 그걸 덮어버리는 상쾌함.  
+
+---
 
 ## 코스모폴리탄
 

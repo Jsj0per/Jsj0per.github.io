@@ -1,24 +1,71 @@
 ---
 title: Introduce
-keywords: announcements
+keywords: Introduce
 summary: "Introducing Page"
 sidebar: Introduce_sidebar
 permalink: Introduce.html
 folder: Introduce
 ---
 
-## Sample Content
+# 정 승재 Student Developer
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+### SungJae Jung, 鄭 承宰(ゾン, スンゼ)
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
 
-## More sample content
+## Introduce
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+한 걸음 한 걸음 나아가며 정진하는 개발자 되기위해 노력하는 학생 개발자입니다.  
+Student Developer who strives to become a developer who goes step by step.  
+一歩一歩進んで精進する開発者になるために努力する学生開発者です。 
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+## Ability(Tech Stacks)  
 
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsj0per)](https://github.com/anuraghazra/github-readme-stats)  
 
-{% include links.html %}
+| Name                 | Details |
+| -------------------- | ------- |
+| language             | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/java-E11F21?style=for-the-badge&logo=OpenJDK&logoColor=white">  |
+| Frameworks           | <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">      |
+| DataBase             | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">      |
+| ETC                  | <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white">     |
+
+## Git Animals  
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Jsj0per"/>
+</a>
+
+## Contact
+
+
+| Name   | Address                    |
+| ------ | -------------------------- |
+| GitHub | https://github.com/Jsj0per |
+| Blog   | https://jsj0per.github.io/ |
+| E-mail | kor0peration@naver.com     |
+
+## Special Career
+
+ - 
+
+## Education History
+
+#### 삼성 청년 SW 아카데미 구미캠퍼스 파이썬 과정                                        2025/01 ~ Progressing
+
+K-Digital Traning Samsung SW Academy For Youth Program(SSAFY) Gumi Campus Python Course
+
+#### 엠비씨 아카데미 파이썬,자바,스프링기반 빅데이터 SW개발자 양성                        2023/04 ~ 2023/09  
+
+Digital Convergence MBC Academy Python, Java, Spring Base Big-Data SW Developer Course
+
+#### 계명대학교 국어국문학과 학사 인문IT융합전공 복수전공                                2015/03 ~ 2022/08  
+
+Keimyung University Located in Daegu, Republic Of Korea  
+Department(major) of Major in Korean Language and Literature, Faculty of Korean Language and Literature  
+College of Humanities and International Studies (Double Major: Major in Humanities IT Engineering)  
+with the degree of Bachelor of Arts.  
+(include ROK AirForce Millitary Service Period 2016/04~2018/04)  
+
+#### 심인고등학교 졸업                                                                   2012/03 ~ 2015/02  
+Simin High School Liberal Arts Track Diploma
+

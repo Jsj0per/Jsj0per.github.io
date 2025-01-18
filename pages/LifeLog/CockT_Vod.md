@@ -33,7 +33,7 @@ IBA 공식 레시피. 현재 공식 레시피는 삭제.
 
 ### 그래서 만들었어?
 
-![비스니즈](./CockT_Img/moscow_mule.jpg)  
+![모스코뮬](./CockT_Img/moscow_mule.jpg)  
 
 ### 맛은 어땠어?
 

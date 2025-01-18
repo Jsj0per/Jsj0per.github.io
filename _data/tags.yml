@@ -2,16 +2,29 @@
 # If you are using the createtag script, don't leave a blank line at the end of this file.
 # In other words, the last line must be the last tag in the allowed-tags list.
 allowed-tags:
-  - getting_started
-  - content_types
-  - navigation
-  - formatting
-  - publishing
-  - single_sourcing
-  - special_layouts
-  - collaboration
-  - news
-  - troubleshooting
-  - mobile
+  - MainPage
+  - Introduce
+  - SSAFY
+  - LifeLog
+  - Portfolio
+  - Travel
+  - Japan
+  - Kanto
+  - Kyushu
+  - Kansai
+  - Chugoku
+  - Chubu
+  - Tohoku
+  - Hokkaido
+  - Shikoku
+  - Cocktail
+  - Gin
+  - Rum
+  - Tequila
+  - Brandy
+  - Whiskey
+  - Liqueur
+  - Etc_CockT
+  - Non_alcohol
 
 # Copyright 2021 Google LLC

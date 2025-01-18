@@ -31,9 +31,8 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 상세 레시피는 원본 영상 참조.
 
 ### 그래서 만들었어?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KsjqUwWy1YE?si=jbOXmBjx8LLRNs33" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[![그럼 만들어봤지](http://img.youtube.com/vi/KsjqUwWy1YE/0.jpg)](https://youtube.com/shorts/LcHxZt3KC-A?si=nyA8zO2ScVVPNIkg) 
-[영상 제작자: Zstile](https://youtu.be/KsjqUwWy1YE)
 
 ### 맛은 어땠어?
 

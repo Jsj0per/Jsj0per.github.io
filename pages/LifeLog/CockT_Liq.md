@@ -15,6 +15,8 @@ folder: LifeLog
 
 This page is not a recipe I developed, but a recipe made by someone or an organization. Only leave original Source, and I don't write down the recipe separately. Please refer to the link or video for detailed recipes.
 
+---
+
 ## 도화
 
 [도화](https://namu.wiki/w/%EB%8F%84%ED%99%94#s-3.1)  

@@ -132,7 +132,7 @@ class Solution
 
 ---
 
-#### SWEA D1) 2063. 중간값 찾기
+## SWEA D1) 2063. 중간값 찾기
 
 [Top Page](#)
 
@@ -181,7 +181,7 @@ class Solution
 
 ---
 
-#### SWEA D1) 2025. N줄 덧셈
+## SWEA D1) 2025. N줄 덧셈
 
 [Top Page](#)
 
@@ -222,7 +222,7 @@ SSAFY 입과는 하였으나, 파이썬을 배우기 전에 푼 문제.
 
 ---
 
-#### SWEA D1) 2068. 최대수 구하기
+## SWEA D1) 2068. 최대수 구하기
 
 [Top Page](#)
 
@@ -289,7 +289,7 @@ for test_case in range(1, T + 1):
 
 ---
 
-#### SWEA D1) 1545. 거꾸로 출력해 보아요
+## SWEA D1) 1545. 거꾸로 출력해 보아요
 
 [Top Page](#)
 
@@ -321,7 +321,7 @@ print(*numbako)
 
 ---
 
-#### SWEA D1) 2071. 평균값 구하기
+## SWEA D1) 2071. 평균값 구하기
 
 [Top Page](#)
 

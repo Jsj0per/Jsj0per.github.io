@@ -4,21 +4,7 @@
 entries:
 - title: Sidebar
   product: SSAFY_LIFE
-  version: 1.0
   folders:
-
-  - title:
-    output: pdf
-    type: frontmatter
-    folderitems:
-    - title:
-      url: /titlepage.html
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage.html
-      output: pdf
-      type: frontmatter
 
   - title: SSAFY diary
     output: web, pdf

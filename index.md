@@ -28,4 +28,15 @@ I wish you all the best today, and I hope you continue to do everything you wish
 #### This blog is based on the Jekyll theme created by [[Tom Johnson]](https://idratherbewriting.com/category-jekyll/).
 
 ### Comment
-[Zawazawa](https://zawazawa.jp/n0s2bj75zbx644g9/topic/1)
+<script src="https://utteranc.es/client.js"
+        repo="Jsj0per.github.io"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>  
+        
+        
+        
+        
+

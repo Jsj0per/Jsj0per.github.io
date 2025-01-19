@@ -24,6 +24,8 @@ topnav_dropdowns:
       folderitems:
         - title: SSAFY_LIFE
           url: /p1_landing_page.html
+        - title: Algorithm
+          url: /p3_landing_page.html
         - title: Portfolio
           url: /p2_landing_page.html
     - title: Jekyll

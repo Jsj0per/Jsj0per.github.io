@@ -21,11 +21,11 @@ entries:
 
     folderitems:
     - title: Baekjoon Lv.1
-      url: /bj_lv1.md
+      url: /bj_lv1.html
       output: web, pdf
 
     - title: Baekjoon Lv.2
-      url: /bj_lv2.md
+      url: /bj_lv2.html
       output: web, pdf
 
 # Copyright 2021 Google LLC

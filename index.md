@@ -26,16 +26,6 @@ I wish you all the best today, and I hope you continue to do everything you wish
 今日一日も良いことばかりあるように願いながら望むことをすべて成し遂げることができる日々が続くことを祈ります。
 
 #### This blog is based on the Jekyll theme created by [[Tom Johnson]](https://idratherbewriting.com/category-jekyll/).
-
-### Comment
-<script src="https://utteranc.es/client.js"
-        repo="Jsj0per/Jsj0per.github.io"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-        
         
         
         

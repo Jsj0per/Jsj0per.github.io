@@ -14,6 +14,9 @@ entries:
     - title: SSAFY_LIFE
       url: /p1_landing_page.html
       output: web
+    - title: Algorithm_Solving
+      url: /p3_landing_page.html
+      output: web
     - title: Portfolio
       url: /p2_landing_page.html
       output: web

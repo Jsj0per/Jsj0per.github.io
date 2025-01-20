@@ -46,7 +46,7 @@ append를 사용하여 추가하고,
 
 #### 문제 링크
 
- [Baekjoon 1271](https://www.acmicpc.net/problem/2338)  
+ [Baekjoon 2338](https://www.acmicpc.net/problem/2338)  
 
 #### 풀이 언어
 
@@ -68,3 +68,28 @@ print(A*B)
 
 ---
 
+## BaekJ Brz) 2420. 사파리 월드
+
+[Top Page](#)  
+
+#### 문제 링크
+
+ [Baekjoon 2420](https://www.acmicpc.net/problem/2420)  
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+N, M = map(int,input().split())
+print(abs(N-M))
+```
+
+#### 풀이 과정에 대한 사담  
+절대값 명령어(abs)를 몰라서 검색 찬스를 좀 썼다.  
+그리고 M, N을 동시에 한 줄에 쓸 수 있다는 것을 처음 알았다(이 또한 검색 찬스)  
+이 참에 기억해둬야겠다.  
+
+---

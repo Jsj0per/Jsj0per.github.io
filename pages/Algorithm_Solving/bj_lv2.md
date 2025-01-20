@@ -3,7 +3,7 @@ title: Baekjoon Lv.2
 keywords: Algorithm, Baekjoon
 summary: "Baekjoon의 실버 단계 문제를 풀었던 기록을 적는 곳. 풀이 과정과 사담만 남기고 문제 내용은 링크로 대체합니다."
 sidebar: Algorithm_sidebar
-permalink: SWEA_D2.html
+permalink: bj_lv2.html
 folder: Algorithm_Solving
 ---
 

@@ -9,13 +9,13 @@ folder: Algorithm_Solving
 
 ---
 
-## BaekJ Brz) 1936. 1:1 가위바위보
+## BaekJ Brz) 1271. 엄청난 부자2
 
 [Top Page](#)  
 
 #### 문제 링크
 
- [SW Expert Academy 1936](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjKXKALcDFAUq&categoryId=AV5PjKXKALcDFAUq&categoryType=CODE&problemTitle=1936&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)  
+ [Baekjoon 1271](https://www.acmicpc.net/problem/1271)  
 
 #### 풀이 언어
 
@@ -24,11 +24,18 @@ Python
 #### 답안 코드
 
 ```python
-# 코드를 적는 칸입니다.
+T = list(map(int,input().split()))
+Answer = list()
+Answer.append(T[0]//T[1])
+Answer.append(T[0]%T[1])
+
+print(*Answer)
 ```
 
-#### 풀이 과정에 대한 사담
-
-풀이 과정을 적는 칸입니다.
+#### 풀이 과정에 대한 사담  
+연산자 기초 활용 능력을 테스트 하는 문제인 것 같다.  
+list를 사용하여 값을 저장하고 각 요구 출력 별로 각각 구한 뒤,  
+append를 사용하여 추가하고,  
+애스터리스크 리스트로 마무리.  
 
 ---

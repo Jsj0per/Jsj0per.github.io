@@ -1,12 +1,12 @@
 
-<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
+<!-- 이것은 ##을 사용하여 서브헤드를 자동으로 생성하는 자동 토큰을 처리합니다. HTML 태그를 사용하는 경우, 제목 요소가 미니톡에 표시되려면 ID를 제공해야 합니다. -->
 <script>
 $( document ).ready(function() {
-  // Handler for .ready() called.
+  // .ready() 핸들러가 호출되었습니다.
 
 $('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
 
-/* this offset helps account for the space taken up by the floating toolbar. */
+/* 이 오프셋은 플로팅 툴바가 차지하는 공간을 고려하는 데 도움이 됩니다. */
 $('#toc').on('click', 'a', function() {
   var target = $(this.getAttribute('href'))
     , scroll_target = target.offset().top

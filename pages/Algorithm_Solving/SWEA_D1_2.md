@@ -1,9 +1,9 @@
 ---
-title: SWEA_D1
+title: SWEA_D1~D2
 keywords: Algorithm, SWEA
-summary: "SW Expert Academy의 D1 문제를 풀었던 기록을 적는 곳. SWEA는 회원가입이 필수인 사이트이고, 문제에 대한 무단배포가 금지된 사이트라 풀이 과정과 사담만 남기고 문제 내용은 링크로 대체합니다."
+summary: "SW Expert Academy의 D1,D2 문제를 풀었던 기록을 적는 곳. SWEA는 회원가입이 필수인 사이트이고, 문제에 대한 무단배포가 금지된 사이트라 풀이 과정과 사담만 남기고 문제 내용은 링크로 대체합니다."
 sidebar: Algorithm_sidebar
-permalink: SWEA_D1.html
+permalink: SWEA_D1_2.html
 folder: Algorithm_Solving
 ---
 

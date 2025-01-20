@@ -9,11 +9,11 @@ entries:
   - title: SW Expert Academy
     output: web, pdf
     folderitems:
-    - title: SWEA_D1
-      url: /SWEA_D1.html
+    - title: SWEA_D1_2
+      url: /SWEA_D1_2.html
       output: web, pdf
-    - title: SWEA_D2
-      url: /SWEA_D2.html
+    - title: SWEA_D3_4
+      url: /SWEA_D3_4.html
       output: web, pdf
 
   - title: Baekjoon_Online_Judge

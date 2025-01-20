@@ -130,6 +130,29 @@ class Solution
 
 나는 모든 자릿수를 그 자릿수에 맞게 나눈 뒤, 대입연산자 '%='를 활용하는 방식으로 풀었다.  
 
+### 다른 풀이
+
+#### 풀이 언어
+Python  
+
+#### 답안 코드
+
+```Python
+T = int(input())
+ 
+thousand = int(T // 1000)
+hundred_before = int(T // 100)
+hundred = int(hundred_before % 10)
+ten_before = int(T // 10)
+ten = int(ten_before % 10)
+one = int(T % 10)
+print(thousand+hundred+ten+one)
+```
+
+#### 풀이 과정에 대한 사담
+위에 내가 구했던 Java 코드를 Python으로 바꾼 것.  
+
+
 ---
 
 ## SWEA D1) 2063. 중간값 찾기
@@ -321,13 +344,13 @@ print(*numbako)
 
 ---
 
-## SWEA D1) 2071. 평균값 구하기
+## SWEA D1) 1933. 간단한 N의 약수
 
 [Top Page](#)
 
 #### 문제 링크
 
-[SW Expert Academy 2071](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QRnJqA5cDFAUq&categoryId=AV5QRnJqA5cDFAUq&categoryType=CODE&problemTitle=2071&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+[SW Expert Academy 1933](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PhcWaAKIDFAUq&categoryId=AV5PhcWaAKIDFAUq&categoryType=CODE&problemTitle=1933&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 
 #### 풀이 언어
 
@@ -346,5 +369,103 @@ for test_case in range(1, T + 1):
 #### 풀이 과정에 대한 사담
 
 파이썬에서는 자바의 printf를 저렇게 표현하는구나를 알게됐다는 점에서 이상하게 핀트가 어긋난 깨닳음을 얻은 것은 나만 그런건가...
+
+---
+
+## SWEA D1) 2071. 평균값 구하기
+
+[Top Page](#)
+
+#### 문제 링크
+
+[SW Expert Academy 2071](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QRnJqA5cDFAUq&categoryId=AV5QRnJqA5cDFAUq&categoryType=CODE&problemTitle=2071&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+T = int(input())
+ 
+Divisor = list()
+ 
+for test_case in range(1, T + 1):
+    if T % test_case == 0:
+        Divisor.append(test_case)
+Divisor.sort()
+ 
+result = map(int,Divisor)
+ 
+print(*Divisor)
+```
+
+#### 풀이 과정에 대한 사담
+
+리스트의 내용을 출력할 때 괄호를 제외하고 출력하고 싶다면 애스터리스크(*)를 붙일 것.  
+
+---
+
+## SWEA D1) 2047. 신문 헤드라인
+
+[Top Page](#)
+
+#### 문제 링크
+
+[SW Expert Academy 2047](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QKsLaAy0DFAUq&categoryId=AV5QKsLaAy0DFAUq&categoryType=CODE&problemTitle=2047&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+T = input()
+result = T.upper()
+ 
+print(result)
+```
+
+#### 풀이 과정에 대한 사담
+
+대문자, 소문자 변환(upper, lower) 활용이 가능한지 묻는 문제.  
+그렇기 때문에 코드 자체는 더없이 간단하고 깔끔하게 구현 가능하다.  
+
+---
+
+## SWEA D1) 2072. 홀수만 구하기
+
+[Top Page](#)
+
+#### 문제 링크
+
+[SW Expert Academy 2072](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QSEhaA5sDFAUq&categoryId=AV5QSEhaA5sDFAUq&categoryType=CODE&problemTitle=2072&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+T = int(input())
+ 
+for test_case in range(1, T + 1):
+    mappingNum = map(int, input().split())
+    numBako = list(mappingNum)
+    finalSum=0
+    for odd_finder in numBako:
+        if odd_finder % 2 !=0:
+             finalSum += odd_finder
+    print(f'#{test_case} {finalSum}')
+```
+
+#### 풀이 과정에 대한 사담
+
+이 문제는 풀이 과정에서 명령어 숙지 미숙으로 인하여 다른 분들의 코드를 많이 참조하였다.  
+리스트 내 특정 값만 계산하는 행동 자체눈 겉보기엔 간단해 보이던데 생각보다 코드로 구성시키려하니 와닿지 않았다.  
+반드시 나중에 다시 한번 풀어봐야겠다.  
 
 ---

@@ -469,3 +469,39 @@ for test_case in range(1, T + 1):
 반드시 나중에 다시 한번 풀어봐야겠다.  
 
 ---
+
+## SWEA D1) 2070. 큰 놈, 작은 놈, 같은 
+
+[Top Page](#)
+
+#### 문제 링크
+
+[SW Expert Academy 2070](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QQ6qqA40DFAUq&categoryId=AV5QQ6qqA40DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=1&pageSize=10&pageIndex=1)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+T = int(input())
+
+for test_case in range(1, T + 1):
+    two_num = list(map(int, input().split()))
+    bigger = '?'
+    if two_num[0] > two_num[1]:
+        bigger = '>'
+    elif two_num[0] < two_num[1]:
+        bigger = '<'
+    elif two_num[0] == two_num[1]:
+        bigger = '='
+    print(f'#{test_case} {bigger}')
+```
+
+#### 풀이 과정에 대한 사담
+
+이 문제는 비교 연산자를 잘 쓸 수 있는가를 확인하는 문제로 보여짐.
+고로 비교연산자 활용을 적절한 위치에 적절하게 하면된다.
+
+---

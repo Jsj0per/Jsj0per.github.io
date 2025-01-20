@@ -39,3 +39,31 @@ append를 사용하여 추가하고,
 애스터리스크 리스트로 마무리.  
 
 ---
+
+## BaekJ Brz) 2338. 긴자리 계산
+
+[Top Page](#)  
+
+#### 문제 링크
+
+ [Baekjoon 1271](https://www.acmicpc.net/problem/2338)  
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+A = int(input())
+B = int(input())
+
+print(A+B)
+print(A-B)
+print(A*B)
+```
+
+#### 풀이 과정에 대한 사담  
+그냥 + - * 쓸 줄 아냐를 묻는 정말 기초적인 문제.
+---
+

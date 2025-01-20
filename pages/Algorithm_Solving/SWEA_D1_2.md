@@ -470,7 +470,7 @@ for test_case in range(1, T + 1):
 
 ---
 
-## SWEA D1) 2070. 큰 놈, 작은 놈, 같은 
+## SWEA D1) 2070. 큰 놈, 작은 놈, 같은 놈 
 
 [Top Page](#)
 

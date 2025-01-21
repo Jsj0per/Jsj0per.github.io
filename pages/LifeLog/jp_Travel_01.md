@@ -86,7 +86,8 @@ JR의 하루카(특급)이나 공항철도를 타고 우메다(오사카)역, �
 
 ​![14_PicT](./JP_01/14_PicT.png)
 ​![18_PicT](./JP_01/18_PicT.png)
-홈페이지: http://www.musasino.net/
+
+홈페이지: http://www.musasino.net/  
 
 참고로 제가 예약한 료칸은 무사시노 베칸이라는 꽤 고급 료칸으로 예약했었습니다.
 

@@ -7,18 +7,200 @@ permalink: jp_Travel_01.html
 folder: LifeLog
 ---
 
-## Sample Content
+여행 일자는 2020년 2월 2일~2월 4일입니다.
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+![]()
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+아주 예전의 여행이기도 하고 한편으로는
 
-## More sample content
+그놈의 코로나 대유행 이전의 마지막 일본 여행이었기도 합니다.
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+( 이 여행 직후 몇달 뒤 바로 코로나 대유행이 퍼져버려 일본의 무비자 입국이 닫혀버려서 1-2년동안 여행을 못 가서 답답한 시기였기도합니다. )
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+![]()
 
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+시작은 역시 마츠야 규동으로 시작합니다.
 
-{% include links.html %}
+오사카 간사이 공항에 입국한 뒤에 공항 주변에 있는 마츠야에서 잠시 규동만 먹고 출발 준비를 하였습니다.
+
+참고로 저는 이때 라피트를 타고 공항에서 오사카로 갔습니다.
+
+![]()
+
+간사이 공항을 탈출하는 방법은 여러가지 있습니다.
+
+난카이 철도(남해철도)의 라피트(특급)나 일반 공항철도를 타고 오사카 난바로 가는것,
+
+JR의 하루카(특급)이나 공항철도를 타고 우메다(오사카)역, 혹은 교토역으로 가는 것,
+
+버스를 타고 어디든 가는 것, 고베 공항과의 연락선을 타고 고베 공항을 통하여 바로 고베로 가는것,
+
+... 다양한 루트가 있습니다. 물론 보통은 특급 열차를 타고 편하게 가거나(물론 줄이 좀 있습니다), 공항철도나 버스를 타고 싸게 가거나 둘중 하나일 가능성이 높긴합니다.
+
+![]()
+
+일단 오사카는 구경하지않고 저는 나고야로 먼저 향했습니다.
+
+이유는 이번 여행은 저 번저 오사카에 도착한 뒤 나고야대에 교환학생으로 가있던 친구를 만나러 가는것이
+
+첫번째 여행 일정이었기 때문입니다.
+
+참고로 저는 난바역에서 킨키일본철도(킨테츠) 특급 어반라이너를 타고 나고야로 향했습니다.
+
+요즘은 최속 특급은 히노토리라는 신 특급철도로 바뀌고 어반라이너는 한단계 아랫 특급으로 간다고 들었습니다.
+
+그렇게 특급 열차를 타고 나고야로 달려갔답니다.
+
+이때도 나고야에 도착한후 사진을 못 찍은 건 좀 후회되네요.
+
+랄까 나고야는 친구 만나러 간거인데다, 이때는 지브리 테마파크도 없던 시절의 나고야라 관광하러 일부러 가는 곳은 아니었는지라 딱히 찍을 사진은 많이 없었기도 합니다.
+
+그냥 노래방(카라오케)도 가고 식당도 가고 실컷 놀았을 뿐입니다.
+
+칵테일바도 갔었는데, 전 참고로 이땐 일본어 실력이 지금보다도 한참 못 미치는 수준이라 대화는 거의 친구랑 바텐더 분이 하시고 저는 어버버 거렸는 기억이 났네요.
+
+지금의 저라면 잘 대화할 자신이 있는데 ㅎ;;;
+
+​
+
+참고로 저기 우동 사진이 나고야의 그 유명한 키시멘이라는 우동입니다.
+
+진짜 맛있는데 나고야 아니면 먹을기회가 잘 없는 우동이라 아쉽습니다.
+
+일반 우동보다 간장맛이 진하고 면도 쫄깃한데, 당장에 이거 하나만 먹으러 나고야가도 전 갈것 같은 맛입니다.
+
+이후에 처음의 사진처럼 나고야에서 친구랑 헤어진 뒤 하코네로 향했고 오다와라역에서 원래 만나서 같이 여행하기로한 친구랑 합류한 뒤 료칸을 갔습니다.(이 친구는 저보다 하루 늦게 도쿄에 도착하여 바로 오다와라로 갔습니다)
+
+이동은 신칸센 그린샤(우등석)으로 발권했고, 제일 느린 등급+조기 발권 특전으로 굉장히 싸게 발권했던걸로 기억합니다. 대략 4000엔 후반 정도해 었었던 기억이 나네요.
+
+홈페이지: http://www.musasino.net/
+
+참고로 제가 예약한 료칸은 무사시노 베칸이라는 꽤 고급 료칸으로 예약했었습니다.
+
+제가 묵어본 숙소중에서는 지금까지도 가장 비싼 숙소였던 것으로 기억합니다.
+
+(제가 간 날은 엔화환율+숙박요금이 지금보다 더 비쌌습니다. 인당 35만원씩 냈었던 기억이 나네요.)
+
+숙소 구조는 위 사진처럼 되어있다고 합니다.
+
+미야노시타 역까지 개고생해가며 버스를 타고 도착하여 숙소에 연락하니 료칸 운영 송영밴이 저희를 바래다 주러 왔습니다.
+
+(이때 참고로 하코네 등산철도가 태풍, 산사태 영향으로 운행이 중지되어 버스를 타고 엄청 오래걸려서 도착했었습니다)
+
+정말 신기한 경험이었는데, 차에 탈때부터 저희는 캐리어에 손 댈일이 한번도 없었습니다.
+
+료칸 측에서 다 알아서 짐을 옮겨주고 오시느라 수고했다고 편하게 쉬고가라는 말이 첫 인사였는데,
+
+이때부터 일반 비즈니스 호텔따위와는 비교하기도 미안한 서비스의 차이를 느낀것 같습니다.
+
+체크인 전 잠시 대기하는 다방 라운지.
+
+역사가 좀 있는 료칸이라 약간 연식이 있지만 그 기분좋은 나무향은 4년이 지난 지금까지도 안 잊혀지고있습니다.
+
+짐은 료칸 직원분이 알아서 옮겨주셨고, 저희는 그저 여기 앉아서 예약내역만 차랑 과자랑 함께 확인만 하면 되었습니다. 그리고 해당 숙박에서는 여성 접객원 한분이 저희 전담으로 비서처럼 계속 담당해주셨습니다.
+
+(한국분들도 여기 많이 오셔서 그런지 아니면 저희가 한국 여행객이라 그런지 한국에 대해 잘 아시는 분이었습니다.)
+
+료칸에 있던 낡은 전화기. 실제로 작동하는 전화기였다고 합니다.
+
+지금도 작동할려는 지는 모르겠네요.
+
+료칸 방 내부 및 경치 사진이었습니다.
+
+실내는 확실히... 넓었습니다.
+
+저희가 싼방이 아니라 한 미들급은 되는 방을 묵어서 그런지 일본 숙소치고는 상당히 넓은편이었습니다.
+
+저기 식탁은 저녁/아침시간이 되면 싹 치워주시고 저기에 요리를 가져다 주시고,
+
+잘때가 되면 직원분이 오셔서 두꺼어어운 솜이불 셋트를 깔아주십니다.
+
+절~~때 손님이 수고스럽게 뭘 하게 두지 않고 다 알아서 해준시다고 하더라구요.
+
+코타츠... 처음 느껴봤는데,
+
+정말 따땃합니다.
+
+왜 애니에서 코타츠안에 들어가면 두번다시 나오기 싫다는지 알겠더군요.
+
+아래는 뜨뜻한데 위는 시원한 느낌.
+
+참고로 이날 겨울에 가서 그런지 라디에이터를 풀 가동했는데 확실히 쌀쌀하긴 했습니다.
+
+혹시나 겨울에 방문할 예정인데 추위에 진짜 약하다 하시는 분은 좀 고려해봐야겠네요.
+
+이후에 저희는 잠시 대욕장에 다녀왔습니다.
+
+료칸을 왔는데 대욕장을 안 즐기면 섭하니까요.
+
+역시나 대욕장은 사진찍는게 엄금이라 홈페이지 사진으로 대신했습니다.
+
+여기는 노천탕, 실내탕 모두 있는 대욕장이라 좋았습니다.
+
+보통 대욕장이라면 프라이빗함이 좀 떨어지는 감이 있는데 이 료칸이 워낙에 소수의 인원만 받는 료칸이라 대욕장이라고는 하지만 전세낸듯이 즐겼습니다.
+
+저희 나갈때가 됐을때 일본분 부자가 와서 목욕하시더라구요.
+
+잠시 대욕탕을 즐기고오니 그 유명한 가이세키를 즐길 수 있었습니다.
+
+원래는 2-3코스 정도 더 있긴한데, 사진을 못 찍음 크리...
+
+제 평은 확실히 고급스러운 느낌이 있고 어디서 먹기 힘든 음식이다! 라는 느낌은 있는데,
+
+숙회 위주의 구성이다보니 한국인 입맛에는 회를 진짜 좋아한다 아니면 호불호가 강한 가이세키였던것 같습니다.
+
+제 친구도 주면 맛없어도 잘 먹는 친구인데 좀 생소한 맛이라 다 먹진 못하겠다는 평이 있었을 정도였으니까요.
+
+근데 자연 그대로의 맛을 좋아한다거나 회를 진짜 좋아한다라는 사람이라면 정말 좋은 요리가 되지 않을까 싶네요.
+
+이 이후에 저희 대절탕 이용 시간이 되어서 잠시 이용하러 갔습니다.
+
+대욕장말고도 숙박객이라면 대절탕을 빌릴 수 있다고 합니다. 다만 30분밖에 안 빌려주는건 좀 아쉽네요.
+
+말 그대로 탕에 담궜다가 나올정도의 시간밖에 안 되니까요.
+
+여기는 사진 촬영이 가능한 곳이라 찍어왔습니다.
+
+주변에는 아무도 없고, 나무소리와 온천수 흐르는 소리만 들리는 정말 고요한 경험이었던 것 같습니다.
+
+30분이라는 시간도 뭐 씼어라는것 보다 몸담그고 조용히 즐겨봐라라는 의미가 아닌가 싶습니다.
+
+달이 휘영청하고 주변은 고요하니, 신선놀음이 따로없도다.
+
+대절탕을 즐기고 오는길에 야식으로 라멘을 파는 코너가 있어서 맥주랑 같이 시켜서 즐겼습니다.
+
+조금 비싸긴했는데 목욕하고 딱 라면과 생맥주를 조져버리니 정말 신선놀음이 따로없었습니다.
+
+음식만들어주신 분께 물어보니 여기 료칸의 약간 백미라면서 자랑하시더라구요.
+
+저희는 이 라멘을 먹고 와보니 이부자리가 다 깔려있어서, 피곤함에 지쳐서 그대로 스르륵 잠에 들었다고합니다.
+
+P.S. 알고보니 진짜 정성들여 만든 라멘 맞았다고 합니다...
+
+아침이 되었습니다.
+
+아침은 정통 일본식 가정식 백반으로 깔아둬서 호불호 없이 정말 잘 먹었습니다.
+
+특히 저기 유두부가 진짜 맛있었습니다.
+
+이 일 이후로 저는 온천마을에 가면 유두부를 찾아다니는 귀신이 되었다는 후일담이 있었답니다.
+
+아침에 보는 숙소밖 풍경은 밤풍경과 또 달라서 다른 맛이 있었네요.
+
+따로 로비에서 찍은 사진도 있긴한데, 친구가 찍혀있어서 카페에는 올리지 못하는게 아쉽네요.
+
+그렇게 료칸을 나와서 하코네를 떠나 도쿄로 향했습니다.
+
+이후는 친구랑 즐겁게 아키하바라를 조지고 돌아왔다고합니다.
+
+(사진의 과자는 하코네에 있는 카페에 갔었는데, 최근에 2023년 가을에 다시한번 방문했는데 여전히 장사 잘되고있더라구요. 홍차가 맛있어요!!)
+
+​
+
+하코네는 이때의 경험이 좋아서 이후에도 몇번 방문했습니다.
+
+특히 료칸은 지금도 돈만 있다면 다시 가고싶을 정도로 좋은 경험이었습니다.
+
+20-30만원이 숙소값으로 들어가기에는 솔직히 부담되는 금액인것은 맞습니다만,
+
+료칸의 서비스를 경험해보면 결코 아까운 돈이 아니라는 생각을 지금도 하고있습니다.

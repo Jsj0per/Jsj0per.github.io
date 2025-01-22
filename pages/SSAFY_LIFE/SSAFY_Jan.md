@@ -232,7 +232,6 @@ SSAFY에서는 intelij, mangoDB같은 상업용 프로그램들을 라이선스�
 그리고 숯불양념순살치킨을 선택했는데, 튀긴 놈이 아니라 담백한 닭가슴살 구운 치킨으로 나왔다.  
 역시나 건강함의 풀무원…  
 
-![SSAFY_0113_01](./JanImg/SSAFY_0113_01.jpg)    
 ![SSAFY_0113_02](./JanImg/SSAFY_0113_02.jpg)    
 ![SSAFY_0113_03](./JanImg/SSAFY_0113_03.jpg)    
 

@@ -9,6 +9,10 @@ entries:
   - title: SSAFY diary
     output: web, pdf
     folderitems:
+    - title: Before SSAFY
+      url: /SSAFY_Start.html
+      output: web, pdf
+    
     - title: SSAFY 1st Month
       url: /SSAFY_Jan.html
       output: web, pdf

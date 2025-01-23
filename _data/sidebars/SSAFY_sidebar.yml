@@ -25,7 +25,7 @@ entries:
       url: /SSAFY_Mar.html
       output: web, pdf
 
-  - title: Another heading
+  - title: Coming Soon
     output: web, pdf
 
     folderitems:

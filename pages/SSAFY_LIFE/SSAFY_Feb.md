@@ -4,7 +4,7 @@ keywords: SSAFY
 summary: "싸피에서의 1년간의 생활을 적는 공간. 2월"
 sidebar: SSAFY_sidebar
 permalink: SSAFY_Feb.html
-folder: product1
+folder: SSAFY_LIFE
 ---
 
 ## Sample Content

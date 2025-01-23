@@ -1,2 +1,4 @@
-User-agent: Googlebot
+User-agent: *
+Allow: /
 Disallow: /images/
+Sitemap: {{ '/sitemap.xml" | relative_url | prepend: site.url}}

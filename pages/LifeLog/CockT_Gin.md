@@ -19,6 +19,8 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 ## 진 데이즈
 
+[Top Page](#)  
+
 [![진 데이즈](http://img.youtube.com/vi/DcZdeCw9Agg/0.jpg)](https://youtube.com/shorts/DcZdeCw9Agg?si=33kB_bXVYKI7753y)  
 [영상 제작자: Zstile](https://www.youtube.com/@ZsTile)  
 
@@ -45,6 +47,8 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 ---
 
 ## 비스니즈(Bee's Knees)
+
+[Top Page](#)  
 
 [![비스니즈](https://i.namu.wiki/i/eBxVgOn753H-2wgdctlZcJhTL7YvKDfoBvKodUEdDuSc23uBdx6DspjCQWz05xuVc5jJqT-4UGI7wZqk6QgWogAKWWaeh7TRQ1cU2i6f7rwU8_3vw97F693d_qBhQ4gdXUovZWEmBeO1ma5gA89_ZQ.webp)](https://namu.wiki/w/%EB%B9%84%EC%8A%A4%20%EB%8B%88%EC%A6%88#s-3.2)  
 IBA 공식 레시피. 현재 공식 레시피는 삭제.  

@@ -6,19 +6,19 @@ search: exclude
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {% for post in site.posts %}
-  {% unless post.search == "exclude" %}
   <url>
-    <loc>{{site.url}}{{post.url}}</loc>
+    <loc>{{site.url}}{{post.url | remove: 'index.html' }}</loc>
   </url>
-  {% endunless %}
   {% endfor %}
 
 
   {% for page in site.html_pages %}
-  {% unless page.search == "exclude" %}
+  {% if page.layout != nil %}
+  {% if page.layout != 'feed' %}
   <url>
-    <loc>{{site.url}}{{ page.url}}</loc>
+    <loc>{{site.url}}{{ page.url | remove: 'index.html' }}</loc>
   </url>
-  {% endunless %}
+  {% endif %}
+  {% endif %}
   {% endfor %}
 </urlset>

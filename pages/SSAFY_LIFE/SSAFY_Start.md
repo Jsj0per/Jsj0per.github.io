@@ -3,8 +3,8 @@ title: SSAFY January
 keywords: SSAFY
 summary: "싸피에서의 1년간의 생활을 적는 공간. 1월"
 sidebar: SSAFY_sidebar
-permalink: SSAFY_Jan.html
-folder: product1
+permalink: SSAFY_Start.html
+folder: SSAFY_LIFE
 ---
 
 ## 합격까지의 일정 

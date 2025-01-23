@@ -1,5 +1,5 @@
 ---
-title: SSAFY_Start
+title: (싸피)SSAFY 13기 비전공 합격 후기
 keywords: SSAFY
 summary: "싸피 합격까지의 일들을 적는 공간. SSAFY를 도전하는 수험생분들에게 바칩니다."
 sidebar: SSAFY_sidebar

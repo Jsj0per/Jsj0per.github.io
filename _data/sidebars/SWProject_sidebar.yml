@@ -1,31 +1,9 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: Product2
-  product: Product2
-  version: 1.0
+- title: SWProject
+  product: SWProject
   folders:
-
-  - title:
-    output: pdf
-    type: frontmatter
-    folderitems:
-    - title:
-      url: /titlepage.html
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage.html
-      output: pdf
-      type: frontmatter
-
-  - title: Introduction
-    output: web, pdf
-    folderitems:
-
-    - title: Overview
-      url: /p2_landing_page.html
-      output: web
 
   - title: Simple Workflow
     output: web, pdf

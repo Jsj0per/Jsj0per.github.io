@@ -21,8 +21,6 @@ github_editme_path:
 google_analytics: UA-66296557-1
 # Google 분석 ID가 있는 경우 입력하고, 없는 경우 이 값을 빈칸으로 편집합니다.
 
-google_site_verification = "google-site-verification=cO_79Y9ElXSa2c1RhUql-fW0imD34vgdSq3N85z1Koc"
-
 host: 127.0.0.1
 # 미리보기 서버가 사용되었습니다. 그대로 두십시오.
 

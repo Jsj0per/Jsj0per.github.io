@@ -1,7 +1,7 @@
 ---
-title: SSAFY January
+title: SSAFY_Start
 keywords: SSAFY
-summary: "싸피에서의 1년간의 생활을 적는 공간. 1월"
+summary: "싸피 합격까지의 일들을 적는 공간. SSAFY를 도전하는 수험생분들에게 바칩니다."
 sidebar: SSAFY_sidebar
 permalink: SSAFY_Start.html
 folder: SSAFY_LIFE

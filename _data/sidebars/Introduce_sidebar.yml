@@ -17,7 +17,7 @@ entries:
     - title: Algorithm_Solving
       url: /p3_landing_page.html
       output: web
-    - title: Portfolio
+    - title: SWProject
       url: /p2_landing_page.html
       output: web
 

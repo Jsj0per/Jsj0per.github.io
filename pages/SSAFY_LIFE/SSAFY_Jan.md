@@ -548,9 +548,9 @@ SWEA도 풀었고, 싸피셜 데모 영상도 만들어서 보냈고, 깃헙 블
 
 ![SSAFY_0123_01](./JanImg/SSAFY_0124_01.jpg)
 
-![SSAFY_0123_01](./JanImg/SSAFY_0124_02.jpg)
+![SSAFY_0123_02](./JanImg/SSAFY_0124_02.jpg)
 
-![SSAFY_0123_01](./JanImg/SSAFY_0124_03.jpg)
+![SSAFY_0123_03](./JanImg/SSAFY_0124_03.jpg)
 
 드디어 염원하던 SSAFY Welcome Kit을 받았다.  
 

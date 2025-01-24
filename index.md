@@ -4,7 +4,7 @@ keywords: sample homepage
 tags: MainPage
 sidebar: Introduce_sidebar
 permalink: index.html
-summary: This is my blog with everything about me as a developer. based on the Jekyll theme.
+summary: This is my blog with everything about me as a developer. 
 ---
 
 ### 안녕하세요!

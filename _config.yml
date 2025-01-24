@@ -3,10 +3,10 @@ repository: tomjoht/documentation-theme-jekyll
 output: web
 # 이 속성은 PDF와 별도의 콘텐츠를 조건부로 필터링하는 데 유용합니다.
 
-topnav_title: kor0peration Blog
+topnav_title: kor0peration
 # 홈 버튼 옆 상단 내비게이션 바에 표시됩니다
 
-site_title: Jsj0per github Blog System
+site_title: Kor0peration Blog
 # 이것은 사이트 제목에 대한 HTML 브라우저 탭에 나타납니다(사용자가 아닌 검색 엔진에서 주로 볼 수 있음)
 
 company_name: Copyright 2021 Google LLC
@@ -100,11 +100,11 @@ defaults:
 # 다음 파일 형식의 프론트 매터에 사용되는 기본값입니다
 
 sidebars:
-- home_sidebar
-- mydoc_sidebar
-- project_sidebar
-- product1_sidebar
-- product2_sidebar
+- Introduce_sidebar
+- Algorithm_sidebar
+- LifeLog_sidebar
+- SSAFY_sidebar
+- SWProject_sidebar
 - other
 
 description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."

@@ -5,67 +5,67 @@ entries:
   product: SWProject
   folders:
 
-  - title: Simple Workflow
+  - title: Team_Project
     output: web, pdf
     folderitems:
 
-    - title: Sample 1
+    - title: TP_01_NOPROJECT
       url: /p2_sample1.html
       output: web, pdf
 
-    - title: Sample 2
+    - title: TP_02_NOPROJECT
       url: /p2_sample2.html
       output: web, pdf
 
-    - title: Sample 3
+    - title: TP_03_NOPROJECT
       url: /p2_sample3.html
       output: web, pdf
 
-    - title: Sample 4
+    - title: TP_04_NOPROJECT
       url: /p2_sample4.html
       output: web, pdf
 
-    - title: Sample 5
+    - title: TP_05_NOPROJECT
       url: /p2_sample5.html
       output: web, pdf
 
-  - title: Complex Workflow
+  - title: Personal_Project
     output: web, pdf
     folderitems:
 
-    - title: Sample 6
+    - title: PP_01_NOPROJECT
       url: /p2_sample6.html
       output: web, pdf
 
-    - title: Sample 7
+    - title: PP_02_NOPROJECT
       url: /p2_sample7.html
       output: web, pdf
 
-    - title: Sample 8
+    - title: PP_03_NOPROJECT
       url: /p2_sample8.html
       output: web, pdf
 
-    - title: Sample 9
+    - title: PP_04_NOPROJECT
       url: /p2_sample9.html
       output: web, pdf
 
-    - title: Sample 10
+    - title: PP_05_NOPROJECT
       url: /p2_sample10.html
       output: web, pdf
 
-    - title: Sample 11
+    - title: PP_06_NOPROJECT
       url: /p2_sample11.html
       output: web, pdf
 
-    - title: Sample 12
+    - title: PP_07_NOPROJECT
       url: /p2_sample12.html
       output: web, pdf
 
-    - title: Sample 13
+    - title: PP_08_NOPROJECT
       url: /p2_sample13.html
       output: web, pdf
 
-    - title: Sample 14
+    - title: PP_09_NOPROJECT
       url: /p2_sample14.html
       output: web, pdf
 

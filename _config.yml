@@ -3,7 +3,7 @@ repository: tomjoht/documentation-theme-jekyll
 output: web
 # 이 속성은 PDF와 별도의 콘텐츠를 조건부로 필터링하는 데 유용합니다.
 
-topnav_title: kor0peration
+topnav_title: kor0peration Blog
 # 홈 버튼 옆 상단 내비게이션 바에 표시됩니다
 
 site_title: Kor0peration Blog

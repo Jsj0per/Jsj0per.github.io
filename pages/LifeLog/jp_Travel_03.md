@@ -1,9 +1,9 @@
 ---
-title: 2nd Travel
+title: 3st Travel
 keywords: travel
-summary: "Japan Travel Log 2nd."
+summary: "Japan Travel Log 3rd."
 sidebar: LifeLog_sidebar
-permalink: jp_Travel_02.html
+permalink: jp_Travel_03.html
 folder: LifeLog
 ---
 

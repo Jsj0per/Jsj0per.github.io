@@ -72,3 +72,31 @@ IBA 공식 레시피. 현재 공식 레시피는 삭제.
 레몬류의 시트러스함이 가장 강하고, 시원한 진의 향이 다음, 오렌지 주스의 약간의 달달함이 미약하게 따라오는 느낌.  
 이때는 꿀을 물에 녹여서 만들었는데 너무 밍밍햇다. 이렇게 만들게 아니라, 그냥 생꿀을 넣고 섞는게 훨씬 나을 것 같다.  
 다음번에 만들땐 그래야겠다.  
+
+---
+
+## 진 카시스
+
+[Top Page](#)  
+
+[출처 블로그](https://sei-and-the-world.tistory.com/156)
+
+> 재료
+> > Gin  
+> > Crème de cassis
+> > Apple Juice  
+> > Sparkling Water 
+
+상세 레시피는 원본 블로그 참조.  
+
+### 그래서 만들었어?
+
+![진_카시스1](./CockT_Img/Gin_Cassis.jpg)  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4E4d38mSag4?si=Q0Yll197cJXooZi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+### 맛은 어땠어?
+
+단 3개의 재료가 들어가고, 각 재료들이 전혀 얌전한 재료가 아닌 편이지만, 일단 카시스 이미지가 제일 강하고(즉, 특유의 복분자 비스무리한 향), 진 특유의 시원함이 따라오는 느낌이다. 블로그에 적혀있는 레시피에서 카시스 양을 한 5ml 줄이고 사과주스를 5ml 늘여보아야겠다. 좀 더 조화를 이루는 비율이 있을 것 같다.
+
+---

@@ -20,8 +20,12 @@ entries:
       type: frontmatter
 
   - title: LifeLog
-    url: /LifeLog.html
     output: web, pdf
+
+    folderitems:
+    - title: LifeLog
+      url: /LifeLog.html
+      output: web, pdf
 
   - title: Travel_Japan
     output: web, pdf

@@ -26,11 +26,11 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 > 재료
 > > Peach Tree 30ml  
-> > Sweet & Sour Mix 60ml
-> > Triple Sec 15ml
-> > Apple Juice 30ml
-> > Grenadine Syrup 2tsp
-> > Sprite Soda Fill up
+> > Sweet & Sour Mix 60ml  
+> > Triple Sec 15ml  
+> > Apple Juice 30ml  
+> > Grenadine Syrup 2tsp  
+> > Sprite Soda Fill up  
 
 1. 탄산수, 그레나딘 시럽을 제외한 재료를 셰이킹 한다.  
 2. 얼음을 넣은 잔에 그레나딘 시럽 2티스푼 넣는다.  

@@ -83,7 +83,7 @@ IBA 공식 레시피. 현재 공식 레시피는 삭제.
 
 > 재료
 > > Gin  
-> > Crème de cassis
+> > Crème de cassis  
 > > Apple Juice  
 > > Sparkling Water 
 

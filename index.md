@@ -7,7 +7,7 @@ permalink: index.html
 summary: This is my blog with everything about me as a developer. 
 ---
 
-![main_Image](./images/MyEmoji_20250129_231040_0.gif){: .align-center}
+![main_Image](./images/MyEmoji_20250129_231040_0.gif)
 
 ### 안녕하세요!
 

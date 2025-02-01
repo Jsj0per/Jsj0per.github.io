@@ -1,8 +1,8 @@
 ---
-title: "Publishing pages"
-tagName: publishing
+title: "Kanto pages"
+tagName: Kanto
 search: exclude
-permalink: tag_publishing.html
+permalink: tag_Kanto.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

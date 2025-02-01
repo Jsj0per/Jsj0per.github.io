@@ -1,8 +1,8 @@
 ---
-title: "Troubleshooting pages"
-tagName: troubleshooting
+title: "Chugoku pages"
+tagName: Chugoku
 search: exclude
-permalink: tag_troubleshooting.html
+permalink: tag_Chugoku.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

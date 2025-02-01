@@ -1,8 +1,8 @@
 ---
-title: "News"
-tagName: news
+title: "MainPage"
+tagName: MainPage
 search: exclude
-permalink: tag_news.html
+permalink: tag_MainPage.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

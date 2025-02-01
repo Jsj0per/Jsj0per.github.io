@@ -1,8 +1,8 @@
 ---
-title: "Mobile Pages"
+title: "Travel Pages"
 search: exclude
-tagName: mobile
-permalink: tag_mobile.html
+tagName: Travel
+permalink: tag_Travel.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

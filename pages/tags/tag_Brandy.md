@@ -1,8 +1,8 @@
 ---
-title: "Kanto pages"
-tagName: Kanto
+title: "SSAFY pages"
+tagName: SSAFY
 search: exclude
-permalink: tag_Kanto.html
+permalink: tag_Brandy.html
 sidebar: tagPage_sidebar
 folder: tags
 

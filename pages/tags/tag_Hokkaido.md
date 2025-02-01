@@ -1,8 +1,8 @@
 ---
-title: "Kanto pages"
-tagName: Kanto
+title: "Hokkaido pages"
+tagName: Hokkaido
 search: exclude
-permalink: tag_Kanto.html
+permalink: tag_Hokkaido.html
 sidebar: tagPage_sidebar
 folder: tags
 

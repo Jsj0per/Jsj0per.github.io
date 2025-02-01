@@ -1,8 +1,8 @@
 ---
-title: "Kanto pages"
-tagName: Kanto
+title: "Non_alcohol Pages"
 search: exclude
-permalink: tag_Kanto.html
+tagName: Non_alcohol
+permalink: tag_Non_alcohol.html
 sidebar: tagPage_sidebar
 folder: tags
 

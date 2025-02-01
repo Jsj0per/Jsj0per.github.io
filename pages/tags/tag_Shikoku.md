@@ -1,11 +1,10 @@
 ---
-title: "Kanto pages"
-tagName: Kanto
+title: "Shikoku pages"
+tagName: Shikoku
 search: exclude
-permalink: tag_Kanto.html
+permalink: tag_Kansai.html
 sidebar: tagPage_sidebar
 folder: tags
-
 ---
 
 {% include taglogic.html %}

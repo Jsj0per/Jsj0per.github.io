@@ -1,8 +1,8 @@
 ---
-title: "Kanto pages"
-tagName: Kanto
+title: "Etc_CockT Pages"
 search: exclude
-permalink: tag_Kanto.html
+tagName: Etc_CockT
+permalink: tag_Liqueur.html
 sidebar: tagPage_sidebar
 folder: tags
 

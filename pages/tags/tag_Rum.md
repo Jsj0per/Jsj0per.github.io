@@ -1,8 +1,8 @@
 ---
-title: "Kanto pages"
-tagName: Kanto
+title: "Rum pages"
+tagName: Rum
 search: exclude
-permalink: tag_Kanto.html
+permalink: tag_Rumg.html
 sidebar: tagPage_sidebar
 folder: tags
 

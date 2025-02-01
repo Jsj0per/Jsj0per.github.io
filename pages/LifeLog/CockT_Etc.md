@@ -40,7 +40,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 ### 맛은 어땠어?
 
-이쁜 것모습과 다르게 다소 호불호 탈만한 맛.  
+이쁜 겉모습과 다르게 다소 호불호 탈만한 맛.  
 
 밀키스 맛과 소주맛, 블루 큐라소의 오렌지풍 맛이랑 합쳐져서 굉장히 오묘한 맛이 나는 것 같다.  
 

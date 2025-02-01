@@ -411,8 +411,8 @@ Python과 JavaScript를 맛보기 수준으로 배워서 다른 이가 만들어
 
 이번 주를 버티게 해준 고마운 애니메이션
 
-[약사의 혼잣말 2기 1-2화(넷플릭스)](https://www.netflix.com/kr/title/81712068)  
-[토라도라 1-2화(라프텔)](https://laftel.net/item/16039)  
+[약사의 혼잣말 2기(OTT: 넷플릭스) 1-2화)](https://www.netflix.com/kr/title/81712068)  
+[토라도라(OTT: 라프텔) 1-2화](https://laftel.net/item/16039)  
 
 ---
 
@@ -653,7 +653,7 @@ SSAFY의 스타일이 뭔지 느껴보는 체험판인 스타트 캠프부터 �
 어튼 이번 한달은 잘 따라갔으니 2월도 계속 현재같은 느낌으로 킾고잉하고 싶은 생각이 더욱 강하다.  
 
 이번 한주를 버티게 해준 고마운 애니메이션  
-[약사의 혼잣말 2기 3화(넷플릭스)](https://www.netflix.com/kr/title/81712068)  
+[약사의 혼잣말 2기(OTT: 넷플릭스) 3화](https://www.netflix.com/kr/title/81712068)  
 [푸른 상자(OTT: 넷플릭스) 16화](https://www.netflix.com/kr/title/81663323)  
 [지. -지구의 운동에 대하여-(OTT: 넷플릭스) 1-3화](https://www.netflix.com/kr/title/81765022)  
 [극장판 세인트영맨(OTT: 라프텔)](https://laftel.net/item/22922)  

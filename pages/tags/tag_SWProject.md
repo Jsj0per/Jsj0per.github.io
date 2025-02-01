@@ -1,8 +1,8 @@
 ---
-title: "Portfolio pages"
-tagName: Portfolio
+title: "SWProject pages"
+tagName: SWProject
 search: exclude
-permalink: tag_Portfolio.html
+permalink: tag_SWProject.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

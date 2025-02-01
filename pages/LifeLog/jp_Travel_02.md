@@ -1,6 +1,6 @@
 ---
 title: 2nd Travel
-keywords: travel
+keywords: travel, Japan, Kyushu
 summary: "Japan Travel Log 2nd."
 sidebar: LifeLog_sidebar
 permalink: jp_Travel_02.html

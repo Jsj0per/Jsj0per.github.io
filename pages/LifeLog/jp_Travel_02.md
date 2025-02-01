@@ -1,5 +1,5 @@
 ---
-title: Kyushu Saga Ureshino Travel
+title: Kyushu_Saga_Ureshino_Travel
 keywords: Travel, Japan, Kyushu
 summary: "Japan Travel Log 2nd."
 sidebar: LifeLog_sidebar

@@ -54,7 +54,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 참고로 섞으면 이렇게 된다.  
 
-레이어드 빌드 스타일(푸스 카페 빌드) 스타일의 칵테일들은 섞으면 은근 이상한 색깔 되는 경우도 많은데,  
+레이어드 빌드(푸스 카페 빌드) 스타일의 칵테일들은 섞으면 은근 이상한 색깔 되는 경우도 많은데,  
 
 이 칵테일은 섞어도 심미적으로 아름다운 파스텔톤 파란색이 된다.  
 

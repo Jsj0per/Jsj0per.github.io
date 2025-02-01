@@ -1,8 +1,8 @@
 ---
-title: "Navigation pages"
-tagName: navigation
+title: "Japan pages"
+tagName: Japan
 search: exclude
-permalink: tag_navigation.html
+permalink: tag_Japan.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

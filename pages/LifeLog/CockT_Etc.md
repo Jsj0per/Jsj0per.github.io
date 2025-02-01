@@ -26,9 +26,9 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 > 재료
 > > Korean Soju(국순당 려 40도)  
-> > Blue Curaça    
+> > Blue Curaça  
 > > Blue Curaça Syrup  
-> > Milkis(Milk Soda)   
+> > Milkis(Milk Soda)  
 
 상세 레시피는 원본 영상 참조.  
 

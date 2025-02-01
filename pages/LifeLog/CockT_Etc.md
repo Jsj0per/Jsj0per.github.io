@@ -21,7 +21,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 [Top Page](#)  
 
-[![진 데이즈](http://img.youtube.com/vi/DcZdeCw9Agg/0.jpg)](https://youtube.com/shorts/ckP_zmANS8k?si=cVgg-JsVmiYYfCm9)  
+[![진 데이즈](http://img.youtube.com/vi/ckP_zmANS8k/0.jpg)](https://youtube.com/shorts/ckP_zmANS8k?si=cVgg-JsVmiYYfCm9)  
 [영상 제작자: Zstile](https://www.youtube.com/@ZsTile)  
 
 > 재료

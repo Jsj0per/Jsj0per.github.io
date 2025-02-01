@@ -36,7 +36,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_oXaXlUvt-w?si=01uPdziOd-jYaVTe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![청룡_1](./CockT_Img/Blue_Snake.jpg)  
+![청룡_1](./CockT_Img/blue_Snake.jpg)  
 
 ### 맛은 어땠어?
 
@@ -50,7 +50,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 원본 영상처럼 토끼소주를 쓰거나 화요 같은 쌀 소주를 쓰면 좀 더 자연스러운 맛이 나지 않을까?  
 
-![청룡_2](./CockT_Img/Blue_Snake_Mixed.jpg)  
+![청룡_2](./CockT_Img/blue_Snake_Mixed.jpg)  
 
 참고로 섞으면 이렇게 된다.  
 

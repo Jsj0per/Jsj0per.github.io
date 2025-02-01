@@ -1,8 +1,8 @@
 ---
-title: "Single sourcing pages"
-tagName: single_sourcing
+title: "Kyushu pages"
+tagName: Kyushu
 search: exclude
-permalink: tag_single_sourcing.html
+permalink: tag_Kyushu.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

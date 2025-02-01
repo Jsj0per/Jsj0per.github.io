@@ -1,5 +1,5 @@
 ---
-title: "MainPage"
+title: "MainPage pages"
 tagName: MainPage
 search: exclude
 permalink: tag_MainPage.html

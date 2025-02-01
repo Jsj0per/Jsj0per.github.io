@@ -1,8 +1,8 @@
 ---
-title: "Content types pages"
-tagName: content_types
+title: "SSAFY"
+tagName: SSAFY
 search: exclude
-permalink: tag_content_types.html
+permalink: tag_SSAFY.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

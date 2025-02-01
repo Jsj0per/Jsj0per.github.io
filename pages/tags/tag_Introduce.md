@@ -1,8 +1,8 @@
 ---
-title: "Collaboration pages"
-tagName: collaboration
+title: "Introduce"
+tagName: Introduce
 search: exclude
-permalink: tag_collaboration.html
+permalink: tag_Introduce.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

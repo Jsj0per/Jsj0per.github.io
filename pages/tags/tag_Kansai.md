@@ -1,8 +1,8 @@
 ---
-title: "Special layout pages"
-tagName: special_layouts
+title: "Kansai pages"
+tagName: Kansai
 search: exclude
-permalink: tag_special_layouts.html
+permalink: tag_Kansai.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

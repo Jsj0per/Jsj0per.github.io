@@ -1,5 +1,5 @@
 ---
-title: "SSAFY"
+title: "SSAFY pages"
 tagName: SSAFY
 search: exclude
 permalink: tag_SSAFY.html

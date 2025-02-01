@@ -1,8 +1,8 @@
 ---
-title: "Getting started pages"
-tagName: getting_started
+title: "Portfolio pages"
+tagName: Portfolio
 search: exclude
-permalink: tag_getting_started.html
+permalink: tag_Portfolio.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

@@ -50,7 +50,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 원본 영상처럼 토끼소주를 쓰거나 화요 같은 쌀 소주를 쓰면 좀 더 자연스러운 맛이 나지 않을까?  
 
-![청룡_2](./CockT_Img/blue_Snake_Mixed.jpg)  
+![청룡_2](./CockT_Img/blue_Snake_mixed.jpg)  
 
 참고로 섞으면 이렇게 된다.  
 

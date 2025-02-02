@@ -91,3 +91,33 @@ IBA 레시피(참조 자체는 Everythinginthebar 참조)
 ### 맛은 어땠어?
 
 석류풍의 달달구리함이라 머리 쓰는 작업을 할때 당분 때려넣기 좋은 음료수.   
+
+---
+
+## 버진 모히또
+
+[Top Page](#)  
+
+[![버진 모히또](http://img.youtube.com/vi/XOtSSZ2xf6A/0.jpg)](https://youtube.com/shorts/XOtSSZ2xf6A?si=Ut06w9qIjqf4LIHH)  
+[영상 제작자: Zstile](https://www.youtube.com/@ZsTile)  
+
+> 재료  
+> 
+> > Lime  
+> > Apple Mint  
+> > Simple Syrup  
+> > Sparkling Water   
+
+상세 레시피는 원본 영상 참조.  
+
+### 그래서 만들었어?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AtAgQU04-2w?si=2EC25srrHe_m-OS5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![버진 모히또](./CockT_Img/Virgin_Mojito.jpg)  
+
+### 맛은 어땠어?
+
+아오, 다음에는 머들러 제대로 된거 하나 사야할 것 같다.  
+깔끔하고 달콤하면서 상쾌하고 상큼하다.  
+치킨과 어울릴 음료수 찾다가 급하게 만들었는데, 꽤 번거로운 제작법에 비례하여 꽤 맛있게 잘 나온 것 같다.  

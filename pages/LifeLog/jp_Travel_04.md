@@ -1,6 +1,7 @@
 ---
 title: 4th Travel
 keywords: travel
+tags: Travel, Japan
 summary: "Japan Travel Log 4th."
 sidebar: LifeLog_sidebar
 permalink: jp_Travel_04.html

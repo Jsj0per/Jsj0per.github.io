@@ -1,6 +1,7 @@
 ---
 title: Vodka Base
 keywords: Vodka, Cocktail
+tags: Cocktail, Vodka
 summary: "내가 보려고 적어두는 칵테일 레시피들"
 sidebar: LifeLog_sidebar
 permalink: CockT_Vod.html
@@ -25,6 +26,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 IBA 공식 레시피. 현재 공식 레시피는 삭제.  
 
 > 재료
+> 
 > > Vodka 45ml  
 > > Lime Juice 10ml    
 > > Ginger Bear 120ml  
@@ -53,6 +55,7 @@ IBA 공식 레시피. 현재 공식 레시피는 삭제.
 IBA 공식 레시피.  그러나 본인은 여기서 조금 변형.  
 
 > 재료
+> 
 > > Vodka 40ml (개인 변형)  
 > > Lime Juice 15ml  
 > > Triple Sec 15ml  

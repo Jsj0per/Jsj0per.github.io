@@ -1,6 +1,7 @@
 ---
 title: Liqueur Base
 keywords: Liqueur, Cocktail
+tags: Cocktail, Liqueur
 summary: "내가 보려고 적어두는 칵테일 레시피들"
 sidebar: LifeLog_sidebar
 permalink: CockT_Liq.html
@@ -25,6 +26,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 나무위키 레시피.    
 
 > 재료
+> 
 > > Peach Tree 30ml  
 > > Sweet & Sour Mix 60ml  
 > > Triple Sec 15ml  

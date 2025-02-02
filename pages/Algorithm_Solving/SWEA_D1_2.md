@@ -1,6 +1,7 @@
 ---
 title: SWEA_D1~D2
 keywords: Algorithm, SWEA
+tags: Algorithm, SWEA
 summary: "SW Expert Academy의 D1,D2 문제를 풀었던 기록을 적는 곳. SWEA는 회원가입이 필수인 사이트이고, 문제에 대한 무단배포가 금지된 사이트라 풀이 과정과 사담만 남기고 문제 내용은 링크로 대체합니다."
 sidebar: Algorithm_sidebar
 permalink: SWEA_D1_2.html
@@ -21,20 +22,18 @@ folder: Algorithm_Solving
 
 Java  
 
-
-
 #### 답안 코드
 
 ```java
 import java.util.Scanner;
- 
+
 class Solution
 {
     public static void main(String args[]) throws Exception
     {
         Scanner jkb = new Scanner(System.in);
         int peopleA = jkb.nextInt(), peopleB = jkb.nextInt();
- 
+
         if(peopleA == 1 && peopleB == 3)
         {
             System.out.println("A");
@@ -73,8 +72,6 @@ SSAFY 입과 전에 푼 알고리즘 문제.
 
 결과 출력값 자체가 한정되어있고 많지않은 가위바위보가 예시니까 가능한 풀이방식.  
 
-
-
 ---
 
 ## SWEA D1) 2058. 자릿수 더하기
@@ -93,7 +90,7 @@ Java
 
 ```java
 import java.util.Scanner;
- 
+
 class Solution
 {
     public static void main(String args[]) throws Exception
@@ -104,16 +101,16 @@ class Solution
         {
             int num1000 = saveNaNum / 1000;
             num1000 %= 1000;
- 
+
             int num100 = saveNaNum / 100;
             num100 %= 10;
- 
+
             int num10 = saveNaNum / 10;
             num10 %= 10;
- 
+
             int num1 = saveNaNum;
             num1 %= 10;
- 
+
             System.out.println(num1000+num100+num10+num1);
         }else{
             System.err.println("잘못된 입력입니다.");
@@ -133,13 +130,14 @@ class Solution
 ### 다른 답안 코드
 
 #### 풀이 언어
+
 Python  
 
 #### 답안 코드
 
 ```Python
 T = int(input())
- 
+
 thousand = int(T // 1000)
 hundred_before = int(T // 100)
 hundred = int(hundred_before % 10)
@@ -150,8 +148,8 @@ print(thousand+hundred+ten+one)
 ```
 
 #### 풀이 과정에 대한 사담
-위에 내가 구했던 Java 코드를 Python으로 바꾼 것.  
 
+위에 내가 구했던 Java 코드를 Python으로 바꾼 것.  
 
 ---
 
@@ -171,7 +169,7 @@ Java
 
 ```java
 import java.util.*;
- 
+
 class Solution
 {
     public static void main(String[] args) throws Exception
@@ -220,16 +218,16 @@ Java
 
 ```java
 import java.util.Scanner;
- 
+
 class Solution
 {
     public static void main(String args[]) throws Exception
     {
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt(); 
-         
+
         int solveNum = T * (T + 1) / 2;
-         
+
         System.out.println(solveNum);
     }
 }
@@ -281,7 +279,7 @@ for test_case in range(1, T + 1):
 
 ```python
 T = int(input())
- 
+
 for test_case in range(1, T + 1):
     data = sorted(list(map(int,input().split())))
     print(f'#{test_case} {data[9]}')
@@ -299,7 +297,7 @@ Max를 안 쓰는 경우 Sort를 하여서 구하여한다.
 
 ```python
 T = int(input())
- 
+
 for test_case in range(1, T + 1):
     data = list(map(int,input().split()))
     data.sort()
@@ -328,7 +326,7 @@ Python
 
 ```python
 T = int(input())
- 
+
 numbako = list()
 for test_case in reversed(range(0, T + 1)):
     numbako.append(test_case)
@@ -360,7 +358,7 @@ Python
 
 ```python
 T = int(input())
- 
+
 for test_case in range(1, T + 1):
     data = list(map(int, input().split()))
     print(f'#{test_case} {int(round(sum(data)/10))}')
@@ -388,16 +386,16 @@ Python
 
 ```python
 T = int(input())
- 
+
 Divisor = list()
- 
+
 for test_case in range(1, T + 1):
     if T % test_case == 0:
         Divisor.append(test_case)
 Divisor.sort()
- 
+
 result = map(int,Divisor)
- 
+
 print(*Divisor)
 ```
 
@@ -424,7 +422,7 @@ Python
 ```python
 T = input()
 result = T.upper()
- 
+
 print(result)
 ```
 
@@ -451,7 +449,7 @@ Python
 
 ```python
 T = int(input())
- 
+
 for test_case in range(1, T + 1):
     mappingNum = map(int, input().split())
     numBako = list(mappingNum)
@@ -470,7 +468,7 @@ for test_case in range(1, T + 1):
 
 ---
 
-## SWEA D1) 2070. 큰 놈, 작은 놈, 같은 놈 
+## SWEA D1) 2070. 큰 놈, 작은 놈, 같은 놈
 
 [Top Page](#)
 

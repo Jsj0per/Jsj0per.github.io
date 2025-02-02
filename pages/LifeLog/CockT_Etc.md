@@ -1,6 +1,7 @@
 ---
 title: ETC Base
 keywords: Etc_CockT, Cocktail
+tags: Cocktail, Etc_CockT
 summary: "내가 보려고 적어두는 칵테일 레시피들"
 sidebar: LifeLog_sidebar
 permalink: CockT_Etc.html
@@ -25,6 +26,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 [영상 제작자: Zstile](https://www.youtube.com/@ZsTile)  
 
 > 재료
+> 
 > > (변형)Korean Soju(국순당 려 40도)  
 > > Blue Curaça  
 > > Blue Curaça Syrup  

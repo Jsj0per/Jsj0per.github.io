@@ -1,6 +1,7 @@
 ---
 title: Kyushu_Saga_Ureshino_Travel
 keywords: Travel, Japan, Kyushu
+tags: Travel, Japan, Kyushu
 summary: "Japan Travel Log 2nd."
 sidebar: LifeLog_sidebar
 permalink: jp_Travel_02.html
@@ -50,7 +51,7 @@ folder: LifeLog
 ![12_PicT](./trevel_JP/JP_02/12_PicT.jpg)
 ![13_PicT](./trevel_JP/JP_02/13_PicT.jpg)
 ![14_PicT](./trevel_JP/JP_02/14_PicT.jpg)
- 
+
 우레시노시도 저번에 올렸던 우지시처럼 녹차로 유명한 동네입니다.  
 다만 우지처럼 막 알려져 있는 곳은 아니고 곳곳에 녹차 판매점과 자그마한 찻집정도만 있는,  
 정말 고요한 시골 녹차마을에 더 가까운 점이 틀린 점인것 같습니다.  
@@ -96,7 +97,8 @@ folder: LifeLog
 따라서 사전에 조사하고 당일날에도 한번 료칸에 전화하여  
 
 ---
-**오늘의 생활 일본어**  
+
+**오늘의 생활 일본어**
 ---
 
 きょう   ひがえり  にゅうよく  

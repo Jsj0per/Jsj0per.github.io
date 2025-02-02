@@ -1,6 +1,7 @@
 ---
 title: Rum Base
 keywords: Rum, Cocktail
+tags: Cocktail, Rum
 summary: "내가 보려고 적어두는 칵테일 레시피들"
 sidebar: LifeLog_sidebar
 permalink: CockT_Rum.html

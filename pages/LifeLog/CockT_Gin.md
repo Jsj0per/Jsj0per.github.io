@@ -1,6 +1,7 @@
 ---
 title: Gin Base
 keywords: Gin, Cocktail
+tags: Cocktail, Gin
 summary: "내가 보려고 적어두는 칵테일 레시피들"
 sidebar: LifeLog_sidebar
 permalink: CockT_Gin.html
@@ -25,6 +26,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 [영상 제작자: Zstile](https://www.youtube.com/@ZsTile)  
 
 > 재료
+> 
 > > Gin  
 > > Triple Sec    
 > > Grenadine Syrup  
@@ -54,6 +56,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 IBA 공식 레시피. 현재 공식 레시피는 삭제.  
 
 > 재료
+> 
 > > Gin 52.5ml  
 > > Orange Juice 22.5ml    
 > > Honey 2tsp  
@@ -82,6 +85,7 @@ IBA 공식 레시피. 현재 공식 레시피는 삭제.
 [출처 블로그](https://sei-and-the-world.tistory.com/156)
 
 > 재료
+> 
 > > Gin  
 > > Crème de cassis  
 > > Apple Juice  
@@ -93,7 +97,7 @@ IBA 공식 레시피. 현재 공식 레시피는 삭제.
 
 ![진_카시스1](./CockT_Img/Gin_Cassis.jpg)  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4E4d38mSag4?si=Q0Yll197cJXooZi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4E4d38mSag4?si=Q0Yll197cJXooZi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 아쉽게도 각도를 이상하게 찍었다. 다음에는 더 신경써서 찍어보겠다.  
 

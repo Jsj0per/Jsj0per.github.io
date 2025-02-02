@@ -1,6 +1,7 @@
 ---
 title: Tequila Base
-keywords: Gin, Cocktail
+keywords: Tequila, Cocktail
+tags: Cocktail, Tequila
 summary: "내가 보려고 적어두는 칵테일 레시피들"
 sidebar: LifeLog_sidebar
 permalink: CockT_Teq.html

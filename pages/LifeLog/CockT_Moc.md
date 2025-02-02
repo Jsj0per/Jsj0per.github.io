@@ -1,6 +1,7 @@
 ---
 title: Mocktail
 keywords: Non-alcohol, Cocktail
+tags: Cocktail, Non-alcohol
 summary: "내가 보려고 적어두는 칵테일 레시피들. 논알콜 칵테일(목테일)"
 sidebar: LifeLog_sidebar
 permalink: CockT_Moc.html
@@ -51,6 +52,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 Original Post: 취하는 이야기  
 
 > 재료  
+> 
 > > Grape Juice  
 > > Sweet & Sour Mix(변형, 원본 레시피의 레몬주스와 동량)  
 > > Simple Syrup  
@@ -76,6 +78,7 @@ Original Post: 취하는 이야기
 IBA 레시피(참조 자체는 Everythinginthebar 참조)  
 
 > 재료  
+> 
 > > Ginger Ale 90%  
 > > Granadin Syrup 10%   
 

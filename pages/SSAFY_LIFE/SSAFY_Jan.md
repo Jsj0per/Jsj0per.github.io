@@ -1,6 +1,7 @@
 ---
 title: SSAFY January
-keywords: SSAFY
+keywords: SSAFY, Diary
+tags: SSAFY, Diary
 summary: "싸피에서의 1년간의 생활을 적는 공간. 1월"
 sidebar: SSAFY_sidebar
 permalink: SSAFY_Jan.html
@@ -419,6 +420,7 @@ Python과 JavaScript를 맛보기 수준으로 배워서 다른 이가 만들어
 # 3-4주차
 
 ## 1월 20일
+
 [Top Page](#)
 
 8시 55분 입실.  
@@ -536,7 +538,8 @@ SWEA도 풀었고, 싸피셜 데모 영상도 만들어서 보냈고, 깃헙 블
 18시 01분 퇴실.  
 
 ---
-## 1월 24일  
+
+## 1월 24일
 
 [Top Page](#)
 

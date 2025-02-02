@@ -4,7 +4,7 @@ keywords: Travel, Japan, Kanto, Kansai
 tags: Travel, Japan, Kanto, Kansai
 summary: "길게 적기 어려운 여행들을 뭉쳐서 적어둔 쉬어가기 코너."
 sidebar: LifeLog_sidebar
-permalink: jp_Travel_03.html
+permalink: jp_Travel_Short_01.html
 folder: LifeLog
 ---
 

@@ -39,8 +39,8 @@ entries:
       url: /jp_Travel_02.html
       output: web, pdf
 
-    - title: 3rd Travel
-      url: /jp_Travel_03.html
+    - title: Short Travel Story 01
+      url: /jp_Travel_Short_01.html
       output: web, pdf
 
     - title: 4th Travel

@@ -67,7 +67,7 @@ folder: LifeLog
 첫날에는 클로즈 시간이 빠른 장소나 식당, 중요한 일정은 안 해두시는 편이 좋을 것 같습니다.  
 
 ![08_PicT](./trevel_JP/JP_03/08_PicT.jpg)
-![09_PicT](./trevel_JP/JP_03/09_PicT.jpg)
+![09_PicT](./trevel_JP/JP_03/09_PicT.png)
 
 첫날은 야간 개장을 하는 오코노미야끼-몬자야끼 집을 왔습니다.  
 

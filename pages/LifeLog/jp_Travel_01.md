@@ -48,7 +48,7 @@ JR의 하루카(특급)이나 공항철도를 타고 우메다(오사카)역, �
 
 ![05_PicT](./trevel_JP/JP_01/05_PicT.jpg)
 ![06_PicT](./trevel_JP/JP_01/06_PicT.jpg)
-![07_PicT](.trevel_JP//JP_01/07_PicT.jpg)
+![07_PicT](./trevel_JP//JP_01/07_PicT.jpg)
 
 참고로 저는 난바역에서 킨키일본철도(킨테츠) 특급 어반라이너를 타고 나고야로 향했습니다.
 

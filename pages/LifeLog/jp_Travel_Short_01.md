@@ -37,7 +37,8 @@ folder: LifeLog
 리뷰가 이상하리 적은 숙소는 저처럼 똥밟는 경우가 많은지라...  
 
 ![02_PicT](./trevel_JP/JP_03/02_PicT.jpg)
-[이마카츠 긴자점](https://maps.app.goo.gl/1FntnLdgN7V1n4iE8)
+
+[이마카츠 긴자점](https://maps.app.goo.gl/1FntnLdgN7V1n4iE8)  
 그래도 첫날 도쿄 긴자에서 먹은 첫끼는 매우 훌륭했습니다.  
 참고로 이 돈까스집 도쿄 긴자의 이마카츠라는 곳인데, 진짜 존맛이라 꼭 드셔보시는거 추천드립니다.  
 

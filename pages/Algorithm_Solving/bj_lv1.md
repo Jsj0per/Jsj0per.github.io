@@ -97,3 +97,70 @@ print(abs(N-M))
 이 참에 기억해둬야겠다.  
 
 ---
+
+## BaekJ Brz) 2338. 긴자리 계산
+
+[Top Page](#)  
+
+#### 문제 링크
+
+ [Baekjoon 2338](https://www.acmicpc.net/problem/2338)  
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+A = int(input())
+B = int(input())
+
+print(A+B)
+print(A-B)
+print(A*B)
+```
+
+#### 풀이 과정에 대한 사담
+
+그냥 + - * 쓸 줄 아냐를 묻는 정말 기초적인 문제.  
+
+---
+
+## BaekJ Brz) 2588. 곱셈
+
+[Top Page](#)  
+
+#### 문제 링크
+
+ [Baekjoon 2588](https://www.acmicpc.net/problem/2588)  
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+num_01 = str(input()) # 1번 입력
+num_02 = str(input()) # 2번 입력
+
+for num_Index in range (len(num_02)-1, -1, -1): # 각 자리별로 계산하게 반복함
+    print(f'{int(num_01)*int(num_02[num_Index])}') # 자릿수별 곱셈 구하기
+print(f'{int(num_01)*int(num_02)}') # 진짜배기 곱셈 구하기
+```
+
+#### 풀이 과정에 대한 사담
+
+알고리즘 스터디 그룹 1주차의 1일차 문제, 출제자는 나.  
+
+각 자릿수 별로 곱셈이 이루어지게 하고, 그걸 출력하면 끝인 간단한 알고리즘이다.  
+다양한 방법이 있지만, 나는 가장 간단하게 str(문자열)의 성질을 활용하여 그걸 반복하게 하고,  
+int로 형변환 시킨 상태로 한자리씩 구하는 방식으로 solving했다.  
+
+---
+
+
+
+
+https://www.notion.so/_2-18eb1e39fe5f801988fdea215b9be70f

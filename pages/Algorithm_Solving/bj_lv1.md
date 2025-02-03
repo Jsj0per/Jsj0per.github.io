@@ -135,6 +135,8 @@ print(A*B)
 
  [Baekjoon 2588](https://www.acmicpc.net/problem/2588)  
 
+ [답안 링크](http://boj.kr/5f7d002cdc2e49edaf2343559dc12370)
+
 #### 풀이 언어
 
 Python

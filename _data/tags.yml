@@ -1,6 +1,6 @@
-# Note:
-# If you are using the createtag script, don't leave a blank line at the end of this file.
-# In other words, the last line must be the last tag in the allowed-tags list.
+# 참고:
+# createtag 스크립트를 사용하는 경우 이 파일의 끝에 빈 줄을 남기지 마세요.
+# 즉, 허용된 태그 목록에서 마지막 줄이 마지막 태그여야 합니다.
 allowed-tags:
   - MainPage
   - Introduce

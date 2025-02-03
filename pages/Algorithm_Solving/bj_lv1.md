@@ -162,7 +162,3 @@ int로 형변환 시킨 상태로 한자리씩 구하는 방식으로 solving했
 
 ---
 
-
-
-
-https://www.notion.so/_2-18eb1e39fe5f801988fdea215b9be70f

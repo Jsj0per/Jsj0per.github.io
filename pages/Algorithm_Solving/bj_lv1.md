@@ -205,3 +205,47 @@ else:
 
 ---
 
+## BaekJ Brz) 25304. 영수증
+
+[Top Page](#)  
+
+#### 문제 링크
+
+ [Baekjoon 25304](https://www.acmicpc.net/problem/25304)  
+
+ [답안 링크](http://boj.kr/d8876504d11c4cfc98c56d9c5cde1733)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+total_Price = int(input()) # 총액 입력
+
+total_Goods = int(input()) # 물건의 종류 수 입력
+
+goods_list = [] # 굿즈 가격을 저장할 리스트 추가
+
+for goods_Index in range(0, total_Goods):
+    
+    goods = list(map(int, input().split())) # 굿즈의 가격과 갯수를 입력받음음
+    goods_Total_Price = goods[0] * goods[1] # 가격 X 갯수 저장장
+    goods_list.append(goods_Total_Price) # 리스트에 추가
+
+if total_Price == sum(goods_list): # 처음 입력한 총액이 리스트내 물건들의 총액과 같을시
+    print('Yes') # 예스 예스 예스!
+else:
+    print('No') # 아님 말고.
+```
+
+#### 풀이 과정에 대한 사담
+
+주어진 조건이 꽤나 많지만, 실제로는 간단하다.  
+그냥 영수증 내역을 입력시켜서 총액과 같은지 아닌지 구현시키는 알고리즘을 만드는 문제다.  
+가장 성가실 수 있는 부분은 물건 가액과 갯수를 입력시키는 목록이 가변이라서 이를 구현해야 된다는 점인데,  
+for문을 사용하여서 물건 종류 갯수에 따라 가변할 수 있도록 구현시키면, 이외에 어려운 점은 없어보인다.  
+
+---
+

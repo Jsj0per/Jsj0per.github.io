@@ -24,7 +24,7 @@ folder: SSAFY_LIFE
 
 오늘은 객체지향과 클래스에 대해 배우는 것이 주 주제였다.  
 
-![SSAFY_0203_01](./FebImg/SSAFY_0203_01.jpg)  
+![SSAFY_0203_01](./Feb_Img/SSAFY_0203_01.jpg)  
 
 오늘의 점심은 뚝배기동태알곤탕/차슈 덮밥 중 택1 이었다.  
 

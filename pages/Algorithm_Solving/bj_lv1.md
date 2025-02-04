@@ -251,3 +251,44 @@ for문을 사용하여서 물건 종류 갯수에 따라 가변할 수 있도록
 
 ---
 
+## BaekJ Brz) 5086. 배수와 약수
+
+[Top Page](#)  
+
+#### 문제 링크
+
+ [Baekjoon 5086](https://www.acmicpc.net/problem/5086)  
+
+ [답안 링크](http://boj.kr/76eace83d4d5406faab44d0b58891f19)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+while True: # 0 0 이 입력되어야 종료된다는 조건이 붙었으므로 While 문을 사용하여 무한 반복한다.
+    nums = list(map(int, input().split())) # 2가지 숫자를 받아야 하므로 list, map을 사용
+
+    if nums[1] > nums[0] and nums[1] % nums[0] == 0: # factor의 경우
+        print("factor")
+    elif nums[0] > nums[1] and nums[0] % nums[1] == 0: # multiple의의 경우
+        print("multiple")
+    elif nums[0] == 0 and nums[1] == 0: # 탈출코드
+        break # while 조건문 관계없이 탈출함.
+    else:
+        print("neither") # 이외의 경우는 neither
+```
+
+#### 풀이 과정에 대한 사담
+
+알고리즘 스터디 그룹의 3일차 문제, 문제 선택자는 P학우님.  
+
+모르고 지나칠 뻔 했는데 조건문에 0 0 으로 끝내라는 조건이 있다.  
+나도 이것때문에 첫번째 시도에서는 실패했는듯.  
+그러므로 while문을 써서 무한 반복하게 만든다음, list-map 구조로 숫자를 받고,  
+0 0이 나올때까지 무한반복하는 코드를 짰다.  
+
+---
+

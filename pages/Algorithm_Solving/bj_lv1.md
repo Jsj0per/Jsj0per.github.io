@@ -292,3 +292,45 @@ while True: # 0 0 이 입력되어야 종료된다는 조건이 붙었으므로 
 
 ---
 
+## BaekJ Brz) 2845. 파티가 끝나고 난 뒤
+
+[Top Page](#)  
+
+#### 문제 링크
+
+ [Baekjoon 2845](https://www.acmicpc.net/problem/2845)  
+
+ [답안 링크](http://boj.kr/c1ce6e56f7e447b48eb44f51f5945460)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+how_many_people = list(map(int, input().split())) # 상근이가 생각하고 있는 사람 수
+mess_media = list(map(int, input().split())) # 신문 기사에 나온 사람 수
+
+fact_check = [] # 참가자의 수가 몇 명 만큼 잘못 되었는지 검색
+
+for fact_checker in mess_media: # 신문 마다 팩트 체크 개시
+    if fact_checker == how_many_people[0] * how_many_people[1]: # 일치하면
+        fact_check.append(0)
+        # 0 출력. 사실 그냥 if-else 없이 fact_check.append(fact_checker - how_many_people[0] * how_many_people[1]) 만 해도 되긴할듯.
+    else:
+        fact_check.append(fact_checker - how_many_people[0] * how_many_people[1]) # 차이가 발생하면 차이만큼 입력
+
+print(*fact_check) # 언패킹하면서 출력
+```
+
+#### 풀이 과정에 대한 사담
+
+알고리즘 스터디 그룹의 5일차 문제, 문제 선택자는 G학우님.  
+
+상근이가 생각하고있는 사람의 수와 신문 기사에 나온 사람의 수를 단순히 비교하여서 그 차이만큼 출력하면 그만인 간단한 문제.  
+
+주의할 점은 'fact_checker - how_many_people[0] * how_many_people[1]' 를  
+'how_many_people[0] * how_many_people[1] - fact_checker'로 잘못 입력시키는 일이 없도록 하는 정도?  
+
+---

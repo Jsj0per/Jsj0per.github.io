@@ -29,19 +29,19 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: SSAFYcial Article 01
+    - title: SSAFYcial Arti 01
       url: SSAFYcial_01.html
       output: web, pdf
 
-    - title: SSAFYcial Article 02
+    - title: SSAFYcial Arti 02
       url: SSAFYcial_02.html
       output: web, pdf
 
-    - title: SSAFYcial Article 03
+    - title: SSAFYcial Arti 03
       url: SSAFYcial_03.html
       output: web, pdf
 
-    - title: SSAFYcial Article 04
+    - title: SSAFYcial Arti 04
       url: SSAFYcial_04.html
       output: web, pdf
 

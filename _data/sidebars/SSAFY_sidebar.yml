@@ -29,20 +29,20 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Sample 4
-      url: /p1_sample4.md
+    - title: SSAFYcial Article 01
+      url: SSAFYcial_01.html
       output: web, pdf
 
-    - title: Sample 5
-      url: /p1_sample5.md
+    - title: SSAFYcial Article 02
+      url: SSAFYcial_02.html
       output: web, pdf
 
-    - title: Sample 6
-      url: /p1_sample6.md
+    - title: SSAFYcial Article 03
+      url: SSAFYcial_03.html
       output: web, pdf
 
-    - title: Sample 7
-      url: /p1_sample7.md
+    - title: SSAFYcial Article 04
+      url: SSAFYcial_04.html
       output: web, pdf
 
 # Copyright 2021 Google LLC

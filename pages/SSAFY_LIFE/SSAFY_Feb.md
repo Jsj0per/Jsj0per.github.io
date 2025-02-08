@@ -176,3 +176,6 @@ folder: SSAFY_LIFE
 [나의 행복한 결혼 시즌 2(OTT: 넷플릭스) 1-3화](https://www.netflix.com/kr/title/81564905)  
 
 ---
+
+# 2주차
+

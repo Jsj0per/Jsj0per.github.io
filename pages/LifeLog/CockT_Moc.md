@@ -121,3 +121,36 @@ IBA 레시피(참조 자체는 Everythinginthebar 참조)
 아오, 다음에는 머들러 제대로 된거 하나 사야할 것 같다.  
 깔끔하고 달콤하면서 상쾌하고 상큼하다.  
 치킨과 어울릴 음료수 찾다가 급하게 만들었는데, 꽤 번거로운 제작법에 비례하여 꽤 맛있게 잘 나온 것 같다.  
+
+---
+
+## 앨리스
+
+[Top Page](#)  
+
+[![앨리스](http://img.youtube.com/vi/K79AX10dbWk/0.jpg)](https://youtube.com/shorts/K79AX10dbWk?si=siGoPmw6f5KMBxif)  
+[영상 제작자: Zstile](https://www.youtube.com/@ZsTile)  
+
+> 재료  
+> 
+> > Pineapple Juice  
+> > Orange Juice  
+> > Granadin Syrup  
+> > Cream   
+
+상세 레시피는 원본 영상 참조.  
+
+### 그래서 만들었어?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X0-MwgLEGw8?si=di1ZruwxIEug4dwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![앨리스](./CockT_Img/alice.jpg)  
+
+### 맛은 어땠어?
+
+분명 많이 들어간건 파인애플 주스랑 오랜지 주스인데,  
+신기하게도 맛은 그레나딘 시럽이 주도하는 듯한 느낌이 나고,  
+여튼 뭔가 안 익숙한 맛이난다.  
+모양은 이쁘긴 한데 맛은 내 취향이 아니라서 아마 다음 번엔 안 만들듯.  
+
+---

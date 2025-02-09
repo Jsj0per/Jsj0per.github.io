@@ -47,7 +47,7 @@ Student Developer who strives to become a developer who goes step by step.
 
 SSAFY Campus Press Corps "SSAFYcial" (Gumi), 13th Period Press Member  
 
-- ## Education History
+## Education History
 
 #### 삼성 청년 SW 아카데미 구미캠퍼스 파이썬 과정                                        2025/01 ~ Progressing
 

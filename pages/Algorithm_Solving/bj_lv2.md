@@ -10,13 +10,13 @@ folder: Algorithm_Solving
 
 ---
 
-## BaekJ Brz) 1936. 1:1 가위바위보
+## BaekJ sil) 0000. 준비중
 
 [Top Page](#)  
 
 #### 문제 링크
 
- [SW Expert Academy 1936](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjKXKALcDFAUq&categoryId=AV5PjKXKALcDFAUq&categoryType=CODE&problemTitle=1936&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)  
+[Baekjoon 0000]()  
 
 #### 풀이 언어
 

@@ -1,7 +1,7 @@
 ---
-title: Osaka_Universal Studio Japan
-keywords: travel
-tags: Travel, Japan
+title: Kansai_Osaka_Universal Studio Japan
+keywords: travel, Japan, Kansai
+tags: Travel, Japan, Kansai
 summary: "Japan Travel Log 3th."
 sidebar: LifeLog_sidebar
 permalink: jp_Travel_03.html

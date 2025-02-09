@@ -1,5 +1,5 @@
 ---
-title: Nagoya_Yufuin_Travel
+title: Chubu_Nagoya_Yufuin_Travel
 keywords: Travel, Japan, Chubu, Kanto
 tags: Travel, Japan, Chubu, Kanto
 summary: "Japan Travel Log 1st"

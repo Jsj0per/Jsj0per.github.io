@@ -334,3 +334,55 @@ print(*fact_check) # 언패킹하면서 출력
 'how_many_people[0] * how_many_people[1] - fact_checker'로 잘못 입력시키는 일이 없도록 하는 정도?  
 
 ---
+
+## BaekJ Brz) 10811. 바구니 뒤집기
+
+[Top Page](#)  
+
+#### 문제 링크
+
+ [Baekjoon 10811](https://www.acmicpc.net/problem/10811)  
+
+ [답안 링크](http://boj.kr/faade4b97ef54d5dbf0ef7731a4f4e9b)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+N, M = map(int, input().split()) # 바구니 정보와 역순으로 뒤집을 명령어 횟수를 정하기
+
+baguni_list = [] # 바구니 세팅
+
+for i in range(1, N+1): # 바구니 리스트 생성
+    baguni_list.append(i)
+
+for i in range(M): # 역순으로 뒤집을 횟수 사전에 입력한 만큼 역순으로 뒤집기
+    start, end = map(int, input().split()) # 시작지점과 종료 지점 입력
+    for j, k in zip(range(start-1, end-1), range(end-1, start-2, -1)): # 인덱스 정보를 입력해야하는데, 동시에 정방향으로 동시에 역방향으로 가야하니 zip 함수 활용
+        if j == k or j > k: # 만약 j == k(즉 중간값)이거나 j값이 k 값을 초월하면 더이상 바뀌지 말아야하므로 break 시킨다.
+            break
+        else: # 그 이외의 경우라면
+            baguni_list[j], baguni_list[k] = baguni_list[k], baguni_list[j] # 스와프 시킨다.
+
+print(*baguni_list) # 그 후 언패킹하여 프린트
+
+```
+
+#### 풀이 과정에 대한 사담
+
+알고리즘 스터디 그룹의 6일차 문제.  
+
+파이썬이라서 쉽게 풀 수 있는 문제 중 하나인데, 이유는 파이썬은 스와프 기능을 지원해서,  
+일일이 A 값은 임시값에 옮기고 B 값을 A에 옮기고, 임시값에 옮긴걸 다시 B 값에 옮기는 행동을 안 해서 되기 때문이다.  
+자바때는 이거 꽤 귀찮았다.  
+어쨋든 역순으로 바꾸는건 zip함수를 이용해서 두 인덱스들을 동시에 늘리고 줄이고를 한 뒤 스와프 방식을 이용해서 옮기고,  
+만약 j == k(즉 중간값)이거나 j값이 k 값을 초월하면 더이상 바뀌지 말아야하므로 break 시키는 방식으로 마무리하였다.  
+
+---
+
+
+
+

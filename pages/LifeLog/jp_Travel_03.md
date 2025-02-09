@@ -308,11 +308,11 @@ USJ로 가기위해서 우메다역에서 유니버셜시티 방면 지하철을
 두번째 이유로는 부모님이 타는것을 반대했는데, 저희가 놀이공원을 가기 딱 몇일전에 문제의 기사가 나왔는데,  
 USJ에서 놀이기구가 긴급정지하여 손님들이 겁에 떨어야했다는 기사를 보신분들이 있을건데. 이게 그 놀이기구였습니다. 그래서인지 어머니께서 이것만큼은 타지말라고 신신당부하셔서 아쉽게도 못 탔다는 후문이었습니다...  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BiZOLQ1JhAQ?si=UKqinEZ4OiKdFLIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BiZOLQ1JhAQ?si=UKqinEZ4OiKdFLIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 그래서 이 기구의 무서움을 체험해보고 싶으신 분이라면 해당 영상을 보시면 이해가 되시리라 생각됩니다.  
 아예 사선으로 누워서 타는 놀이기구라... 무서움이 남다른 것 같습니다.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8RYZOz0MWO4?si=i7WAbKO3HzqQAB69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8RYZOz0MWO4?si=i7WAbKO3HzqQAB69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 어우....

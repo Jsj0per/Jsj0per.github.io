@@ -503,3 +503,52 @@ for test_case in range(1, T + 1):
 고로 비교연산자 활용을 적절한 위치에 적절하게 하면된다.
 
 ---
+
+## SWEA D1) 9367. 점점 커지는 당근의 개수
+
+[Top Page](#)
+
+#### 문제 링크
+
+[SW Expert Academy 9367](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AW_nY2m6OLADFARY&categoryId=AW_nY2m6OLADFARY&categoryType=CODE)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+test_case = int(input())
+for tc_index in range(1,test_case+1):
+    carrot_len = int(input()) # 당근 갯수 입력
+    carrot_list = list(map(int,input().split())) # 당근 리스트 입력
+
+    before_carrot = carrot_list[0] # 비교군이 될 0번 당근 값 먼저 저장
+    max_counting = 1 # 최대 연속 증가값 저장
+    counting = 1 # 연속 증가값 저장
+
+    for c_idx in range(1, carrot_len): # 0번 당근은 비교군으로 빼뒀으니 1번부터 확인
+        if max_counting < counting:  # 현 최대값과 비교하여 값이 더 크면
+            max_counting = counting  # 갱신한다.
+        if carrot_list[c_idx] > before_carrot: # 만약 커진다면
+            counting += 1 # 카운팅한다.
+        else: # 연속하지 않는다면
+            counting = 1 # 그리고 초기화한다.
+        before_carrot = carrot_list[c_idx] # 비교군을 교체한다.
+
+    if max_counting < counting:  # 종료전 마지막 갱신, 현 최대값과 비교하여 값이 더 크면
+        max_counting = counting  # 갱신한다.
+    print(f'#{tc_index} {max_counting}')
+```
+
+#### 풀이 과정에 대한 사담
+
+헷갈리면 안 되는 부분이 연속으로 증가하는 값이지, 1씩 증가하는 값을 구하는 문제가 아니다.  
+이걸 깨닫는데 무려 30분이 걸렸다.  
+나는 멍충하다.  
+
+---
+
+
+

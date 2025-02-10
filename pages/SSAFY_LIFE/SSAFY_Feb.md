@@ -199,7 +199,7 @@ folder: SSAFY_LIFE
 
 아마 이번 주까지는 쭈욱 알고리즘 수업을 들을 것 같다.  
 
-![SSAFY_0210 01](./FebImg/SSAFY_02_10_01.jpg)
+![SSAFY_0210 01](./FebImg/SSAFY_0210_01.jpg)
 
 오늘의 점심은 뚝배기닭볶음탕 & 당면사리 / 규동 이었다.  
 
@@ -213,7 +213,7 @@ folder: SSAFY_LIFE
 
 다음 시험은 개념 위주로 좀 더 공부하고 도전 해야 할 것 같다.
 
-![SSAFY_0210 02](./FebImg/SSAFY_02_10_02.jpg)
+![SSAFY_0210 02](./FebImg/SSAFY_0210_02.jpg)
 
 오늘은 정말 간만에 저녁 싸밥도 사먹었다.
 

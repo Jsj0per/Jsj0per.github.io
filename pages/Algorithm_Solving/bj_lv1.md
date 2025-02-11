@@ -383,6 +383,65 @@ print(*baguni_list) # 그 후 언패킹하여 프린트
 
 ---
 
+## BaekJ Brz) 2869. 달팽이는 올라가고 싶다
+
+[Top Page](#)  
+
+#### 문제 링크
+
+ [Baekjoon 2869](https://www.acmicpc.net/problem/2869)  
+
+ [답안 링크](http://boj.kr/84f2c9ac6f074a008672e78b42110a43)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+import math # 수학 공식용 모듈 import
+
+A, B, V = map(int, input().split()) # 값 입력
+
+day = ((V - A) / (A - B)) # 후술
+
+day_final = math.ceil(day) + 1 # 마지막으로 1 더하면
+
+print(day_final) # 값이 출력된다.
+
+```
+
+#### 풀이 과정에 대한 사담
+
+알고리즘 스터디 그룹의 7일차 문제. 문제 선택자는 J1 학우님.
+
+```python
+A, B, V = map(int, input().split())
+
+day = 0
+
+for i in range(V+1):
+    day += 1
+    V -= A
+    if V <= 0:
+        break
+    V += B
+
+print(day)
+
+```
+
+사실 수포자의 쉼터 출신자로서 반복문으로 표현한다면 이렇게 표현하면 풀 수 있는 문제이나,  
+이 문제는 0.25초 만에 결과를 출력해내야하므로, 해당 식은 쓸 수 없다.
+
+![bkj_2869_img01](.bkj_2869_img01.png) 
+
+주어진 문제의 경우 공식으로 나타내면 이러한 공식이 된다.  
+이 공식을 그대로 코드로 옮기면 된다.  
+
+---
+
 
 
 

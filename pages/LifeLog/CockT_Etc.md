@@ -1,7 +1,7 @@
 ---
 title: ETC Base
-keywords: Etc_CockT, Cocktail
-tags: Cocktail, Etc_CockT
+keywords: [Etc_CockT, Cocktail]
+tags: [Cocktail, Etc_CockT]
 summary: "내가 보려고 적어두는 칵테일 레시피들"
 sidebar: LifeLog_sidebar
 permalink: CockT_Etc.html

@@ -1,4 +1,3 @@
+Sitemap: https://jsj0per.github.io/sitemap.xml
 User-agent: *
-Allow: /
-Disallow: /images/
-Sitemap: http://jsj0per.github.io/sitemap.xml
+Disallow:

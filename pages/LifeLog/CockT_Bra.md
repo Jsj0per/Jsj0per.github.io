@@ -1,7 +1,7 @@
 ---
 title: Brandy Base
-keywords: Brandy, Cocktail
-tags: Cocktail, Brandy
+keywords: [Brandy, Cocktail]
+tags: [Cocktail, Brandy]
 summary: "내가 보려고 적어두는 칵테일 레시피들"
 sidebar: LifeLog_sidebar
 permalink: CockT_Bra.html

@@ -1,7 +1,7 @@
 ---
 title: SSAFY February
-keywords: SSAFY, Diary
-tags: SSAFY, Diary
+keywords: [SSAFY, Diary]
+tags: [SSAFY, Diary]
 summary: "싸피에서의 1년간의 생활을 적는 공간. 2월"
 sidebar: SSAFY_sidebar
 permalink: SSAFY_Feb.html

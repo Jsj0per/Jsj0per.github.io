@@ -256,7 +256,7 @@ folder: SSAFY_LIFE
 
 입실 8시 56분  
 
-![SSAFY_0212_01](./FebImg/SSAFY_0213_01.jpg)
+![SSAFY_0212_01](./FebImg/SSAFY_0212_01.jpg)
 
 ![SSAFY_0212_02](./FebImg/SSAFY_0212_02.jpg)
 

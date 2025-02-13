@@ -1,7 +1,7 @@
 ---
 title: Baekjoon Lv.1
-keywords: Algorithm, Baekjoon
-tags: Algorithm, Baekjoon
+keywords: [Algorithm, Baekjoon]
+tags: [Algorithm, Baekjoon]
 summary: "Baekjoon의 브론즈 단계 문제를 풀었던 기록을 적는 곳. 풀이 과정과 사담만 남기고 문제 내용은 링크로 대체합니다."
 sidebar: Algorithm_sidebar
 permalink: bj_lv1.html

@@ -1,7 +1,7 @@
 ---
 title: SWEA_D3_4
-keywords: Algorithm, SWEA
-tags: Algorithm, SWEA
+keywords: [Algorithm, SWEA]
+tags: [Algorithm, SWEA]
 summary: "SW Expert Academy의 D3-4 문제를 풀었던 기록을 적는 곳. SWEA는 회원가입이 필수인 사이트이고, 문제에 대한 무단배포가 금지된 사이트라 풀이 과정과 사담만 남기고 문제 내용은 링크로 대체합니다."
 sidebar: Algorithm_sidebar
 permalink: SWEA_D3_4.html

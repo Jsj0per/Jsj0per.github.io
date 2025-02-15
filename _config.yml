@@ -25,6 +25,8 @@ google_analytics: UA-66296557-1
 
 google_site_verification: "KGNdocWBMpP4ZTMtVB6zMsgI0kIfRjyJXWzhzhaIQWE"
 
+naver_site_verification: "241ad9f1872813c06ce4f75085b46a50ddc4d6fd"
+
 host: 127.0.0.1
 # 미리보기 서버가 사용되었습니다. 그대로 두십시오.
 
@@ -73,7 +75,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      comments: true
+      comments: false
       # Commento.io 을 사용하지 않고 댓글만 숨기고 싶다면 댓글 속성이 표시되는 곳마다 true를 false로 변경하세요
       search: true
       sidebar: home_sidebar
@@ -93,7 +95,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true
+      comments: false
       # Commento.io 을 사용하지 않고 댓글만 숨기고 싶다면 댓글 속성이 표시되는 곳마다 true를 false로 변경하세요
       search: true
       sidebar: home_sidebar
@@ -107,13 +109,15 @@ sidebars:
 - LifeLog_sidebar
 - SSAFY_sidebar
 - SWProject_sidebar
+- tagPage_sidebar
+- mydoc_sidebar
 - other
 
 description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."
 # 설명은 feed.xml 파일에서 사용됩니다
 
 # sitemap.xml 파일에만 필요합니다
-# url: http://idratherbewriting.com
+url: http://jsj0per.github.io
 # baseurl: /documentation-theme-jekyll
 
 

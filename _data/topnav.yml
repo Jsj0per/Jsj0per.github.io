@@ -30,7 +30,7 @@ topnav_dropdowns:
           url: /p2_landing_page.html
     - title: Jekyll
       folderitems:
-        - title: Powered by Jekyll
+        - title: Documentation Theme for Jekyll
           url: /mydoc_introduction.html
         - title: Jekyll Talk
           external_url: https://talk.jekyllrb.com

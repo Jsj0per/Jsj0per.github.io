@@ -1,33 +1,103 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-        <url>
-                <loc>https://jsj0per.github.io</loc>
-        </url>
-        <url>
-                <loc>https://jsj0per.github.io/SSAFY_Start.html</loc>
-        </url>
-        <url>
-                <loc>https://jsj0per.github.io/SSAFY_Jan.html</loc>
-        </url>
-        <url>
-                <loc>https://jsj0per.github.io/SSAFY_Feb.html</loc>
-        </url>
-        <url>
-                <loc>https://jsj0per.github.io/SSAFY_Mar.html</loc>
-        </url>
-        <url>
-                <loc>https://jsj0per.github.io/SWEA_D1_2.html</loc>
-        </url>
-        <url>
-                <loc>https://jsj0per.github.io/SWEA_D3_4.html</loc>
-        </url>
-        <url>
-                <loc>https://jsj0per.github.io/bj_lv1.html</loc>
-        </url>
-        <url>
-                <loc>https://jsj0per.github.io/SSAFYcial_01.html</loc>
-        </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://jsj0per.github.io/</loc>
+  <lastmod>2025-02-15T12:31:55+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://jsj0per.github.io/index.html</loc>
+  <lastmod>2025-02-15T12:31:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jsj0per.github.io/Introduce</loc>
+  <lastmod>2025-02-15T12:31:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jsj0per.github.io/LifeLog</loc>
+  <lastmod>2025-02-15T12:31:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jsj0per.github.io/p1_landing_page.html</loc>
+  <lastmod>2025-02-15T12:31:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jsj0per.github.io/p3_landing_page.html</loc>
+  <lastmod>2025-02-15T12:31:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jsj0per.github.io/p2_landing_page.html</loc>
+  <lastmod>2025-02-15T12:31:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jsj0per.github.io/SSAFY_Start.html</loc>
+  <lastmod>2025-02-15T12:31:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jsj0per.github.io/SSAFY_Jan.html</loc>
+  <lastmod>2025-02-15T12:31:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jsj0per.github.io/SSAFY_Feb.html</loc>
+  <lastmod>2025-02-15T12:31:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jsj0per.github.io/SSAFY_Mar.html</loc>
+  <lastmod>2025-02-15T12:31:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jsj0per.github.io/SSAFYcial_01.html</loc>
+  <lastmod>2025-02-15T12:31:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jsj0per.github.io/SSAFYcial_02.html</loc>
+  <lastmod>2025-02-15T12:31:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jsj0per.github.io/SSAFYcial_03.html</loc>
+  <lastmod>2025-02-15T12:31:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jsj0per.github.io/SSAFYcial_04.html</loc>
+  <lastmod>2025-02-15T12:31:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jsj0per.github.io/SWEA_D1_2.html</loc>
+  <lastmod>2025-02-15T12:31:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jsj0per.github.io/SWEA_D3_4.html</loc>
+  <lastmod>2025-02-15T12:31:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jsj0per.github.io/bj_lv1.html</loc>
+  <lastmod>2025-02-15T12:31:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jsj0per.github.io/bj_lv2.html</loc>
+  <lastmod>2025-02-15T12:31:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
 </urlset>

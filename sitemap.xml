@@ -26,17 +26,15 @@ layout: null
                 <priority>{{ post.sitemap.priority }}</priority>
         {% endif %}
         </url>
-                <url>
+        <url>
                 <loc>http://jsj0per.github.io</loc>
-                <lastmod/>
                 <changefreq>weekly</changefreq>
                 <priority>0.5</priority>
                 <loc>https://jsj0per.github.io/SSAFY_Start.html</loc>
                 <lastmod>2025-01-01T12:00:00+09:00</lastmod>
-                </url>
+        </url>
         <url>
                 <loc>http://jsj0per.github.io</loc>
-                <lastmod/>
                 <changefreq>weekly</changefreq>
                 <priority>0.5</priority>
                 <loc>https://jsj0per.github.io/SSAFY_Jan.html</loc>
@@ -46,7 +44,6 @@ layout: null
         </url>
         <url>
                 <loc>http://jsj0per.github.io</loc>
-                <lastmod/>
                 <changefreq>weekly</changefreq>
                 <priority>0.5</priority>
                 <loc>https://jsj0per.github.io/SSAFY_Feb.html</loc>
@@ -56,7 +53,6 @@ layout: null
         </url>
         <url>
                 <loc>http://jsj0per.github.io</loc>
-                <lastmod/>
                 <changefreq>weekly</changefreq>
                 <priority>0.5</priority>
                 <loc>https://jsj0per.github.io/SWEA_D1_2.html</loc>
@@ -65,7 +61,6 @@ layout: null
         </url>
         <url>
                 <loc>http://jsj0per.github.io</loc>
-                <lastmod/>
                 <changefreq>weekly</changefreq>
                 <priority>0.5</priority>
                 <loc>https://jsj0per.github.io/SWEA_D3_4.html</loc>
@@ -74,7 +69,6 @@ layout: null
         </url>
         <url>
                 <loc>http://jsj0per.github.io</loc>
-                <lastmod/>
                 <changefreq>weekly</changefreq>
                 <priority>0.5</priority>
                 <loc>https://jsj0per.github.io/bj_lv1.html</loc>

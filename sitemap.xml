@@ -6,50 +6,22 @@ layout: null
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
         <url>
-                <loc>http://jsj0per.github.io</loc>
-                <changefreq>weekly</changefreq>
-                <priority>0.5</priority>
                 <loc>https://jsj0per.github.io/SSAFY_Start.html</loc>
         </url>
         <url>
-                <loc>http://jsj0per.github.io</loc>
-                <changefreq>weekly</changefreq>
-                <priority>0.5</priority>
                 <loc>https://jsj0per.github.io/SSAFY_Jan.html</loc>
-                <changefreq>weekly</changefreq>
-                <priority>0.5</priority>
         </url>
         <url>
-                <loc>http://jsj0per.github.io</loc>
-                <changefreq>weekly</changefreq>
-                <priority>0.5</priority>
                 <loc>https://jsj0per.github.io/SSAFY_Feb.html</loc>
-                <changefreq>weekly</changefreq>
-                <priority>0.5</priority>
         </url>
         <url>
-                <loc>http://jsj0per.github.io</loc>
-                <changefreq>weekly</changefreq>
-                <priority>0.5</priority>
                 <loc>https://jsj0per.github.io/SWEA_D1_2.html</loc>
-                <changefreq>weekly</changefreq>
-                <priority>0.5</priority>
         </url>
         <url>
-                <loc>http://jsj0per.github.io</loc>
-                <changefreq>weekly</changefreq>
-                <priority>0.5</priority>
                 <loc>https://jsj0per.github.io/SWEA_D3_4.html</loc>
-                <changefreq>weekly</changefreq>
-                <priority>0.5</priority>
         </url>
         <url>
-                <loc>http://jsj0per.github.io</loc>
-                <changefreq>weekly</changefreq>
-                <priority>0.5</priority>
                 <loc>https://jsj0per.github.io/bj_lv1.html</loc>
-                <changefreq>weekly</changefreq>
-                <priority>0.5</priority>
         </url>
         {% for page in site.posts %}
         <url>

@@ -5,40 +5,17 @@ layout: null
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{% for page in site.posts %}
-        <url>
-        <loc>{{ site.url }}{{ post.url }}</loc>
-        {% if post.lastmod == null %}
-                <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-        {% else %}
-                <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
-        {% endif %}
-
-        {% if post.sitemap.changefreq == null %}
-                <changefreq>weekly</changefreq>
-        {% else %}
-                <changefreq>{{ post.sitemap.changefreq }}</changefreq>
-        {% endif %}
-
-        {% if post.sitemap.priority == null %}
-                <priority>0.5</priority>
-        {% else %}
-                <priority>{{ post.sitemap.priority }}</priority>
-        {% endif %}
-        </url>
         <url>
                 <loc>http://jsj0per.github.io</loc>
                 <changefreq>weekly</changefreq>
                 <priority>0.5</priority>
                 <loc>https://jsj0per.github.io/SSAFY_Start.html</loc>
-                <lastmod>2025-01-01T12:00:00+09:00</lastmod>
         </url>
         <url>
                 <loc>http://jsj0per.github.io</loc>
                 <changefreq>weekly</changefreq>
                 <priority>0.5</priority>
                 <loc>https://jsj0per.github.io/SSAFY_Jan.html</loc>
-                <lastmod>2025-01-31T23:59:00+09:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.5</priority>
         </url>
@@ -47,7 +24,6 @@ layout: null
                 <changefreq>weekly</changefreq>
                 <priority>0.5</priority>
                 <loc>https://jsj0per.github.io/SSAFY_Feb.html</loc>
-                <lastmod>2025-02-14T23:59:00+09:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.5</priority>
         </url>
@@ -74,5 +50,26 @@ layout: null
                 <loc>https://jsj0per.github.io/bj_lv1.html</loc>
                 <changefreq>weekly</changefreq>
                 <priority>0.5</priority>
+        </url>
+        {% for page in site.posts %}
+        <url>
+        <loc>{{ site.url }}{{ post.url }}</loc>
+        {% if post.lastmod == null %}
+                <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+        {% else %}
+                <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+        {% endif %}
+
+        {% if post.sitemap.changefreq == null %}
+                <changefreq>weekly</changefreq>
+        {% else %}
+                <changefreq>{{ post.sitemap.changefreq }}</changefreq>
+        {% endif %}
+
+        {% if post.sitemap.priority == null %}
+                <priority>0.5</priority>
+        {% else %}
+                <priority>{{ post.sitemap.priority }}</priority>
+        {% endif %}
         </url>
 </urlset>

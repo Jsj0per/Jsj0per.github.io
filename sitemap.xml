@@ -6,6 +6,9 @@ layout: null
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
         <url>
+                <loc>https://jsj0per.github.io</loc>
+        </url>
+        <url>
                 <loc>https://jsj0per.github.io/SSAFY_Start.html</loc>
         </url>
         <url>
@@ -22,26 +25,4 @@ layout: null
         </url>
         <url>
                 <loc>https://jsj0per.github.io/bj_lv1.html</loc>
-        </url>
-        {% for page in site.posts %}
-        <url>
-        <loc>{{ site.url }}{{ post.url }}</loc>
-        {% if post.lastmod == null %}
-                <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-        {% else %}
-                <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
-        {% endif %}
-
-        {% if post.sitemap.changefreq == null %}
-                <changefreq>weekly</changefreq>
-        {% else %}
-                <changefreq>{{ post.sitemap.changefreq }}</changefreq>
-        {% endif %}
-
-        {% if post.sitemap.priority == null %}
-                <priority>0.5</priority>
-        {% else %}
-                <priority>{{ post.sitemap.priority }}</priority>
-        {% endif %}
-        </url>
 </urlset>

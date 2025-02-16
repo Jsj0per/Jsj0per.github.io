@@ -2,7 +2,7 @@
 title: "Shikoku pages"
 tagName: Shikoku
 search: exclude
-permalink: tag_Kansai.html
+permalink: tag_Shikoku.html
 sidebar: tagPage_sidebar
 folder: tags
 ---

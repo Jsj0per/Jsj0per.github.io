@@ -18,8 +18,6 @@ Student Developer who strives to become a developer who goes step by step.
 
 ## Ability(Tech Stacks)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsj0per)](https://github.com/anuraghazra/github-readme-stats)  
-
 | Name       | Details                                                                                                                                                                                                      |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | language   | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/java-E11F21?style=for-the-badge&logo=OpenJDK&logoColor=white"> |

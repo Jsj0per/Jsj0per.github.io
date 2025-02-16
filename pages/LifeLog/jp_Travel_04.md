@@ -1,5 +1,5 @@
 ---
-title: Kansai_Uji_Kyoto
+title: Kansai_Uji_Kyoto_Travel
 keywords: [Travel, Japan]
 tags: [Travel, Japan, Kansai]
 summary: "Japan Travel Log 4th."

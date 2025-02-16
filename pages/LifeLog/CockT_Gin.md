@@ -117,9 +117,9 @@ IBA 공식 레시피. 현재 공식 레시피는 삭제.
 > 재료
 > 
 > > Gin  
-> > Crème de mint Green
-> > lemon Juice
-> > Sugar Syrup ( Simple Syrup )
+> > Crème de mint Green  
+> > lemon Juice  
+> > Sugar Syrup ( Simple Syrup )  
 > > Sparkling Water 
 
 상세 레시피는 원본 영상 참조.  

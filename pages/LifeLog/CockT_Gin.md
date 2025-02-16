@@ -106,3 +106,35 @@ IBA 공식 레시피. 현재 공식 레시피는 삭제.
 단 3개의 재료가 들어가고, 각 재료들이 전혀 얌전한 재료가 아닌 편이지만, 일단 카시스 이미지가 제일 강하고(즉, 특유의 복분자 비스무리한 향), 진 특유의 시원함이 따라오는 느낌이다. 다만, 내 입맛에는 너무 카시스 이미지가 강한 것 같아서 블로그에 적혀있는 레시피에서 카시스 양을 한 5ml 줄이고 사과주스를 5ml 늘여보아야겠다. 좀 더 조화를 이루는 비율이 있을 것 같다.
 
 ---
+
+## 에메랄드 쿨러
+
+[Top Page](#)  
+
+[![에메랄드_쿨러](http://img.youtube.com/vi/nPF-tCUmRGo/0.jpg)](https://www.youtube.com/shorts/nPF-tCUmRGo)  
+[영상 제작자: 어쿠스틱 드링크](https://www.youtube.com/@%EC%96%B4%EC%BF%A0%EC%8A%A4%ED%8B%B1%EB%93%9C%EB%A7%81%ED%81%AC)  
+
+> 재료
+> 
+> > Gin  
+> > Crème de mint Green
+> > lemon Juice
+> > Sugar Syrup ( Simple Syrup )
+> > Sparkling Water 
+
+상세 레시피는 원본 영상 참조.  
+
+### 그래서 만들었어?
+
+![에메랄드 쿨러](./CockT_Img/Emerald_cooler.jpg)  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6zI-PE_qfgA?si=vJJemCDq5F_do3JY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+
+### 맛은 어땠어?
+
+민트향과 솔향이 합쳐지고, 탄산수까지 더해지니 아주 극강의 시원함을 자랑한다.  
+거기에 레몬즙의 시트러스함이 킥이 되는데, 이미 심플시럽이 꽤 들어가서 그렇게 시게 느껴지지도 않는다.  
+안 그래도 야밤에 숙제 풀기랑 시험 대비를 한다고 집중이 안 되어서 한 잔 만들었다.  
+크렘 드 민트를 사두고 여태 안 쓰다가 오늘 처음 써봤는데, 생각보다 취향에 잘 맞는 한 잔이 마련된 것 같다.  
+
+---

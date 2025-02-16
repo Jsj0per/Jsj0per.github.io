@@ -177,7 +177,7 @@ USJ편에서 이어지는 이야기입니다.
 ![47 PicT](./trevel_JP/JP_05/47_PicT.jpg)
 ![48 PicT](./trevel_JP/JP_05/48_PicT.jpg)
 ![49 PicT](./trevel_JP/JP_05/49_PicT.jpg)
-![50 PicT](./trevel_JP/JP_05/50_PicT.jpg)
+![50 PicT](./trevel_JP/JP_05/50_PicT.jpg)  
 그러고나선 다시 교토 시내로 돌아와 잠시 이치란에 들러서 저녁을 먹고 나왔습니다.
 그리고 그날 저녁에 저는 숙소에 있는 목욕탕에 들러서 목욕한번 하고,
 딸기 우유 한잔 마신뒤 그대로 뻗어버렸답니다.

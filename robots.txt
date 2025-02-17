@@ -1,3 +1,4 @@
 Sitemap: https://jsj0per.github.io/sitemap.xml
-User-agent: *
+User-agent: Yeti
+User-agent: Googlebot
 Disallow:

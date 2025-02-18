@@ -2,5 +2,6 @@ User-agent: Yeti
 User-agent: Daumoa
 User-agent: Bingbot
 User-agent: Googlebot
-Disallow:
+Disallow: /LifeLog/ 
+Disallow: /mydoc/ 
 Sitemap: https://jsj0per.github.io/sitemap.xml

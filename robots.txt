@@ -1,6 +1,15 @@
 User-agent: Yeti
+Disallow: /LifeLog/ 
+Disallow: /mydoc/ 
+
 User-agent: Daumoa
+Disallow: /LifeLog/ 
+Disallow: /mydoc/ 
+
 User-agent: Bingbot
+Disallow: /LifeLog/ 
+Disallow: /mydoc/ 
+
 User-agent: Googlebot
 Disallow: /LifeLog/ 
 Disallow: /mydoc/ 

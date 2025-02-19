@@ -27,10 +27,10 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 > 재료
 > 
-> > Bourbon whiskey
-> > Maple Syrup    
-> > Lemon Juice
-> > Cinnamon Stick
+> > Bourbon whiskey  
+> > Maple Syrup  
+> > Lemon Juice  
+> > Cinnamon Stick  
 
 상세 레시피는 원본 영상 참조.  
 

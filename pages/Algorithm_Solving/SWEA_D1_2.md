@@ -550,7 +550,7 @@ for tc_index in range(1,test_case+1):
 
 ---
 
-## SWEA D2) 1926. 점점 커지는 당근의 개수
+## SWEA D2) 1926. 간단한 369문제
 
 [Top Page](#)
 

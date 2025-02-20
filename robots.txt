@@ -14,3 +14,5 @@ User-agent: Googlebot
 Disallow: /LifeLog/ 
 Disallow: /mydoc/ 
 Sitemap: https://jsj0per.github.io/sitemap.xml
+
+#DaumWebMasterTool:f1ab858722f5ae13873613c7862bd7e08b4c4233f97c671f600429d9dda2c584:JmWqqz+BUOP72ST9j9RiPA==

@@ -550,5 +550,48 @@ for tc_index in range(1,test_case+1):
 
 ---
 
+## SWEA D2) 1926. 점점 커지는 당근의 개수
+
+[Top Page](#)
+
+#### 문제 링크
+
+[SW Expert Academy 1926](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PTeo6AHUDFAUq&categoryId=AV5PTeo6AHUDFAUq&categoryType=CODE&problemTitle=1926&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+num = int(input()) # 반복할 숫자 입력
+
+num_list = [] # 출력할 숫자를 담을 리스트
+
+for i in range(1, num+1): # 하이픈을 입력시키기 위한 반복문
+    hypen_num = 0 # 하이픈 수 판별기
+    if i // 100 in (3,6,9): # 100의 자리 숫자 판별
+        hypen_num += 1
+    if (i % 100) // 10 in (3,6,9): # 10의 숫자를 판별
+        hypen_num += 1
+    if (i % 10) in (3,6,9): # 1의 숫자를 판별
+        hypen_num += 1
+    if hypen_num >= 1: # 확인된 숫자만큼 하이픈을 여러개 출력
+        num_list.append('-' * hypen_num)
+    else: # 이외에는 원래 숫자 입력
+        num_list.append(str(i))
+
+print(*num_list) # 언패킹으로 출력
+```
+
+#### 풀이 과정에 대한 사담
+앞서 푼 자릿수 더하기 문제의 한단계 업그레이드 판.  
+이지만 여전히 어렵지는 않은 문제다.  
+각 자리 수를 3, 6, 9인지 확인하게만 하고 그걸 하이픈으로 치환시키면 된다.  
+치환시키는 방식은 hypen_num 변수가 1,2,3의 경우에 맞게 각각 정의해줘도 되고(왜냐하면 최대값이 1000으로 고정되어 있어 많이 나와봐야 3이기 때문),  
+string 곱하기를 이용해도 된다.  
+
+---
 
 

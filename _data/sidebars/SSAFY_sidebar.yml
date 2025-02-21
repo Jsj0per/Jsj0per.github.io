@@ -29,19 +29,19 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: SSAFYcial Arti 01
+    - title: 잠싸시)13기 인터뷰편
       url: SSAFYcial_01.html
       output: web, pdf
 
-    - title: SSAFYcial Arti 02
+    - title: 준비중
       url: SSAFYcial_02.html
       output: web, pdf
 
-    - title: SSAFYcial Arti 03
+    - title: 준비중
       url: SSAFYcial_03.html
       output: web, pdf
 
-    - title: SSAFYcial Arti 04
+    - title: 준비중
       url: SSAFYcial_04.html
       output: web, pdf
 

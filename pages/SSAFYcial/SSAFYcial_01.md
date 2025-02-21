@@ -8,8 +8,6 @@ permalink: SSAFYcial_01.html
 folder: SSAFYcial
 ---
 
-## SSAFYcial)13기 기자단에게 인터뷰! (잠깐만_구미캠에서_시간_받아갈께요)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--7V6PN1UmU?si=MnWGb3cwGg_nLpz9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 SSAFYcial 13기 기자단이 이 자리에 등장!  

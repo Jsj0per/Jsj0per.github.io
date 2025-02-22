@@ -16,6 +16,5 @@ SSAFYcial 13기 기자단이 이 자리에 등장!
 
 SSAFY 기자단 인스타그램 주소(더 많은 기사를 볼 수 있는 곳): [https://www.instagram.com/hellossafycial](https://www.instagram.com/hellossafycial)  
 SSAFY 홈페이지: [www.ssafy.com](https://www.ssafy.com)  
-<p align: center>
-  <img src="SSAFYcial_namecard.png">
-</p>
+
+![SSAFYcial_namecard](SSAFYcial_namecard.png)

@@ -488,5 +488,44 @@ for 반복문을 활용하면 계속 fibo_1과 fibo_2를 갱신시킴으로서 �
 
 ---
 
+## BaekJ Brz) 25501. 재귀의 귀재
 
+[Top Page](#)
+
+#### 문제 링크
+
+[Baekjoon 25501](https://www.acmicpc.net/problem/25501)
+
+[답안 링크](http://boj.kr/339b5e2eb5ad4084adb342465583367d)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+def recursion(s, l, r):
+    global call_resursion # 카운트 하기위해 전역변수 설정
+    call_resursion += 1 # recursion의 횟수를 세기위한 += 1
+    if l >= r: return 1
+    elif s[l] != s[r]: return 0
+    else: return recursion(s, l+1, r-1)
+
+def isPalindrome(s):
+    return recursion(s, 0, len(s)-1)
+
+testcase = int(input())
+for tc_idx in range(1, testcase + 1):
+    call_resursion = 0
+    target_word = input()
+    print(f'{isPalindrome(target_word)} {call_resursion}') # 지문에서 시키는 대로 출력하자.
+```
+
+#### 풀이 과정에 대한 사담
+말이 재귀의 귀재이지, 재귀에 대한 답안은 다 문제에 선제시되어있어서, 사실상 def개념과 변수를 써먹을 줄 아는지,  
+그리고 이 코드들을 이해할 수 있는지만 할 수 있다면 브론즈 2 치고는 쉬운 문제인 편이다.  
+나는 글로벌 변수를 이용하여 간단히 풀었다.  
+
+---
 

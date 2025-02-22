@@ -594,4 +594,130 @@ string 곱하기를 이용해도 된다.
 
 ---
 
+## SWEA D2) 1979. 어디에 단어가 들어갈 수 있을까
+
+[Top Page](#)
+
+#### 문제 링크
+
+[SW Expert Academy 1979](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PuPq6AaQDFAUq)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+def blk_word_finder(puzzle_map, map_len):
+    global blk_word_list # 전역 변수 선언으로 편집
+    for verti_idx in range(len(puzzle_map)): # 가로 구하기
+        len_finder = 0
+        for horiz_idx in range(len(puzzle_map[verti_idx])): # 하나하나 선형검색하여 구하는 방식을 채택.
+            if puzzle_map[verti_idx][horiz_idx] == 1: # 1이 등장하면 칸수 판별기에 1씩 추가
+                len_finder += 1
+                if horiz_idx+1 == map_len: # 끝칸이면
+                    if len_finder > 1: # len_finder가 1 이상일 시
+                        blk_word_list.append(len_finder) # 리스트 추가 
+                        len_finder = 0
+            elif puzzle_map[verti_idx][horiz_idx] == 0: # 값이 0일시
+                if len_finder > 1: # len_finder가 1 이상일 시
+                    blk_word_list.append(len_finder) # 리스트 추가
+                    len_finder = 0
+                else: # 그게 아니면 그냥 초기화
+                    len_finder = 0
+ 
+    verti_map = list(zip(*puzzle_map)) # 놀랍게도 이 코드를 쓰면 세로줄이랑 가로줄이 뒤바뀐답니다. 대신 내부 코드는 튜플로 처리되니 주의.
+    for verti_idx in range(len(verti_map)): # 세로 구하기
+        len_finder = 0
+        for horiz_idx in range(len(verti_map[verti_idx])):
+            if verti_map[verti_idx][horiz_idx] == 1: # 1이 등장하면 칸수 판별기에 1씩 추가
+                len_finder += 1
+                if horiz_idx+1 == map_len:
+                    if len_finder > 1: # len_finder가 1 이상일 시
+                        blk_word_list.append(len_finder)  # 리스트 추가
+                        len_finder = 0
+            elif verti_map[verti_idx][horiz_idx] == 0:
+                if len_finder > 1: # len_finder가 1 이상일 시
+                    blk_word_list.append(len_finder) # 리스트 추가
+                    len_finder = 0
+                else: # 그게 아니면 그냥 초기화
+                    len_finder = 0
+ 
+ 
+ 
+testcase = int(input())
+ 
+for tc_idx in range(1, testcase + 1):
+    puzzle_map = []
+    blk_word_list = [] # 2칸 이상의 빈줄을 수집하는 리스트
+    ans = 0 # 빈칸으로 주어진 칸과 딱 맞게 일치하는 수를 구하는 변수
+ 
+    map_len, word_len = map(int, input().split()) # 가로 세로 길이 N과 단어의 길이 K
+    for map_maker_idx in range(map_len): # 지도 제작
+        map_maker = list(map(int, input().split()))
+        puzzle_map.append(map_maker)
+ 
+    blk_word_finder(puzzle_map, map_len) # def 호출
+ 
+    for i in range(len(blk_word_list)): # 2칸 이상의 빈칸을 조사해둔 리스트를 대상으로
+        if blk_word_list[i] == word_len: # 제시된 단어 길이와 완전 일치하는 수 만큼
+            ans += 1 # 답 1 추가
+ 
+    print(f'#{tc_idx} {ans}')
+```
+
+#### 풀이 과정에 대한 사담
+해당 문제의 중요한 점은, 딱 그 빈칸에 맞는 단어가 들어가게 해야한다는 점이다.  
+다 들어가고나서 빈칸이 남으면 안 된다.  
+나는 일일이 선형검색하는 식으로 길이 비교해서 맞으면 변수에 1더하는 식으로 대응했다.  
+
+---
+
+## SWEA D1) 9367. 점점 커지는 당근의 개수
+
+[Top Page](#)
+
+#### 문제 링크
+
+[SW Expert Academy 1926](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AW_nY2m6OLADFARY)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+test_case = int(input())
+for tc_index in range(1,test_case+1):
+    carrot_len = int(input()) # 당근 갯수 입력
+    carrot_list = list(map(int,input().split())) # 당근 리스트 입력
+ 
+    before_carrot = carrot_list[0] # 비교군이 될 0번 당근 값 먼저 저장
+    max_counting = 1 # 최대 연속 증가값 저장
+    counting = 1 # 연속 증가값 저장
+ 
+    for c_idx in range(1, carrot_len): # 0번 당근은 비교군으로 빼뒀으니 1번부터 확인
+        if max_counting < counting:  # 현 최대값과 비교하여 값이 더 크면
+            max_counting = counting  # 갱신한다.
+        if carrot_list[c_idx] > before_carrot: # 만약 커진다면
+            counting += 1 # 카운팅한다.
+        else: # 연속하지 않는다면
+            counting = 1 # 그리고 초기화한다.
+        before_carrot = carrot_list[c_idx] # 비교군을 교체한다.
+ 
+    if max_counting < counting:  # 종료전 마지막 갱신, 현 최대값과 비교하여 값이 더 크면
+        max_counting = counting  # 갱신한다.
+    print(f'#{tc_index} {max_counting}')
+
+```
+
+#### 풀이 과정에 대한 사담
+당근을 비교해서 값이 커지면 카운팅하고 연속해서 커지지 않으면 초기화 한다.  
+설명 끝.
+
+---
+
+
 

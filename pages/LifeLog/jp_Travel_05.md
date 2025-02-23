@@ -20,12 +20,12 @@ folder: LifeLog
 여기 라운지 바는 꽤 잘 만들었던 것 같습니다.  
 무엇보다 개방적인 분위기에 빌딩숲 뷰 덕분에 꽤 개방적인 분위기가 너무 좋았습니다.  
 
-![04_PicT](./trevel_JP/JP_06/04_PicT.jpg)
+![04_PicT](./trevel_JP/JP_06/04_PicT.jpg)  
 이후 저희는 시간이 되어서 다시 부산역으로 온 뒤 부산항국제여객터미널로 향했습니다.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j-vizSEh7YU?si=bcYZZVIqNenGemV6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![05_PicT](./trevel_JP/JP_06/05_PicT.jpg)
+![05_PicT](./trevel_JP/JP_06/05_PicT.jpg)  
 저희가 타고갈 배인 하마유호가 보이기 시작했습니다.  
 하마유호는 한국 선적인 성희호의 자매 선박으로, 하마유호가 일본 국적, 성희호가 한국 국적으로 각각 번갈아가면서 한국-시모노세키를 잇고 있습니다.  
 
@@ -58,7 +58,7 @@ folder: LifeLog
 ![19_PicT](./trevel_JP/JP_06/19_PicT.jpg)  
 하마유호의 경우 꽤나 오래된 배이긴하지만, 안에 욕장도 있고, 오락실도 있습니다.(참고로 슬롯머신도 있습니다... 의미는 없지만)
 
-![20_PicT](./trevel_JP/JP_06/20_PicT.jpg) 
+![20_PicT](./trevel_JP/JP_06/20_PicT.jpg)  
 그리고 저희는 침대칸에 배정되었습니다.  
 부관훼리는 2등실이 룸형 방과, 침대방 중 랜덤하게 배치되었는데, 저희는 원래 원했던 침대방으로 배치되어서 기분 좋은 시작을 할 수 있었습니다.  
 룸형 보다 침대칸을 선호한 이유가 침대는 커튼을 칠 수 있어서 최소한의 프라이버시는 보장되기 때문이었습니다.  

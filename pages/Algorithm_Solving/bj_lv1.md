@@ -530,3 +530,61 @@ for tc_idx in range(1, testcase + 1):
 
 ---
 
+## BaekJ Brz) 1333. 부재중 전화
+
+[Top Page](#)
+
+#### 문제 링크
+
+[Baekjoon 1333](https://www.acmicpc.net/problem/1333)
+
+[답안 링크](https://www.acmicpc.net/source/share/cd9c3e9af9e54f098a57dbd046953402)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+album_include, song_len, phone_bell = map(int, input().split()) # 정보 입력
+
+ans = 0 # 답 추출용
+do_not_disturb = [] # 노래 지속 시간과 노래 빈 시간 시각화
+
+for i in range(album_include): # 지도 제작
+    for j in range(song_len):
+        do_not_disturb.append(1) # 노래 들리는 부분
+
+    if i == album_include-1: # 노래가 끝나는 부분에는 멈추도록
+        break
+    else: # 노래와 노래 사이
+        for _ in range(5):
+            do_not_disturb.append(0) # 노래 안 들리는 부분
+
+ringringring = 0 # 전화 울리는 구간을 설정
+
+while True:
+    if ringringring >= len(do_not_disturb): # 노래가 끝났다면
+        ans = ringringring # 노래 끝나고 받음
+        break
+    elif do_not_disturb[ringringring] == 0: # 전화를 받을 수 있다면
+        ans = ringringring # 답으로 설정.
+        break
+    else: # 받을 수 없다면
+        ringringring += phone_bell # 다음 벨 울리는 지점으로 이동
+
+print(ans)
+```
+
+#### 풀이 과정에 대한 사담
+여러가지 푸는 방법이 있을 것 같지만, 나는 가장 익숙한 리스트로 지도를 그리는 방식으로 풀었다.  
+문제에서 노래 사이에는 5초간의 무음 구간이 있다고 하고 있으므로 노래가 끝난 직후부터 0으로 전화를 들을 수 있는 구간을 설정한다.  
+그렇게해서 노래가끝날때까지의 지도가 완성됐다면,  
+이제 전화벨이 울리는 곳을 이용하여 답을 구하면 된다.  
+빈 구간인 0이면 그 곳이 첫 전화를 받을 수 있는 답이 될거고, 아니면 계속 반복시키면 된다.  
+while문을 사용하였으므로 break로 탈출지점을 만들어 두는 것을 잊지말자.  
+
+---
+
+

@@ -128,8 +128,8 @@ folder: LifeLog
 여기가 맛이 상상이상으로 기가 막혔는데, 가격도 샐러드, 드링크, 디저트 포함 세트가 1300~1600엔 이었어가지고 가격마저 합리적이었어서 다음에 갈일이 있다면 다시한번 갈 것 같습니다.  
 링크: [VICINO Restaurant](https://maps.app.goo.gl/VQ9WW3YZfbSxFZUZA)  
 
-![52_PicT](./trevel_JP/JP_06/52_PicT.jpg)
-![53_PicT](./trevel_JP/JP_06/53_PicT.jpg)  
+![53_PicT](./trevel_JP/JP_06/53_PicT.jpg)
+![52_PicT](./trevel_JP/JP_06/52_PicT.jpg)  
 이후 저희는 숙소에서 좀 쉬다가 모지코를 향해 갔습니다.  
 실은 이날 제가 인대 파열상태라 덜 무리하려고 했는데, 모지코는 한번은 꼭 보고 싶어서,  
 친구에게 부탁해서 한번 가보자고 하였습니다.  

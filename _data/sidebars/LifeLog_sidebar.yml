@@ -31,24 +31,28 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: 1st Travel
+    - title: Nagoya(1st_Log)
       url: /jp_Travel_01.html
       output: web, pdf
 
-    - title: 2nd Travel
+    - title: Ureshino(2nd_Log)
       url: /jp_Travel_02.html
       output: web, pdf
 
-    - title: Short Travel Story 01
+    - title: Short Travel Log 01
       url: /jp_Travel_Short_01.html
       output: web, pdf
 
-    - title: 3rd Travel
+    - title: Osaka_USJ(3rd Log)
       url: /jp_Travel_03.html
       output: web, pdf
 
-    - title: 4th Travel
+    - title: Uji_Kyoto(4th Log)
       url: /jp_Travel_04.html
+      output: web, pdf
+
+    - title: Kitakyushu(5th Log)
+      url: /jp_Travel_05.html
       output: web, pdf
 
   - title: Cocktail

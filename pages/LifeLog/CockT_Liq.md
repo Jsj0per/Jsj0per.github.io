@@ -45,3 +45,35 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 ### 맛은 어땠어?
 
 강한 복숭아 향과 베이스를 받혀두는 은은한 사과향.  말이 필요없는 달달함.    
+
+---
+
+## 옥보단
+
+[Top Page](#)  
+
+[옥보단](https://namu.wiki/w/%EC%98%A5%EB%B3%B4%EB%8B%A8(%EC%B9%B5%ED%85%8C%EC%9D%BC)) 
+나무위키 레시피.    
+
+> 재료
+> > Peach Tree 15ml   
+> > Malibu 15ml  
+> > Lemon Juice 15ml
+> > Lime Juice 15ml  
+> > Grenadine Syrup 15ml    
+> > Orange Juice 20ml  
+
+1. 그레나딘 시럽을 제외한 모든 재료를 쉐이커에 넣고 쉐이킹 한다.    
+2. 칠링한 잔에 쉐이크한 음료를 붓고, 그레나딘 시럽을 조심히 붓는다.  
+3. 마시기전에 섞어 마신다.  
+
+### 그래서 만들었어?
+
+![옥보단](./CockT_Img/okbodan.jpg)  
+
+### 맛은 어땠어?
+
+칵테일 이름에 뭔가 야한 이름이 붙거나 관능적인 영화의 제목이 붙는다면 10중 8-9는 달달하고 도수가 약한 칵테일이다.  
+굉장히 달달하고 보는 맛도 좋은 유명 칵테일 중 하나.  
+
+---

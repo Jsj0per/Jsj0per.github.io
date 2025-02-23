@@ -29,7 +29,8 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 > 
 > > Tequila Reposado(변형)  
 > > Crème de Cassis   
-> > Lemon Juice   
+> > Lemon Juice
+> > Ginger Ale  
 > > Grenadine Syrup 2tsp(선택)  
 
 자세한 레시피는 원본 영상 참조.  

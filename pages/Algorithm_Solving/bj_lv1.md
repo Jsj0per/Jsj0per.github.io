@@ -587,4 +587,79 @@ while문을 사용하였으므로 break로 탈출지점을 만들어 두는 것�
 
 ---
 
+## BaekJ Brz) 1373. 2진수 8진수
+
+[Top Page](#)
+
+#### 문제 링크
+
+[Baekjoon 1373](https://www.acmicpc.net/problem/1373)
+
+[답안 링크](http://boj.kr/14db677ceed54f2e9f11b1b5fe1365cc)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+num_input = input()
+
+bi_ten = int(num_input, 2) # 2진수 -> 10진수 변환
+
+ten_oct = oct(bi_ten) # 10진수 -> 8진수 변환
+
+answer = ''
+
+for i in ten_oct[2:]: # 변환된 8진수 앞 2글자 제거
+  answer += i
+
+print(answer)
+```
+
+#### 풀이 과정에 대한 사담
+```python
+num_input = input()
+
+
+sum_result = 0
+reverse_num = ''
+
+for i in num_input: # 뒤집기
+  reverse_num = i + reverse_num
+
+for i in range(len(reverse_num)): # 2진수를 수동으로 해보자
+  if i==0:
+    sum_result += int(reverse_num[i]) * 1
+  else:
+    sum_result += int(reverse_num[i]) * (2**(int(i)))
+
+oct_list = []
+cycle_num = sum_result
+
+while True:
+  after_oct = cycle_num // 8
+  list_add = cycle_num % 8
+  oct_list.append(list_add)
+  if after_oct != 0:
+    cycle_num = after_oct
+  else:
+    break
+
+oct_list.reverse()
+
+answer = ''
+
+for i in oct_list:
+  answer = answer + str(i)
+
+print(answer)
+```
+처음에는 이렇게 풀려고 했었는데,(8진수 부분은 다른 사람 코드를 참조했다.) 문제에서 자릿수를 무식하게 많이 내주어서 이렇게 풀었다간 시간초과로 실패하기 때문에,  
+순순히 함수를 써서 풀었다.  
+그냥 함수만 잘 쓰면 되는 문제.  
+
+---
+
 

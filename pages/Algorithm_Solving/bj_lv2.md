@@ -157,3 +157,58 @@ for _ in range(testcase):
 이 문제를 업그레이드 한 문제가 바로 위 문제.  
 
 ---
+
+## BaekJ sil) 10828. 스택
+
+[Top Page](#)  
+
+#### 문제 링크
+
+[Baekjoon 10828](https://www.acmicpc.net/problem/10828)  
+
+[풀이 답안](http://boj.kr/b6953638fdef4b4f9032344ea53910b8)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+import sys
+
+testcase = int(sys.stdin.readline())
+
+stack = []
+for _ in range(testcase):
+    input_commend = sys.stdin.readline().split()
+
+    if input_commend[0] == 'pop':
+        if len(stack) < 1:
+            print('-1')  # 없으면 -1
+        else:
+            print(stack.pop())  # 있으면 그 값을 pop 하고 top -1
+    elif input_commend[0] == 'size':
+        print(len(stack))  # 현재 사이즈는 top+1(top은 현재 스택 제일 윗값의 인덱스(주소값)이므로 항상 1이 적다. 따라서 1 더하면 지금 현재 저장값이다)
+    elif input_commend[0] == 'empty':
+        if len(stack) == 0:
+            print('1')  # 비어있으면 1
+        else:
+            print('0')  # 뭔가 있으면 0
+    elif input_commend[0] == 'top':
+        if len(stack) < 1:
+            print('-1')  # 없으면 -1
+        else:
+            print(stack[len(stack)-1])  # 스택의 탑값을 인덱스로 불러와서 출력
+    else:
+        stack.append(input_commend[1])  # push 하고 top +1
+```
+
+#### 풀이 과정에 대한 사담
+
+스택 문제 익숙해지기 프로젝트, 이제 스택은 꽤 익숙해졌으니 다른 걸로 나아가도 될 듯 하다.  
+이 문젠 골 떄리게도 sys를 안 쓰면 무조건 틀린다.  
+그거 이외에는 요구하는 방식대로 코드를 작성해서 풀면 된다.  
+
+---
+

@@ -212,13 +212,13 @@ for _ in range(testcase):
 
 ---
 
-## BaekJ sil) 10828. 스택
+## BaekJ sil) 10845. 큐
 
 [Top Page](#)  
 
 #### 문제 링크
 
-[Baekjoon 10828](https://www.acmicpc.net/problem/10828)  
+[Baekjoon 10845](https://www.acmicpc.net/problem/10845)  
 
 [풀이 답안](http://boj.kr/b6953638fdef4b4f9032344ea53910b8)
 

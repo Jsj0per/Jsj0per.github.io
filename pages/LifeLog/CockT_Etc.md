@@ -73,14 +73,14 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 > > (변형)Korean Soju(국순당 려 40도(쌀+고구마))  
 > > Triple Sec  
 > > Apple Pucker  
-> > Lime Juice
+> > Lime Juice  
 > > (변형) Simple Syrup 5ml  
 
 상세 레시피는 원본 레시피 참조.  
 
 ### 그래서 만들었어?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_oXaXlUvt-w?si=01uPdziOd-jYaVTe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_M70-jch3-0?si=2GKOta4Jwx9AMqQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 ![풋사랑_1](./CockT_Img/puppy_love.jpg)  
 

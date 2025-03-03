@@ -95,7 +95,7 @@ while True:
 
 ---
 
-## BaekJ sil) 9012. 균형잡힌 세상
+## BaekJ sil) 9012. 괄호
 
 [Top Page](#)  
 

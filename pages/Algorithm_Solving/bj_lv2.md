@@ -212,3 +212,64 @@ for _ in range(testcase):
 
 ---
 
+## BaekJ sil) 10828. 스택
+
+[Top Page](#)  
+
+#### 문제 링크
+
+[Baekjoon 10828](https://www.acmicpc.net/problem/10828)  
+
+[풀이 답안](http://boj.kr/b6953638fdef4b4f9032344ea53910b8)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+import sys
+from collections import deque
+
+testcase = int(sys.stdin.readline())
+
+que_list = deque([])
+
+for _ in range(testcase):
+    commend_input = sys.stdin.readline().split()
+
+    if commend_input[0] == 'pop':
+        if len(que_list) < 1: # 만약 큐에 들어있는 정수가 없는 경우에는 -1을 출력한다.
+            print('-1')
+        else: # 큐에서 가장 앞에 있는 정수를 빼고, 그 수를 출력한다.
+            print(que_list.popleft())
+    elif commend_input[0] == 'size': # 큐에 들어있는 정수의 개수를 출력한다.
+        print(len(que_list))
+    elif commend_input[0] == 'empty':
+        if len(que_list) < 1:
+            print('1') # 큐가 비어있으면 1
+        else:
+            print('0') # 아니면 0을 출력한다.
+    elif commend_input[0] == 'front': # 큐의 가장 앞에 있는 정수를 출력한다.
+        if len(que_list) < 1: # 만약 큐에 들어있는 정수가 없는 경우에는 -1을 출력한다.
+            print('-1')
+        else:
+            print(que_list[0])
+    elif commend_input[0] == 'back': # 큐의 가장 뒤에 있는 정수를 출력한다
+        if len(que_list) < 1: # 만약 큐에 들어있는 정수가 없는 경우에는 -1을 출력한다.
+            print('-1')
+        else:
+            print(que_list[len(que_list)-1])
+    else:
+        que_list.append(commend_input[1]) # 정수 X를 큐에 넣는 연산이다.
+```
+
+#### 풀이 과정에 대한 사담
+
+큐 문제 익숙해지기 프로젝트.  
+스택이 익숙해지니 자동적으로 큐도 이해해버렸다.  
+내가 이걸 이해못하서 2주간 마음고생 심했던거 생각하니 너무 허무하게 풀리고 이해해버려서 좀 싱숭생숭하다.  
+큐 문제는 deque라는 좋은 함수가 있기 때문에 이를 이용해서 풀면 된다.  
+
+---

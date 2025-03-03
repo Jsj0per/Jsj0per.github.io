@@ -657,9 +657,42 @@ for i in oct_list:
 print(answer)
 ```
 처음에는 이렇게 풀려고 했었는데,(8진수 부분은 다른 사람 코드를 참조했다.) 문제에서 자릿수를 무식하게 많이 내주어서 이렇게 풀었다간 시간초과로 실패하기 때문에,  
-순순히 함수를 써서 풀었다.  
+순순히 함수를 써서 풀었다. 물론 알고리즘 통과 유무를 확인할 수 없으니 테스트 케이스에 대한 답만 확인가능하고 이 식이 작동 되는지는 모르겠다.  
 그냥 함수만 잘 쓰면 되는 문제.  
 
 ---
 
+## BaekJ Brz) 12605. 단어순서 뒤집기
 
+[Top Page](#)
+
+#### 문제 링크
+
+[Baekjoon 12605](https://www.acmicpc.net/problem/12605)
+
+[답안 링크](http://boj.kr/eafff46f37f1426ea664763385be1d2f)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+testcase = int(input())
+
+for tc_idx in range(1, testcase+1):
+    word_list = input().split()
+
+    for i, j in zip(range(len(word_list)), range(len(word_list)-1, -1, -1)):
+        if i < j: # ij가 추월하지 않는 한,
+            word_list[i], word_list[j] = word_list[j], word_list[i] # swap
+
+    print(f'Case #{tc_idx}:', *word_list)
+```
+
+#### 풀이 과정에 대한 사담
+워밍업 풀이 문제.  
+분류에는 스택이라 되어있지만, 솔직히 스와프로 푸는게 더 쉽다.  
+
+---

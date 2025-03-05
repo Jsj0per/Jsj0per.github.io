@@ -39,7 +39,7 @@ IBA 공식 레시피. 현재 공식 레시피는 삭제.
 
 ### 그래서 만들었어?
 
-![모스코뮬](./CockT_Img/moscow_mule.jpg)  
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgVE_2TvIcNqfBTEH?embed=1&height=1024" width="auto" height="1024" />  
 
 ### 맛은 어땠어?
 
@@ -68,7 +68,7 @@ IBA 공식 레시피.  그러나 본인은 여기서 조금 변형.
 
 ### 그래서 만들었어?
 
-![코스모폴리탄](./CockT_Img/Cosmopolitan.jpg)  
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgUcWby2pmqtpwcxD?embed=1&height=1024" width="auto" height="1024" />  
 
 ### 맛은 어땠어?
 

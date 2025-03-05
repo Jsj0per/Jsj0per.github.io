@@ -36,9 +36,10 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 자세한 레시피는 원본 영상 참조.  
 
 ### 그래서 만들었어?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S9mTOTw7VU0?si=y_jaFKZbjD2xAUv6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
-![엘_디아블로](./CockT_Img/el_diablo.jpg)  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S9mTOTw7VU0?si=y_jaFKZbjD2xAUv6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgUgcGxscNWmWEMPb?embed=1&height=1024" width="auto" height="1024" />   
 
 ### 맛은 어땠어?
 

@@ -10,7 +10,7 @@ folder: LifeLog
 
 -2023년 10월 17일~10월 22일 친구들과 도쿄여행
 
-![01_PicT](./trevel_JP/JP_03/01_PicT.jpg)
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgxo33okp8e8OdNuT?embed=1&height=1024" width="auto" height="1024" />  
 
 이번 편에서는 사진을 제가 많이 안 찍어서 따로 이야기로 엮기는 어려웠던 여행들을 뭉쳐서 간단하게 말해보는 시간을 가지겠습니다.
 
@@ -36,20 +36,20 @@ folder: LifeLog
 숙소는 반드시 리뷰를 세세하게 읽어보고 특히 에어비앤비라면 리뷰가 많은 숙소를 잡으시는 편을 추천드립니다.  
 리뷰가 이상하리 적은 숙소는 저처럼 똥밟는 경우가 많은지라...  
 
-![02_PicT](./trevel_JP/JP_03/02_PicT.jpg)
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgxkdlEHKcEdobAfv?embed=1&height=1024" width="auto" height="1024" />  
 
 [이마카츠 긴자점](https://maps.app.goo.gl/1FntnLdgN7V1n4iE8)  
 그래도 첫날 도쿄 긴자에서 먹은 첫끼는 매우 훌륭했습니다.  
 참고로 이 돈까스집 도쿄 긴자의 이마카츠라는 곳인데, 진짜 존맛이라 꼭 드셔보시는거 추천드립니다.  
 
-![03_PicT](./trevel_JP/JP_03/03_PicT.jpg)
-![04_PicT](./trevel_JP/JP_03/04_PicT.jpg)
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgxt2u2AZylUP02-q?embed=1&height=1024" width="auto" height="1024" />
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgxxMBUsq6gJEaUFa?embed=1&width=1024" width="1024" height="auto" />  
 
 그래도 아키바는 왔으니 구경은 안 할수 없기에 친구들이랑 같이 아키바를 다니고,  
 노래방 가서 음료수 실컷 마시면서 노래도 부르고 했었다는 해피엔딩...  
 
-![05_PicT](./trevel_JP/JP_03/05_PicT.jpg)
-![06_PicT](./trevel_JP/JP_03/06_PicT.jpg)
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgx2R-_eeXA9U9XKY?embed=1&height=1024" width="auto" height="1024" />
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgx4E0WvbF66WtTdN?embed=1&width=1024" width="1024" height="auto" />  
 
 스카이트리도 올라가고 그 유명한 시부야 스크램블도 구경했다고 합니다.(두 날 각각 다른 날짜에 갔습니다)  
 참고로 시부야 간 날 시부야 돈키에서 쇼핑에 빠져있다가 결국 차 끊어지고 택시타고 갔다는 엔딩.  
@@ -57,7 +57,7 @@ folder: LifeLog
 여러분들도 일본어 N2정도 실력만 가지신다면 택시기사님과 즐겁게 프리토킹이 가능해집니다.(물론 더듬더듬 거리긴 하지만, 애초에 일본분들은 저희가 일본어로 대화가 이어진다는것 자체만으로도 굉장히 신기해하고 접대를 편하게 하실 수 있으시다고 감사해하십니다. 공부 열심히 했다구...)  
 겁먹지말고 다들 도전해보세요. 원래 외국어는 자신감과 목적성이 가장 중요하니까요. 열심히 공부해서 일본분들과 자유롭게 이야기하면 엄청 재밌어요!  
 
-![07_PicT](./trevel_JP/JP_03/07_PicT.jpg)
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgx-_XbrEhzmkR4ND?embed=1&height=1024" width="auto" height="1024" />  
 
 -관련 여행이야기(여동생들과의 오사카-교토 여행  2024년 1월 21일~1월 25일, 차회 여행기에 올릴 예정)  
 
@@ -67,16 +67,16 @@ folder: LifeLog
 여러분들도 아침 비행기를 끊어둔게 아니라면 연착으로 인한 첫날 일정 꼬임은 대비를 해두시고,  
 첫날에는 클로즈 시간이 빠른 장소나 식당, 중요한 일정은 안 해두시는 편이 좋을 것 같습니다.  
 
-![08_PicT](./trevel_JP/JP_03/08_PicT.jpg)
-![09_PicT](./trevel_JP/JP_03/09_PicT.png)
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgyAnAAncca1QIVLK?embed=1&width=1024" width="1024" height="auto" />
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgyE-__MEGpZiopB4?embed=1&width=1024" width="1024" height="auto" />  
 
 첫날은 야간 개장을 하는 오코노미야끼-몬자야끼 집을 왔습니다.  
 
 엥? 오사카는 오코노미야끼가 유명한데, 왜 굳이 도쿄 특산인 몬자야끼? 하시는 분들도 계실텐데...  
 단순합니다. 첫째 여동생이 몬쟈야끼를 너무 좋아해서 둘다 가능한 식당을 고려해서 일부러 왔습니다.  
 
-![10_PicT](./trevel_JP/JP_03/10_PicT.jpg)
-![11_PicT](./trevel_JP/JP_03/11_PicT.jpg)
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgyL-9JWq-lk6rMTE?embed=1&height=1024" width="auto" height="1024" />
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgyMZyXgUGNbkm0wL?embed=1&height=1024" width="auto" height="1024" />  
 
 그래도 몬자야끼를 꽤 맛있게 잘 해주셨고, 특히 여기 메론소다 플로트가 굉장히 맛있었던 기억이 납니다.  
 다만, 완전 현지 식당이라 그런지 한국어 메뉴는 아예 없어서 동생에게 파파고 번역을 시켜서 보여주고 주문하였습니다.  
@@ -90,8 +90,8 @@ folder: LifeLog
 
 저희가 갔던 지점은 폐업했고, 우메다점에 가시면 즐기실 수 있을겁니다.  
 
-![12_PicT](./trevel_JP/JP_03/12_PicT.jpg)
-![13_PicT](./trevel_JP/JP_03/13_PicT.jpg)
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgyS9wrxnj767N4bv?embed=1&height=1024" width="auto" height="1024" />
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgyU380uWY6lEzcmf?embed=1&height=1024" width="auto" height="1024" />  
 
 -관련 여행이야기(2번 여행기 2023년 1월 11일~14일)
 
@@ -107,11 +107,11 @@ folder: LifeLog
 여튼 이 아루아루시티가 규모는 아키하바라나 덴덴타운에 비할바가 못 되지만, 그래도 우리나라의 어지간한 오타쿠 거리보단 규모가있고 무엇보다 한 건물 전체에 온갖 오타쿠 가게들이 뭉쳐져 있어서 이동 동선이 굉장히 깔끔하고 편하게 쇼핑이 가능하다는 장점이 있습니다.  
 규모도 매우 큰 편이고 메이도리밍, 유포터블같은 오덕카페, 정글, 스루가야, 카드라보, 게이머즈, 라신반, 멜론북스, 애니메이트, 만다라케등등 주요 네임드 오덕가게들이 이 한건물에 다 뭉쳐져 있습니다. 만화 박물관도 있으니 흥미있으신 분들은 이거 하나만 바라보고 기타큐슈를 방문해도 무방할 정도입니다.  
 
-![14_PicT](./trevel_JP/JP_03/14_PicT.jpg)
-![15_PicT](./trevel_JP/JP_03/15_PicT.jpg)
-![16_PicT](./trevel_JP/JP_03/16_PicT.jpg)
-![17_PicT](./trevel_JP/JP_03/17_PicT.jpg)
-![18_PicT](./trevel_JP/JP_03/18_PicT.jpg)
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgybFRlcvl6p3bMJ0?embed=1&height=1024" width="auto" height="1024" />
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgyczkCOeHOUF6_Sc?embed=1&height=1024" width="auto" height="1024" />
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgyiQAMDcUraBLB0T?embed=1&height=1024" width="auto" height="1024" />
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgynVYWPd_OPQenSS?embed=1&height=1024" width="auto" height="1024" />
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgysOMd8kRFRM_Qxd?embed=1&height=1024" width="auto" height="1024" />  
 
 그러고나서 기타큐슈의 고성인 고쿠라 성으로 왔습니다.  
 후쿠오카의 성은 소실되어 성터만 조금 남아있고, 사실상 이 고쿠라성이 후쿠오카에서 가장 가까운 성이라고 보시면 될 것 같습니다.  
@@ -122,12 +122,12 @@ folder: LifeLog
 생각외로 한국에 긍정적인 자료들이 많이 전시되어있습니다.  
 한번쯤은 구경가셔도 괜찮을 듯 합니다.  
 
-![19_PicT](./trevel_JP/JP_03/19_PicT.jpg)
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgyrslLrl7J1cMbzz?embed=1&height=1024" width="auto" height="1024" />  
 
 참고로 성 옆에는 야사카 신사라고 좀 규모있는 신사가 있습니다.  
 오미쿠지를 하시고 싶으신 분 계시면 들러서 하나 뽑고 가시는 것도 나쁘지 않을 것 같습니다.  
 
-![20_PicT](./trevel_JP/JP_03/20_PicT.jpg)
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgywbLMfCngQ-vsvC?embed=1&width=1024" width="1024" height="auto" />  
 
 -2023년 3월 16일~ 3월 20일 여동생들과의 후쿠오카 여행  
 
@@ -137,7 +137,7 @@ folder: LifeLog
 같은 후쿠오카 시작 여행이라도 매번 다르게 느껴질 수 있는 점이 매력인 것 같습니다.  
 라지만, 이때도 귀찮아서 사진은 많이 안 찍었다는 점  
 
-![21_PicT](./trevel_JP/JP_03/21_PicT.jpg)
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgy0u9f2peIlXXLGU?embed=1&height=1024" width="auto" height="1024" />  
 
 참고로 이때는 유후인을 갔었습니다.  
 아침 8시에 있는 유후 특급 기차를 사전에 예약하고,  
@@ -146,15 +146,15 @@ JR패스를 이용하여 특급권 가격만 내고 운임을 무료로 하고 �
 여러분들은 최소 전날에 여유롭게 미리 발권하시는 편을 추천드립니다.  
 진짜 1분만 늦었다면 기차 놓쳤을 뻔 했습니다. ㅋㅋㅋㅋ  
 
-![22_PicT](./trevel_JP/JP_03/22_PicT.jpg)
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgy5sT5-MRUmlNV1O?embed=1&height=1024" width="auto" height="1024" />  
 
 유후인에 도착했습니다.  
 아침에 도착해서 그런지 역 앞은 생각보다 한산했습니다.  
 
-![23_PicT](./trevel_JP/JP_03/23_PicT.jpg)
-![24_PicT](./trevel_JP/JP_03/24_PicT.jpg)
-![25_PicT](./trevel_JP/JP_03/25_PicT.jpg)
-![26_PicT](./trevel_JP/JP_03/26_PicT.jpg)
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgy8b-hOUKNKi1_AN?embed=1&height=1024" width="auto" height="1024" />
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgzCAAymGS8FJaAY9?embed=1&width=1024" width="1024" height="auto" />
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgzF5TEnHJ3Rnj4s3?embed=1&height=1024" width="auto" height="1024" />
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgzIG8RKAkCgSLOYD?embed=1&height=1024" width="auto" height="1024" />  
 
 유후인은 진짜 각잡고 온천마을로 꾸민 소도시라 제가 앞서 소개드렸던 온천 마을들에 비하면 꽤 복작복작합니다.  
 심지어 이날은 평일에 갔는데도 사람들이 꽤 있었더군요.  
@@ -163,8 +163,7 @@ JR패스를 이용하여 특급권 가격만 내고 운임을 무료로 하고 �
 그래도 아기자기하고 맛집들과 간식집들은 엄청 많습니다.  
 요약하자면 온천 말고도 둘러볼 거리가 있다는게 핵심인 것 같네요.  
 
-![27_PicT](./trevel_JP/JP_03/27_PicT.jpg)
-
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgzMb5jSMJQYSOfeK?embed=1&width=1024" width="1024" height="auto" />  
 [사진 출처 겸 저희가 갔던 온천](https://hpdsp.jp/nurukawa/)  
 
 놀라웠던점은 의외로 대절탕 가격이 꽤 저렴했고, 온천욕 가격도 상당히 저렴했습니다.  
@@ -174,6 +173,5 @@ JR패스를 이용하여 특급권 가격만 내고 운임을 무료로 하고 �
 어쨋든 결론을 말하자면 유후인은 하루정도 투자해서 당일치기로 아침일찍 기차 타고 갔다가 마지막 유후인 특급 기차를 타고 돌아오면 딱 좋긴 했었습니다.  
 온천 예약도 따로 필요없고 그냥 가면 되서 몸은 편했던 기억이 나네요.  
 
-![28_PicT](./trevel_JP/JP_03/28_PicT.jpg)
-
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgzSqMbm_MsKH7sSB?embed=1&height=1024" width="auto" height="1024" />  
 이후는 적당히 놀다가 무사히 집에 돌아왔다고 합니다.  

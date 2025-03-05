@@ -13,14 +13,12 @@ folder: SSAFY_LIFE
 [Top Page](#)
 
 8시 30분 싸피 목걸이 배부, 8시 42분 출석.  
-
-![SSAFY_0107_01](./JanImg/SSAFY_0107_01.jpg)  
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQAaz4NwvtKOhp5H?embed=1&height=1024" width="auto" height="1024" />  
 첫날 목걸이 받으니까 이제 진짜 SSAFY 시작이구나 하는 느낌을 받았음.  
 싸피 강의장은 입구에서 가까운 곳에 있어서 통학하면 10분 정도 잡으면 좋겠다 싶었다.  
 첫날은 한 게 많지는 않고 전반적인 싸피에 대한 OT에 관련된 전달사항들 전파가 9to6에 거쳐서 진행되었다.  
 
-![SSAFY_0107_02](./JanImg/SSAFY_0107_02.jpg)  
-
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQIA96d8jedUj_gU?embed=1&height=1024" width="auto" height="1024" />  
 오늘의 점심 싸밥  
 
 낙지 볶음/삼겹삼합 중 택 1인데 나는 낚지 볶음 선택  

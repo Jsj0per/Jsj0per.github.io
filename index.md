@@ -7,7 +7,7 @@ permalink: index.html
 summary: This is my blog with everything about me as a developer. 
 ---
 
-![main_Image](./images/MyEmoji_20250129_231040_0.gif)
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEdaiccHpWsMroWKA?embed=1&width=720&height=720" width="720" height="720" />  
 
 ### 안녕하세요!
 
@@ -28,7 +28,3 @@ I wish you all the best today, and I hope you continue to do everything you wish
 今日一日も良いことばかりあるように願いながら望むことをすべて成し遂げることができる日々が続くことを祈ります。
 
 #### This blog is based on the Documentation Theme for Jekyll created by tomjohnson1492
-        
-        
-        
-

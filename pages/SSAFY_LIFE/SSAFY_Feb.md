@@ -25,7 +25,7 @@ folder: SSAFY_LIFE
 기본 문법에 이어서 함수, 모듈, 파이썬내 데이터에 OOP까지 길지 않은 기간내 제대로 배울 수 있다는 것은 놀랍다.  
 짧다면 짧고 길다면 긴 기간동안이었지만, 전혀 급하게 배웠다는 느낌은 들지 않았고 오히려 적당한 속도였다고 생각된다.  
 
-![SSAFY_0203_01](./FebImg/SSAFY_0203_01.jpg)  
+![SSAFY_0203_01](https://drive.google.com/uc?export=view&id=1hIaTsy0L4v6bd4R5uhKIFa76x0wo7OKy)  
 
 오늘의 점심은 뚝배기동태알곤탕/차슈 덮밥 중 택1 이었다.  
 
@@ -52,7 +52,7 @@ folder: SSAFY_LIFE
 오늘은 놀랍게도 파이썬을 배우는 마지막 날이다.  
 내일부터는 시험을 치고 알고리즘 수업으로 넘어간다는 것 같다.  
 
-![SSAFY_0204_01](./FebImg/SSAFY_0204_01.jpg)
+![SSAFY_0204_01](https://drive.google.com/uc?export=view&id=1O8r9ggEJba2VqHWADkZcnNp0h5belbp9)
 
 오늘의 점심은 삼겹살허브구이/짜장덮밥 이었다.  
 나는 삼겹살 허브구이를 택했는데, 내가 김치를 좀 싫어하는 편이라 김치를 빼고 달라고 부탁드렸더니 흔쾌히 해주셨다.  
@@ -105,7 +105,7 @@ folder: SSAFY_LIFE
 오늘도 알고리즘 스터디가 메인으로 진행되었다.  
 아는 개념인듯 하면서도 전체적으로 생소한 느낌이라 조금만 정신줄 놓으면 못 따라갈 느낌이 강하게 들었기 때문에 평소보다도 정신 바짝 차리고 들어야할 것 같다.
 
-![SSAFY_0206_01](./FebImg/SSAFY_0206_01.jpg)
+![SSAFY_0206_01](https://drive.google.com/uc?export=view&id=1R0NHw9cWr_3n6a8YxPIFW-ra9HrAxoga)
 
 오늘이 점심은 아구찜/삼겹카레 덮밥 중 택 일인데, 후자를 골랐다.  
 다만 이번의 삼겹살 토핑은 좀 많이 차고 말로 표현하기 뭐한 그런게 좀 있어서 저번에 비하면 아쉬웠다.  
@@ -137,7 +137,7 @@ folder: SSAFY_LIFE
 오늘 역시 알고리즘 주간이었다.  
 오늘은 앞으로 많이 쓸 알고리즘 풀이법 이라고 해서 평소보다 좀 더 집중해서 봤다.  
 
-![SSAFY_0207_01](./FebImg/SSAFY_02_07_01.jpg)
+![SSAFY_0207_01](https://drive.google.com/uc?export=view&id=1AIlQQn8NLe5KN5-IkDzJsRxoj8Iojm1c)
 
 오늘의 점심은 돈갈비찜/김치우동어묵전골 이였다.  
 돈갈비찜도 땡기긴했는데, 최근에 또 갈비를 먹기도 했고, 유독 김치나베/우동류들이 여기 맛있게 만드는것 같아서, 후자를 택했다.  
@@ -199,7 +199,7 @@ folder: SSAFY_LIFE
 
 아마 이번 주까지는 쭈욱 알고리즘 수업을 들을 것 같다.  
 
-![SSAFY_0210 01](./FebImg/SSAFY_0210_01.jpg)
+![SSAFY_0210_01](https://drive.google.com/uc?export=view&id=148jXWAdTQZqoXMXMLHsAp4mSlslnuZF4)
 
 오늘의 점심은 뚝배기닭볶음탕 & 당면사리 / 규동 이었다.  
 
@@ -213,7 +213,7 @@ folder: SSAFY_LIFE
 
 다음 시험은 개념 위주로 좀 더 공부하고 도전 해야 할 것 같다.
 
-![SSAFY_0210 02](./FebImg/SSAFY_0210_02.jpg)
+![SSAFY_0210_02](https://drive.google.com/uc?export=view&id=1mkQCzgwkH-txwoioCM7JPICWl8Kd-ffe)
 
 오늘은 정말 간만에 저녁 싸밥도 사먹었다.
 
@@ -237,7 +237,7 @@ folder: SSAFY_LIFE
 거기에 곧 첫 IM시험이 있다 보니 추가 대비로 문제를 더 풀다 보니 더더욱 늦게 잘 수 밖에 없는 것 같다.  
 어제자 숙제도 전체 반에서 딱 절반 순위로 풀었고, 문제 개념 해석에 gpt의 힘을 한 번 빌리긴 했으니, 아직 나는 개발자로 1인분 하려면 멀긴 멀었나 보다.  
 
-![SSAFY_0211 01](./FebImg/SSAFY_0211_01.jpg)
+![SSAFY_0211_01](https://drive.google.com/uc?export=view&id=17xz1KkJ7YBztlbhZ1vsu5cN9CdSVky_y)
 
 오늘 점심은 버섯소고기전골 / 야끼소바 중 택 1이었다.  
 전자 선택. 이유는 소고기 전골이 내 대학생활 소울푸드였었기 떄문에, 훨씬 친숙하고 정감가는 음식이기 떄문이다.  
@@ -258,9 +258,8 @@ folder: SSAFY_LIFE
 
 입실 8시 56분  
 
-![SSAFY_0212_01](./FebImg/SSAFY_0212_01.jpg)
-
-![SSAFY_0212_02](./FebImg/SSAFY_0212_02.jpg)
+![SSAFY_0212_01](https://drive.google.com/uc?export=view&id=13lMZpT_QuRfQOWssyUJ8GUGcaonDckDx)
+![SSAFY_0212_02](https://drive.google.com/uc?export=view&id=1x9K3AbjEJpqee15tPE-eD7jT60dSCSOn)  
 
 눈이 엄청나게 쌓여있고, 엄청나게 내려서 오늘 입실 전에 통학은 조심조심 하였다.  
 아 물론 스타벅스는 못 참는다.  아사히에이드 한잔 뽑고 딱 맞게 입실하였다.  
@@ -272,7 +271,7 @@ folder: SSAFY_LIFE
 그렇다고 주말은 안 바쁜 것 같은가? 아니다.
 기자단 기사는 이번 달부터 작성을 시작해야 한다.  진짜 할 일이 태산같이 쌓인다.
 
-![SSAFY_0212 03](./FebImg/SSAFY_0212_03.jpg)
+![SSAFY_0212_03](https://drive.google.com/uc?export=view&id=13xLKwb4uPgtEa3ZOTsTRsqxHdwfgZMV7)  
 
 오늘의 점심 싸밥은 오곡영양쌀밥/경양식돈까스 중 택1 이었다.
 후자를 택하긴했는데, 압도적일 정도로 돈까스로 줄이 몰리는 모습을 볼 수 있었다.  
@@ -305,7 +304,7 @@ folder: SSAFY_LIFE
 밀린 과제는 일단 주말로 미뤄버리고 다시보기 보면서 개념을 다시 리마인드 해나가는 방식으로 해결하려 시도를 해보기로 하고,  
 당장에 하루하루 쌓이는 과제들을 먼저 처리하는 것이 급선무라는 생각이 든다.  
 
-![SSAFY_0213_01](./FebImg/SSAFY_0213_01.jpg)
+![SSAFY_0213_01](https://drive.google.com/uc?export=view&id=1bQ1nQ6PaCimW99uOYgi-u78q48WpOz4p)  
 
 오늘의 점심은 쭈꾸미볶음밥 / 양지쌀국수 중 택 1이다.  
 
@@ -326,7 +325,7 @@ folder: SSAFY_LIFE
 
 입실 8시 52분  
 
-![SSAFY_0214_01](./FebImg/SSAFY_0214_01.png)
+![SSAFY_0214_01](https://drive.google.com/uc?export=view&id=1rr5zIEKEVijMBg2m0gVtZWOrzkeAT4vS)  
 
 여전히 바쁘고 힘든 일이 정말 많지만 블로그 관리는 최소 한도로 일기는 올리려고 행동하고 있다.  
 그래서인지 설 전후만 제외하면 현재까지는 빼곡하게 잔디가 심어지고 있다.  
@@ -335,7 +334,7 @@ folder: SSAFY_LIFE
 또한 영양가 없는 글만 계속 올리진 않는다.  알고리즘 스터디나 개인적인 공부로 푸는 알고리즘도 풀이 방법과 어떻게 접근했는지 같이 올리는 방식으로 착실히 정보도 올리고 있다.  
 아직까지는 보잘 것 없어보일지도 모르지만 이 모든게 쌓이면 나만의 개발 노트가 될지 혹시 누가 알겠는가?  
 
-![SSAFY_0214_02](./FebImg/SSAFY_0214_02.jpg)
+![SSAFY_0214_02](https://drive.google.com/uc?export=view&id=1ykb-6CgN-vFOjN6XpT5PPRExamDvTsaE)  
 
 오늘의 점심 싸밥은 산더미뼈찜/도쿄식 함박 스테이크 였다.  
 참고로 계란후라이도 있었는데 먼저 처리하고 정신차려보니 사진찍을땐 없게되었다.  
@@ -354,7 +353,6 @@ folder: SSAFY_LIFE
 오늘 저녁은 반 회식이 있을 예정이고 보충 수업도 있으므로 바로 칼퇴근 하였다.
 
 퇴실 18시 00분
-
 
 ---
 
@@ -396,8 +394,7 @@ SSAFY가 이런 점에서 일명 후발주자(슬로스타터)에게도 상당�
 딱히 걱정하고 있진 않다.  
 사실 이번 시험까지는 어렵지는 않은 부분이라 반드시 통과해야한다는 마음가짐으로 주말 중으로 꽤 공부 하고 도전했는데, 다행이도 집중 공부했는 부분에서 꽤 나왔다.  
 
-![SSAFY_0217_01](./FebImg/SSAFY_0217_01.jpg)
-
+![SSAFY_0217_01](https://drive.google.com/uc?export=view&id=1SzCALqg57g4YVx1aTtrG1avd-f1y9dw_)  
 오늘의 점심은 설렁탕과 해물짬뽕중에 선택이었는데,  
 여기 짬뽕은 괜찮은 편이라 짬뽕을 선택했다.  
 
@@ -429,7 +426,7 @@ SSAFY가 이런 점에서 일명 후발주자(슬로스타터)에게도 상당�
 개인적으로 둘 다 불호라서 오늘 점심은 자체 점심으로 해결하기로 하였다.  
 몰랐던 내용인데 가까운데 갈꺼면 잠깐은 캠퍼스 밖에 나가도 되는 모양이다.  
 하긴 담배 피는 장소가 캠퍼스 밖이라는 말을 들었는데, 나가면 안 된다는 말은 서로 안 맞는 점이 있었으니 말이다.  
-(참고로 나는 비흡연자라 더더욱 나갈 일이 없었다)  
+(참고로 나는 비흡연자라 더더욱 나갈 일이 없었다)   
 
 오후는 늘 그렇듯 알고리즘 공부다.  
 그런데… 오늘 자 수업 내용은 굉장히 빡세다.  
@@ -455,7 +452,7 @@ SSAFY가 이런 점에서 일명 후발주자(슬로스타터)에게도 상당�
 그거와 별개로 수업 내용의 난이도는 상당히 올라서 이젠 바로 한번만에 이해하기는 솔직히 너무 힘든 것 같다.  
 정신 똑바로 차리자.  
 
-![SSAFY_0219_01](./FebImg/SSAFY_0219_01.jpg)
+![SSAFY_0219_01](https://drive.google.com/uc?export=view&id=1miVqa6orxUxdy5yxXi6vWiJ75d7OzxXT)  
 
 오늘의 점심 싸밥은 삼겹 묵은지찜 / 김치볶음밥 중 택 1이었다.  
 전자를 택하긴 했는데, 생각보다 기름이 많아서 내가 생각했던 맛과 너무 차이나서 좀 실망했는듯?  
@@ -488,7 +485,7 @@ SSAFY가 이런 점에서 일명 후발주자(슬로스타터)에게도 상당�
 나는 불행하게도 코딩 속도나 이해 속도가 꽤 느리다고 스스로 생각하고 있기 때문에,  
 조금 아쉬운 것일 뿐이다.  
 
-![SSAFY_0220_01](./FebImg/SSAFY_0220_01.jpg)
+![SSAFY_0220_01](https://drive.google.com/uc?export=view&id=1BbVdhBqifRmeoUhmZma4Hi_7ewEuq59k)  
 
 오늘의 점심 싸밥은 매운 소갈비찜 / 장어 덮밥 중 택1인데,  
 둘 다 인기가 꽤 많았다.  
@@ -513,7 +510,7 @@ SSAFY가 이런 점에서 일명 후발주자(슬로스타터)에게도 상당�
 오늘부터 다시 원래의 코딩 파트로 돌아와 1주일간 프론트엔드 파트의 기본을 배운다.  
 저번 국비수업에서 프론트엔드 개념을 집중할 수 없는 상태에서 상당히 얕게 배웠는게 아쉬웠는데, 이번 기회에 제대로 배워서 프론트엔드를 겁내지 않는 개발자가 되길 기대해야겠다.  
 
-![SSAFY_0221_01](./FebImg/SSAFY_0221_01.jpg)
+![SSAFY_0221_01](https://drive.google.com/uc?export=view&id=13XJCqtURwOGqt-1iEOucTiyeqxxSDHa8)  
 
 오늘의 점심 싸밥은 돈목살미나리쌈 / 모둠까스 선택인데,  
 최근 돈까스를 먹기도 했었고, 모둠으로 나오는 건 별로 선호하지 않아서 전자를 선택했다.  
@@ -549,7 +546,7 @@ Do It! 코딩테스트 파이썬편을 보충강사님께 추천받아서 잠시
 
 ---
 
-# 4주차  
+# 4주차
 
 ## 2월 24일
 
@@ -565,7 +562,7 @@ Do It! 코딩테스트 파이썬편을 보충강사님께 추천받아서 잠시
 결론부터 말하자면 크게 겁먹을 정도는 아니었다.  
 파이썬 배운 내용으 토대로 코드 리딩 할 줄 알면 거의 어려움 없이 통과 가능한 정도였다.  
 
-![SSAFY_0222_01](./FebImg/SSAFY_0222_01.jpg)  
+![SSAFY_0224_01](https://drive.google.com/uc?export=view&id=1IxsDeA8vShzYXVcjITUatPT3_RwQS2cd)  
 오늘의 점심 싸밥은 육계장을 선택했다.
 급하게 먹고 해결해야할 일이 있어서 오늘은 좀 서둘러서 먹었다.  
 
@@ -577,7 +574,7 @@ Do It! 코딩테스트 파이썬편을 보충강사님께 추천받아서 잠시
 어쨋든 결승까지 가게되었는데, 아쉽게 파울관련 처리를 거의 못하여서 탈락하긴 하였다.  
 재밌긴 했는데 아아... 1시간만 좀 더 있었다면 더 좋게 만들 수 있었을 것 같았는데 아쉽다.  
 
-![SSAFY_0222_02](./FebImg/SSAFY_0222_02.jpg)  
+![SSAFY_0224_02](https://drive.google.com/uc?export=view&id=1JB7kQIK_W-77OC2mTPabZYP1ihSAmOTT)  
 오늘은 SSAFY DAY라 간단한 레크레이션과 간식을 선물받았다.  
 맛있었다. 근데 좀 내 입맛에 달아서 마실게 들어가는듯 ㅎ.  
 
@@ -632,7 +629,7 @@ Do It! 코딩테스트 파이썬편을 보충강사님께 추천받아서 잠시
 오늘은 할게 좀 많다.  
 할게 없었던 적이 어디 있었냐만, 오늘은 평소 루틴에 스터디까지 있기 때문에 퇴실전까지 과제/숙제만큼은 다 끝낸다는 마음가짐으로 임하고 비장하게 하루를 시작하였다.   
 
-![SSAFY_0226_01](./FebImg/SSAFY_0226_01.jpg)  
+![SSAFY_0226_01](https://drive.google.com/uc?export=view&id=1S_v_gQduxS9PegBHAM64nSPMFTbwaLvL)  
 오늘은 순대국밥 vs 후라이드 치킨인데, 본인은 순대국밥을 선택했다.  
 물론 요즘 후라이드 치킨을 밖에서 먹으려면 비싸지만… 나는 애석하게도 순살파다.  
 
@@ -689,14 +686,13 @@ Do It! 코딩테스트 파이썬편을 보충강사님께 추천받아서 잠시
 물론 완벽하다는 의미는 아니다. 심지어 아직도 스스로 코드를 그려낼 자신은 아직 없다.  
 그래도 아예 이해조차 안 되던 예전에 비하면 장족의 발전이라 볼 수 있겠다.  
 남은 시간은 많지 않지만 차근차근 밟아가는 것일 뿐이다.  
-
-![SSAFY_0228_01](./FebImg/SSAFY_0228_01.jpg)  
+![SSAFY_0228_01](https://drive.google.com/uc?export=view&id=1Q-CNZ50i0-zaqP8Pp4zarRNmY1Wptcb2)    
 오늘의 점심 싸밥은 자반고등어구이/우육탕면 중 택1 이다.  
 나는 우육탕면을 선택했다.  
 더 할말 없이 그냥 무난하게 맛있었다.  
 
-![SSAFY_0228_02](./FebImg/SSAFY_0228_02.jpg)
-![SSAFY_0228_03](./FebImg/SSAFY_0228_03.jpg)  
+![SSAFY_0228_02](https://drive.google.com/uc?export=view&id=1Pkn9vVnUajv_1OvuDrae5vRNpqsIRgMX)
+![SSAFY_0228_03](https://drive.google.com/uc?export=view&id=1WMzBnINf3YqVXuzaIS0FFr8u8xg7772t)    
 오늘은 간만에 사진좀 남겼는데, 관통 프로젝트의 날인데 웹 부분을 제작하는 날이다.  
 굳이 분류하자면 프론트엔드 파트를 하는거라 볼 수 있겠다.  
 아직 장고 프레임워크를 안 배워서 기본 html과 부트스트랩으로 하는 기초적인 수준이지만,  

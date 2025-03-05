@@ -69,12 +69,12 @@ carousels:
 그래도 첫날 도쿄 긴자에서 먹은 첫끼는 매우 훌륭했습니다.  
 참고로 이 돈까스집 도쿄 긴자의 이마카츠라는 곳인데, 진짜 존맛이라 꼭 드셔보시는거 추천드립니다.  
 
-  {% include carousel.html height="auto" unit="%" duration="7" number="1" %}
+  {% include carousel.html height="100" unit="%" duration="7" number="1" %}
 
 그래도 아키바는 왔으니 구경은 안 할수 없기에 친구들이랑 같이 아키바를 다니고,  
 노래방 가서 음료수 실컷 마시면서 노래도 부르고 했었다는 해피엔딩...  
 
-  {% include carousel.html height="auto" unit="%" duration="7" number="2" %}
+  {% include carousel.html height="100" unit="%" duration="7" number="2" %}
 
 스카이트리도 올라가고 그 유명한 시부야 스크램블도 구경했다고 합니다.(두 날 각각 다른 날짜에 갔습니다)  
 참고로 시부야 간 날 시부야 돈키에서 쇼핑에 빠져있다가 결국 차 끊어지고 택시타고 갔다는 엔딩.  
@@ -92,14 +92,14 @@ carousels:
 여러분들도 아침 비행기를 끊어둔게 아니라면 연착으로 인한 첫날 일정 꼬임은 대비를 해두시고,  
 첫날에는 클로즈 시간이 빠른 장소나 식당, 중요한 일정은 안 해두시는 편이 좋을 것 같습니다.  
 
-  {% include carousel.html height="auto" unit="%" duration="7" number="3" %}
+  {% include carousel.html height="100" unit="%" duration="7" number="3" %}
 
 첫날은 야간 개장을 하는 오코노미야끼-몬자야끼 집을 왔습니다.  
 
 엥? 오사카는 오코노미야끼가 유명한데, 왜 굳이 도쿄 특산인 몬자야끼? 하시는 분들도 계실텐데...  
 단순합니다. 첫째 여동생이 몬쟈야끼를 너무 좋아해서 둘다 가능한 식당을 고려해서 일부러 왔습니다.  
 
-  {% include carousel.html height="auto" unit="%" duration="7" number="4" %}
+  {% include carousel.html height="100" unit="%" duration="7" number="4" %}
 
 그래도 몬자야끼를 꽤 맛있게 잘 해주셨고, 특히 여기 메론소다 플로트가 굉장히 맛있었던 기억이 납니다.  
 다만, 완전 현지 식당이라 그런지 한국어 메뉴는 아예 없어서 동생에게 파파고 번역을 시켜서 보여주고 주문하였습니다.  
@@ -113,7 +113,7 @@ carousels:
 
 저희가 갔던 지점은 폐업했고, 우메다점에 가시면 즐기실 수 있을겁니다.  
 
-  {% include carousel.html height="auto" unit="%" duration="7" number="5" %}
+  {% include carousel.html height="100" unit="%" duration="7" number="5" %}
 
 -관련 여행이야기(2번 여행기 2023년 1월 11일~14일)
 
@@ -129,8 +129,8 @@ carousels:
 여튼 이 아루아루시티가 규모는 아키하바라나 덴덴타운에 비할바가 못 되지만, 그래도 우리나라의 어지간한 오타쿠 거리보단 규모가있고 무엇보다 한 건물 전체에 온갖 오타쿠 가게들이 뭉쳐져 있어서 이동 동선이 굉장히 깔끔하고 편하게 쇼핑이 가능하다는 장점이 있습니다.  
 규모도 매우 큰 편이고 메이도리밍, 유포터블같은 오덕카페, 정글, 스루가야, 카드라보, 게이머즈, 라신반, 멜론북스, 애니메이트, 만다라케등등 주요 네임드 오덕가게들이 이 한건물에 다 뭉쳐져 있습니다. 만화 박물관도 있으니 흥미있으신 분들은 이거 하나만 바라보고 기타큐슈를 방문해도 무방할 정도입니다.  
 
-  {% include carousel.html height="auto" unit="%" duration="7" number="6" %}
-
+  {% include carousel.html height="100" unit="%" duration="7" number="6" %}
+  
 그러고나서 기타큐슈의 고성인 고쿠라 성으로 왔습니다.  
 후쿠오카의 성은 소실되어 성터만 조금 남아있고, 사실상 이 고쿠라성이 후쿠오카에서 가장 가까운 성이라고 보시면 될 것 같습니다.  
 
@@ -169,7 +169,7 @@ JR패스를 이용하여 특급권 가격만 내고 운임을 무료로 하고 �
 유후인에 도착했습니다.  
 아침에 도착해서 그런지 역 앞은 생각보다 한산했습니다.  
 
-  {% include carousel.html height="auto" unit="%" duration="7" number="7" %}
+  {% include carousel.html height="100" unit="%" duration="7" number="7" %}
 
 유후인은 진짜 각잡고 온천마을로 꾸민 소도시라 제가 앞서 소개드렸던 온천 마을들에 비하면 꽤 복작복작합니다.  
 심지어 이날은 평일에 갔는데도 사람들이 꽤 있었더군요.  

@@ -40,7 +40,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 ### 그래서 만들었어?
 
-![도화](./CockT_Img/peach_flower.jpg)  
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgVOqh7lCD-y-6cM9?embed=1&height=1024" width="auto" height="1024" />  
 
 ### 맛은 어땠어?
 
@@ -56,6 +56,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 나무위키 레시피.    
 
 > 재료
+> 
 > > Peach Tree 15ml   
 > > Malibu 15ml  
 > > Lemon Juice 15ml
@@ -69,7 +70,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 ### 그래서 만들었어?
 
-![옥보단](./CockT_Img/okbodan.jpg)  
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgVJVV1VbvC47s8a5?embed=1&height=1024" width="auto" height="1024" />  
 
 ### 맛은 어땠어?
 

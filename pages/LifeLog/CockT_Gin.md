@@ -36,9 +36,8 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 ### 그래서 만들었어?
 
-![진 데이즈](./CockT_Img/Gin_Daisy.jpg)  
-
-야매식으로 만들어서 영상처럼 이쁘게는 안 나옵니다.
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgU7FfCLIFo8jpXZM?embed=1&height=1024" width="auto" height="1024" />
+야매식으로 만들어서 영상처럼 이쁘게는 안 나옵니다.  
 
 ### 맛은 어땠어?
 
@@ -68,7 +67,7 @@ IBA 공식 레시피. 현재 공식 레시피는 삭제.
 
 ### 그래서 만들었어?
 
-![비스니즈](./CockT_Img/bees_knees.jpg)  
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgUS-PdQmwxxu2flu?embed=1&height=1024" width="auto" height="1024" />  
 
 ### 맛은 어땠어?
 
@@ -95,7 +94,7 @@ IBA 공식 레시피. 현재 공식 레시피는 삭제.
 
 ### 그래서 만들었어?
 
-![진_카시스1](./CockT_Img/Gin_Cassis.jpg)  
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgUs3oRCrd68fNBRL?embed=1&height=1024" width="auto" height="1024" />  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4E4d38mSag4?si=Q0Yll197cJXooZi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -126,9 +125,9 @@ IBA 공식 레시피. 현재 공식 레시피는 삭제.
 
 ### 그래서 만들었어?
 
-![에메랄드 쿨러](./CockT_Img/Emerald_cooler.jpg)  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6zI-PE_qfgA?si=vJJemCDq5F_do3JY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgUnTFU5CJuURg9H1?embed=1&height=1024" width="auto" height="1024" />  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6zI-PE_qfgA?si=vJJemCDq5F_do3JY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### 맛은 어땠어?
 

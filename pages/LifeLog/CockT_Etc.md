@@ -38,26 +38,19 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_oXaXlUvt-w?si=01uPdziOd-jYaVTe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![청룡_1](./CockT_Img/blue_Snake.jpg)  
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgUXbSTODmZJGJ8Ds?embed=1&height=1024" width="auto" height="1024" />  
 
 ### 맛은 어땠어?
 
 이쁜 겉모습과 다르게 다소 호불호 탈만한 맛.  
-
 밀키스 맛과 소주맛, 블루 큐라소의 오렌지풍 맛이랑 합쳐져서 굉장히 오묘한 맛이 나는 것 같다.  
-
 개인적으로는 호쪽에 가까운데, 싫어하는 사람은 좀 뭔 맛으로 먹지 싶은 맛을 느낄 수 있을 것 같다.  
-
 아마 내가 집에 있는 소주가 고구마 소주밖에 없어서 고구마 소주를 써서 그런걸 수 있는데,  
-
 원본 영상처럼 토끼소주를 쓰거나 화요 같은 쌀 소주를 쓰면 좀 더 자연스러운 맛이 나지 않을까?  
 
-![청룡_2](./CockT_Img/blue_Snake_mixed.jpg)  
-
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgUYrM6XSlv31B7lO?embed=1&height=1024" width="auto" height="1024" />  
 참고로 섞으면 이렇게 된다.  
-
 레이어드 빌드(푸스 카페 빌드) 스타일의 칵테일들은 섞으면 은근 이상한 색깔 되는 경우도 많은데,  
-
 이 칵테일은 섞어도 심미적으로 아름다운 파스텔톤 파란색이 된다.  
 
 ---
@@ -80,12 +73,11 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 ### 그래서 만들었어?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_M70-jch3-0?si=2GKOta4Jwx9AMqQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_M70-jch3-0?si=2GKOta4Jwx9AMqQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![풋사랑_1](./CockT_Img/puppy_love.jpg)  
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgVU32WoLdMuf1I6S?embed=1&height=1024" width="auto" height="1024" />  
 
 ### 맛은 어땠어?
-
 들어가는 재료에 단맛이 거의 없어서, 약간 변형해서 심플시럽을 5ml 정도 넣어봤는데 좋은 선택이었던 것 같다.  
 부득이하게 려를 썼기때문에 고구마 이미지는 의도적으로 배제하고 테이스팅을 한 결과, 곡물향에 사과향 + 시트러스가 더해져서  
 의외로 되게 상큼하고 먹을만한 칵테일이 나왔다.  원본 레시피처럼 안동 소주같은 쌀소주를 썼다면 더 좋았겠지만, 려로 만족했다.  

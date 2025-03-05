@@ -229,7 +229,7 @@ total_Goods = int(input()) # 물건의 종류 수 입력
 goods_list = [] # 굿즈 가격을 저장할 리스트 추가
 
 for goods_Index in range(0, total_Goods): # 물건의 종류 수에 따라 반복 실행
-    
+
     goods = list(map(int, input().split())) # 굿즈의 가격과 갯수를 입력받음
     goods_Total_Price = goods[0] * goods[1] # 가격 X 갯수 저장
     goods_list.append(goods_Total_Price) # 리스트에 추가
@@ -368,7 +368,6 @@ for i in range(M): # 역순으로 뒤집을 횟수 사전에 입력한 만큼 �
             baguni_list[j], baguni_list[k] = baguni_list[k], baguni_list[j] # 스와프 시킨다.
 
 print(*baguni_list) # 그 후 언패킹하여 프린트
-
 ```
 
 #### 풀이 과정에 대한 사담
@@ -409,7 +408,6 @@ day = ((V - A) / (A - B)) # 후술
 day_final = math.ceil(day) + 1 # 마지막으로 1 더하면
 
 print(day_final) # 값이 출력된다.
-
 ```
 
 #### 풀이 과정에 대한 사담
@@ -429,14 +427,12 @@ for i in range(V+1):
     V += B
 
 print(day)
-
 ```
 
 사실 수포자의 쉼터 출신자로서 반복문으로 표현한다면 이렇게 표현하면 풀 수 있는 문제이나,  
 이 문제는 0.25초 만에 결과를 출력해내야하므로, 해당 식은 쓸 수 없다.
 
-![bkj_2869_img01](./bkj_2869_img01.png)
-
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEd8wxskKVYQERjH4?embed=1&width=89&height=58" width="89" height="58" />  
 주어진 문제의 경우 공식으로 나타내면 이러한 공식에다가, 올림한 뒤 1 더하면 값이 나온다.  
 이 공식을 그대로 코드로 옮기면 된다.  
 
@@ -476,7 +472,6 @@ fibo_num = int(input()) # 구할 피보나치 수 자릿수 구하기.
 result = fibo(fibo_num) # 값 저장
 
 print(result) # 출력
-
 ```
 
 #### 풀이 과정에 대한 사담
@@ -523,6 +518,7 @@ for tc_idx in range(1, testcase + 1):
 ```
 
 #### 풀이 과정에 대한 사담
+
 이 역시 알고리즘 스터디에서 G학우님이 뽑아준 문제.  
 말이 재귀의 귀재이지, 재귀에 대한 답안은 다 문제에 선제시되어있어서, 사실상 def개념과 변수를 써먹을 줄 아는지,  
 그리고 이 코드들을 이해할 수 있는지만 할 수 있다면 브론즈 2 치고는 쉬운 문제인 편이다.  
@@ -578,6 +574,7 @@ print(ans)
 ```
 
 #### 풀이 과정에 대한 사담
+
 여러가지 푸는 방법이 있을 것 같지만, 나는 가장 익숙한 리스트로 지도를 그리는 방식으로 풀었다.  
 문제에서 노래 사이에는 5초간의 무음 구간이 있다고 하고 있으므로 노래가 끝난 직후부터 0으로 전화를 들을 수 있는 구간을 설정한다.  
 그렇게해서 노래가끝날때까지의 지도가 완성됐다면,  
@@ -619,6 +616,7 @@ print(answer)
 ```
 
 #### 풀이 과정에 대한 사담
+
 ```python
 num_input = input()
 
@@ -656,6 +654,7 @@ for i in oct_list:
 
 print(answer)
 ```
+
 처음에는 이렇게 풀려고 했었는데,(8진수 부분은 다른 사람 코드를 참조했다.) 문제에서 자릿수를 무식하게 많이 내주어서 이렇게 풀었다간 시간초과로 실패하기 때문에,  
 순순히 함수를 써서 풀었다. 물론 알고리즘 통과 유무를 확인할 수 없으니 테스트 케이스에 대한 답만 확인가능하고 이 식이 작동 되는지는 모르겠다.  
 그냥 함수만 잘 쓰면 되는 문제.  
@@ -692,6 +691,7 @@ for tc_idx in range(1, testcase+1):
 ```
 
 #### 풀이 과정에 대한 사담
+
 워밍업 풀이 문제.  
 분류에는 스택이라 되어있지만, 솔직히 스와프로 푸는게 더 쉽다.  
 

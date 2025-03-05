@@ -33,11 +33,11 @@ folder: SSAFY_LIFE
 오우, 학기 초에 살인 예고 날리는 프로님 ㄷㄷ  
 마치기 한 교시 전에 일 년 간의 각오를 적으래서 적음.  
 
-![SSAFY_0107_03](./JanImg/SSAFY_0107_03.jpg)  
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQV7JzZPzsRlcbes?embed=1&width=1024" width="1024" height="auto" />  
 
 “수고했어” 한마디를 가슴 떳떳하게 맞이할 수 있는 그런 내가 되어보자  
 
-![SSAFY_0107_04](./JanImg/SSAFY_0107_04.jpg)  
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQMviC4nbeYcfjRC?embed=1&width=1024" width="1024" height="auto" />  
 
 저녁 싸밥은 몽글두부찌개 / 막국수 중 택1(저녁 싸밥은 돈 내고 먹어야한다. 그래도 저렴)  
 말해 뭐해. 진짜 존맛.  
@@ -55,7 +55,7 @@ folder: SSAFY_LIFE
 
 8시 37분 출석  
 
-![SSAFY_0108_01](./JanImg/SSAFY_0108_01.jpg)  
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQTnLLowfJJbZPni?embed=1&height=1024" width="auto" height="1024" />  
 p.s. 어제 찍은 사진이다.  
 
 오늘은 분반테스트다. 힘내자.  
@@ -70,7 +70,7 @@ p.s. 어제 찍은 사진이다.
 
 아, JAVA 공부는 계속 하기로 마음먹었다. 어짜피 추후 알고리즘 B형 자격을 딸 거라면 JAVA도 아는 게 맞는 것 같다. 최근 정신없었어서 진행을 더 못했는데, 지금같은 여유로울 때 해야겠다.  
 
-![SSAFY_0108_02](./JanImg/SSAFY_0108_02.jpg)  
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQeP8xGvjqX1Efg4?embed=1&width=1024" width="1024" height="auto" />  
 오늘의 점심 싸밥은 우사태수육전골 과 에비동 중 택 1이다.  
 나는 우사태수육전골을 택했다. 사유는 진짜 별거없다.  
 난 해산물을 잘 못 먹는다. 추가로 김치도 잘 못 먹는다.  
@@ -78,16 +78,15 @@ p.s. 어제 찍은 사진이다.
 고로 반찬류가 좀 허하게 찍혀있더라도 이해해주길 바란다.  
 버릴 반찬이면 안 가져온다가 내 철칙인지라.  
 
-![SSAFY_0108_03](./JanImg/SSAFY_0108_03.jpg)  
-![SSAFY_0108_04](./JanImg/SSAFY_0108_04.jpg)  
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQaw4bmvFSeTOjzu?embed=1&width=1024" width="1024" height="auto" />
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQaw4bmvFSeTOjzu?embed=1&width=1024" width="1024" height="auto" />   
 전날 수업 받는 공간을 찍을 여유가 없어서 못 찍었는데  
 분반테스트가 끝난 지금은 살짝 여유가 나서 내 강의실이 위치한 층의 휴게 공간 전경을 한번 찍어봤다.  
 사진 보안은 싸피 구미캠퍼스 내라면(즉, 삼성전자 구미사업장 부분만 안 찍으면) 자유롭게 찍어도 된다고 허락 받았으니 걱정은 안 해도 될듯하다.  
 상당히 깔끔하고 개방적인 분위기가 물씬 풍기니 앞으로의 여유 없는 날이 되더라도 환경에서 만큼은 갑갑함을 느끼지 않길 간절히 소망 해본다.  
 오후 수업은 어떤 개발자가 되고 싶냐는 비전 수립과 관련된 레크리에이션으로 진행되었다.  
 
-![SSAFY_0108_05](./JanImg/SSAFY_0108_05.jpg)
-
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQaw4bmvFSeTOjzu?embed=1&width=1024" width="1024" height="auto" />  
 어제랑 맥락은 같은 비전을 모토로 삼고 전진하기로 하였다.  
 이후는 프로젝트를 짜는 요령을 훈련하는 듯한 레크레이션을 하루 종일 진행하였다.  
 어렵진않고 오히려 즐거웠다.  
@@ -101,7 +100,7 @@ Future - 협력을 통하여 어려운 과제를 서로서로 분담하여 효�
 
 오늘 배운 4F를 통하여 오늘의 하루를 정리하는 것으로 마무리.  
 
-![SSAFY_0108_06](./JanImg/SSAFY_0108_06.jpg)  
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQaw4bmvFSeTOjzu?embed=1&width=1024" width="1024" height="auto" />  
 오늘의 저녁 식권싸밥은  
 차돌버섯된장찌개/김치잔치국수/프랭크버거(C코너는 식권사면 먹을 수 있단다)라고한다.  
 된장찌개 선택. 마무리는 단촐하게.  
@@ -121,7 +120,7 @@ Future - 협력을 통하여 어려운 과제를 서로서로 분담하여 효�
 아직은 코딩,알고리즘,기초 관련 강의는 아니긴한데 내용은 **보안 규정상 밝힐 수 없다는 점**이 아쉽다.  
 이외에는 별로 기술할만한 사항이 없으므로 생략.  
 
-![SSAFY_0109_01](./JanImg/SSAFY_0109_01.jpg)  
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQsQzDKXFbe1COPt?embed=1&width=1024" width="1024" height="auto" />  
 오늘의 점심은 뚝배기한돈김치찜/치킨투움바파스타 중 택 1이었다.  
 나는 치킨투움바파스타 선택. 아니 이걸 어떻게 참냐고 ㅋㅋ  
 다만 같은반 분에게 물어보니 일부는 면이 설익어서 나와서 복불복이 좀 있었나보다.  
@@ -153,7 +152,7 @@ Future - 협력이 필요할 사항이 생기면 망설이지말고 협력하자
 
 8시 40분 입실  
 
-![SSAFY_0110_01](./JanImg/SSAFY_0110_01.jpg)  
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQyN8cBUwEqUHHnI?embed=1&height=1024" width="auto" height="1024" />  
 시시콜콜한 잡담을 하자면, 삼성 사내 이디야커피는 아이스 음료를 줄 때, 리유저블 컵을 테이크아웃용 컵으로 사용하는 듯 하다.  
 
 개인적으로 이디야는 그다지 선호하는 커피 브랜드는 아닌데(사유는 저가형 카페 브랜드 중 내 기준에서는 **가장 맛이 없다**.  
@@ -166,7 +165,7 @@ Future - 협력이 필요할 사항이 생기면 망설이지말고 협력하자
 역시 특이한 내용은 없고 정말 SSAFY 생활 안내 내용이라 언급은 생략하도록 하겠다.  
 이러한 강의는 이번 주 까지고 다음 주부터 본격적인 강의가 시작되는 모양 인가보다.  
 
-![SSAFY_0110_02](./JanImg/SSAFY_0110_02.jpg)    
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQ3CwHJdc7-rMfGY?embed=1&width=1024" width="1024" height="auto" />  
 오늘의 점심 싸밥은 자반고등어구이/우삼겹김치나베우동 중 택1.  
 내 선택은! 우삼겹김치나베우동.  
 내가 김치를 싫어한다 말해서 의외의 픽일 수 있는데 생김치를 비선호할뿐, 김치찌개 같은 파생은 잘 먹는편이다.  
@@ -183,8 +182,7 @@ SSAFY에서는 intelij, mangoDB같은 상업용 프로그램들을 라이선스�
 
 5시 경에 분반 확정되었다. 물론 비전공 Python반이다.  
 
-![SSAFY_0110_03](./JanImg/SSAFY_0110_03.jpg)    
-
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQ5azpDYi0RBsn6S?embed=1&width=1024" width="1024" height="auto" />   
 오늘의 저녁싸밥은 총각두부짜글이찌게/돌솥비빔밥/BHC순살레드킹 중 택 1이라고한다.  
 원래 BHC고르려고했는데 매진이란다. 찌게를 골랐다.  
 역시 반찬 다 안 가져와서 허한건 ㅈㅅ. 내 입이 많이 짧은 편이라 용서를.  
@@ -225,26 +223,23 @@ SSAFY에서는 intelij, mangoDB같은 상업용 프로그램들을 라이선스�
 
 쉬다가 다시 9to6를 소화하려니 평소보다 더 피곤한 느낌이 들었다. 딱히 밤샘작업을 한 것도 아니고 평소처럼 잘 잤는데도 말이다. 이래서 직장인들이 월요일을 극혐하는 건가 싶기도 하였고 예전에 국비교육 받을 때의 악몽이 생각나기도 하였다.  
 
-![SSAFY_0113_01](./JanImg/SSAFY_0113_01.jpg)    
-
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQ_q0om8aZdSKRJQ?embed=1&width=1024" width="1024" height="auto" />   
 금일 점심은 우삼겹두부김치삼합/숯불양념순살치킨 중 택 1이었다.  
 그리고 숯불양념순살치킨을 선택했는데, 튀긴 놈이 아니라 담백한 닭가슴살 구운 치킨으로 나왔다.  
 역시나 건강함의 풀무원…  
 
-![SSAFY_0113_02](./JanImg/SSAFY_0113_02.jpg)    
-![SSAFY_0113_03](./JanImg/SSAFY_0113_03.jpg)    
-
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgRDXMGHmAjxLJZQ9?embed=1&height=1024" width="auto" height="1024" />
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgREcH0AADTLNBujt?embed=1&height=1024" width="auto" height="1024" />
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgRKSAypb51mEWR1L?embed=1&height=1024" width="auto" height="1024" />  
 오늘은 하루 종일 레고 키트(spark)와 파이썬을 이용하여, 팀플레이로 프로그래밍+로봇 체험을 하는 시간을 가졌다.  
 1번 사진이 우리 조원 들과 같이 만든 키트. 2번 사진이 제품 개발 아이디어 발표용으로 만든 레고 모형(주제는 인공지능과 가상현실을 결합한 체험형 쇼핑 프로그램)  
-3번 사진이 실제로 레고 전동 자동차가 돌아다는 모습을 찍은 사진이다.  
+3번 사진이 실제로 레고 전동 자동차가 돌아다는 모습을 찍은 사진이다.
 
 이동 경로나 집게 위 아래 움직임은 파이썬으로 일일이 각도나 이동 거리를 입력시키고,  
 세팅이 완료되면 미리 입력된 정보대로 자동차가 움직이는 형태로 작동되었다.  
 
 확실히 우리가 짠 코딩이 눈 앞에서 움직이는 모습을 보이니 아직은 맛보기 수준의 코딩일지라도 확실히 개발에 대한 동기부여로는 확실한 것 같아 보였다. 정말 간만에 재밌게 즐겼다.  
-
-![SSAFY_0113_04](./JanImg/SSAFY_0113_04.jpg)    
-
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgROlcOraSJBZ8auP?embed=1&height=1024" width="auto" height="1024" />  
 저녁 싸피는 불향오징어볶음/만두버섯전골/프랭크 버거 중 택1인데,  
 햄버거가 좀 땡겨서 프랭크 버거를 택했다.  
 참고로 좀 식어서 나오기 때문에 전자레인지 몇 초정도 돌려주면 괜찮아진다.  

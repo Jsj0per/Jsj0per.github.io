@@ -7,7 +7,7 @@ permalink: index.html
 summary: This is my blog with everything about me as a developer. 
 ---
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEdaiccHpWsMroWKA?embed=1&width=720&height=720" width="720" height="720" />  
+![main_emoji](./images/MyEmoji_20250129_231040_0.gif) 
 
 ### 안녕하세요!
 

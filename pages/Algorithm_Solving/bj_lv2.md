@@ -328,3 +328,47 @@ DFS 문제 익숙해지기 프로젝트.
 아직 DFS가 안 익숙한 상태이므로 좀 더 다른 문제를 풀어봐야 할 것 같다.
 
 ---
+
+## BaekJ sil) 32979. 아파트
+
+[Top Page](#)  
+
+#### 문제 링크
+
+[Baekjoon 32979](https://www.acmicpc.net/problem/32979)  
+
+[풀이 답안](http://boj.kr/73d2b820b0a54862a108cb9526f1b7fc)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+from collections import deque
+
+player = int(input())  # 플레이어 수
+apartment_game = int(input())  # 아파트 게임 횟수
+hand_position = list(map(int, input().split()))  # 손 위치
+gyosun = list(map(int, input().split()))  # 사실상 이게 게임 횟수(교선이가 부른 수)
+
+lose_people = []
+
+game_start_position = deque(hand_position) # 게임 시작 직후 포지션
+for i in gyosun: # 게임 시작
+    for j in range(1, i): # 3이라 불렀으면 1, 2, 3 게임을 함
+        game_start_position.append(game_start_position.popleft()) # 맨 아랫손을 꺼내서 맨 위로 둠
+    lose_people.append(game_start_position[0]) # 3을 부를때 맨 아랫자리에 있는 사람이 패배 그래서 i+1이 아니다.
+
+print(*lose_people) # 진 사람 언패킹해서 출력
+```
+
+#### 풀이 과정에 대한 사담
+
+덱, 큐 문제 익숙해지기 프로젝트.  
+진짜 엄청난 비문학 스타일 문제지만 간단히 말하면 손을 뺴고 더하는 과정을 거쳐서,  
+마지막 손에 있는 사람이 패배하게 큐를 이용해서 짜라는 문제다.  
+popleft와 append를 동시에 할 수 있게 코드를 짜면 풀리는 복잡한 지문에 비해 간단한 문제다.  
+
+---

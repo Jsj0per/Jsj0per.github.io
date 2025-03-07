@@ -372,3 +372,62 @@ print(*lose_people) # 진 사람 언패킹해서 출력
 popleft와 append를 동시에 할 수 있게 코드를 짜면 풀리는 복잡한 지문에 비해 간단한 문제다.  
 
 ---
+
+## BaekJ sil) 28278. 스택 2
+
+[Top Page](#)  
+
+#### 문제 링크
+
+[Baekjoon 28278](https://www.acmicpc.net/problem/28278)  
+
+[풀이 답안](http://boj.kr/29d89460e3ac456994d8d75a4a329d4b)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+import sys
+
+command_num = int(sys.stdin.readline()) # 명령 갯수
+
+stack = [] # 스택
+top = -1 # 스택의 가장 윗 값 인덱스
+
+for cn_idx in range(1, command_num+1):
+    command_input = list(sys.stdin.readline().split()) # 명령 입력
+
+    if command_input[0] == '2': # 스택에 정수가 있다면 맨 위의 정수를 빼고 출력한다. 없다면 -1을 대신 출력한다.
+        if top == -1:
+            print(-1)
+        else:
+            print(stack.pop())
+            top -= 1
+    elif command_input[0] == '3': # 3: 스택에 들어있는 정수의 개수를 출력한다.
+        print(len(stack))
+    elif command_input[0] == '4': # 4: 스택이 비어있으면 1, 아니면 0을 출력한다.
+        if top == -1:
+            print(1)
+        else:
+            print(0)
+    elif command_input[0] == '5': # 5: 스택에 정수가 있다면 맨 위의 정수를 출력한다. 없다면 -1을 대신 출력한다.
+        if top == -1:
+            print(-1)
+        else:
+            print(stack[len(stack)-1])
+    else: #  X: 정수 X를 스택에 넣는다. (1 ≤ X ≤ 100,000)
+        stack.append(command_input[1])
+        top +=1
+
+```
+
+#### 풀이 과정에 대한 사담
+
+스택 문제 익숙해지기 프로젝트.  
+마찬가지로 sys.stdin.readline()을 쓰지 않는다면, 맞는 코드더라도 오류가 나는 문제다.  
+스택의 push pop 등 명령어를 입력받으면 수행하게 하는 코드기 때문에, 그대로 만들어주면 된다.  
+
+---

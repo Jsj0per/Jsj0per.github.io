@@ -154,3 +154,38 @@ IBA 레시피(참조 자체는 Everythinginthebar 참조)
 모양은 이쁘긴 한데 맛은 내 취향이 아니라서 아마 다음 번엔 안 만들듯.  
 
 ---
+
+## 버진 핑크 미스트
+
+[Top Page](#)  
+
+[![버진_핑크_미스트](http://img.youtube.com/vi/k5qhR4iQbY0/0.jpg)](https://youtube.com/shorts/k5qhR4iQbY0?si=fCN7vgANAhQDkNik)  
+[영상 제작자: Zstile](https://www.youtube.com/@ZsTile)  
+
+> 재료  
+> 
+> > Powerade Purple Storm  
+> > Coconut Syrup 
+> > Simple Syrup  
+> > Cranberry Juice
+> > Lime Juice
+
+상세 레시피는 원본 영상 참조.  
+
+### 그래서 만들었어?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MdrWwDEYYko?si=6kRB8ONVhRl49sNP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img src="https://1drv.ms/i/s!AgwWQWUMs3UEhAkv9IXVFU_bXH-x?embed=1&height=1024" width="auto" height="1024" />  
+
+### 맛은 어땠어?
+
+코코넛 향이 약하게 첨가되고, 심플시럽이 꽤 많이 들어가는 만큼 직관적으로 달고 맛있다.  
+그 이외에는 역시 파워에이드 퍼플 맛이 가장 첫번째로 들어오면서 다른 음료들 맛이 꽤 조화롭게 잘 섞인 느낌?  
+다만 살짝 섞고 마셔야겠다.  
+단맛이 아래로 갈 수록 강해져서 약간 불균형했다.  
+
+---
+
+
+

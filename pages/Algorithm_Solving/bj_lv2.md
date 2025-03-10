@@ -431,3 +431,89 @@ for cn_idx in range(1, command_num+1):
 스택의 push pop 등 명령어를 입력받으면 수행하게 하는 코드기 때문에, 그대로 만들어주면 된다.  
 
 ---
+
+## BaekJ sil) 12789. 도키도키 간식드리미
+
+[Top Page](#)  
+
+#### 문제 링크
+
+[Baekjoon 12789](https://www.acmicpc.net/problem/12789)  
+
+[풀이 답안](http://boj.kr/bd608de6f444417491ddbcf6e56c27d1)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+from collections import deque
+import sys
+
+member_num = int(sys.stdin.readline()) # 전체 줄 서있는 사람 수
+
+# 대기 줄 리스트, 대기줄에서는 맨 앞사람이 나가야하므로, deque를 활용해보기로 하였음.
+mem_list = deque(map(int, sys.stdin.readline().split()))
+
+enter_num = 1 # 다음에 들어갈 사람을 알려주는 index 번호
+
+waiting_num = -1 # 대기 zone index 번호(top 역할)
+waiting_list = [] # 대기 zone 구역 리스트
+
+escape_code = 0 # 반복문 탈출용
+
+while True:
+    if waiting_list:  # waiting zone에 사람이 있다면
+        escape_code += 1 # 여기 if문 지나감
+        if waiting_list[waiting_num] == enter_num:  # 만약 제일 뒤에 있는 사람이 입장 번호랑 같다면...
+            waiting_list.pop()  # 빼고 입장시키기
+            waiting_num -= 1  # 대기 top -1
+            enter_num += 1  # 다음 번호 호출
+            escape_code = 0
+            continue
+
+    if mem_list: # 본래 줄에 사람이 있다면
+        escape_code += 1 # 여기 if문 지나감
+        if mem_list[0] == enter_num: # 줄에 맨 앞에 서있는 번호가 들어가야할 번호랑 같다면...
+            mem_list.popleft() # mem_list에서 제거하고, entered_list에 추가
+            enter_num += 1 # 다음 번호 호출
+            escape_code = 0
+            continue
+
+        elif mem_list[0] != enter_num: # 줄에 맨 앞에 서있는 번호가 들어가야할 번호랑 다르다면
+            waiting_list.append(mem_list.popleft())  # 아닐 시 waiting_list 추가
+            waiting_num += 1  # 대기 top +1
+            escape_code = 0
+            continue
+
+    if not mem_list and not waiting_list : # 전부 제대로 받았다면
+        break
+
+    if escape_code == member_num: # 전부 제대로 받을 수 없는 상태라면
+        break
+
+if enter_num - 1 == member_num: # 만약 전부 제대로 받았다면
+    print('Nice')
+else: # 만약 전부 제대로 받을 수 없는 상태라면, 만약 mem_list에 없는데도 waiting_list 만 있는 경우를 고려한 코드
+    print('Sad')
+```
+
+#### 풀이 과정에 대한 사담
+
+스택 문제 익숙해지기 프로젝트.  
+생각보다 빡빡한 문제였는데, 너무 중첩 if문이나 중첩 for문을 남발하면 시간 제한에 정말 잘 걸리는 경우가 많았고,  
+또한, 반례가 꽤 발생할 가능성이 높은 문제인 편이라,  
+예) 4 2 1 3 (4 2 까지는 waiting zone에 잘 들어가지만 1이 통과하고나서 바로 waiting zone에 나갈 수 있는 수가 있는지 체크하는 반례)  
+꽤 고생한 문제이고, 실제로 꽤 질문게시판을 들락날락 거렸다.  
+그런 끝에 내가 생각한 코드의 스토리는 유지시키면서(즉, 내 코딩 스타일은 우직하게 지키면서) 나름 다이어트에 성공한 코드가 나왔다.  
+
+내가 푼 방식의 핵심은 mem_list에서 pop된 경우라면 어디로 갔든 바로 continue 처리시켜서 오류를 일으킬 수 있는 다른 코드 조회를 즉시 차단시키고,  
+무한 루프를 방지하기 위해 escape_code라는 별도의 변수를 사용하였다.
+member_num을 조건으로 걸어둔 건 별다른 의미는 없고, 그냥 최대값 이전까지만 반복시키면 어지간하면 오류를 일으킬 염려가 없을 것같아,  
+설정해뒀다.  
+
+또한, 이 문제의 경우 정확하게 원하는 명령을 처리하는 것이 중요할 것 같아 되도록 반복문 내부에는 else를 쓰는 것을 지양했다.  
+
+---

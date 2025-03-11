@@ -120,6 +120,8 @@ folder: SSAFY_LIFE
 
 ---
 
+# 2주차
+
 ## 3월 10일
 
 [Top Page](#)

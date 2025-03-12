@@ -622,3 +622,56 @@ for tc_idx in range(1, testcase + 1):
 그 부분을 해결 할 수 있다면 어려운 문제는 아니라고 생각된다.  
 
 ---
+
+## BaekJ sil) 14248. 점프점프
+
+[Top Page](#)  
+
+#### 문제 링크
+
+[Baekjoon 14248](https://www.acmicpc.net/problem/14248)  
+
+[풀이 답안](http://boj.kr/b1247a7dabab4cda9ea9d248da2c9512)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+def solve(start):
+    global cnt
+    visited[start] = 1 # 현재 방문한 돌다리를 1로 바꾼다.
+    if start + jump_len[start] < len(jump_len) and visited[start + jump_len[start]] != 1: # 오른쪽 돌로 가게 만드는 if문
+        cnt += 1 # 방문 돌 갯수 추가
+        solve(start + jump_len[start]) # 재귀로 다음 방문할 돌 찾기
+    if start - jump_len[start] > -1 and visited[start - jump_len[start]] != 1: # 왼쪽 돌로 가게 만드는 if문
+        cnt += 1 # 방문 돌 갯수 추가
+        solve(start - jump_len[start]) # 재귀로 다음 방문할 돌 찾기
+    return # 더 이상 갈 수 있는 돌이 없거나 방문할 돌이 없다면 return
+
+
+stone_bridge = int(input()) # 돌다리 갯수
+jump_len = list(map(int, input().split())) # 돌다리당 표시된 점프 거리
+start = int(input()) - 1 # 시작지점. 인덱스로 쓰일거라 -1 처리
+
+cnt = 1 # 방문한 돌 갯수. 무조건 시작점인 첫번째 돌다리는 건넌다.
+
+visited = [0] * stone_bridge # 방문한 돌다리 확인용
+
+solve(start) # def 호출
+
+print(cnt)
+```
+
+#### 풀이 과정에 대한 사담
+
+DFS, BFS 문제 익숙해지기 프로젝트.  
+순수 DFS, BFS가 아닌 오늘 배운 재귀를 활용한 완전 탐색 방식을 이용하여 풀었다.  
+시작점 돌은 무조건 포함되니 cnt는 1에서 시작한다.  
+문제에서 주어진 예시는 3번째 돌에서 시작하니까, -1한 2가 첫 시작 인덱스가 될꺼고,  
+거기서 좌 우로 2칸은 갈 수 있으니 3칸은 방문 완료.
+그리고 나머지 2개의 돌도 방문할 수 있으니 5개가 나오게 된다.  
+
+---

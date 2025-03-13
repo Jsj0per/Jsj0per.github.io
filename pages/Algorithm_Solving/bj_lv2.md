@@ -675,3 +675,49 @@ DFS, BFS 문제 익숙해지기 프로젝트.
 그리고 나머지 2개의 돌도 방문할 수 있으니 5개가 나오게 된다.  
 
 ---
+
+## BaekJ sil) 2563. 색종이
+
+[Top Page](#)  
+
+#### 문제 링크
+
+[Baekjoon 2563](https://www.acmicpc.net/problem/2563)  
+
+[풀이 답안](http://boj.kr/d4a325ec2a5a44cab31b785eb930efc5)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+import sys
+
+white_square = [[0] * 101 for _ in range(101)] # 백지장 제작, 101로 설정한 이유는 0인덱스 줄,칸은 안 쓸 예정이라서.
+square_num = int(sys.stdin.readline()) # 사각형 갯수
+cnt = 0 # 값 변수
+
+for s_num in range(square_num): # 사각형 갯수만큼 반복
+    x_start, y_start = map(int, sys.stdin.readline().split()) # X축, Y축 시작점 입력
+    for i in range(y_start, y_start+10): # 사각형은 10칸씩 ( 세로 )
+        for j in range(x_start, x_start+10): # 사각형은 10칸씩 ( 가로 )
+            white_square[i][j] = 1 # 해당 칸은 1로 입력
+
+for i in range(1, 101):
+    for j in range(1, 101):
+        if white_square[i][j] == 1: # 만약 해당 칸이 1이었다면,
+            cnt += 1 # 색칠된 칸 수 1 추가
+
+print(cnt)
+```
+
+#### 풀이 과정에 대한 사담
+
+완전 탐색을 이용하는 문제.  
+단순하게 시작 지점에서부터 가로세로 10칸씩 1로 채워넣고,  
+다 채워넣었다면 완전탐색으로 전부 검색하게 하면 된다.  
+100 x 100 칸으로 한정되어있어 완전탐색을 하더라도 시간 초과는 발생하지 않는다.
+
+---

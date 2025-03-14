@@ -696,3 +696,53 @@ for tc_idx in range(1, testcase+1):
 분류에는 스택이라 되어있지만, 솔직히 스와프로 푸는게 더 쉽다.  
 
 ---
+
+## BaekJ Brz) 2309. 일곱 난쟁이
+
+[Top Page](#)
+
+#### 문제 링크
+
+[Baekjoon 2309](https://www.acmicpc.net/problem/2309)
+
+[답안 링크](http://boj.kr/106c15822ace4fc4a19a741e6f9ae78a)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+shoujin = []
+
+for _ in range(9):
+    input_info = int(input()) # 일곱 난쟁이의 수를 받아서
+    shoujin.append(input_info) # 리스트에 집어넣음
+
+two_shoujin_sum = sum(shoujin) - 100 # 일곱 난쟁이를 제외한 2명의 난쟁이의 값을 합함
+
+for i in range(len(shoujin)): # 브루트 포스
+    for j in range(len(shoujin) - 1, -1, -1):
+        if i != j: # i, j 가 같은 난쟁이라는 정보가 아니면,
+            if shoujin[i] + shoujin[j] == two_shoujin_sum: # 둘의 값을 더한 값이 그 두명을 합한 값과 같으면
+                shoujin.pop(j) # 뒤의 난쟁이와
+                shoujin.pop(i) # 앞의 난쟁이를 리스트에서 제거하고
+                break # 끝낸다...(1)
+    else: # 탈출용 break를 피하고 계속 진행시키기 위해 12번줄을 만족하는 경우 이외의 경우는 continue 시킨다.
+        continue
+    break # 끝낸다...(2)
+
+shoujin.sort() # 이후 오름차순으로 정렬하고
+for i in shoujin:
+    print(i) # 각 난쟁이들을 오름차순 순으로 출력한다.
+
+```
+
+#### 풀이 과정에 대한 사담
+
+실제로는 더 쉽게 푸는 방법도 있고, 가지치기를 해서 연산량을 줄일 수 있다.  
+물론 다르게 푸는 방법도 더 무궁무진하게 많을거라 생각된다.  
+
+---
+

@@ -719,5 +719,61 @@ for tc_index in range(1,test_case+1):
 
 ---
 
+## SWEA D2) 1954. 달팽이 숫자
+
+[Top Page](#)
+
+#### 문제 링크
+
+[SW Expert Academy 1954](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+testcase = int(input())
+ 
+for tc_index in range(1, testcase+1):
+    N = int(input())
+    arr = [[0]*N for _ in range(N)] # 달팽이 그림을 그릴 빈 지도를 만든다.
+    r, c = 0, 0     # 현재 위치
+    # 달팽이 숫자의 방향 순서 : 우하좌상
+    # dr, dc의 인덱스 의미 >> 0: 우, 1: 하, 2: 좌, 3:상
+    dr = [0, 1, 0, -1]
+    dc = [1, 0, -1, 0]
+ 
+    # 오른쪽으로 이동하면서 1, 2, 3, 4, 5 넣기
+    num = 1
+    d = 0
+ 
+    while True:
+        arr[r][c] = num # 지금 있는 곳에 num값을 넣는다.
+        num += 1 # 1에서 부터 시작하여 1, 2, 3, 4, 5 계속 증가시켜서 넣게 작동한다.
+        if num == (N*N+1): # 더 이상 진행할 곳이 없다면 멈춘다.
+            break
+        r = r + dr[d] # 진행할 곳이 있다면 델타 좌표 값인 dr,dc를 참조하면서 계속 이동시킨다.
+        c = c + dc[d]
+        if c >= N or r >= N or c < 0 or r < 0 or arr[r][c]: # 델타검색 할때 벽을 만나거나 이미 값이 있는 칸은 만났다
+            r -= dr[d] 
+            c -= dc[d] # 방향을 바꾸기 전 마지막 유효한 위치로 되돌리는 코드, 후진기어 박고 1칸 뒤로
+            d = (d + 1) % 4 # 0에서 3까지 순환시켜서 방향을 바꾸는 부분 (0에서 3까지 순환시켜서 방향을 바꾸는 부분)
+            r += dr[d]
+            c += dc[d] # 새로운 방향으로 이동한 후, r += dr[d]와 c += dc[d]로 새 방향으로 이동
+ 
+    print(f'#{tc_index}')
+    for i in range(N):
+        print(*arr[i])
+```
+
+#### 풀이 과정에 대한 사담
+델타 검색을 사용하는 방법.  
+
+벽이나 이미 값을 채워놓은 칸을 만났다면 한칸 뒤로 이동한 뒤, 방향을 바꾸어 다른 방향으로 계속 진행시키게 바꾸면 된다.  
+
+---
+
 
 

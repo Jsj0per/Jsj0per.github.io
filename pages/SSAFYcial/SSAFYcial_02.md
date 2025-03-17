@@ -17,7 +17,7 @@ SSAFY의 교육과정하면 역시나 체계적이고 탄탄한 알고리즘 수
 과연 싸피의 전공자들과 비전공자들이 꼽은 어려운 알고리즘 픽은 무엇일까요?   
 
 SSAFY 기자단 인스타그램 주소(더 많은 기사를 볼 수 있는 곳): [https://www.instagram.com/hellossafycial](https://www.instagram.com/hellossafycial)  
-SSAFY 홈페이지: [www.ssafy.com](www.ssafy.com)  
+SSAFY 홈페이지: [www.ssafy.com](https://www.ssafy.com)  
 
 #SSAFY #싸피 #SSAFYcial #컴퓨터알고리즘 #삼성청년SW아카데미 #싸피13기 #잠깐만_싸피에서_시간_받아갈께요 #잠싸시  
 

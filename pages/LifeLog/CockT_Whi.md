@@ -38,7 +38,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Egp7jN66_qk?si=QclAMmgcrHtCP3Tj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgVAxwpVOqThA2Htw?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAE0AAAAAAAADHClU6pOEDYe3A?height=1024" width="auto" height="1024" />  
 
 생각보다 시나몬 스틱에 불이 안 붙어서 구시렁구시렁.
 

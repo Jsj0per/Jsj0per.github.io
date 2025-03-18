@@ -8,8 +8,8 @@ permalink: jp_Travel_Short_01.html
 folder: LifeLog
 carousels:
   - images: 
-    - image: https://1drv.ms/i/s!AgwWQWUMs3UEgxt2u2AZylUP02-q?embed=1&height=1024
-    - image: https://1drv.ms/i/s!AgwWQWUMs3UEgxxMBUsq6gJEaUFa?embed=1&width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEmwEAAAAAAHa7YBnKVQ_Tb6o?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEnAEAAAAAAEwFSyrqAkRpQVo?width=1024
   - images: 
     - image: https://1drv.ms/i/s!AgwWQWUMs3UEgx2R-_eeXA9U9XKY?embed=1&height=1024
     - image: https://1drv.ms/i/s!AgwWQWUMs3UEgx4E0WvbF66WtTdN?embed=1&width=1024
@@ -37,7 +37,7 @@ carousels:
 
 -2023년 10월 17일~10월 22일 친구들과 도쿄여행
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgxo33okp8e8OdNuT?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEmgEAAAAAADfeiSnx7w5025M?height=1024" width="auto" height="1024" />  
 
 이번 편에서는 사진을 제가 많이 안 찍어서 따로 이야기로 엮기는 어려웠던 여행들을 뭉쳐서 간단하게 말해보는 시간을 가지겠습니다.
 
@@ -63,8 +63,7 @@ carousels:
 숙소는 반드시 리뷰를 세세하게 읽어보고 특히 에어비앤비라면 리뷰가 많은 숙소를 잡으시는 편을 추천드립니다.  
 리뷰가 이상하리 적은 숙소는 저처럼 똥밟는 경우가 많은지라...  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgxkdlEHKcEdobAfv?embed=1&height=1024" width="auto" height="1024" />  
-
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEmQEAAAAAAB2UQcpwR2hsB-8?height=1024" width="auto" height="1024" />  
 [이마카츠 긴자점](https://maps.app.goo.gl/1FntnLdgN7V1n4iE8)  
 그래도 첫날 도쿄 긴자에서 먹은 첫끼는 매우 훌륭했습니다.  
 참고로 이 돈까스집 도쿄 긴자의 이마카츠라는 곳인데, 진짜 존맛이라 꼭 드셔보시는거 추천드립니다.  

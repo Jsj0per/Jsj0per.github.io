@@ -432,7 +432,7 @@ print(day)
 사실 수포자의 쉼터 출신자로서 반복문으로 표현한다면 이렇게 표현하면 풀 수 있는 문제이나,  
 이 문제는 0.25초 만에 결과를 출력해내야하므로, 해당 식은 쓸 수 없다.
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEd8wxskKVYQERjH4?embed=1&width=89&height=58" width="89" height="58" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEdwAAAAAAAMwxskKVYQERjH4?width=89&height=58" width="89" height="58" />  
 주어진 문제의 경우 공식으로 나타내면 이러한 공식에다가, 올림한 뒤 1 더하면 값이 나온다.  
 이 공식을 그대로 코드로 옮기면 된다.  
 

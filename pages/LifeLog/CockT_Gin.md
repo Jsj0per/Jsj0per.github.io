@@ -36,7 +36,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 ### 그래서 만들었어?
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgU7FfCLIFo8jpXZM?embed=1&height=1024" width="auto" height="1024" />
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEzgAAAAAAAMV8IsgWjyOldkw?height=1024" width="auto" height="1024" />  
 야매식으로 만들어서 영상처럼 이쁘게는 안 나옵니다.  
 
 ### 맛은 어땠어?
@@ -67,7 +67,7 @@ IBA 공식 레시피. 현재 공식 레시피는 삭제.
 
 ### 그래서 만들었어?
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgUS-PdQmwxxu2flu?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAExAAAAAAAAL491CbDHG7Z-W4?height=1024" width="auto" height="1024" />
 
 ### 맛은 어땠어?
 
@@ -94,7 +94,7 @@ IBA 공식 레시피. 현재 공식 레시피는 삭제.
 
 ### 그래서 만들었어?
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgUs3oRCrd68fNBRL?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEywAAAAAAADehEKt3rx80FEs?height=1024" width="auto" height="1024" />   
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4E4d38mSag4?si=Q0Yll197cJXooZi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -125,7 +125,7 @@ IBA 공식 레시피. 현재 공식 레시피는 삭제.
 
 ### 그래서 만들었어?
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgUnTFU5CJuURg9H1?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEyQAAAAAAANMVTkIm5RGD0fU?height=1024" width="auto" height="1024" />  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6zI-PE_qfgA?si=vJJemCDq5F_do3JY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -13,12 +13,12 @@ folder: SSAFY_LIFE
 [Top Page](#)
 
 8시 30분 싸피 목걸이 배부, 8시 42분 출석.  
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQAaz4NwvtKOhp5H?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEgAAAAAAAABrPg3C-0o6Gnkc?height=1024" width="auto" height="1024" />   
 첫날 목걸이 받으니까 이제 진짜 SSAFY 시작이구나 하는 느낌을 받았음.  
 싸피 강의장은 입구에서 가까운 곳에 있어서 통학하면 10분 정도 잡으면 좋겠다 싶었다.  
 첫날은 한 게 많지는 않고 전반적인 싸피에 대한 OT에 관련된 전달사항들 전파가 9to6에 거쳐서 진행되었다.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQIA96d8jedUj_gU?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEggAAAAAAAAD3p3yN51SP-BQ?height=1024" width="auto" height="1024" />  
 오늘의 점심 싸밥  
 
 낙지 볶음/삼겹삼합 중 택 1인데 나는 낚지 볶음 선택  
@@ -33,12 +33,10 @@ folder: SSAFY_LIFE
 오우, 학기 초에 살인 예고 날리는 프로님 ㄷㄷ  
 마치기 한 교시 전에 일 년 간의 각오를 적으래서 적음.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQV7JzZPzsRlcbes?embed=1&width=1024" width="1024" height="auto" />  
-
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEhQAAAAAAAHsnNk_OxGVxt6w?width=1024" width="1024" height="auto" />  
 “수고했어” 한마디를 가슴 떳떳하게 맞이할 수 있는 그런 내가 되어보자  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQMviC4nbeYcfjRC?embed=1&width=1024" width="1024" height="auto" />  
-
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEgwAAAAAAAC-ILidt5hx-NEI?width=1024" width="1024" height="auto" />  
 저녁 싸밥은 몽글두부찌개 / 막국수 중 택1(저녁 싸밥은 돈 내고 먹어야한다. 그래도 저렴)  
 말해 뭐해. 진짜 존맛.  
 
@@ -55,7 +53,7 @@ folder: SSAFY_LIFE
 
 8시 37분 출석  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQTnLLowfJJbZPni?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEhAAAAAAAAOcsujB8kltk-eI?height=1024" width="auto" height="1024" />  
 p.s. 어제 찍은 사진이다.  
 
 오늘은 분반테스트다. 힘내자.  
@@ -70,7 +68,7 @@ p.s. 어제 찍은 사진이다.
 
 아, JAVA 공부는 계속 하기로 마음먹었다. 어짜피 추후 알고리즘 B형 자격을 딸 거라면 JAVA도 아는 게 맞는 것 같다. 최근 정신없었어서 진행을 더 못했는데, 지금같은 여유로울 때 해야겠다.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQeP8xGvjqX1Efg4?embed=1&width=1024" width="1024" height="auto" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEhwAAAAAAAI_zEa-OpfUR-Dg?width=1024" width="1024" height="auto" />  
 오늘의 점심 싸밥은 우사태수육전골 과 에비동 중 택 1이다.  
 나는 우사태수육전골을 택했다. 사유는 진짜 별거없다.  
 난 해산물을 잘 못 먹는다. 추가로 김치도 잘 못 먹는다.  
@@ -78,15 +76,15 @@ p.s. 어제 찍은 사진이다.
 고로 반찬류가 좀 허하게 찍혀있더라도 이해해주길 바란다.  
 버릴 반찬이면 안 가져온다가 내 철칙인지라.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQaw4bmvFSeTOjzu?embed=1&width=1024" width="1024" height="auto" />
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQaw4bmvFSeTOjzu?embed=1&width=1024" width="1024" height="auto" />   
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEhgAAAAAAALDhua8VJ5M6PO4?width=1024" width="1024" height="auto" />
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEiAAAAAAAAK5kV0D3J9kO1uE?width=1024" width="1024" height="auto" />   
 전날 수업 받는 공간을 찍을 여유가 없어서 못 찍었는데  
 분반테스트가 끝난 지금은 살짝 여유가 나서 내 강의실이 위치한 층의 휴게 공간 전경을 한번 찍어봤다.  
 사진 보안은 싸피 구미캠퍼스 내라면(즉, 삼성전자 구미사업장 부분만 안 찍으면) 자유롭게 찍어도 된다고 허락 받았으니 걱정은 안 해도 될듯하다.  
 상당히 깔끔하고 개방적인 분위기가 물씬 풍기니 앞으로의 여유 없는 날이 되더라도 환경에서 만큼은 갑갑함을 느끼지 않길 간절히 소망 해본다.  
-오후 수업은 어떤 개발자가 되고 싶냐는 비전 수립과 관련된 레크리에이션으로 진행되었다.  
+오후 수업은 어떤 개발자가 되고 싶냐는 비전 수립과 관련된 레크리에이션으로 진행되었다. 
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQaw4bmvFSeTOjzu?embed=1&width=1024" width="1024" height="auto" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEiQAAAAAAABljz19ZkLjNQrE?width=1024" width="1024" height="auto" />  
 어제랑 맥락은 같은 비전을 모토로 삼고 전진하기로 하였다.  
 이후는 프로젝트를 짜는 요령을 훈련하는 듯한 레크레이션을 하루 종일 진행하였다.  
 어렵진않고 오히려 즐거웠다.  
@@ -100,7 +98,7 @@ Future - 협력을 통하여 어려운 과제를 서로서로 분담하여 효�
 
 오늘 배운 4F를 통하여 오늘의 하루를 정리하는 것으로 마무리.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQaw4bmvFSeTOjzu?embed=1&width=1024" width="1024" height="auto" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEigAAAAAAAIV6rUsUX3K1Ehk?width=1024" width="1024" height="auto" />  
 오늘의 저녁 식권싸밥은  
 차돌버섯된장찌개/김치잔치국수/프랭크버거(C코너는 식권사면 먹을 수 있단다)라고한다.  
 된장찌개 선택. 마무리는 단촐하게.  
@@ -120,7 +118,7 @@ Future - 협력을 통하여 어려운 과제를 서로서로 분담하여 효�
 아직은 코딩,알고리즘,기초 관련 강의는 아니긴한데 내용은 **보안 규정상 밝힐 수 없다는 점**이 아쉽다.  
 이외에는 별로 기술할만한 사항이 없으므로 생략.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQsQzDKXFbe1COPt?embed=1&width=1024" width="1024" height="auto" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEiwAAAAAAABDMMpcVt7UI4-0?width=1024" width="1024" height="auto" />  
 오늘의 점심은 뚝배기한돈김치찜/치킨투움바파스타 중 택 1이었다.  
 나는 치킨투움바파스타 선택. 아니 이걸 어떻게 참냐고 ㅋㅋ  
 다만 같은반 분에게 물어보니 일부는 면이 설익어서 나와서 복불복이 좀 있었나보다.  
@@ -152,7 +150,7 @@ Future - 협력이 필요할 사항이 생기면 망설이지말고 협력하자
 
 8시 40분 입실  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQyN8cBUwEqUHHnI?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEjAAAAAAAAI3xwFTASpQcecg?height=1024" width="auto" height="1024" />  
 시시콜콜한 잡담을 하자면, 삼성 사내 이디야커피는 아이스 음료를 줄 때, 리유저블 컵을 테이크아웃용 컵으로 사용하는 듯 하다.  
 
 개인적으로 이디야는 그다지 선호하는 커피 브랜드는 아닌데(사유는 저가형 카페 브랜드 중 내 기준에서는 **가장 맛이 없다**.  
@@ -165,7 +163,7 @@ Future - 협력이 필요할 사항이 생기면 망설이지말고 협력하자
 역시 특이한 내용은 없고 정말 SSAFY 생활 안내 내용이라 언급은 생략하도록 하겠다.  
 이러한 강의는 이번 주 까지고 다음 주부터 본격적인 강의가 시작되는 모양 인가보다.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQ3CwHJdc7-rMfGY?embed=1&width=1024" width="1024" height="auto" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEjQAAAAAAAMLAcl1zv6sx8Zg?width=1024" width="1024" height="auto" />  
 오늘의 점심 싸밥은 자반고등어구이/우삼겹김치나베우동 중 택1.  
 내 선택은! 우삼겹김치나베우동.  
 내가 김치를 싫어한다 말해서 의외의 픽일 수 있는데 생김치를 비선호할뿐, 김치찌개 같은 파생은 잘 먹는편이다.  
@@ -181,7 +179,7 @@ SSAFY에서는 intelij, mangoDB같은 상업용 프로그램들을 라이선스�
 
 5시 경에 분반 확정되었다. 물론 비전공 Python반이다.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQ5azpDYi0RBsn6S?embed=1&width=1024" width="1024" height="auto" />   
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEjgAAAAAAAFrOkNiLREGyfpI?width=1024" width="1024" height="auto" />  
 오늘의 저녁싸밥은 총각두부짜글이찌게/돌솥비빔밥/BHC순살레드킹 중 택 1이라고한다.  
 원래 BHC고르려고했는데 매진이란다. 찌게를 골랐다.  
 역시 반찬 다 안 가져와서 허한건 ㅈㅅ. 내 입이 많이 짧은 편이라 용서를.  
@@ -222,14 +220,14 @@ SSAFY에서는 intelij, mangoDB같은 상업용 프로그램들을 라이선스�
 
 쉬다가 다시 9to6를 소화하려니 평소보다 더 피곤한 느낌이 들었다. 딱히 밤샘작업을 한 것도 아니고 평소처럼 잘 잤는데도 말이다. 이래서 직장인들이 월요일을 극혐하는 건가 싶기도 하였고 예전에 국비교육 받을 때의 악몽이 생각나기도 하였다.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgQ_q0om8aZdSKRJQ?embed=1&width=1024" width="1024" height="auto" />   
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEjwAAAAAAAOrSibxpl1IpElA?width=1024" width="1024" height="auto" />  
 금일 점심은 우삼겹두부김치삼합/숯불양념순살치킨 중 택 1이었다.  
 그리고 숯불양념순살치킨을 선택했는데, 튀긴 놈이 아니라 담백한 닭가슴살 구운 치킨으로 나왔다.  
 역시나 건강함의 풀무원…  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgRDXMGHmAjxLJZQ9?embed=1&height=1024" width="auto" height="1024" />
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgREcH0AADTLNBujt?embed=1&height=1024" width="auto" height="1024" />
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgRKSAypb51mEWR1L?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEkAAAAAAAANcwYeYCPEsllD0?height=1024" width="auto" height="1024" />
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEkQAAAAAAABwfQAANMs0G6O0?height=1024" width="auto" height="1024" />
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEkgAAAAAAAJIDKlvnWYRZHUs?height=1024" width="auto" height="1024" />
 오늘은 하루 종일 레고 키트(spark)와 파이썬을 이용하여, 팀플레이로 프로그래밍+로봇 체험을 하는 시간을 가졌다.  
 1번 사진이 우리 조원 들과 같이 만든 키트. 2번 사진이 제품 개발 아이디어 발표용으로 만든 레고 모형(주제는 인공지능과 가상현실을 결합한 체험형 쇼핑 프로그램)  
 3번 사진이 실제로 레고 전동 자동차가 돌아다는 모습을 찍은 사진이다.
@@ -238,7 +236,8 @@ SSAFY에서는 intelij, mangoDB같은 상업용 프로그램들을 라이선스�
 세팅이 완료되면 미리 입력된 정보대로 자동차가 움직이는 형태로 작동되었다.  
 
 확실히 우리가 짠 코딩이 눈 앞에서 움직이는 모습을 보이니 아직은 맛보기 수준의 코딩일지라도 확실히 개발에 대한 동기부여로는 확실한 것 같아 보였다. 정말 간만에 재밌게 즐겼다.  
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgROlcOraSJBZ8auP?embed=1&height=1024" width="auto" height="1024" />  
+
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEkwAAAAAAAdyLta46GXNgunpPGA0MD28?width=1024" width="1024" height="auto" />  
 저녁 싸피는 불향오징어볶음/만두버섯전골/프랭크 버거 중 택1인데,  
 햄버거가 좀 땡겨서 프랭크 버거를 택했다.  
 참고로 좀 식어서 나오기 때문에 전자레인지 몇 초정도 돌려주면 괜찮아진다.  
@@ -255,7 +254,7 @@ SSAFY에서는 intelij, mangoDB같은 상업용 프로그램들을 라이선스�
 
 감기에 걸려서 목상태가 영 메롱하다. 안 그래도 요즘 감기랑 독감 엄청 유행 중이라고 한다. 백신 맞았다고 안심하지 말고 조심조심하는 하루하루를 보내는 게 좋아보인다. 일단은 테라플루나 판콜 까먹으면서 버티는 중이다.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgRTyHXO1qf8OWnmB?embed=1&width=832&height=742" width="832" height="742" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAElAAAAAAAAPIdc7Wp_w5aeYE?width=832&height=742" width="832" height="742" />  
 오늘은 AI 프롬프트에 관해서 오전에 배웠는데, AI는 사전에 어떠한 설정을 부여해주면 그 설정에 맞게 스타일을 변형하여 좀 더 정확한 결과를 도출하게 하는 기술 중 하나다.  
 여러 방법이 있는데, 역할 지정(페르소나 기법), 마크다운 기법, Shot 기법 등등 다양하게 있다고한다.  
 상세한 내용을 알고싶다면 구글에 검색을 해보자.  
@@ -269,7 +268,7 @@ SSAFY에서는 intelij, mangoDB같은 상업용 프로그램들을 라이선스�
 앞으로 자동화 최적화 시킬 일이 있다면 참조해도 괜찮아 보인다.  
 다만 제대로 활용하기 위해서는 이것도 유료 서비스로 이용해야하는 것으로 보인다.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgRVSg5197Myv8-Fq?embed=1&width=1024" width="1024" height="auto" />   
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAElQAAAAAAAFKDnX3szK_z4Wo?width=1024" width="1024" height="auto" />  
 오늘의 점심 싸밥은 돼지순대국밥/해물해장파스타.  
 나는 해물해장파스타 선택.  
 
@@ -298,24 +297,24 @@ SSAFY에서는 intelij, mangoDB같은 상업용 프로그램들을 라이선스�
 
 입실 8시 48분  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgRaKhN9N95MI1GY2?embed=1&height=1024" width="auto" height="1024" />   
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAElgAAAAAAAIqE3033kwjUZjY?height=1024" width="auto" height="1024" />   
 오늘은 오전에 좀 밍기적 거리다보니 37분에 출발해버려서 늦게 도착한 듯 하다.  
 늘 그렇듯 7시 30분 기상, 8시 30분 목표로 도착 루틴을 포기하지는 않을거다.  
 앞으로는 좀 조심해야겠지만.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgRf-zX_0_fmDdj_7?embed=1&width=1024" width="1024" height="auto" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAElwAAAAAAAP7Nf_T9-YN2P_s?width=1024" width="1024" height="auto" />  
 오늘부터 본격적인 **파이썬 교육의 시작**이다. 참고로 그날 내가 작성한 코드 올리는 것도 허락 받았다.  
 
 오전에는 강사 님과 학생들 간 자기소개 시간을 가졌다.  
 [PPT도 만들어서 제출했는데 이건 직접 확인해보시라…](https://www.canva.com/design/DAGcOCz7kgo/3tqOyBpSN1NhME3l2Zieyg/view?utm_content=DAGcOCz7kgo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h15705eb4d4#6)
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgRgGNk2-TmeZxkAt?embed=1&width=1024" width="1024" height="auto" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEmAAAAAAAAAY2Tb5OZ5nGQC0?width=1024" width="1024" height="auto" />  
 오늘의 점심 싸밥은 한방설렁탕/동파육덮밥 이었다.  
 나는 한방설렁탕을 선택했다.  
 둘다 진짜 좋아하는거라 엄청 고민 많았는데, 고심끝에 내 기준 원탑 국밥인 설렁탕이 너어무 땡겨서 선택하였다.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgRmM4QYLR_lISXG2?embed=1&width=600&height=546" width="600" height="546" />  
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgRo2f0lGHdczYH2h?embed=1&width=558&height=351" width="558" height="351" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEmQAAAAAAAIzhBgtH-UhJcbY?width=600&height=546" width="600" height="546" />
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEmgAAAAAAADZ_SUYd1zNgfaE?width=558&height=351" width="558" height="351" />
 오랫만의 묵직한 git의 감각. 서늘하다.  
 자치위원 중 CA를 신청 해봤는데, 경쟁자분이 경력이 너무 쟁쟁하고 소개를 너무 잘하셔서 아쉽게도 떨어졌다. 그래서 직후 바로 SSAFYcial 신청에 도전하기로 하였다.  
 
@@ -325,15 +324,15 @@ SSAFY에서는 intelij, mangoDB같은 상업용 프로그램들을 라이선스�
 
 입실 8시 36분
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgRynF5TUmBjV_j1q?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEnAAAAAAAAKcXlNSYGNX-PWo?height=1024" width="auto" height="1024" />    
 놀랍게도(혹은 전혀 놀랍지 않게도) 삼성전자 앞 번화가에도 스타벅스는 있다.  
 오늘은 한번 이용해보려고 집에서 좀 일찍 출발해서 한잔 뽑아봤다.  
 해리포터 콜라보를 하는 것 같던데 막내는 좋아할 지도 모르겠다는 생각이 들었다.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgRtMUYhUL4BxmtoS?embed=1&width=1024" width="1024" height="auto" />   
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEmwAAAAAAAExRiFQvgHGa2hI?width=1024" width="1024" height="auto" />    
 또한, 최근 블로그 관리를 다시 손 보기 시작했다.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgR38q79wLAjWH894?embed=1&width=1024" width="1024" height="auto" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEnQAAAAAAAPyrv3AsCNYfz3g?width=1024" width="1024" height="auto" />  
 금일 점심은 소불고기버섯 전골/왕돈까스 중 택 1 이었다.  
 나는 최근에 돈까스를 먹었기 때문에 소불고기 전골을 선택하였다.  
 소불고기전골은 대학 시절때도 수시로 먹었던 내 소울푸드라 나름의 애착이 있는 편이다.  
@@ -356,15 +355,11 @@ SSAFY에서는 intelij, mangoDB같은 상업용 프로그램들을 라이선스�
 확실히 평소 30분을 목표로 놔두니까 거기서 오버가 좀 되더라도 지각은 면하게 되는 것 같다.  
 내 성격에는 이 루틴이 맞는 것 같다.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgR7I08BKi7NPGZho?embed=1&width=1024" width="1024" height="auto" />  
-
-오늘의 점심은 언양식불고기육전국밥/돈코츠 라멘 이었다.
-
-나는 일식파니 돈코츠 라멘을 선택했는데,
-
-아아… 이치란과 신신라멘의 은혜를 너무 깊이 받은 사람이다 보니 맛 없는 건 아닌데,
-
-몬가 좀 아쉬운 느낌이 없지 않게 받은 느낌이 들었다.
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEngAAAAAAAMjTwEqLs08ZmGg?width=1024" width="1024" height="auto" />  
+오늘의 점심은 언양식불고기육전국밥/돈코츠 라멘 이었다.  
+나는 일식파니 돈코츠 라멘을 선택했는데,  
+아아… 이치란과 신신라멘의 은혜를 너무 깊이 받은 사람이다 보니 맛 없는 건 아닌데,  
+몬가 좀 아쉬운 느낌이 없지 않게 받은 느낌이 들었다.  
 
 오늘은 어제자 배운거 리마인드 한 번 해주고, 오후에는 본격적으로 프로그래밍을 배우는데,  
 Python과 JavaScript를 맛보기 수준으로 배워서 다른 이가 만들어둔 API를 사용해봄으로서 체험해보는 시간을 가졌다.  
@@ -377,7 +372,7 @@ Python과 JavaScript를 맛보기 수준으로 배워서 다른 이가 만들어
 같은 문제 다른 방법으로도 풀어봐서 Pass가 뜨는 재미도 있는 것 같다.  
 아무래도 알고리즘 공부가 처음이다보니 익숙하지는 않았지만, 재미 붙일만한 도전인 것 같다.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgR-HipkUGo2AHq75?embed=1&width=1024" width="1024" height="auto" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEnwAAAAAAAIeKmRQajYAervk?width=1024" width="1024" height="auto" />  
 오늘 만큼은 저녁을 먹고 가려고 마음먹었다.  
 오늘의 저녁 싸밥은 스팸두부짜글이/사천식마파두부덮밥/뿌링클순살 중 택 1이라고한다.  
 내 선택은 스팸두부짜글이.  
@@ -418,7 +413,7 @@ SWEA도 풀었고, 싸피셜 데모 영상도 만들어서 보냈고, 깃헙 블
 문제는 앞으로도 이런 날 투성이 라는 거지.  
 오전에는 기초적인 프로그램, 프로그래밍의 개념, 파이썬의 개념, 문법(syntex)에 대해 배웠다.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgSCHBvEiRt4esB2s?embed=1&width=1024" width="1024" height="auto" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEoAAAAAAAAIcG8SJG3h6wHaw?width=1024" width="1024" height="auto" />    
 오늘의 점심 싸밥 메뉴는 안동찜닭/교동짬뽕밥 이다.  
 나는 교동짬뽕밥을 선택했다.  
 맛은 맛있는 짬뽕밥이다. 당연하다면 당연하달까...   
@@ -426,7 +421,7 @@ SWEA도 풀었고, 싸피셜 데모 영상도 만들어서 보냈고, 깃헙 블
 오후 수업은 마찬가지로 파이썬 문법들을 집중적으로 공부하였다.  
 이후 시간이 남았을 때 과제와 개인적인 공부로서 SWEA, 백준 알고리즘을 풀었다.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgSGnrpK1QIRrzM85?embed=1&width=1024" width="1024" height="auto" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEoQAAAAAAAKeukrVAhGvMzzk?width=1024" width="1024" height="auto" />  
 오늘의 오후 저녁 싸밥 메뉴는 차돌된장찌개/등촌샤브전골&칼국수사리/K불고기버거 중 택 1이다.  
 나는 등촌샤브전골&칼국수사리를 선택하였다.  
 놀랍게도 샤브샤브도 싸밥으로 먹을 수 있는데, 인덕션이 있어서 익힐 수 있다.  
@@ -453,7 +448,7 @@ SWEA도 풀었고, 싸피셜 데모 영상도 만들어서 보냈고, 깃헙 블
 
 오전에는 어제에 이어 파이썬 문법(syntex)들에 대해 배웠다.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgSIGgMQnJu3M_TzM?embed=1&width=1024" width="1024" height="auto" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEogAAAAAAAAaAxCcm7cz9PMw?width=1024" width="1024" height="auto" />  
 오늘의 점심 싸밥은 아롱사태전공/명란크림파스타 with 연어스테이크였다.  
 일단 후자를 선택 했긴 했는데, 역시 나는 연어는 스테이크로는 별로인 것 같다.  
 그래도 맛있었다.  
@@ -490,7 +485,7 @@ SWEA도 풀었고, 싸피셜 데모 영상도 만들어서 보냈고, 깃헙 블
 
 오늘은 파이썬의 모듈과 패키지 활용, 어제의 이은 문법에 관하여 배우는 시간을 가졌다.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgSPSIOK7tOrMJ8fI?embed=1&width=1024" width="1024" height="auto" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEowAAAAAAANIg4ru06swnx8g?width=1024" width="1024" height="auto" />  
 오늘의 점심 싸밥은 양지탕/돈목살찹스테이크 였다.  
 최근에 고기구이를 먹어서 양지탕을 골랐는데, 생각보다 질겨서 고기는 먹다가 버린것 같다.  
 아마 나만 잘못 걸린 것 같은데 불운해라.  
@@ -510,15 +505,14 @@ SWEA도 풀었고, 싸피셜 데모 영상도 만들어서 보냈고, 깃헙 블
 오늘은 입학식이 있는 날이고, 설 연휴 전 마지막 수업이다.   
 수업시간에는 데이터 구조 관련 명령어와 메서드에 대해 배웠다.   
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgSSf6ZxNgDuMzw4l?embed=1&height=1024" width="auto" height="1024" />
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgSXrjRJu3Q6BF_Oz?embed=1&height=1024" width="auto" height="1024" />
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgSa2mbItdvOd5iP2?embed=1&height=1024" width="auto" height="1024" />  
-
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEpAAAAAAAAJ_pnE2AO4zPDiU?height=1024" width="auto" height="1024" />
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEpQAAAAAAAOuNEm7dDoEX87M?height=1024" width="auto" height="1024" />
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEpgAAAAAAALaZsi12853mI_Y?height=1024" width="auto" height="1024" />  
 드디어 염원하던 SSAFY Welcome Kit을 받았다.  
 구성품은 후드티(95는 너무 딱맞아서, 100으로 바꿨다. 파란색, 검정색, 흰색으로 나뉘어져있다.), 티셔츠(티셔츠는 맞기 때문에 안 바꿨다), 스텐컵, 다이어리, 샤프, 마우스패드, 보조배터리로 구성되어있었다.  
 구성품이 알차고 생각보다 이뻤다.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgSf1ySP0en8-nlsM?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEpwAAAAAAAPXJI_R6fz6eWww?height=1024" width="auto" height="1024" />  
 오늘의 점심 싸밥은 쭈꾸미삼겹철판볶음/돈까스김치나베&우동사리 였다.  
 나는 후자를 선택하였다.(사진은 동기분꺼 찍었음. 남의 밥이 더 이뻐보인다.)  
 익숙한 김치나베 맛인데, 돈까스가 딱 적당하게 맛있게 잘 되어서(아아 뭐라 표현해야하나) 굉장히 맛있었다.  
@@ -548,7 +542,7 @@ SWEA도 풀었고, 싸피셜 데모 영상도 만들어서 보냈고, 깃헙 블
 
 오늘은 관통 프로젝트라고 1학기 내도록 하게 될 간단한 프로젝트를 시작하는 날이라고 한다.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgSgYUGPktJWdWRkj?embed=1&width=1024" width="1024" height="auto" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEqAAAAAAAABhQY-S0lZ1ZGSM?width=1024" width="1024" height="auto" />  
 오늘의 점심은 수육전골 / 안동찜닭 중 택 1이었다.  
 나는 안동찜닭을 선택했다.  
 와… 진짜 맛있어서 소스에 막 비벼먹고 난리도 아니었다.  
@@ -558,13 +552,13 @@ SWEA도 풀었고, 싸피셜 데모 영상도 만들어서 보냈고, 깃헙 블
 참고로 그거랑은 별개로 아무래도 외부 API를 만지는데 적응할 시간이 따로 필요했었어서 시간은 아슬아슬할 정도로 꽉 쓴 기분이 들었다.  
 그거는 내 실력.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgSkqrpNmBIX7ybTY?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEqQAAAAAAACquk2YEhfvJtNg?height=1024" width="auto" height="1024" />  
 이후 싸피데이 날이었는데 1월의 싸피 투게더(자치회에서 선정한 다과를 주는 날) 날이어서 수령하였다. 
 
 참고로 평소에는 주에 1번 싸피 운영회에서 중소기업 대상으로 과자랑 음료수를 주는 날이 있는데, 이날과 다른 점은 자취회에서 다과를 고르기 떄문에 카페 과자나 편의점 음료수로 나오는 점이 차이점이라고 볼 수 있겠다.  
 어쨋든 냠냠.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgSqKnjBWnSxAdaUR?embed=1&width=1024" width="1024" height="auto" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEqgAAAAAAAIqeMFadLEB1pRE?width=1024" width="1024" height="auto" />  
 오늘 저녁은 뚝배기등뼈감자탕 / 짜장덮밥 / 프랭크버거 중 택1 이다.  
 나는 뚝배기등뼈감자탕를 골랐다.  늘 그렇듯 원래 메뉴는 여기서 반찬 2-3개 추가로 있다.  
 정말 맛있었던 점심보다는 쪼금 아쉬운 느낌?  그래서인지 좀 많이 남긴듯.

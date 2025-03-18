@@ -38,7 +38,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_oXaXlUvt-w?si=01uPdziOd-jYaVTe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgUXbSTODmZJGJ8Ds?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAExQAAAAAAANtJM4OZkkYnwOw?height=1024" width="auto" height="1024" />  
 
 ### 맛은 어땠어?
 
@@ -48,7 +48,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 아마 내가 집에 있는 소주가 고구마 소주밖에 없어서 고구마 소주를 써서 그런걸 수 있는데,  
 원본 영상처럼 토끼소주를 쓰거나 화요 같은 쌀 소주를 쓰면 좀 더 자연스러운 맛이 나지 않을까?  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgUYrM6XSlv31B7lO?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAExgAAAAAAACszpdKW_fUHuU4?height=1024" width="auto" height="1024" />  
 참고로 섞으면 이렇게 된다.  
 레이어드 빌드(푸스 카페 빌드) 스타일의 칵테일들은 섞으면 은근 이상한 색깔 되는 경우도 많은데,  
 이 칵테일은 섞어도 심미적으로 아름다운 파스텔톤 파란색이 된다.  
@@ -75,7 +75,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_M70-jch3-0?si=2GKOta4Jwx9AMqQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgVU32WoLdMuf1I6S?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAE1QAAAAAAADfZagt0y5_UjpI?height=1024" width="auto" height="1024" />  
 
 ### 맛은 어땠어?
 들어가는 재료에 단맛이 거의 없어서, 약간 변형해서 심플시럽을 5ml 정도 넣어봤는데 좋은 선택이었던 것 같다.  

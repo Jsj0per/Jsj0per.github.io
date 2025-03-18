@@ -68,7 +68,6 @@ folder: SSAFY_LIFE
 어쨋든 주말중으로 해결해봐야할 듯 하다.   
 
 <img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAECAIAAAAAAG0Sxt82E4GSDmg?width=1397&height=702" width="1397" height="702" />  
-
 오늘의 점심 싸밥은 꽃도리탕(꽃게 + 닭토리탕) / 돼지목살 스테이크 였다.  
 후자를 택했는데, 워낙에 인기가 많아서 그런지 얼마안가 Sold Out 되어버렸다.  
 확실히 고기는 진리이긴 하지.  
@@ -130,7 +129,7 @@ folder: SSAFY_LIFE
 
 오전에는 별로 기술할만한 특이사항이 없다.
 
-<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEEAIAAAAAAP8AHvP--BKkdFU?width=1024" width="1024" height="auto" />
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEEAIAAAAAAP8AHvP--BKkdFU?width=1024" width="1024" height="auto" />  
 오늘 점심은 우삼겹순두부찌개 or 텐동 중 선택이었다.  
 맛은 쏘쏘하게 무난무난.
 

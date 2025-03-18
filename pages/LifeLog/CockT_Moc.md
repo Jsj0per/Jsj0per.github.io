@@ -62,7 +62,7 @@ Original Post: 취하는 이야기
 
 ### 그래서 만들었어?
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgVZEFxPV0oF4xhN4?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAE1gAAAAAAAEQXE9XSgXjGE3g?height=1024" width="auto" height="1024" />  
 
 ### 맛은 어땠어?
 
@@ -86,7 +86,7 @@ IBA 레시피(참조 자체는 Everythinginthebar 참조)
 
 ### 그래서 만들었어?
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgVTAjld-RuF5y8EC?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAE1AAAAAAAAMCOV35G4XnLwQI?height=1024" width="auto" height="1024" />   
 
 ### 맛은 어땠어?
 
@@ -114,7 +114,7 @@ IBA 레시피(참조 자체는 Everythinginthebar 참조)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AtAgQU04-2w?si=2EC25srrHe_m-OS5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgVjiYhurSEgPyjfu?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAE2AAAAAAAAOJiG6tISA_KN-4?height=1024" width="auto" height="1024" />   
 
 ### 맛은 어땠어?
 
@@ -144,7 +144,7 @@ IBA 레시피(참조 자체는 Everythinginthebar 참조)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X0-MwgLEGw8?si=di1ZruwxIEug4dwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgUPrweCfiGLN6XIS?embed=1&height=1024" width="auto" height="1024" />   
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEwwAAAAAAAOvB4J-IYs3pchI?height=1024" width="auto" height="1024" />  
 
 ### 맛은 어땠어?
 
@@ -176,7 +176,7 @@ IBA 레시피(참조 자체는 Everythinginthebar 참조)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MdrWwDEYYko?si=6kRB8ONVhRl49sNP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEhAkv9IXVFU_bXH-x?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAECQIAAAAAAC_0hdUVT9tcf7E?height=1024" width="auto" height="1024" />  
 
 ### 맛은 어땠어?
 
@@ -186,6 +186,3 @@ IBA 레시피(참조 자체는 Everythinginthebar 참조)
 단맛이 아래로 갈 수록 강해져서 약간 불균형했다.  
 
 ---
-
-
-

@@ -38,8 +38,7 @@ IBA 공식 레시피. 현재 공식 레시피는 삭제.
 3. 계피스틱을 꽂고 토치로 살짝 지져준다.  
 
 ### 그래서 만들었어?
-
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgVE_2TvIcNqfBTEH?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAE0QAAAAAAAD_ZO8hw2p8FMQc?height=1024" width="auto" height="1024" />  
 
 ### 맛은 어땠어?
 
@@ -68,7 +67,7 @@ IBA 공식 레시피.  그러나 본인은 여기서 조금 변형.
 
 ### 그래서 만들었어?
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgUcWby2pmqtpwcxD?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAExwAAAAAAABZvLamaq2nBzEM?height=1024" width="auto" height="1024" />  
 
 ### 맛은 어땠어?
 

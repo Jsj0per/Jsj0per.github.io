@@ -40,7 +40,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 
 ### 그래서 만들었어?
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgVOqh7lCD-y-6cM9?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAE0wAAAAAAAKqHuUIP7L7pwz0?height=1024" width="auto" height="1024" />  
 
 ### 맛은 어땠어?
 
@@ -69,8 +69,7 @@ This page is not a recipe I developed, but a recipe made by someone or an organi
 3. 마시기전에 섞어 마신다.  
 
 ### 그래서 만들었어?
-
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgVJVV1VbvC47s8a5?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE0gAAAAAAAbs2BrI4puCCipH9Oj9U4P8?height=1024" width="auto" height="1024" />  
 
 ### 맛은 어땠어?
 

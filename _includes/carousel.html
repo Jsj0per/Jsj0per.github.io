@@ -44,7 +44,7 @@
 .carousel {
   height: 100%;
   width: auto;
-  overflow: hidden;
+  overflow: ;
   text-align: center;
   position: absolute;
   padding: 0;
@@ -173,7 +173,7 @@
 {% for item in page.carousels[number].images %}
 .carousel__slide:nth-of-type({{ forloop.index }}),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type({{ forloop.index }}) {
-  background-size: hidden;
+  background-size: cover;
   background-position: center;
 }
 {% endfor %}

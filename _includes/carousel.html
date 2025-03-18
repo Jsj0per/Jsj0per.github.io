@@ -173,7 +173,7 @@
 {% for item in page.carousels[number].images %}
 .carousel__slide:nth-of-type({{ forloop.index }}),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type({{ forloop.index }}) {
-  background-size: cover;
+  background-size: contain;
   background-position: center;
 }
 {% endfor %}

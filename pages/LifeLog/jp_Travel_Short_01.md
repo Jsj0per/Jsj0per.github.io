@@ -11,28 +11,28 @@ carousels:
     - image: https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEmwEAAAAAAHa7YBnKVQ_Tb6o?height=1024
     - image: https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEnAEAAAAAAEwFSyrqAkRpQVo?width=1024
   - images: 
-    - image: https://1drv.ms/i/s!AgwWQWUMs3UEgx2R-_eeXA9U9XKY?embed=1&height=1024
-    - image: https://1drv.ms/i/s!AgwWQWUMs3UEgx4E0WvbF66WtTdN?embed=1&width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEnQEAAAAAAJH7955cD1T1cpg?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEngEAAAAAAATRa9sXrpa1N00?width=1024
   - images: 
-    - image: https://1drv.ms/i/s!AgwWQWUMs3UEgyAnAAncca1QIVLK?embed=1&width=1024
-    - image: https://1drv.ms/i/s!AgwWQWUMs3UEgyE-__MEGpZiopB4?embed=1&width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEoAEAAAAAACcACdxxrVAhUso?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEoQEAAAAAAD7_8wQalmKikHg?width=1024
   - images: 
-    - image: https://1drv.ms/i/s!AgwWQWUMs3UEgyL-9JWq-lk6rMTE?embed=1&height=1024
-    - image: https://1drv.ms/i/s!AgwWQWUMs3UEgyMZyXgUGNbkm0wL?embed=1&height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEogEAAAAAAP70lar6WTqsxMQ?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEowEAAAAAABnJeBQY1uSbTAs?height=1024
   - images: 
-    - image: https://1drv.ms/i/s!AgwWQWUMs3UEgyS9wrxnj767N4bv?embed=1&height=1024
-    - image: https://1drv.ms/i/s!AgwWQWUMs3UEgyU380uWY6lEzcmf?embed=1&height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEpAEAAAAAAL3CvGePvrs3hu8?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEpQEAAAAAADfzS5ZjqUTNyZ8?height=1024
   - images: 
-    - image: https://1drv.ms/i/s!AgwWQWUMs3UEgybFRlcvl6p3bMJ0?embed=1&height=1024
-    - image: https://1drv.ms/i/s!AgwWQWUMs3UEgyczkCOeHOUF6_Sc?embed=1&height=1024
-    - image: https://1drv.ms/i/s!AgwWQWUMs3UEgyiQAMDcUraBLB0T?embed=1&height=1024
-    - image: https://1drv.ms/i/s!AgwWQWUMs3UEgynVYWPd_OPQenSS?embed=1&height=1024
-    - image: https://1drv.ms/i/s!AgwWQWUMs3UEgysOMd8kRFRM_Qxd?embed=1&height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEpgEAAAAAAMVGVy-XqndswnQ?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEpwEAAAAAADOQI54c5QXr9Jw?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEqAEAAAAAAJAAwNxStoEsHRM?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEqQEAAAAAANVhY93849B6dJI?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEqwEAAAAAAA4x3yREVEz9DF0?height=1024
   - images: 
-    - image: https://1drv.ms/i/s!AgwWQWUMs3UEgy8b-hOUKNKi1_AN?embed=1&height=1024
-    - image: https://1drv.ms/i/s!AgwWQWUMs3UEgzCAAymGS8FJaAY9?embed=1&width=1024
-    - image: https://1drv.ms/i/s!AgwWQWUMs3UEgzF5TEnHJ3Rnj4s3?embed=1&height=1024
-    - image: https://1drv.ms/i/s!AgwWQWUMs3UEgzIG8RKAkCgSLOYD?embed=1&height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAErwEAAAAAABv6E5Qo0qLX8A0?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEsAEAAAAAAIADKYZLwUloBj0?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEsQEAAAAAAHlMSccndGePizc?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEsgEAAAAAAAbxEoCQKBIs5gM?height=1024
 ---
 
 -2023년 10월 17일~10월 22일 친구들과 도쿄여행
@@ -81,7 +81,7 @@ carousels:
 여러분들도 일본어 N2정도 실력만 가지신다면 택시기사님과 즐겁게 프리토킹이 가능해집니다.(물론 더듬더듬 거리긴 하지만, 애초에 일본분들은 저희가 일본어로 대화가 이어진다는것 자체만으로도 굉장히 신기해하고 접대를 편하게 하실 수 있으시다고 감사해하십니다. 공부 열심히 했다구...)  
 겁먹지말고 다들 도전해보세요. 원래 외국어는 자신감과 목적성이 가장 중요하니까요. 열심히 공부해서 일본분들과 자유롭게 이야기하면 엄청 재밌어요!  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgx-_XbrEhzmkR4ND?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEnwEAAAAAAL9dusSHOaRHg0M?height=1024" width="auto" height="1024" />    
 
 -관련 여행이야기(여동생들과의 오사카-교토 여행  2024년 1월 21일~1월 25일, 차회 여행기에 올릴 예정)  
 
@@ -139,12 +139,12 @@ carousels:
 생각외로 한국에 긍정적인 자료들이 많이 전시되어있습니다.  
 한번쯤은 구경가셔도 괜찮을 듯 합니다.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgyrslLrl7J1cMbzz?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEqgEAAAAAAOyUuuXsnVwxvPM?height=1024" width="auto" height="1024" />  
 
 참고로 성 옆에는 야사카 신사라고 좀 규모있는 신사가 있습니다.  
 오미쿠지를 하시고 싶으신 분 계시면 들러서 하나 뽑고 가시는 것도 나쁘지 않을 것 같습니다.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgywbLMfCngQ-vsvC?embed=1&width=1024" width="1024" height="auto" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAErAEAAAAAABssx8KeBD6-y8I?width=1024" width="1024" height="auto" />  
 
 -2023년 3월 16일~ 3월 20일 여동생들과의 후쿠오카 여행  
 
@@ -154,7 +154,7 @@ carousels:
 같은 후쿠오카 시작 여행이라도 매번 다르게 느껴질 수 있는 점이 매력인 것 같습니다.  
 라지만, 이때도 귀찮아서 사진은 많이 안 찍었다는 점  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgy0u9f2peIlXXLGU?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAErQEAAAAAAC71_al4iVdcsZQ?height=1024" width="auto" height="1024" />  
 
 참고로 이때는 유후인을 갔었습니다.  
 아침 8시에 있는 유후 특급 기차를 사전에 예약하고,  
@@ -163,7 +163,7 @@ JR패스를 이용하여 특급권 가격만 내고 운임을 무료로 하고 �
 여러분들은 최소 전날에 여유롭게 미리 발권하시는 편을 추천드립니다.  
 진짜 1분만 늦었다면 기차 놓쳤을 뻔 했습니다. ㅋㅋㅋㅋ  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgy5sT5-MRUmlNV1O?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAErgEAAAAAAGxPn4xFSaU1XU4?height=1024" width="auto" height="1024" />  
 
 유후인에 도착했습니다.  
 아침에 도착해서 그런지 역 앞은 생각보다 한산했습니다.  
@@ -177,7 +177,7 @@ JR패스를 이용하여 특급권 가격만 내고 운임을 무료로 하고 �
 그래도 아기자기하고 맛집들과 간식집들은 엄청 많습니다.  
 요약하자면 온천 말고도 둘러볼 거리가 있다는게 핵심인 것 같네요.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgzMb5jSMJQYSOfeK?embed=1&width=1024" width="1024" height="auto" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEswEAAAAAABvmNIwlBhI594o?width=1024" width="1024" height="auto" />    
 [사진 출처 겸 저희가 갔던 온천](https://hpdsp.jp/nurukawa/)  
 
 놀라웠던점은 의외로 대절탕 가격이 꽤 저렴했고, 온천욕 가격도 상당히 저렴했습니다.  
@@ -187,5 +187,5 @@ JR패스를 이용하여 특급권 가격만 내고 운임을 무료로 하고 �
 어쨋든 결론을 말하자면 유후인은 하루정도 투자해서 당일치기로 아침일찍 기차 타고 갔다가 마지막 유후인 특급 기차를 타고 돌아오면 딱 좋긴 했었습니다.  
 온천 예약도 따로 필요없고 그냥 가면 되서 몸은 편했던 기억이 나네요.  
 
-<img src="https://1drv.ms/i/s!AgwWQWUMs3UEgzSqMbm_MsKH7sSB?embed=1&height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEtAEAAAAAAKoxub8ywofuxIE?height=1024" width="auto" height="1024" />  
 이후는 적당히 놀다가 무사히 집에 돌아왔다고 합니다.  

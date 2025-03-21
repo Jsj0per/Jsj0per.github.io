@@ -9,10 +9,12 @@ folder: SSAFYcial
 ---
 ![SSAFYcial_Header_img](https://1drv.ms/i/c/0475b30c6541160c/IQSF5SO9oAv2Q52Kl45iMPucAc5qKrEfw9o1d1rro_vYZgo?width=1024)
 
-## 안녕하세요!
+해당 포스트에 사용된 삽화는 ChatGPT DALL·E 를 사용한 AI 그림임을 알려드립니다.  
+
 <div style="text-align: center;">
   <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAECgIAAAAAAZEcR1EUcRc0Ppn-iL8d9to?width=256" width="256" height="auto"/>
 </div>
 
 안녕하세요!  
 SSAFYcial 13기 기자단 정승재 입니다.  
+저는 SSAFY를 하면서 동시에 개발 블로그를 운영하고 있습니다. 

@@ -57,16 +57,25 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 이에 개발 블로그를 했을때의 이점에 대해서 설명해보고자 합니다.  
 
 ### 1. 공부 내용을 리마인드 할 수 있다.
+<div style="text-align: center;">
+  <img src="https://1drv.ms/u/c/0475b30c6541160c/IQQm05_pHk7wSoqAfQTik-Y8Aaosy2JzBw9Z06GWqIiD_NE?width=660" width="660" height="auto" />
+</div>  
 자기가 공부한 내용을 올리고 추후에 리마인드 할 수 있는 기회를 제공합니다.  
 저같은 경우 제가 오늘 푼 알고리즘 문제를 기록하는 방식으로 활용하고 있습니다.  
 물론 Notion 같은 메모, 문서 관리 등에 특화된 프로그램/사이트를 이용하는 것도 방법이며, 편하기도 합니다.  
 그럼에도 개발 Blog만의 이점이 있는 이유는 다음 장점으로 연결됩니다.  
 
 ### 2. 포트폴리오 연계가 가능하다.  
+<div style="text-align: center;">
+  <img src="https://1drv.ms/u/c/0475b30c6541160c/IQTAisD0vJa6Qb_y6l8F3nWLAZgnLhfcO297sS2r4HH3z5U?width=660" width="660" height="auto" />
+</div>  
 요즘 IT회사들의 표준 규격 이력서에 blog가 있다면 적어달라는 곳들이 간간히 보이고 있습니다.  
 이는 개발 블로그도 포트폴리오로 활용될 수 있는 좋은 수단 중 하나로 보일 수 있다는 증거로도 볼 수 있다고 봅니다.
 
 ### 3. 글 쓰는 능력을 기를 수 있다.
+<div style="text-align: center;">
+  <img src="https://1drv.ms/u/c/0475b30c6541160c/IQRsJ4zS_dD5TZwGCX7NlrNGAXK3cYpJfEy_djLX4nRT4Bg?width=660" width="660" height="auto" />
+</div> 
 블로그를 하려면 글을 계속 쓰게되고, '어떻게 쓰면 더 사람들에게 잘 받아들여질까?'를 고민하면서 쓰다보면,  
 글을 계속 쓰게 되므로 어느정도 글쓰기에 대한 두려움을 줄일 수 있는 선택지가 될 수 있다고 생각됩니다.
 

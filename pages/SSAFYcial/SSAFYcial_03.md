@@ -87,7 +87,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 결정적인 수단이 되진 않더라도 선택지 중 하나가 될 수 있다고 충분히 생각할 수 있다고 보여집니다.  
 
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQS1118W3ISxR761IuY-RnOgAbSdGRrP59QjFPiPXt06wRk?width=660" width="660" height="auto" />
-[요약_사진 제공_Canva](https://www.canva.com/)
+[요약_사진_제공_Canva](https://www.canva.com/)
 
  ## 개발 블로그 플랫폼 소개
  

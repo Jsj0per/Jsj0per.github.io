@@ -9,5 +9,6 @@ folder: SSAFYcial
 ---
 
 ## 안녕하세요!
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAECgIAAAAAAZEcR1EUcRc0Ppn-iL8d9to?width=720&height=720" width="720" height="720" text-align="center"/>
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAECgIAAAAAAZEcR1EUcRc0Ppn-iL8d9to?width=720&height=720" width="256" height="auto" text-align="center"/>
 
+안녕하세요!

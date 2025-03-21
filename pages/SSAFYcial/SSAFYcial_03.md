@@ -114,7 +114,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 </details>
 <br>
 <div style="text-align: center;">
-  <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQPPZJNPUbGSbVDzLiZKFWBAReEB7mOyFgw2G7dfAIJZLE?width=1024" width="1024" height="auto" />
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQPPZJNPUbGSbVDzLiZKFWBAReEB7mOyFgw2G7dfAIJZLE?width=973&height=732" width="973" height="732" />
 </div>  
 <br>
 <div style="text-align: center;">

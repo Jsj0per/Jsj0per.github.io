@@ -31,7 +31,7 @@ folder: SSAFYcial
 [Top Page](#)
 
 <div style="text-align: center;">
-  <img src="https://1drv.ms/u/c/0475b30c6541160c/IQTMexQZJduVQI6ctHVELpnPAWdoIWxA0OAPZ5UqVMc6LeM?width=660" width="660" height="auto" />
+  <img src="https://1drv.ms/u/c/0475b30c6541160c/IQTMexQZJduVQI6ctHVELpnPAWdoIWxA0OAPZ5UqVMc6LeM?width=660" width="500" height="auto" />
 </div>  
 > **블로그(Blog)**
 > 자신의 관심사에 따라 자유롭게 칼럼, 일기, 취재 기사 따위를 올리는 웹 사이트.  
@@ -58,7 +58,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 
 ### 1. 공부 내용을 리마인드 할 수 있다.
 <div style="text-align: center;">
-  <img src="https://1drv.ms/u/c/0475b30c6541160c/IQQm05_pHk7wSoqAfQTik-Y8Aaosy2JzBw9Z06GWqIiD_NE?width=660" width="660" height="auto" />
+  <img src="https://1drv.ms/u/c/0475b30c6541160c/IQQm05_pHk7wSoqAfQTik-Y8Aaosy2JzBw9Z06GWqIiD_NE?width=660" width="500" height="auto" />
 </div>  
 자기가 공부한 내용을 올리고 추후에 리마인드 할 수 있는 기회를 제공합니다.  
 저같은 경우 제가 오늘 푼 알고리즘 문제를 기록하는 방식으로 활용하고 있습니다.  
@@ -67,7 +67,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 
 ### 2. 포트폴리오 연계가 가능하다.  
 <div style="text-align: center;">
-  <img src="https://1drv.ms/u/c/0475b30c6541160c/IQTAisD0vJa6Qb_y6l8F3nWLAZgnLhfcO297sS2r4HH3z5U?width=660" width="660" height="auto" />
+  <img src="https://1drv.ms/u/c/0475b30c6541160c/IQTAisD0vJa6Qb_y6l8F3nWLAZgnLhfcO297sS2r4HH3z5U?width=660" width="500" height="auto" />
 </div>  
 요즘 IT회사들의 표준 규격 이력서에 blog가 있다면 적어달라는 곳들이 간간히 보이고 있습니다.  
 이는 개발 블로그도 포트폴리오로 활용될 수 있는 좋은 수단 중 하나로 보일 수 있다는 증거로도 볼 수 있다고 봅니다.  
@@ -76,7 +76,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 
 ### 3. 글 쓰는 능력을 기를 수 있다.
 <div style="text-align: center;">
-  <img src="https://1drv.ms/u/c/0475b30c6541160c/IQRsJ4zS_dD5TZwGCX7NlrNGAXK3cYpJfEy_djLX4nRT4Bg?width=660" width="660" height="auto" />
+  <img src="https://1drv.ms/u/c/0475b30c6541160c/IQRsJ4zS_dD5TZwGCX7NlrNGAXK3cYpJfEy_djLX4nRT4Bg?width=660" width="500" height="auto" />
 </div> 
 블로그를 하려면 글을 계속 쓰게되고, '어떻게 쓰면 더 사람들에게 잘 받아들여질까?'를 고민하면서 쓰다보면,  
 글을 계속 쓰게 되므로 어느정도 글쓰기에 대한 두려움을 줄일 수 있는 선택지가 될 수 있다고 생각됩니다.  

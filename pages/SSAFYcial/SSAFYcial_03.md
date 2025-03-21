@@ -210,7 +210,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 </details>
 <br>
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQSkbI0Eh4bjS58BRSUTNPC9AW3kXN4A83v2B_F6jNftbtA?width=1024" width="1024" height="auto" />
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQW3nddWC8pTLu3fe-gHWLZARbHj8o1W20ZVbiaQITq69g?width=1024" width="1024" height="auto" />
 </div>  
 <br>
 <div style="text-align: center;">
@@ -243,6 +243,20 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 3. 플러그인 자유도 없음. 
    벨로그는 수익화 기능이 제한적이어서, 구글 애드센스나 다른 광고 플랫폼을 통해 수익을 창출하기 어려울 수 있습니다.  또한, 기능 면에서 제약이 있을 수 있습니다. 다양한 플러그인이나 추가적인 기능을 활용하기에는 한계가 있어, 개발자 블로그에 필요한 모든 기능을 제공하지는 않습니다.
 
-## Jekyll을 사용하여 블로그를 만들어보자!
+## Github-Page와 Jekyll로 블로그를 만들어보자!
 
 [Top Page](#)
+
+<details style="text-align: center;">
+  <summary><img src="https://1drv.ms/i/c/0475b30c6541160c/IQRzWWAk9hVFTI3dreGhiGqJAWbOuaUyZxGSh_XRHO3cNWU?width=1024" width="1024" height="auto" /></summary>
+  <p> - </p>
+  <br>
+  <a herf="https://www.canva.com/">[요약_사진_제공_Canva]</a>
+</details>
+<br>
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQArxnEANU5R4yUC1btd3kSAeYUWImGuiTDo9pn7TpZyig?width=1024" width="1024" height="auto" />
+</div>  
+<br>  
+본 주제로 돌아와서 저는 이제 jekyll과 github-page 기능을 이용하여 블로그를 만드는 법을 알려주고자 합니다.  
+

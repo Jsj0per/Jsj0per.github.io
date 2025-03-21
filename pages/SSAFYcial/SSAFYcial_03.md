@@ -10,6 +10,7 @@ folder: SSAFYcial
 ![SSAFYcial_Header_img](https://1drv.ms/i/c/0475b30c6541160c/IQSF5SO9oAv2Q52Kl45iMPucAc5qKrEfw9o1d1rro_vYZgo?width=1024)
 
 해당 포스트에 사용된 삽화는 ChatGPT DALL·E 를 사용한 AI 그림임을 알려드립니다.  
+또한 저를 형상화한 이모지는 삼성 AR 이모지를 이용하여 제작된 AI 이미지임도 알려드립니다.
 
 <div style="text-align: center;">
   <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAECgIAAAAAAZEcR1EUcRc0Ppn-iL8d9to?width=256" width="256" height="auto"/>
@@ -46,3 +47,8 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 그럼 그 Blog와 개발자와 무슨 상관 관계가 있는가?  
 어떤 장점이 있는가?  왜 해야 하는가?  
 의문점이 드실 수 있습니다.  
+
+특히나 SSAFY에서 수업을 듣고계신 분들은 하루하루 수업 내용 따라가기도 바쁜데 왜 해야하는가?  
+예비 SSAFY 지망생들도 지금 SSAFY에 들어갈 공부를 하기도 바쁜데, 또 다른 IT 지식으로 코딩 연습하기도 바쁜데,  
+굳이 Blog까지 운영해서 시간을 할애해야하는가에 대한 의문을 가지실 수 있으리라 생각됩니다.  
+

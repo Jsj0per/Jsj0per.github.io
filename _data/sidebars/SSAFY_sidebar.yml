@@ -37,11 +37,7 @@ entries:
       url: SSAFYcial_02.html
       output: web, pdf
 
-    - title: 준비중
-      url: SSAFYcial_03.html
-      output: web, pdf
-
-    - title: 준비중
+    - title: 제블생)C1_일단 만들어 보자.
       url: SSAFYcial_04.html
       output: web, pdf
 

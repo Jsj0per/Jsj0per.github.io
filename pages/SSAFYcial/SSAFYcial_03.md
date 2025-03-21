@@ -30,9 +30,6 @@ folder: SSAFYcial
 
 [Top Page](#)
 
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQzvPA7nI0fRba3rK_0a_jgAff7_NzNwRfSmgpz89yHliw?width=1024" width="1024" height="auto" />
-
-
 <div style="text-align: center;">
   <img src="https://1drv.ms/u/c/0475b30c6541160c/IQTMexQZJduVQI6ctHVELpnPAWdoIWxA0OAPZ5UqVMc6LeM?width=660" width="660" height="auto" />
 </div>  
@@ -88,6 +85,8 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 
 위와 같은 이유들로 개발 블로그는 자기 개발과 취업적인 측면으로 봤을때,  
 결정적인 수단이 되진 않더라도 선택지 중 하나가 될 수 있다고 충분히 생각할 수 있다고 보여집니다.  
+
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQS1118W3ISxR761IuY-RnOgAbSdGRrP59QjFPiPXt06wRk?width=660" width="660" height="auto" />
 
  ## 개발 블로그 플랫폼 소개
  

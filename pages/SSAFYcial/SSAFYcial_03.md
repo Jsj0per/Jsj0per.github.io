@@ -30,6 +30,12 @@ folder: SSAFYcial
 
 [Top Page](#)
 
+<details>
+  <summary>[클릭!]나는 지금 이걸 볼 시간이 없어요!! 3줄 요약해주세요![클릭!]</summary>
+  <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQxcGrtIKD-SrYUMWvG1lMwAZEMW4t48MuyjHeU3ejSM5k?width=1024" width="1024" height="auto" />
+  <p>[요약_사진_제공_Canva](https://www.canva.com/)</p>
+</details>
+
 <div style="text-align: center;">
   <img src="https://1drv.ms/u/c/0475b30c6541160c/IQTMexQZJduVQI6ctHVELpnPAWdoIWxA0OAPZ5UqVMc6LeM?width=660" width="500" height="auto" />
 </div>  
@@ -85,9 +91,6 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 
 위와 같은 이유들로 개발 블로그는 자기 개발과 취업적인 측면으로 봤을때,  
 결정적인 수단이 되진 않더라도 선택지 중 하나가 될 수 있다고 충분히 생각할 수 있다고 보여집니다.  
-
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQxcGrtIKD-SrYUMWvG1lMwAZEMW4t48MuyjHeU3ejSM5k?width=1024" width="1024" height="auto" />
-[요약_사진_제공_Canva](https://www.canva.com/)
 
  ## 개발 블로그 플랫폼 소개
 

@@ -7,7 +7,7 @@ sidebar: SSAFY_sidebar
 permalink: SSAFYcial_03.html
 folder: SSAFYcial
 ---
-[SSAFYcial_Header_img](https://1drv.ms/i/c/0475b30c6541160c/IQSF5SO9oAv2Q52Kl45iMPucAc5qKrEfw9o1d1rro_vYZgo?width=1024)
+![SSAFYcial_Header_img](https://1drv.ms/i/c/0475b30c6541160c/IQSF5SO9oAv2Q52Kl45iMPucAc5qKrEfw9o1d1rro_vYZgo?width=1024)
 
 ## 안녕하세요!
 <div style="text-align: center;">

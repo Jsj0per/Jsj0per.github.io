@@ -40,7 +40,7 @@ folder: SSAFYcial
 <div style="text-align: center;">
   <img src="https://1drv.ms/u/c/0475b30c6541160c/IQTMexQZJduVQI6ctHVELpnPAWdoIWxA0OAPZ5UqVMc6LeM?width=660" width="500" height="auto" />
 </div>  
-> **블로그(Blog)**
+> **블로그(Blog)**  
 > 자신의 관심사에 따라 자유롭게 칼럼, 일기, 취재 기사 따위를 올리는 웹 사이트.  
 > -표준국어대사전  
 

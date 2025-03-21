@@ -8,7 +8,6 @@ permalink: SSAFYcial_03.html
 folder: SSAFYcial
 ---
 
-## 기사 준비중입니다.
+## 안녕하세요!
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAECgIAAAAAAZEcR1EUcRc0Ppn-iL8d9to?width=720&height=720" width="720" height="720" text-align="center"/>
 
-현재 기사 준비중입니다.
-조금만 기다려주시면 포스팅 하겠습니다.

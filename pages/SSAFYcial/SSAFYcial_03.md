@@ -7,7 +7,9 @@ sidebar: SSAFY_sidebar
 permalink: SSAFYcial_03.html
 folder: SSAFYcial
 ---
-![SSAFYcial_Header_img](https://1drv.ms/i/c/0475b30c6541160c/IQSF5SO9oAv2Q52Kl45iMPucAc5qKrEfw9o1d1rro_vYZgo?width=1024)
+<div style="text-align: center;">
+  <img src="https://1drv.ms/i/c/0475b30c6541160c/IQSF5SO9oAv2Q52Kl45iMPucAc5qKrEfw9o1d1rro_vYZgo?width=1024" width="100%" height="auto"/>
+</div>
 
 해당 포스트에 사용된 삽화는 ChatGPT DALL·E 를 사용한 AI 그림임을 알려드립니다.  
 또한 저를 형상화한 이모지는 삼성 AR 이모지를 이용하여 제작된 AI 이미지임도 알려드립니다.

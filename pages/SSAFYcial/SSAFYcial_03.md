@@ -31,7 +31,7 @@ folder: SSAFYcial
 [Top Page](#)
 
 <details>
-  <summary>[클릭!]나는 지금 이걸 볼 시간이 없어요!! 3줄 요약해주세요![클릭!]</summary>
+  <summary><img src="https://1drv.ms/i/c/0475b30c6541160c/IQRzWWAk9hVFTI3dreGhiGqJAWbOuaUyZxGSh_XRHO3cNWU?width=1024" width="1024" height="auto" />/summary>
   <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQxcGrtIKD-SrYUMWvG1lMwAZEMW4t48MuyjHeU3ejSM5k?width=1024" width="1024" height="auto" />
   <p>[요약_사진_제공_Canva](https://www.canva.com/)</p>
 </details>

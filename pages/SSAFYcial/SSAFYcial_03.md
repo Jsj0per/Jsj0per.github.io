@@ -1,5 +1,5 @@
 ---
-title: [0️⃣부터 시작하는 개발_Blog 생활] 1화, SSAFY 그냥 배우게? 개발 블로그를 만들어보자!
+title: (0️⃣부터 시작하는 개발 Blog 생활) 1화, SSAFY  배우거? 개발 블로그를 만들어보자!
 keywords: SSAFY, SSAFYcial
 tags:  SSAFY, SSAFYcial
 summary: "SSAFYcial 기사 3호. Jekyll와 github Page를 이용하여 개발 블로그를 만들어서 같이 성장하자!"

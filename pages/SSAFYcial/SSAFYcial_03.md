@@ -9,6 +9,9 @@ folder: SSAFYcial
 ---
 
 ## 안녕하세요!
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAECgIAAAAAAZEcR1EUcRc0Ppn-iL8d9to?width=256" width="256" height="auto"/>{:class="align-center"}
+<div style="text-align: center;">
+  <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAECgIAAAAAAZEcR1EUcRc0Ppn-iL8d9to?width=256" width="256" height="auto"/>
+</div>
 
-안녕하세요!
+안녕하세요!  
+SSAFYcial 13기 기자단 정승재 입니다.  

@@ -97,6 +97,9 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 결정적인 수단이 되진 않더라도 선택지 중 하나가 될 수 있다고 충분히 생각할 수 있다고 보여집니다.  
 
 ## 개발 블로그 플랫폼 소개
+
+[Top Page](#)
+
 <div style="text-align: center;">
   <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEDgIAAAAAASFyFuMJYg6NQVWp0_v-Baw?width=256" width="256" height="auto" />
 </div>  
@@ -106,6 +109,9 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 이 글을 읽고계신 분들의 선택권을 위하여 전부는 아니더라도 유명한 몇가지를 소개를 해보고자 합니다.  
 
 ### 네이버 블로그(Naver Blog)
+
+[Top Page](#)
+
 <details style="text-align: center;">
   <summary><img src="https://1drv.ms/i/c/0475b30c6541160c/IQRzWWAk9hVFTI3dreGhiGqJAWbOuaUyZxGSh_XRHO3cNWU?width=1024" width="1024" height="auto" /></summary>
   <img src="https://1drv.ms/i/c/0475b30c6541160c/IQS4jHbcUPsLSr707B6VqihDAXBecWnAxm-Ev-VqDvVdslg?width=1024" width="1024" height="auto" />
@@ -152,6 +158,8 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
    그런데 네이버 블로그의 글들은 구글 검색에 알고리즘 노출하기 꽤나 불편한 축에 속합니다.  안 뜨는건 아니지만 어느정도 자신의 의지로 뜨게 만드는게 꽤 힘든 편에 속합니다.  그래서 이러한 점을 고려한다면 네이버 블로그는 별로 좋은 선택이 아닌 편입니다.
 
 ### 티스토리 블로그(Tistroy)
+
+[Top Page](#)
 
 <details style="text-align: center;">
   <summary><img src="https://1drv.ms/i/c/0475b30c6541160c/IQRzWWAk9hVFTI3dreGhiGqJAWbOuaUyZxGSh_XRHO3cNWU?width=1024" width="1024" height="auto" /></summary>

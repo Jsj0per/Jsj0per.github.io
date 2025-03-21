@@ -114,12 +114,14 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 </details>
 <br>
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQPPZJNPUbGSbVDzLiZKFWBAReEB7mOyFgw2G7dfAIJZLE?width=973&height=732" width="973" height="732" />
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQSRW6sxoqjRRqp8TWelgdyxAZBqHd2rTTx-Awi_OIi0ruk?width=1024" width="1024" height="auto" />
 </div>  
 <br>
 <div style="text-align: center;">
   <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQdNNBXLsZjT4g03pvQO4gkAV6BixtypuwABmn9o-mt0RQ?width=256" width="256" height="auto" />
 </div>  
+
+블로그 화면 출처 : [SSAFYcial_13기_기자단_동료_블로그](https://blog.naver.com/iong_00)
 
 우리 한국 사람들에게 가장 친숙하고 가장 익숙하고 가장 많이 노출되는 블로그입니다.  
 초초초 메이저 블로그 플랫폼인 만큼 단순히 많은 사람들에게 노출시켜서 인플루엔서형 블로그를 지향하겠다고 마음먹었다면,  
@@ -148,3 +150,40 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 3. 타겟층의 괴리감 문제.  
    네이버의 장점은 별 노력없이 검색창에 잘 노출된다는 점인데, 네이버 블로그 안에서 개발 블로그는 그렇게 주목도가 높은 편은 아니라고 생각됩니다.  단순히 개발 블로그가 마이너한 것만이 문제가 아니라 대부분 개발자 분들은 네이버 보다 구글을 압도적으로 많이 애용합니다.
    그런데 네이버 블로그의 글들은 구글 검색에 알고리즘 노출하기 꽤나 불편한 축에 속합니다.  안 뜨는건 아니지만 어느정도 자신의 의지로 뜨게 만드는게 꽤 힘든 편에 속합니다.  그래서 이러한 점을 고려한다면 네이버 블로그는 별로 좋은 선택이 아닌 편입니다.
+
+### 티스토리 블로그(Tistroy)
+
+<details style="text-align: center;">
+  <summary><img src="https://1drv.ms/i/c/0475b30c6541160c/IQRzWWAk9hVFTI3dreGhiGqJAWbOuaUyZxGSh_XRHO3cNWU?width=1024" width="1024" height="auto" /></summary>
+  <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQul699sUbfR6tQTQ5qh52tAeryxKRHyMsfqlyeiPrt8FA?width=1024" width="1024" height="auto" />
+  <br>
+  <a herf="https://www.canva.com/">[요약_사진_제공_Canva]</a>
+</details>
+<br>
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQSPfnoTU4gaTYLEiAbg2gmdAWY-ERJ8__3DvrN8nTAmOeM?width=1024" width="1024" height="auto" />
+</div>  
+<br>
+<div style="text-align: center;">
+<img src="https://1drv.ms/u/c/0475b30c6541160c/IQQHNxUTFDQiSLaUzXskT4rVAVXPj1tBuG3ggPlxgz6p59I?width=256" width="256" height="auto" />
+</div>  
+
+블로그 화면 출처 : [SSAFYcial_13기_기자단_동료_블로그](https://0njung.tistory.com/)
+
+과거에 네이버 블로그에 대한 대안 블로그로도 유명했고, 특히 높은 자유도로 매우 유명한 블로그입니다.  
+과거에 많은 개발자 분들이 특히 애용했던 블로그이며, 최근에는 다른 블로그 플랫폼들이 많이 생겨 그쪽으로 옮겨가시는 분들이 많고, 아예 그쪽에서 시작하시는 분들도 많지만,  
+많은 대안이 생긴 지금도 여전히 개발자 블로그 플랫폼 중에서는 상당히 메이저한 편에 속하고 있습니다.  
+
+#### 장점
+1. 높은 자유도와 쉬운 관리의 적절한 중간점.  
+   티스토리는 네이버 블로그와 마찬가지로 기본적인 블로그 관리 툴을 제공하고 있어, 관리 난이도의 저점은 꽤나 높은 축에 속하며, 세세하게 파고들면 다양한 기능을 제공해줍니다.  긴 서비스 기간동안 쌓인 다양한 플러그인과 기능들이 축척되어있으며, HTML, CSS, Javascript등 프로그래머들이 자기 입맛대로 꾸밀만한 요소가 많습니다.  
+   
+2. 개발자들에게 특히 최적화가 잘 된 플랫폼.  
+   티스토리는 SEO(검색 엔진 최적화)에 유리한 구조를 가지고 있어, 구글 검색 결과에서 잘 노출될 수 있습니다. 이를 통해 더 많은 사람들에게 블로그 내용을 공유할 수 있습니다. 따로 서치 콘솔들에게 올릴때도 가이드라인과 관리툴을 제공해주고있어, 쉽게 등록할 수 있습니다.  물론 무료로 서버를 제공해주고 있다는 장점뿐만아니라, 개인이 소유한 도메인을 등록시켜 블로그를 운영할 수 있다는 장점도 가지고 있습니다. 
+
+#### 단점
+1. 좀 공부해야하는 꾸미기 난이도.  
+   물론 티스토리도 기본적으로 샘플 탬플릿을 제공해줍니다만, 갯수가 네이버 블로그에 비하면 많이 적어서, 사실상 본인이 직접 꾸며야 어느정도 특별함을 지닐 가능성이 큰데, 이를 꾸미려면 어느정도의 HTML, CSS, Javascript에 대한 지식을 요구합니다.  
+
+2. 조금 어려운 블로그 관리.  
+   티스토리는 기본적으로 사용자층이 얇은 편이라 SEO를 직접 발품팔아가며 설정해줘야 포스트가 잘 노출됩니다.  물론 SEO 난이도는 더 어려운 플랫폼들이 있어서, 그래도 티스토리 정도면 SEO에 대한 개념정도만 알면 적용시키기 쉬운 편입니다.  추가로 티스토리는 과도한 트래픽이 발생하면 서버에 가끔 무리가 가는 경우도 있습니다.  

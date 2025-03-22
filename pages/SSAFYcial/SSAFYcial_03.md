@@ -345,8 +345,9 @@ Github-page를 이용하여 생성되는 블로그다보니 Github의 기능을 
 모든 포스트는 github를 통해서 일일히 push하면어 업데이트 해야하고, 
 앞서 언급한 높은 자유도 또한 이를 테스트하고 적용시키려면 꽤 많은 수정을 거쳐야하는 만큼 많은 시간을 할애해주어야합니다.  
 거기에 다양한 이유로 오류가 발생하면 운영자인 블로그 소유자가 일일이 수정을 해줘야 합니다.  
+사진이나 동영상 같은 미디어도 외부 저장소(클라우드, 웹드라이브 등)를 통해서 올리는 방식이 권장되며(블로그 레포지토리를 통해서도 올릴 수 있지만, github-page에서 권장하는 레포지토리 용량인 1GB를 넘기기 가장 쉬운 행동이라 몇몇 사진은 내부 레포지토리를 이용해서 사진을 올리더라도 왠만하면 대부분 사진들은 외부 저장소를 통해서 올리는 것이 권장됩니다.) 만약 외부 저장소의 공유 링크등이 그 사이트 약관 변경이나 보안 업데이트 등으로 인하여 링크가 변경되면 그걸 일일이 재수정 해줘야하는 번거로움도 주의하여야 합니다.  
 
-하지만 이러한 단점을 극복할 수 있도록 이번 SSAFYcial 상반기 기획 기사를 통하여 여러가지 알려드릴 수 있도록 노력해보겠습니다!
+하지만 이러한 위의 단점을 극복할 수 있도록 이번 SSAFYcial 상반기 기획 기사들 통하여 여러가지 알려드릴 수 있도록 노력해보겠습니다!
 
 ---
 
@@ -356,3 +357,104 @@ Github-page를 이용하여 생성되는 블로그다보니 Github의 기능을 
 
 이번 기사에서는 jekyll 블로그를 위한 PC 개발 환경을 구성해보고, 외부에서 탬플릿을 가져오고,  
 github 레포지토리에 push하여 github-page로 블로그를 생성해보는 것까지 알려드리도록 하겠습니다.  
+해당 기사는 Windows 환경을 베이스로 설명하도록 하겠습니다.  
+해당 내용은 [jekyll의 공식 문제](https://jekyllrb-ko.github.io/docs/installation/https://jekyllrb-ko.github.io/docs/installation/)에서도 확인이 가능합니다.  
+
+## Ruby + jekyll 설치하기
+
+[Top Page](#)
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQSZVgUXrQKiQKW-Mczm0FkiAe3Vfs5icd5ELrP9KvtZSKU?width=1024" width="1024" height="auto" />
+</div>  
+먼저, jekyll의 기반 프로그래밍 언어인 Ruby를 설치하여야합니다.  
+Ruby의 경우 Windows 기준으로 RubyInstaller를 통하여 설치할 수 있습니다.  
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQSYgNdV_RsTRq0OC5sgTQobAa7SgbxNHRoQU0zJOfHv6TU?width=1024" width="1024" height="auto" />
+</div>  
+Download에 들어가시면, With DEVKIT에서 가장 굵은 글씨로 강조되어있는 부분이 Stable Version이므로 해당 버전을 사용하시면 됩니다.  
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQTiFjf2Kp1vQJP6UsAdsyB-AVzXrd3oGW1JjN-zp0dUdpA?width=1024" width="1024" height="auto" />
+</div>  
+설치시 가급적이면 C드라이브에 설치하는 것을 권장드리며 2 항목 모두 체크하시고 다운로드 받으시면 됩니다.  
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQRflyxZecJuSLdeaN_0rPHCAcId-ChnxCAUTzCFWw7RHXw?width=1024" width="1024" height="auto" />
+</div>  
+설치가 완료되었다면 MSYS2 설치 부분도 체크하시고 Finish를 눌러주셔야 합니다.  
+MSYS2는 Ruby의 네이티브 젬 컴파일 및 패키지 관리를 담당하기 때문에 설치해주셔야 합니다.  
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQRZ3a1GqHIhSqZbiZ6OPyb9AY4vQq7Jibfhk62FroljRHU?width=1024" width="1024" height="auto" />
+</div>  
+이후 명령 프롬포트로 해당 화면이 뜰껀데, 1번과 3번을 각각 설치해주시면 됩니다.  
+정상적으로 설치가 완료되었다면 초록글씨로 succeeded라 뜨고 다른 설치를 할꺼냐고 메뉴가 뜹니다.  
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEDAIAAAAAAZIhI_Z2cJAVt6NTwHRhnMU?width=256" width="256" height="auto" />
+</div>
+이제 이러면 Ruby는 설치가 완료된 상태가 됩니다! 와우!
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQ0ihZ_uMf0SJ1urpHSABBPAWKs3g9PAswuV2UlV6Q5uUI?width=1024" width="1024" height="auto" />
+</div>
+이제 cmd를 열어서 'gem install jekyll bundler'를 입력하여 jekyll와 bundler를 깔아줍니다.  
+jekyll 블로그를 만들기 위해서 필수적인 플러그인입니다.  
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQTVwwuqS7cERK_g-CItQLPjAZsj2Lx6V1ExRlYWuTrHPys?width=1024" width="1024" height="auto" />
+</div>
+추가로 VScode에서 Ruby LSP도 설치해주시면 됩니다.  
+과거에는 Ruby와 VScode Ruby를 사용하였지만, 지금은 Ruby LSP로 통합 변경되었습니다.  
+
+---
+
+## 로컬 영역에 jekyll 블로그 만들어보기
+
+[Top Page](#)
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQTTql9xobuMQ7MRJleCuFvTAeE2zt1CKrEEPkK0_-ClCnc?width=1024" width="1024" height="auto" />
+</div>
+이제 본격적으로 블로그를 만들 시간입니다.  
+바탕화면이나 블로그 파일을 만들 곳에 새폴더를 생성해줍니다.  
+가능하면 영어 이름으로 해두는 편이 오류를 방지하기 좋습니다.  
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQTtF3fLpf8uTIrEpvWy4FbRAYKNbG0JQG4VNvLAZo-z-oc?width=1024" width="1024" height="auto" />
+</div>
+이후 만들 파일에 들어와서 'Code(으)로 열기'를 해주시면 됩니다.  
+만약 해당 커맨드가 안 보인다면, VSCode를 설치하셨을때 'Code(으)로 열기'를 설정 안 하시고 설치하신거라,  
+직접 VSCode를 여셔서 경로를 설정해주시면 됩니다.  
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQRAagZhpSKqQaZOdC0MRRXrATIR-iIqNm6pbmBM8VIDl68?width=1024" width="1024" height="auto" />
+</div>
+이후 Control + '~' 버튼을 눌러 콘솔을 켜시고,  
+콘솔창에 'jekyll new (프로젝트 명)'을 입력해주시면 됩니다.  
+예시에서는 홈페이지에 나온대로 myblog라 입력하겠습니다.  
+참고로 해당 경로에 파일을 만들꺼면 'jekyll new ./ -f'를 입력해주시면 됩니다.  
+force로 설치하는 이유는 다른 파일이 있어서 Conflict 에러가 발생할 수 있는데, 이를 무시하고 강제 설치하기 위함입니다.  
+현재 경로에 설치할 예정이라면 경로에 다른 파일이 없는지 확인하시고 설치하는 것을 권유합니다.  
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQSWeLXDEx3oQpJvCbNWH6-pAfI0JicCb74qghU0ccp4n80?width=1024" width="1024" height="auto" />
+</div>
+명령어가 종료된다면, 가장 기본 형태의 jekyll 블로그 플랫폼이 설치된 것을 확인할 수 있습니다!  
+이것으로 여러분만의 블로그가 미약한 형태로나마 생긴 것입니다!  
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQRUpwOR7aaIRZqhGWAw7aIHAe1WUrJ4sISZ9gzLE_ykJf4?width=1024" width="1024" height="auto" />
+</div>
+이제 그럼 로컬 서버를 열어보면서, 블로그가 어떻게 보이는지 확인할 시간입니다.  
+다시 VSCode 콘솔에 'bundle exec jekyll serve' 를 입력하여 로컬 서버를 여시면 됩니다.  
+로컬서버는 127.0.0.1의 루프백IP에 포트 4000이 기본으로 설정되어,  
+126.0.0.1:4000 으로 주소창에 입력하시면 로컬 서버로 사이트 확인이 가능해집니다.  
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQREnU0FqOJjS5MolS8FykvDAVD2ulEvIXrYA1UQ2f16HHA?width=1024" width="1024" height="auto" />
+</div>
+네. 이것으로 기념비적인 첫 블로그가 완성되었습니다!
+

@@ -451,7 +451,7 @@ force로 설치하는 이유는 다른 파일이 있어서 Conflict 에러가 �
 이제 그럼 로컬 서버를 열어보면서, 블로그가 어떻게 보이는지 확인할 시간입니다.  
 다시 VSCode 콘솔에 'bundle exec jekyll serve' 를 입력하여 로컬 서버를 여시면 됩니다.  
 로컬서버는 127.0.0.1의 루프백IP에 포트 4000이 기본으로 설정되어,  
-126.0.0.1:4000 으로 주소창에 입력하시면 로컬 서버로 사이트 확인이 가능해집니다.  
+127.0.0.1:4000 으로 주소창에 입력하시면 로컬 서버로 사이트 확인이 가능해집니다.  
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQREnU0FqOJjS5MolS8FykvDAVD2ulEvIXrYA1UQ2f16HHA?width=1024" width="1024" height="auto" />

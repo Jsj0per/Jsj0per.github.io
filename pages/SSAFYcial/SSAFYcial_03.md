@@ -590,7 +590,7 @@ SSAFY는 단순한 코딩 교육뿐만 아니라, 기본 코딩을 바탕으로 
 > SSAFY 기자단 인스타그램(더 많은 기사를 볼 수 있는 곳)  
 > [![SSAFYcial_Logo](./SSAFYcial_img/ssafycial.png)](https://www.instagram.com/hellossafycial)
 
-> SSAFY 홈페이지  
+> SSAFY 공식 홈페이지  
 > [![SSAFY_Logo](./SSAFYcial_img/SSAFY_LOGO.jpg)](https://www.ssafy.com)
 
 ![SSAFYcial_namecard](https://jsj0per.github.io/pages/SSAFYcial/SSAFYcial_namecard.png)

@@ -537,6 +537,8 @@ git add . -> git commit -. "커밋명 입력" -> git push origin main
 
 # 마치며.
 
+[Top Page](#)
+
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAECwIAAAAAAVa11D4mLU1eLYtjPEQ9uH4?width=256" width="256" height="auto" />
 </div>  
@@ -550,3 +552,43 @@ git add . -> git commit -. "커밋명 입력" -> git push origin main
 ---
 
 # SSAFY란?  
+
+[Top Page](#)
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQS6ZTDGJ1qxQqmXpKEaimFxAYmTWEsDRqeYchOWjEsPUA4?width=1024" width="1024" height="auto" />
+</div>  
+
+삼성 청년 SW 아카데미 ( Samsung Software Academy For Youth ) 는 고용노동부의 취업지원 노하우와 삼성의 SW 교육환경을 바탕으로 아이들과 미래재단과 멀티캠퍼스에서 운영하는 청년들을 위한 소프트웨어 교육 부트캠프 입니다.  
+각 전문분아별 자문 교수단과 삼성의 SW 전문가가 전공자와 비전공자, 마이스터고 학생들에게 SW 취업을 위해 최고 수준의 교육을 실시하는 프로그램입니다.  
+
+서울, 대전, 광주, 구미, 부산에 위치한 캠퍼스에서 파이썬, 자바, 임베디드, 데이터, 로봇, 모바일 트랙으로 나뉘어져 다양한 교육을 받을 수 있고,  
+12개월이라는 다소 넉넉한 기간으로 많은 내용을 배울 수 있고, 전반기 코딩-알고리즘, 후반기 프로젝트 제작을 통하여 체계적으로 배울 수 있다는 장점을 가지고 있습니다.  
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/u/c/0475b30c6541160c/IQTiJM5VoFrES5k6lJVYmD2dAe2UC75-tPrgODR9Lijvchw?width=400" width="400" height="auto" />
+</div>  
+저 역시 국어국문학과 출신으로서 완전 비전공자로서 SSAFY의 혜택을 받아 교육을 받고 있고, 열심히 수업내용을 따라가고 있습니다.  
+SSAFY는 단순한 코딩 교육뿐만 아니라, 기본 코딩을 바탕으로 컴퓨터 알고리즘, 팀원과의 협력, 다양한 포트폴리오 프로젝트 제작, 삼성에서 직접 고용하고있는 SW 전문 취업 컨설턴트님에게 취업 지원까지 받을 수 있는,  
+삼성의 이름값만이 아닌 실질적으로 큰 도움을 받을 수 있는 탄탄한 지원을 바탕으로 취업을 정조준할 수 있습니다!  
+
+특히 알고리즘 수업을 통하여 코딩의 기초를 쌓을 수 있음과 동시에 기업 코딩 테스트를 천천히 대비할 수 있습니다.  
+처음에 배웠던 언어인 파이썬, 자바를 계속 사용하면서 공부하기에 알고리즘 공부를 하면서 프로그래밍 언어에 대해 확실하게 사용할 수 있다는 자신감을 가질 수 있습니다.  
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/u/c/0475b30c6541160c/IQSOvVK4YvaOS7n7GVBtKzvkAaqNDv9cJiA3qlqSMKK8iYg?width=1024" width="1024" height="auto" />
+</div>  
+
+부트 캠프는 어렵다고 들었는데, 나는 따라갈 수 있을지 없을지 고민된다.  
+프로그래밍은 배운적이 없는데 따라갈 수 있을지 고민된다.  
+비전공자인데 코딩을 할 수 있을까 고민된다.
+저도 그런 고민을 많이 했지만, 실제로 SSAFY에서 수업 커리큘럼을 잘 따라가면서 개발자로서 차근차근 성장하고 있습니다.  
+의지와 끈기만 가지고 도전한다면 비전공자든 전공자든 큰 차이 없이 성장할 수 있는 기회가 되실 수 있고,  
+혹여나 어려움이 있더라도 프로패셔널한 강사님들과 든든한 동료들이 여러분의 고민을 같이 해주며,  
+성장할 수 있는 기회이니 놓치지 마시고 꼭 도전해보시길 바랍니다!  
+
+> SSAFY 기자단 인스타그램 주소(더 많은 기사를 볼 수 있는 곳)
+> [](https://www.instagram.com/hellossafycial)
+
+> SSAFY 홈페이지
+> [](https://www.ssafy.com)

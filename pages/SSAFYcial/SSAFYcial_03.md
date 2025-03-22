@@ -360,6 +360,8 @@ github 레포지토리에 push하여 github-page로 블로그를 생성해보는
 해당 기사는 Windows 환경을 베이스로 설명하도록 하겠습니다.  
 해당 내용은 [jekyll의 공식 문서](https://jekyllrb-ko.github.io/docs/installation/https://jekyllrb-ko.github.io/docs/installation/)에서도 확인이 가능합니다.  
 
+---
+
 ## Ruby + jekyll 설치하기
 
 [Top Page](#)

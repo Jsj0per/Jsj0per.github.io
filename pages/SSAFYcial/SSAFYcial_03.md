@@ -462,3 +462,91 @@ force로 설치하는 이유는 다른 파일이 있어서 Conflict 에러가 �
 </div>
 네. 이것으로 기념비적인 첫 블로그가 완성되었습니다!
 
+---
+
+## 테마 템플릿 가져와서 쓰기
+
+[Top Page](#)
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQRFzfO1jgTNQ6bwTH5ZE4sIAf2jEUmrvYvm65M_WCR3yso?width=1024" width="1024" height="auto" />
+</div>  
+물론 진짜 0부터 만들어도 되지만, 이제 막 개발자로 한걸음 나선 학생으로서 너무 무리한 부탁이기도 합니다.  
+따라서 이미 있는 테마 중 오픈소스에 수정허가가 되어있는 테마를 사용해볼 예정입니다.  
+[jekyll 공식 문서](https://jekyllrb-ko.github.io/docs/themes)에 있는 3가지 테마 보관 주소 중 어느 한가지를 이용해도 되지만,  
+이번 예시에서는 [NOCC Jekyll Bundle](https://jekyll-themes.com/carlesloriente/bootstrap-theme-jekyll) 예시를 사용해보도록 하겠습니다.  
+이유는 bootstrap 5 를 지원하며, MIT 라이센스라 상업적 이용 및 수정, 배포, 개인적 이용이 가능하기 때문입니다.  
+그리고 굉장히 깔끔하고 적당한 기능까지 있어 예시로 적합할 것으로 판단하였습니다.  
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQvG1CTU4HFSKxTGzSIowfNAeo-_PL0sZDoaR1ulErsB8I?width=1024" width="1024" height="auto" />
+</div>  
+링크 내부에 들어가셔서 Download 버튼을 누르면 해당 탬플릿의 git 레포지토리로 이동됩니다.  
+여기서 <>code를 누르시고 주소를 따셔서 http를 복사하여 git clone을 해서 가져오시는 것이 일반적이나,  
+탬플릿에 따라서는 데모 사이트에서 다운로드가 가능한 경우도 있고,  
+혹은 아예 git 레포지토리에서 복사할 수 있는 버튼을 만든 경우도 있으니 편한대로 하시면 됩니다.  
+저는 demo 페이지에 있는 다운로드로 다운로드 하였습니다.  
+
+---
+
+## github에 blog 레포지토리 만들기.  
+
+[Top Page](#)
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEDAIAAAAAAZIhI_Z2cJAVt6NTwHRhnMU?width=256" width="256" height="auto" />
+</div>  
+우리는 이제 원하는 jekyll 테마까지 다운로드 하였습니다.  
+이제 github에 블로그 파일을 올려 github-page에 넘겨줄 차례가 되었습니다.  
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQTDM9exy-QpRb5ZH2QaxmZ3Abc1lGfx8lPp_8qZ-X11J14?width=1024" width="1024" height="auto" />
+</div>  
+github에 새로운 레포지토리를 제작합니다.  
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQRA3JOwmk1zRYIJkmrt7e4fARV-5EwiGQFLjSRnnq1qPjU?width=1024" width="1024" height="auto" />
+</div>  
+레포지토리 명은 Owner명.github.io 가 권장사항입니다.  
+공개 범위는 Public으로 설정하시고 본 예제에서는 Readme File을 체크한 상태로 제작하겠습니다.  
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQTa7HtH3-F_SYpjfUVDVgDIAewHbq9ZmXaYLb2fi4MLvtU?width=1024" width="1024" height="auto" />
+</div>  
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQFUiQWaJS7S5aI3FfNBqLlAfN1DZceZ5jKABuU1onhlZk?width=1024" width="1024" height="auto" />
+</div>  
+이후 <>code를 눌러 html 주소를 복사한 뒤, 가져올 빈 폴더에서 git clone. 해주시면 됩니다.  
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQS3WVVSgXXbRoSAkPK7CJgHATIm4AVhWolySwgp_cYP0Cw?width=1024" width="1024" height="auto" />
+</div>  
+아까 받아두었던 탬플릿 파일을 그대로 복사하여 clone 해온 폴더에 붙혀넣고,  
+git add . -> git commit -. "커밋명 입력" -> git push origin main
+순으로 github에 push해주시면 됩니다.  
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQP7J_iYx8yT7OLNtYpR7leAT5xz1oQpGjL6lTQi2twnxQ?width=1024" width="1024" height="auto" />
+</div>  
+이후에 자기 레포지토리 이름을 주소에 입력하면,  
+보시는바와 같이 탬플릿이 블로그에 등록되어 정상적으로 출력되는 모습을 보실 수 있으며,  
+드디어 블로그 개설에 성공하게 되었습니다!  
+참고로 push 한 뒤 github-page에 반영되기 최소 1분에서 최대 5분 이상 걸리기 때문에 여유를 가지시고 기다리시면 됩니다.  
+
+---
+
+# 마치며.
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAECwIAAAAAAVa11D4mLU1eLYtjPEQ9uH4?width=256" width="256" height="auto" />
+</div>  
+이번 기사에서는 개발 블로그에 대한 소개, 플랫폼 소개, github-page와 jekyll를 이용한 블로그 소개, 그리고 그 블로그의 개설까지 한번에 기사로 기록해보았습니다.  
+저도 jekyll에 대해 전문가 수준으로 많이 아는 사람이 아닌 같이 공부하는 학생으로서 부족한 점이 많습니다.  
+하지만 이 기획 기사를 제작하고 SSAFY에서 공부하면서 이 기사를 읽는 분들과 같이 성장하고 싶은 마음에 해당 기사 주제를 기획하게 되었습니다.  
+
+여러분들도 개발 블로그를 운영하면서 같이 배우면서 성장하는 개발자 지망생이 되었으면 하는 마음을 담아,  
+끝으로 SSAFY에 대해 소개를 하면서 이 기사를 마치도록 하겠습니다.  
+
+---
+
+# SSAFY란?  

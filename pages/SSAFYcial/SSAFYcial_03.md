@@ -249,7 +249,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 
 <details style="text-align: center;">
   <summary><img src="https://1drv.ms/i/c/0475b30c6541160c/IQRzWWAk9hVFTI3dreGhiGqJAWbOuaUyZxGSh_XRHO3cNWU?width=1024" width="1024" height="auto" /></summary>
-  <p> - </p>
+  <img src="https://1drv.ms/i/c/0475b30c6541160c/IQSSVRxUURcURakOHD5VLxF1AVt6MmO-d2-uBW7uO8jnet4?width=1024" width="1024" height="auto" />
   <br>
   <a herf="https://www.canva.com/">[요약_사진_제공_Canva]</a>
 </details>
@@ -268,6 +268,11 @@ Jekyll은 프로그래밍 언어인 "Ruby"로 만들어진 정적 사이트 프�
 
 라고 말하면 어려우니 쉽게 말하자면, 틀을 만들어 두고 그 틀에 맞게 움직이는 사이트라하면 이해하기 쉽습니다.  
 
+<br>
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEDgIAAAAAASFyFuMJYg6NQVWp0_v-Baw?width=256" width="256" height="auto" />
+</div>  
+
 이러한 정적 사이트 생성기의 종류로는 Jekyll(Ruby), Hugo(Go), Gatsby(React), Hexo(Node.js) 등이 존재합니다만, 그 중에서 왜 Jekyll를 사용하려는지에 대한 이유를 설명하고자 합니다.  
 
 ### 1. Github에서 Jekyll를 사용하면 즉시 블로그를 호스팅해준다.  
@@ -277,8 +282,7 @@ Jekyll은 프로그래밍 언어인 "Ruby"로 만들어진 정적 사이트 프�
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQR7O2wCJt8oQJxg8yE9p5XEAXpVQhwhXMs4bUeF3G1Pop4?width=256" width="256" height="auto" />
 </div>  
-Github도 놀랍게도 Ruby 기반으로 제작된 사이트입니다.  
-그래서 인지 Github에서는 Jekyll 로 블로그를 작성한 뒤 레포지토리를 만들어 저장해두면, 즉시 블로그를 무료로 호스팅 해주는 파격적인 서비스를 제공해주고 있습니다. 추가로 SSL 인증서도 무료로 자동적으로 제공하고 있다는 점도 장점이라 볼 수 있습니다.  
+Github에서는 Jekyll 로 블로그를 작성한 뒤 레포지토리를 만들어 저장해두면, 즉시 블로그를 무료로 호스팅 해주는 파격적인 서비스를 제공해주고 있습니다. 추가로 SSL 인증서도 무료로 자동적으로 제공하고 있다는 점도 장점이라 볼 수 있습니다.  
 물론 제약이 있긴 있습니다. 레포지토리는 1GB 내외까지만 제공해주고 있어, 그 이상의 용량을 보관하려하면 경고문구를 띄우고 있고, 단일 파일은 100MB를 넘을 수 없습니다.  
 그래도 이 점을 고려하더라도 블로그 단위 혹은 포트폴리오 용 사이트 정도까지는 충분히 감수할만한 단점이라고 생각됩니다.
 
@@ -288,5 +292,55 @@ Github도 놀랍게도 Ruby 기반으로 제작된 사이트입니다.
 0부터 만들지 못하더라도 걱정할 필요가 없는게, 수년간에 거쳐서 쌓인 다양한 오픈소스 탬플릿들이 존재하여 해당 탬플릿을 기반으로 개조하는 것도 물론 가능합니다. 실제로 저의 블로그도 jekyll documentation theme를 기반으로 어느정도 개조하면서 사용하고있기 때문입니다.  
 이 점이 중요한 것이 실제 프론트엔드 공부에도 꽤 큰 도움이 된다는 점을 꼽을 수 있습니다.  
 단순히 프론트엔드를 부트캠프나 수업에서 연습하지 않으면 실력이 늘지 않는데, jekyll 블로그를 관리하다보면 직접 자신이 기능을 구현하기 위해 자신이 아는 지식으로 개조를 하게 되므로 학습에 꽤 큰 도움이 된다고 저는 생각합니다.  
-실제로 SSAFY에서 배운 web 파트의 Javascript나 html, css 지식을 이용하여 블로그를 꾸미고 있다보니  
-최근 프론트 엔드 수업을 정말 재밌게 듣고있기도 합니다.
+실제로 SSAFY에서 배운 web 파트의 Javascript나 html, css 지식을 이용하여 블로그를 꾸미고 있다보니 최근 프론트 엔드 수업을 정말 재밌게 듣고있기도 합니다.  
+
+### 3. 개발자로서 메리트가 높은 블로그 운영방식.  
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQSmogfLCEeUS4jfKPh5wPWIAV1SZGTOZ8HgJnW-h_wV9YE?width=1024" width="1024" height="auto" />
+</div>  
+앞의 1, 2번 장점을 합해서 생기는 장점입니다.  
+Github-page를 이용하여 생성되는 블로그다보니 Github의 기능을 끌어와서 사용하기 쉬우며, 개발자로서의 지식을 접목시켜 하나의 포트폴리오로 승화시키기 적절한 탬플릿이라고 생각됩니다.  
+물론 난이도는 결코 낮지 않습니다. 기본적으로 어느정도의 프론트엔드 지식이 있어야 꾸밀 수 있다는 점이 가장 큰 벽으로 느껴질 수 있습니다.  
+하지만 흥미를 가지고 연구한다면 개발자로서 이만한 재밌는 장난감이 없을 정도로 다양하게 꾸밀 수 있다보니 자기 개발에 큰 도움이 됩니다.  
+부가적인 장점으로 Github에 계속 push하면서 글을 쓰거나 작업을 하게되다보니, 매일매일 잔디를 심을 수 있다는 점도 재밌는 점입니다.  
+
+### 4. 웹페이지 로딩이 빠르다.
+기본적으로 정적 사이트 생성기이다보니, 블로그 사이트내 로딩이 꽤 빠릅니다.  정적 사이트 생성기란 웹사이트의 콘텐츠를 미리 생성하여 정적인 HTML 파일로 만들어 주는 프레임워크 이다보니 사전에 모든 페이지가 미리 생성되어 있기 때문에 서버에서의 렌더링 시간이 필요 없습니다.  
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEDAIAAAAAAZIhI_Z2cJAVt6NTwHRhnMU?width=256" width="256" height="auto" />
+</div>  
+위의 장점들이 있기 때문에 저는 jekyll 블로그 방식으로 개발 블로그를 운영중이며,  
+현재까지도 SSAFY 생활을 즐기면서 재밌게 가꿔나가고 있습니다.
+
+<div style="text-align: center;">
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEDQIAAAAAAZU0B88KveEqdaK6FgvbkzU?width=256" width="256" height="auto" />
+</div>  
+
+물론, jekyll 블로그의 단점도 꽤 많습니다.  
+
+### 1. 일단 어렵다!  
+일단 프론트엔드 지식이 없으면 굉장히 힘듭니다.  
+저도 처음에 탬플릿을 복사한 뒤 옮겨서 운영을 할려고하니 관련 지식이 아무것도 없는 상태에서는 도무지 손을 댈 수 없었습니다.  
+기본적으로 HTML과 Markdown, CSS, Javascript에 대한 지식을 요구하며, 추가로 jekyll 사이트 내에서 jekyll 만의 구조와 명령어를 공부하애합니다.  
+저도 SSAFY에 들어온 뒤 관련된 지식을 배우고 나서야 jekyll를 어느정도 다룰 수 있게 되었으며, 솔직히 이 기사를 쓰는 시점에서도 이 jekyll의 모든 기능과 탬플릿 내 코드들을 전부 해석하고 파악하고 있지 않아서 계속 공부하고 있습니다.  
+거기에 탬플릿에 따라선 bootstrap, Node.js, Typescript 등 다른 언어나 외부 프레임워크들을 활용했을 경우, 추가로 그 프레임워크에 대한 지식도 요구합니다.  
+
+### 2. SEO 설정도 어렵다!  
+다른 블로그 플랫폼은 어느정도 SEO기능을 툴로 보조해주거나 아예 사이트에서 자제적으로 SEO를 자동적으로 설정해주는 경우도 있습니다.  
+하지만 Github-page 기능을 통해서 블로그를 호스트했다면, 수동으로 하나하나 다 해줘야합니다.  
+탬플릿에 따라서는 새로운 포스트를 올리면 sitemap도 추가 설정을 해줘야 합니다.  
+
+### 3. 손이 많이 갑니다.  
+포스트 에디터 같은 편리한 기능은 없습니다.  
+모든 포스트는 github를 통해서 일일히 push하면어 업데이트 해야하고, 
+오류가 발생하면 운영자인 블로그 소유자가 일일이 수정을 해줘야 합니다.  
+
+하지만 이러한 단점을 극복할 수 있도록 이번 SSAFYcial 상반기 기획 기사를 통하여 여러가지 알려드릴 수 있도록 노력해보겠습니다!
+
+## 본격적으로 jekyll로 블로그를 만들어 보자.
+
+[Top Page](#)
+
+이번 기사에서는 jekyll 블로그를 위한 PC 개발 환경을 구성해보고,  
+외부에서 탬플릿을 가져오고, github 레포지토리에 push하여 github-page로 블로그를 생성해보는 것까지 알려드리도록 하겠습니다.  

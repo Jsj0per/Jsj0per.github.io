@@ -473,8 +473,8 @@ force로 설치하는 이유는 다른 파일이 있어서 Conflict 에러가 �
 </div>  
 물론 진짜 0부터 만들어도 되지만, 이제 막 개발자로 한걸음 나선 학생으로서 너무 무리한 부탁이기도 합니다.  
 따라서 이미 있는 테마 중 오픈소스에 수정허가가 되어있는 테마를 사용해볼 예정입니다.  
-[jekyll 공식 문서](https://jekyllrb-ko.github.io/docs/themes)에 있는 3가지 테마 보관 주소 중 어느 한가지를 이용해도 되지만,  
-이번 예시에서는 [NOCC Jekyll Bundle](https://jekyll-themes.com/carlesloriente/bootstrap-theme-jekyll) 예시를 사용해보도록 하겠습니다.  
+[jekyll 공식 문서](https://jekyllrb-ko.github.io/docs/themes)에 있는 4가지 테마 보관 주소 중 어느 한가지를 이용해도 되지만,  
+이번 예시에서는 [Jekyll Theme](https://jekyll-themes.com)에 저장되어있는 [NOCC Jekyll Bundle](https://jekyll-themes.com/carlesloriente/bootstrap-theme-jekyll)을 예시를 사용해보도록 하겠습니다.  
 이유는 bootstrap 5 를 지원하며, MIT 라이센스라 상업적 이용 및 수정, 배포, 개인적 이용이 가능하기 때문입니다.  
 그리고 굉장히 깔끔하고 적당한 기능까지 있어 예시로 적합할 것으로 판단하였습니다.  
 

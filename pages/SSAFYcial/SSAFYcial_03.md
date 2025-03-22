@@ -369,7 +369,7 @@ github 레포지토리에 push하여 github-page로 블로그를 생성해보는
 </div>  
 먼저, jekyll의 기반 프로그래밍 언어인 Ruby를 설치하여야합니다.  
 Ruby의 경우 Windows 기준으로 RubyInstaller를 통하여 설치할 수 있습니다.  
-MacOS의 경우 [공식 문서](https://jekyllrb-ko.github.io/docs/installation/macos/)를 참조 부탁드리겠습니다.  
+MacOS의 경우 [공식 문서](https://jekyllrb-ko.github.io/docs/installation/macos) 를 참조 부탁드리겠습니다.  
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQSYgNdV_RsTRq0OC5sgTQobAa7SgbxNHRoQU0zJOfHv6TU?width=1024" width="1024" height="auto" />

@@ -1,5 +1,5 @@
 ---
-title: (제작중) SSAFYcial) 0️⃣부터 시작하는 개발 Blog 생활 1화, Jekyll로 개발 블로그를 만들어 같이 성장하자!
+title: SSAFYcial) 0️⃣부터 시작하는 개발 Blog 생활 1화, Jekyll로 개발 블로그를 만들어 같이 성장하자!
 keywords: [SSAFY, SSAFYcial]
 tags:  [SSAFY, SSAFYcial]
 summary: "SSAFYcial 기사 3호. SSAFY 그냥 배우게? Jekyll와 github Page를 이용하여 개발 블로그를 만들어서 같이 성장하자!"
@@ -576,7 +576,7 @@ SSAFY는 단순한 코딩 교육뿐만 아니라, 기본 코딩을 바탕으로 
 처음에 배웠던 언어인 파이썬, 자바를 계속 사용하면서 공부하기에 알고리즘 공부를 하면서 프로그래밍 언어에 대해 확실하게 사용할 수 있다는 자신감을 가질 수 있습니다.  
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/u/c/0475b30c6541160c/IQSOvVK4YvaOS7n7GVBtKzvkAaqNDv9cJiA3qlqSMKK8iYg?width=1024" width="1024" height="auto" />
+<img src="https://1drv.ms/u/c/0475b30c6541160c/IQSOvVK4YvaOS7n7GVBtKzvkAaqNDv9cJiA3qlqSMKK8iYg?width=400" width="400" height="auto" />
 </div>  
 
 부트 캠프는 어렵다고 들었는데, 나는 따라갈 수 있을지 없을지 고민된다.  

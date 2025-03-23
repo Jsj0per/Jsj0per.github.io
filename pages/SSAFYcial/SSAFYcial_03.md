@@ -355,6 +355,8 @@ Github-page를 이용하여 생성되는 블로그다보니 Github의 기능을 
 
 [Top Page](#)
 
+<iframe width="1000" height="562" src="https://www.youtube.com/embed/BF5YL3-oguI?si=JqzsCtf_GkuUkkfO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
 이번 기사에서는 jekyll 블로그를 위한 PC 개발 환경을 구성해보고, 외부에서 탬플릿을 가져오고,  
 github 레포지토리에 push하여 github-page로 블로그를 생성해보는 것까지 알려드리도록 하겠습니다.  
 해당 기사는 Windows 환경을 베이스로 설명하도록 하겠습니다.  

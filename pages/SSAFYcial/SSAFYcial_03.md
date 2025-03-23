@@ -356,11 +356,8 @@ Github-page를 이용하여 생성되는 블로그다보니 Github의 기능을 
 [Top Page](#)
 
 <div class="videoWrapper" style="position: relative; padding-bottom: 56.25%; height: 0;">
-    <iframe width="100%" height="auto" src="https://www.youtube.com/embed/pIpm4NwaH1s?si=fKA48fxTJJFnca6x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/pIpm4NwaH1s?si=fKA48fxTJJFnca6x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-[출처] youtube iframe 반응형 사이즈 처리|작성자 AWS PRO
-
-
 
 이번 기사에서는 jekyll 블로그를 위한 PC 개발 환경을 구성해보고, 외부에서 탬플릿을 가져오고,  
 github 레포지토리에 push하여 github-page로 블로그를 생성해보는 것까지 알려드리도록 하겠습니다.  

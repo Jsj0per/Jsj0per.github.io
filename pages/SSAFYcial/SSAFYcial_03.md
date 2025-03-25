@@ -109,7 +109,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 [Top Page](#)
 
 <div style="text-align: center;">
-  <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEDgIAAAAAASFyFuMJYg6NQVWp0_v-Baw?width=256" width="256" height="auto" />
+    <img src="SSAFYcial_img/JSJ_HMM.png" width="256" height="auto"/>
 </div>  
 그럼 개발 블로그를 하기 정했다면 플랫폼을 정해야하는데,  
 정말 많은 플랫폼들이 존재하여 고르는 것도 고민이 될 듯 합니다.  
@@ -122,18 +122,18 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 [Top Page](#)
 
 <details style="text-align: center;">
-  <summary><img src="https://1drv.ms/i/c/0475b30c6541160c/IQRzWWAk9hVFTI3dreGhiGqJAWbOuaUyZxGSh_XRHO3cNWU?width=1024" width="1024" height="auto" /></summary>
-  <img src="https://1drv.ms/i/c/0475b30c6541160c/IQS4jHbcUPsLSr707B6VqihDAXBecWnAxm-Ev-VqDvVdslg?width=1024" width="1024" height="auto" />
+  <summary><img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_06.png" width="1024" height="auto"/></summary>
+  <img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_08.png" width="1024" height="auto"/>
   <br>
   <a herf="https://www.canva.com/">[요약_사진_제공_Canva]</a>
 </details>
 <br>
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQSRW6sxoqjRRqp8TWelgdyxAZBqHd2rTTx-Awi_OIi0ruk?width=1024" width="1024" height="auto" />
+<img src="SSAFYcial_img/SSAFYcial_03/naverblog_pic_01.png" width="1024" height="auto"/>
 </div>  
 <br>
 <div style="text-align: center;">
-  <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQdNNBXLsZjT4g03pvQO4gkAV6BixtypuwABmn9o-mt0RQ?width=256" width="256" height="auto" />
+  <img src="SSAFYcial_img/SSAFYcial_03/naverBlog_logo.png" width="256" height="auto"/>
 </div>
 
 블로그 화면 출처 : [SSAFYcial_13기_기자단_동료_블로그](https://blog.naver.com/iong_00)
@@ -174,18 +174,18 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 [Top Page](#)
 
 <details style="text-align: center;">
-  <summary><img src="https://1drv.ms/i/c/0475b30c6541160c/IQRzWWAk9hVFTI3dreGhiGqJAWbOuaUyZxGSh_XRHO3cNWU?width=1024" width="1024" height="auto" /></summary>
-  <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQul699sUbfR6tQTQ5qh52tAeryxKRHyMsfqlyeiPrt8FA?width=1024" width="1024" height="auto" />
+  <summary><img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_06.png" width="1024" height="auto"/></summary>
+  <img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_09.png" width="1024" height="auto"/>
   <br>
   <a herf="https://www.canva.com/">[요약_사진_제공_Canva]</a>
 </details>
 <br>
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQSPfnoTU4gaTYLEiAbg2gmdAWY-ERJ8__3DvrN8nTAmOeM?width=1024" width="1024" height="auto" />
+<img src="SSAFYcial_img/SSAFYcial_03/Tistory_pic_01.png" width="1024" height="auto"/>
 </div>  
 <br>
 <div style="text-align: center;">
-<img src="https://1drv.ms/u/c/0475b30c6541160c/IQQHNxUTFDQiSLaUzXskT4rVAVXPj1tBuG3ggPlxgz6p59I?width=256" width="256" height="auto" />
+  <img src="SSAFYcial_img/SSAFYcial_03/Tistory_logo.webp" width="256" height="auto"/>
 </div>
 
 블로그 화면 출처 : [SSAFYcial_13기_기자단_동료_블로그](https://0njung.tistory.com/)
@@ -215,18 +215,18 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 [Top Page](#)
 
 <details style="text-align: center;">
-  <summary><img src="https://1drv.ms/i/c/0475b30c6541160c/IQRzWWAk9hVFTI3dreGhiGqJAWbOuaUyZxGSh_XRHO3cNWU?width=1024" width="1024" height="auto" /></summary>
-  <img src="https://1drv.ms/i/c/0475b30c6541160c/IQSE88s5fEJpTq4TIGBjWPGMAcTp1y9HqEJ_GkeqlhRRW7Y?width=1024" width="1024" height="auto" />
+  <summary><img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_06.png" width="1024" height="auto"/></summary>
+  <img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_10.png" width="1024" height="auto"/>
   <br>
   <a herf="https://www.canva.com/">[요약_사진_제공_Canva]</a>
 </details>
 <br>
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQW3nddWC8pTLu3fe-gHWLZARbHj8o1W20ZVbiaQITq69g?width=1024" width="1024" height="auto" />
+<img src="SSAFYcial_img/SSAFYcial_03/velog_pic_01.png" width="1024" height="auto"/>
 </div>  
 <br>
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQjpsAbNI_xQK7hQKscQ08XASflXqnzEOQLKznGSh5niE0?width=256" width="256" height="auto" />
+  <img src="SSAFYcial_img/SSAFYcial_03/velog_logo.jpg" width="256" height="auto"/>
 </div>
 
 블로그 화면 출처 : [SSAFYcial_13기_기자단_동료_블로그](https://velog.io/@develeep)
@@ -264,19 +264,19 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 [Top Page](#)
 
 <details style="text-align: center;">
-  <summary><img src="https://1drv.ms/i/c/0475b30c6541160c/IQRzWWAk9hVFTI3dreGhiGqJAWbOuaUyZxGSh_XRHO3cNWU?width=1024" width="1024" height="auto" /></summary>
-  <img src="https://1drv.ms/i/c/0475b30c6541160c/IQSSVRxUURcURakOHD5VLxF1AVt6MmO-d2-uBW7uO8jnet4?width=1024" width="1024" height="auto" />
+  <summary><img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_06.png" width="1024" height="auto"/></summary>
+  <img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_13.png" width="1024" height="auto"/>
   <br>
   <a herf="https://www.canva.com/">[요약_사진_제공_Canva]</a>
 </details>
 <br>
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQArxnEANU5R4yUC1btd3kSAeYUWImGuiTDo9pn7TpZyig?width=1024" width="1024" height="auto" />
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_11.png" width="1024" height="auto"/>
 </div>  
-<br>  
+<br>
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQR_s8_YQsqCRIM3eWcCMQlPAfIEa3kiVaeUH-Tyn7uAHNg?width=256" width="256" height="auto" />
-</div>  
+  <img src="SSAFYcial_img/SSAFYcial_03/jekyll_logo.png" width="256" height="auto"/>
+</div>
 본 주제로 돌아와서 저는 이제 jekyll과 github-page 기능을 이용하여 블로그를 만드는 법을 알려주고자 합니다.  
 Jekyll은 프로그래밍 언어인 "Ruby"로 만들어진 정적 사이트 프레임 워크입니다.
 
@@ -286,7 +286,7 @@ Jekyll은 프로그래밍 언어인 "Ruby"로 만들어진 정적 사이트 프�
 
 <br>
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEDgIAAAAAASFyFuMJYg6NQVWp0_v-Baw?width=256" width="256" height="auto" />
+  <img src="SSAFYcial_img/JSJ_HMM.png" width="256" height="auto"/>
 </div>
 
 이러한 정적 사이트 생성기의 종류로는 Jekyll(Ruby), Hugo(Go), Gatsby(React), Hexo(Node.js) 등이 존재합니다만, 그 중에서 왜 Jekyll를 사용하려는지에 대한 이유를 설명하고자 합니다.  
@@ -294,10 +294,10 @@ Jekyll은 프로그래밍 언어인 "Ruby"로 만들어진 정적 사이트 프�
 ### 1. Github에서 Jekyll를 사용하면 즉시 블로그를 호스팅해준다.
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQsOPORQYhrQ466oUzW6HjyAXz17ZGLSrOEIQZq4w7oRoM?width=1024" width="1024" height="auto" />
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_07_github_jekyll_upload.png" width="100%" height="auto"/>
 </div>  
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQR7O2wCJt8oQJxg8yE9p5XEAXpVQhwhXMs4bUeF3G1Pop4?width=256" width="256" height="auto" />
+<img src="SSAFYcial_img/SSAFYcial_03/github-page_logo.png" width="256" height="auto"/>
 </div>  
 Github에서는 Jekyll 로 블로그를 작성한 뒤 레포지토리를 만들어 저장해두면, 즉시 블로그를 무료로 호스팅 해주는 파격적인 서비스를 제공해주고 있습니다. 추가로 SSL 인증서도 무료로 자동적으로 제공하고 있다는 점도 장점이라 볼 수 있습니다.  
 물론 제약이 있긴 있습니다. 레포지토리는 1GB 내외까지만 제공해주고 있어, 그 이상의 용량을 보관하려하면 경고문구를 띄우고 있고, 단일 파일은 100MB를 넘을 수 없습니다.  
@@ -315,8 +315,9 @@ Github에서는 Jekyll 로 블로그를 작성한 뒤 레포지토리를 만들�
 ### 3. 개발자로서 메리트가 높은 블로그 운영방식.
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQSmogfLCEeUS4jfKPh5wPWIAV1SZGTOZ8HgJnW-h_wV9YE?width=1024" width="1024" height="auto" />
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_12.png" width="100%" height="auto"/>
 </div>  
+
 앞의 1, 2번 장점을 합해서 생기는 장점입니다.  
 Github-page를 이용하여 생성되는 블로그다보니 Github의 기능을 끌어와서 사용하기 쉬우며, 개발자로서의 지식을 접목시켜 하나의 포트폴리오로 승화시키기 적절한 탬플릿이라고 생각됩니다.  
 물론 난이도는 결코 낮지 않습니다. 기본적으로 어느정도의 프론트엔드 지식이 있어야 꾸밀 수 있다는 점이 가장 큰 벽으로 느껴질 수 있습니다.  
@@ -328,7 +329,7 @@ Github-page를 이용하여 생성되는 블로그다보니 Github의 기능을 
 기본적으로 정적 사이트 생성기이다보니, 블로그 사이트내 로딩이 꽤 빠릅니다.  정적 사이트 생성기란 웹사이트의 콘텐츠를 미리 생성하여 정적인 HTML 파일로 만들어 주는 프레임워크 이다보니 사전에 모든 페이지가 미리 생성되어 있기 때문에 서버에서의 렌더링 시간이 필요 없습니다.  
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEDAIAAAAAAZIhI_Z2cJAVt6NTwHRhnMU?width=256" width="256" height="auto" />
+  <img src="SSAFYcial_img/JSJ_OK.png" width="256" height="auto"/>
 </div>  
 위의 장점들이 있기 때문에 저는 jekyll 블로그 방식으로 개발 블로그를 운영중이며,  
 현재까지도 SSAFY 생활을 즐기면서 재밌게 가꿔나가고 있습니다.
@@ -336,7 +337,7 @@ Github-page를 이용하여 생성되는 블로그다보니 Github의 기능을 
 ---
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEDQIAAAAAAZU0B88KveEqdaK6FgvbkzU?width=256" width="256" height="auto" />
+  <img src="SSAFYcial_img/JSJ_Rain.png" width="256" height="auto"/>
 </div>
 
 물론, jekyll 블로그의 단점도 꽤 많습니다.  

@@ -15,6 +15,8 @@ folder: SSAFYcial
 또한 저를 형상화한 이모지는 삼성 AR 이모지를 이용하여 제작된 AI 이미지임도 알려드립니다.  
 또한 글 작성에 ChatGPT의 도움을 일부 받은 게시글 입니다.  
 
+해당 포스트는 GIT에 대한 사용을 알고있다는 전제하에 작성된 포스트로, Windows 환경을 기준으로 작성되었습니다.  
+
 <div style="text-align: center;">
   <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_Hello.png"/>
 </div>

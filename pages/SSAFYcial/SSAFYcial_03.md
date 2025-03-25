@@ -389,48 +389,48 @@ github 레포지토리에 push하여 github-page로 블로그를 생성해보는
 [Top Page](#)
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQSZVgUXrQKiQKW-Mczm0FkiAe3Vfs5icd5ELrP9KvtZSKU?width=1024" width="1024" height="auto" />
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_14.png" width="100%" height="auto"/>
 </div>  
 먼저, jekyll의 기반 프로그래밍 언어인 Ruby를 설치하여야합니다.  
 Ruby의 경우 Windows 기준으로 RubyInstaller를 통하여 설치할 수 있습니다.  
 MacOS의 경우 [공식 문서](https://jekyllrb-ko.github.io/docs/installation/macos) 를 참조 부탁드리겠습니다.
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQSYgNdV_RsTRq0OC5sgTQobAa7SgbxNHRoQU0zJOfHv6TU?width=1024" width="1024" height="auto" />
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_15.png" width="100%" height="auto"/>
 </div>  
 Download에 들어가시면, With DEVKIT에서 가장 굵은 글씨로 강조되어있는 부분이 Stable Version이므로 해당 버전을 사용하시면 됩니다.
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQTiFjf2Kp1vQJP6UsAdsyB-AVzXrd3oGW1JjN-zp0dUdpA?width=1024" width="1024" height="auto" />
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_16.png" width="100%" height="auto"/>
 </div>  
 설치시 가급적이면 C드라이브에 설치하는 것을 권장드리며 2 항목 모두 체크하시고 다운로드 받으시면 됩니다.
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQRflyxZecJuSLdeaN_0rPHCAcId-ChnxCAUTzCFWw7RHXw?width=1024" width="1024" height="auto" />
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_17.png" width="100%" height="auto"/>
 </div>  
 설치가 완료되었다면 MSYS2 설치 부분도 체크하시고 Finish를 눌러주셔야 합니다.  
 MSYS2는 Ruby의 네이티브 젬 컴파일 및 패키지 관리를 담당하기 때문에 설치해주셔야 합니다.
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQRZ3a1GqHIhSqZbiZ6OPyb9AY4vQq7Jibfhk62FroljRHU?width=1024" width="1024" height="auto" />
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_18.png" width="100%" height="auto"/>
 </div>  
 이후 명령 프롬포트로 해당 화면이 뜰껀데, 1번과 3번을 각각 설치해주시면 됩니다.  
 정상적으로 설치가 완료되었다면 초록글씨로 succeeded라 뜨고 다른 설치를 할꺼냐고 메뉴가 뜹니다.
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEDAIAAAAAAZIhI_Z2cJAVt6NTwHRhnMU?width=256" width="256" height="auto" />
-</div>
+  <img src="SSAFYcial_img/JSJ_OK.png" width="256" height="auto"/>
+</div>  
 이제 이러면 Ruby는 설치가 완료된 상태가 됩니다! 와우!
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQ0ihZ_uMf0SJ1urpHSABBPAWKs3g9PAswuV2UlV6Q5uUI?width=1024" width="1024" height="auto" />
-</div>
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_19.png" width="100%" height="auto"/>
+</div>  
 이제 cmd를 열어서 'gem install jekyll bundler'를 입력하여 jekyll와 bundler를 깔아줍니다.  
 jekyll 블로그를 만들기 위해서 필수적인 플러그인입니다.
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQTVwwuqS7cERK_g-CItQLPjAZsj2Lx6V1ExRlYWuTrHPys?width=1024" width="1024" height="auto" />
-</div>
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_20.png" width="100%" height="auto"/>
+</div>  
 추가로 VScode에서 Ruby LSP도 설치해주시면 됩니다.  
 과거에는 Ruby와 VScode Ruby를 사용하였지만, 지금은 Ruby LSP로 통합 변경되었습니다.
 
@@ -441,22 +441,22 @@ jekyll 블로그를 만들기 위해서 필수적인 플러그인입니다.
 [Top Page](#)
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQTTql9xobuMQ7MRJleCuFvTAeE2zt1CKrEEPkK0_-ClCnc?width=1024" width="1024" height="auto" />
-</div>
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_21.png" width="100%" height="auto"/>
+</div>  
 이제 본격적으로 블로그를 만들 시간입니다.  
 바탕화면이나 블로그 파일을 만들 곳에 새폴더를 생성해줍니다.  
 가능하면 영어 이름으로 해두는 편이 오류를 방지하기 좋습니다.
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQTtF3fLpf8uTIrEpvWy4FbRAYKNbG0JQG4VNvLAZo-z-oc?width=1024" width="1024" height="auto" />
-</div>
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_22.png" width="100%" height="auto"/>
+</div>  
 이후 만들 파일에 들어와서 'Code(으)로 열기'를 해주시면 됩니다.  
 만약 해당 커맨드가 안 보인다면, VSCode를 설치하셨을때 'Code(으)로 열기'를 설정 안 하시고 설치하신거라,  
 직접 VSCode를 여셔서 경로를 설정해주시면 됩니다.
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQRAagZhpSKqQaZOdC0MRRXrATIR-iIqNm6pbmBM8VIDl68?width=1024" width="1024" height="auto" />
-</div>
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_23.png" width="100%" height="auto"/>
+</div>  
 이후 Control + '~' 버튼을 눌러 콘솔을 켜시고,  
 콘솔창에 'jekyll new (프로젝트 명)'을 입력해주시면 됩니다.  
 예시에서는 홈페이지에 나온대로 myblog라 입력하겠습니다.  
@@ -465,14 +465,14 @@ force로 설치하는 이유는 다른 파일이 있어서 Conflict 에러가 �
 현재 경로에 설치할 예정이라면 경로에 다른 파일이 없는지 확인하시고 설치하는 것을 권유합니다.
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQSWeLXDEx3oQpJvCbNWH6-pAfI0JicCb74qghU0ccp4n80?width=1024" width="1024" height="auto" />
-</div>
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_24.png" width="100%" height="auto"/>
+</div>  
 명령어가 종료된다면, 가장 기본 형태의 jekyll 블로그 플랫폼이 설치된 것을 확인할 수 있습니다!  
 이것으로 여러분만의 블로그가 미약한 형태로나마 생긴 것입니다!
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQRUpwOR7aaIRZqhGWAw7aIHAe1WUrJ4sISZ9gzLE_ykJf4?width=1024" width="1024" height="auto" />
-</div>
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_25.png" width="100%" height="auto"/>
+</div>  
 이제 그럼 로컬 서버를 열어보면서, 블로그가 어떻게 보이는지 확인할 시간입니다.  
 다시 VSCode 콘솔에 'bundle exec jekyll serve' 를 입력하여 로컬 서버를 여시면 됩니다.  
 만약 저처럼 ./ 를 하여 현재 경로로 설치하지 않고 프로젝트 명을 입력하시고 설치했다면, 해당 디렉토리로 이동한 뒤(ex: cd myblog) 입력하시길 바랍니다.  
@@ -480,8 +480,8 @@ force로 설치하는 이유는 다른 파일이 있어서 Conflict 에러가 �
 127.0.0.1:4000 으로 주소창에 입력하시면 로컬 서버로 사이트 확인이 가능해집니다.
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQREnU0FqOJjS5MolS8FykvDAVD2ulEvIXrYA1UQ2f16HHA?width=1024" width="1024" height="auto" />
-</div>
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_26.png" width="100%" height="auto"/>
+</div>  
 네. 이것으로 기념비적인 첫 블로그가 완성되었습니다!
 
 ---
@@ -491,7 +491,7 @@ force로 설치하는 이유는 다른 파일이 있어서 Conflict 에러가 �
 [Top Page](#)
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQRFzfO1jgTNQ6bwTH5ZE4sIAf2jEUmrvYvm65M_WCR3yso?width=1024" width="1024" height="auto" />
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_27.png" width="100%" height="auto"/>
 </div>  
 물론 진짜 0부터 만들어도 되지만, 이제 막 개발자로 한걸음 나선 학생으로서 너무 무리한 부탁이기도 합니다.  
 따라서 이미 있는 테마 중 오픈소스에 수정허가가 되어있는 테마를 사용해볼 예정입니다.  
@@ -501,7 +501,7 @@ force로 설치하는 이유는 다른 파일이 있어서 Conflict 에러가 �
 그리고 굉장히 깔끔하고 적당한 기능까지 있어 예시로 적합할 것으로 판단하였습니다.
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQvG1CTU4HFSKxTGzSIowfNAeo-_PL0sZDoaR1ulErsB8I?width=1024" width="1024" height="auto" />
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_28.png" width="100%" height="auto"/>
 </div>  
 링크 내부에 들어가셔서 Download 버튼을 누르면 해당 탬플릿의 git 레포지토리로 이동됩니다.  
 여기서 <>code를 누르시고 주소를 따셔서 http를 복사하여 git clone을 해서 가져오시는 것이 일반적이나,  
@@ -516,40 +516,40 @@ force로 설치하는 이유는 다른 파일이 있어서 Conflict 에러가 �
 [Top Page](#)
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEDAIAAAAAAZIhI_Z2cJAVt6NTwHRhnMU?width=256" width="256" height="auto" />
+  <img src="SSAFYcial_img/JSJ_OK.png" width="256" height="auto"/>
 </div>  
 우리는 이제 원하는 jekyll 테마까지 다운로드 하였습니다.  
 이제 github에 블로그 파일을 올려 github-page에 넘겨줄 차례가 되었습니다.
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQTDM9exy-QpRb5ZH2QaxmZ3Abc1lGfx8lPp_8qZ-X11J14?width=1024" width="1024" height="auto" />
-</div>  
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_29.png" width="100%" height="auto"/>
+</div>   
 github에 새로운 레포지토리를 제작합니다.
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQRA3JOwmk1zRYIJkmrt7e4fARV-5EwiGQFLjSRnnq1qPjU?width=1024" width="1024" height="auto" />
-</div>  
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_30.png" width="100%" height="auto"/>
+</div>   
 레포지토리 명은 Owner명.github.io 가 권장사항입니다.  
 공개 범위는 Public으로 설정하시고 본 예제에서는 Readme File을 체크한 상태로 제작하겠습니다.
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQTa7HtH3-F_SYpjfUVDVgDIAewHbq9ZmXaYLb2fi4MLvtU?width=1024" width="1024" height="auto" />
-</div>  
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_31.png" width="100%" height="auto"/>
+</div>   
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQFUiQWaJS7S5aI3FfNBqLlAfN1DZceZ5jKABuU1onhlZk?width=1024" width="1024" height="auto" />
-</div>  
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_32.png" width="100%" height="auto"/>
+</div>   
 이후 <>code를 눌러 html 주소를 복사한 뒤, 가져올 빈 폴더에서 git clone. 해주시면 됩니다.
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQS3WVVSgXXbRoSAkPK7CJgHATIm4AVhWolySwgp_cYP0Cw?width=1024" width="1024" height="auto" />
-</div>  
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_33.png" width="100%" height="auto"/>
+</div>   
 아까 받아두었던 탬플릿 파일을 그대로 복사하여 clone 해온 폴더에 붙혀넣고,  
 git add . -> git commit -. "커밋명 입력" -> git push origin main
 순으로 github에 push해주시면 됩니다.
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQP7J_iYx8yT7OLNtYpR7leAT5xz1oQpGjL6lTQi2twnxQ?width=1024" width="1024" height="auto" />
-</div>  
+<img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_34.png" width="100%" height="auto"/>
+</div>   
 이후에 자기 레포지토리 이름을 주소에 입력하면,  
 보시는바와 같이 탬플릿이 블로그에 등록되어 정상적으로 출력되는 모습을 보실 수 있으며,  
 드디어 블로그 개설에 성공하게 되었습니다!  
@@ -562,7 +562,7 @@ git add . -> git commit -. "커밋명 입력" -> git push origin main
 [Top Page](#)
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAECwIAAAAAAVa11D4mLU1eLYtjPEQ9uH4?width=256" width="256" height="auto" />
+  <img src="SSAFYcial_img/JSJ_THANKS.png" width="256" height="auto"/>
 </div>  
 이번 기사에서는 개발 블로그에 대한 소개, 플랫폼 소개, github-page와 jekyll를 이용한 블로그 소개, 그리고 그 블로그의 개설까지 한번에 기사로 기록해보았습니다.  
 저도 jekyll에 대해 전문가 수준으로 많이 아는 사람이 아닌 같이 공부하는 학생으로서 부족한 점이 많습니다.  
@@ -578,9 +578,8 @@ git add . -> git commit -. "커밋명 입력" -> git push origin main
 [Top Page](#)
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQS6ZTDGJ1qxQqmXpKEaimFxAYmTWEsDRqeYchOWjEsPUA4?width=1024" width="1024" height="auto" />
-</div>
-
+<img src="SSAFYcial_img/SSAFYcial_introduce_01.png" width="100%" height="auto"/>
+</div>   
 삼성 청년 SW 아카데미 ( Samsung Software Academy For Youth ) 는 고용노동부의 취업지원 노하우와 삼성의 SW 교육환경을 바탕으로 아이들과 미래재단과 멀티캠퍼스에서 운영하는 청년들을 위한 소프트웨어 교육 부트캠프 입니다.  
 각 전문분아별 자문 교수단과 삼성의 SW 전문가가 전공자와 비전공자, 마이스터고 학생들에게 SW 취업을 위해 최고 수준의 교육을 실시하는 프로그램입니다.  
 
@@ -588,8 +587,8 @@ git add . -> git commit -. "커밋명 입력" -> git push origin main
 12개월이라는 다소 넉넉한 기간으로 많은 내용을 배울 수 있고, 전반기 코딩-알고리즘, 후반기 프로젝트 제작을 통하여 체계적으로 배울 수 있다는 장점을 가지고 있습니다.  
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/u/c/0475b30c6541160c/IQTiJM5VoFrES5k6lJVYmD2dAe2UC75-tPrgODR9Lijvchw?width=400" width="400" height="auto" />
-</div>  
+<img src="SSAFYcial_img/SSAFYcial_introduce_02.webp" width="400" height="auto"/>
+</div>   
 저 역시 국어국문학과 출신으로서 완전 비전공자로서 SSAFY의 혜택을 받아 교육을 받고 있고, 열심히 수업내용을 따라가고 있습니다.  
 SSAFY는 단순한 코딩 교육뿐만 아니라, 기본 코딩을 바탕으로 컴퓨터 알고리즘, 팀원과의 협력, 다양한 포트폴리오 프로젝트 제작, 삼성에서 직접 고용하고있는 SW 전문 취업 컨설턴트님에게 취업 지원까지 받을 수 있는,  
 삼성의 이름값만이 아닌 실질적으로 큰 도움을 받을 수 있는 탄탄한 지원을 바탕으로 취업을 정조준할 수 있습니다!
@@ -598,9 +597,8 @@ SSAFY는 단순한 코딩 교육뿐만 아니라, 기본 코딩을 바탕으로 
 처음에 배웠던 언어인 파이썬, 자바를 계속 사용하면서 공부하기에 알고리즘 공부를 하면서 프로그래밍 언어에 대해 확실하게 사용할 수 있다는 자신감을 가질 수 있습니다.  
 
 <div style="text-align: center;">
-<img src="https://1drv.ms/u/c/0475b30c6541160c/IQSOvVK4YvaOS7n7GVBtKzvkAaqNDv9cJiA3qlqSMKK8iYg?width=400" width="400" height="auto" />
-</div>
-
+<img src="SSAFYcial_img/SSAFYcial_introduce_03.webp" width="400" height="auto"/>
+</div>   
 부트 캠프는 어렵다고 들었는데, 나는 따라갈 수 있을지 없을지 고민된다.  
 프로그래밍은 배운적이 없는데 따라갈 수 있을지 고민된다.  
 비전공자인데 코딩을 할 수 있을까 고민된다.
@@ -615,4 +613,4 @@ SSAFY는 단순한 코딩 교육뿐만 아니라, 기본 코딩을 바탕으로 
 > SSAFY 공식 홈페이지  
 > [![SSAFY_Logo](./SSAFYcial_img/SSAFY_LOGO.jpg)](https://www.ssafy.com)
 
-![SSAFYcial_namecard](https://jsj0per.github.io/pages/SSAFYcial/SSAFYcial_namecard.png)
+![SSAFYcial_namecard](./SSAFYcial_img/SSAFYcial_namecard.png)

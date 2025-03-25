@@ -41,7 +41,7 @@ folder: SSAFYcial
 </details>
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_01.png"style="width:1024px; height:auto;"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_01.png"/>
 </div>  
 > **블로그(Blog)**  
 > 자신의 관심사에 따라 자유롭게 칼럼, 일기, 취재 기사 따위를 올리는 웹 사이트.  

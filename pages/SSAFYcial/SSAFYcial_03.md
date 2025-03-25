@@ -41,7 +41,7 @@ folder: SSAFYcial
 </details>
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_01.webp"style="width:400px; height:auto;"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_01.png"style="width:400px; height:auto;"/>
 </div>  
 > **블로그(Blog)**  
 > 자신의 관심사에 따라 자유롭게 칼럼, 일기, 취재 기사 따위를 올리는 웹 사이트.  
@@ -69,7 +69,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 ### 1. 공부 내용을 리마인드 할 수 있다.
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_02.webp"style="width:400px; height:auto;"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_02.png"style="width:400px; height:auto;"/>
 </div>  
 자기가 공부한 내용을 올리고 추후에 리마인드 할 수 있는 기회를 제공합니다.  
 저같은 경우 제가 오늘 푼 알고리즘 문제를 기록하는 방식으로 활용하고 있습니다.  
@@ -79,7 +79,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 ### 2. 포트폴리오 연계가 가능하다.
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_03.webp"style="width:400px; height:auto;"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_03.png"style="width:400px; height:auto;"/>
 </div>  
 요즘 IT회사들의 표준 규격 이력서에 blog가 있다면 적어달라는 곳들이 간간히 보이고 있습니다.  
 이는 개발 블로그도 포트폴리오로 활용될 수 있는 좋은 수단 중 하나로 보일 수 있다는 증거로도 볼 수 있다고 봅니다.  
@@ -89,7 +89,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 ### 3. 글 쓰는 능력을 기를 수 있다.
 
 <div style="text-align: center;">
-   <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_04.webp"style="width:400px; height:auto;"/>
+   <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_04.png"style="width:400px; height:auto;"/>
 </div> 
 블로그를 하려면 글을 계속 쓰게되고, '어떻게 쓰면 더 사람들에게 잘 받아들여질까?'를 고민하면서 쓰다보면,  
 글을 계속 쓰게 되므로 어느정도 글쓰기에 대한 두려움을 줄일 수 있는 선택지가 될 수 있다고 생각됩니다.  
@@ -185,7 +185,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 </div>  
 <br>
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/Tistory_logo.webp" style="width:256px; height:auto;"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/Tistory_logo.png" style="width:256px; height:auto;"/>
 </div>
 
 블로그 화면 출처 : [SSAFYcial_13기_기자단_동료_블로그](https://0njung.tistory.com/)
@@ -588,7 +588,7 @@ git add . -> git commit -. "커밋명 입력" -> git push origin main
 12개월이라는 다소 넉넉한 기간으로 많은 내용을 배울 수 있고, 전반기 코딩-알고리즘, 후반기 프로젝트 제작을 통하여 체계적으로 배울 수 있다는 장점을 가지고 있습니다.  
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_introduce_02.webp"style="width:400px; height:auto;"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_introduce_02.png"style="width:400px; height:auto;"/>
 </div>   
 저 역시 국어국문학과 출신으로서 완전 비전공자로서 SSAFY의 혜택을 받아 교육을 받고 있고, 열심히 수업내용을 따라가고 있습니다.  
 SSAFY는 단순한 코딩 교육뿐만 아니라, 기본 코딩을 바탕으로 컴퓨터 알고리즘, 팀원과의 협력, 다양한 포트폴리오 프로젝트 제작, 삼성에서 직접 고용하고있는 SW 전문 취업 컨설턴트님에게 취업 지원까지 받을 수 있는,  
@@ -598,7 +598,7 @@ SSAFY는 단순한 코딩 교육뿐만 아니라, 기본 코딩을 바탕으로 
 처음에 배웠던 언어인 파이썬, 자바를 계속 사용하면서 공부하기에 알고리즘 공부를 하면서 프로그래밍 언어에 대해 확실하게 사용할 수 있다는 자신감을 가질 수 있습니다.  
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_introduce_03.webp"style="width:400px; height:auto;"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_introduce_03.png"style="width:400px; height:auto;"/>
 </div>   
 부트 캠프는 어렵다고 들었는데, 나는 따라갈 수 있을지 없을지 고민된다.  
 프로그래밍은 배운적이 없는데 따라갈 수 있을지 고민된다.  

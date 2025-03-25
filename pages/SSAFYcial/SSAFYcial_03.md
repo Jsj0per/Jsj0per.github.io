@@ -8,7 +8,7 @@ permalink: SSAFYcial_03.html
 folder: SSAFYcial
 ---
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/ssafycial_series_header.png" width="100%" height="auto"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/ssafycial_series_header.png" style="width:100%; height:auto;"/>
 </div>
 
 해당 포스트에 사용된 삽화는 ChatGPT DALL·E 를 사용한 AI 그림임을 알려드립니다.  
@@ -16,7 +16,7 @@ folder: SSAFYcial
 또한 글 작성에 ChatGPT의 도움을 일부 받은 게시글 입니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_Hello.png" width="256" height="auto"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_Hello.png" style="width:256px; height:auto;"/>
 </div>
 
 안녕하세요!   SSAFYcial 13기 기자단 정승재 입니다.  
@@ -34,14 +34,14 @@ folder: SSAFYcial
 [Top Page](#)
 
 <details style="text-align: center;">
-  <summary><img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_06.png" width="1024" height="auto"/></summary>
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_05.png" width="1024" height="auto"/>
+  <summary><img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_06.png"style="width:100%; height:auto;"/></summary>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_05.png"style="width:100%; height:auto;"/>
   <br>
   <a herf="https://www.canva.com/">[요약_사진_제공_Canva]</a>
 </details>
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_01.webp" width="400" height="auto"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_01.webp"style="width:400px; height:auto;"/>
 </div>  
 > **블로그(Blog)**  
 > 자신의 관심사에 따라 자유롭게 칼럼, 일기, 취재 기사 따위를 올리는 웹 사이트.  
@@ -53,7 +53,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 최근에는 인플루언서가 되어 블로그를 이용해서 하나의 사업을 하시는 분들도 계십니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_HMM.png" width="256" height="auto"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_HMM.png" style="width:256px; height:auto;"/>
 </div>
 
 그럼 그 Blog와 개발자와 무슨 상관 관계가 있는가?  
@@ -69,7 +69,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 ### 1. 공부 내용을 리마인드 할 수 있다.
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_02.webp" width="400" height="auto"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_02.webp"style="width:400px; height:auto;"/>
 </div>  
 자기가 공부한 내용을 올리고 추후에 리마인드 할 수 있는 기회를 제공합니다.  
 저같은 경우 제가 오늘 푼 알고리즘 문제를 기록하는 방식으로 활용하고 있습니다.  
@@ -79,7 +79,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 ### 2. 포트폴리오 연계가 가능하다.
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_03.webp" width="400" height="auto"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_03.webp"style="width:400px; height:auto;"/>
 </div>  
 요즘 IT회사들의 표준 규격 이력서에 blog가 있다면 적어달라는 곳들이 간간히 보이고 있습니다.  
 이는 개발 블로그도 포트폴리오로 활용될 수 있는 좋은 수단 중 하나로 보일 수 있다는 증거로도 볼 수 있다고 봅니다.  
@@ -89,7 +89,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 ### 3. 글 쓰는 능력을 기를 수 있다.
 
 <div style="text-align: center;">
-   <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_04.webp" width="400" height="auto"/>
+   <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_04.webp"style="width:400px; height:auto;"/>
 </div> 
 블로그를 하려면 글을 계속 쓰게되고, '어떻게 쓰면 더 사람들에게 잘 받아들여질까?'를 고민하면서 쓰다보면,  
 글을 계속 쓰게 되므로 어느정도 글쓰기에 대한 두려움을 줄일 수 있는 선택지가 될 수 있다고 생각됩니다.  
@@ -97,7 +97,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 좋은 연습 교재가 될 수 있다고 생각됩니다.
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_OK.png" width="256" height="auto"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_OK.png" style="width:256px; height:auto;"/>
 </div>  
 위와 같은 이유들로 개발 블로그는 자기 개발과 취업적인 측면으로 봤을때,  
 결정적인 수단이 되진 않더라도 선택지 중 하나가 될 수 있다고 충분히 생각할 수 있다고 보여집니다.
@@ -109,7 +109,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 [Top Page](#)
 
 <div style="text-align: center;">
-    <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_HMM.png" width="256" height="auto"/>
+    <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_HMM.png" style="width:256px; height:auto;"/>
 </div>  
 그럼 개발 블로그를 하기 정했다면 플랫폼을 정해야하는데,  
 정말 많은 플랫폼들이 존재하여 고르는 것도 고민이 될 듯 합니다.  
@@ -122,18 +122,18 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 [Top Page](#)
 
 <details style="text-align: center;">
-  <summary><img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_06.png" width="1024" height="auto"/></summary>
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_08.png" width="1024" height="auto"/>
+  <summary><img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_06.png"style="width:100%; height:auto;"/></summary>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_08.png"style="width:100%; height:auto;"/>
   <br>
   <a herf="https://www.canva.com/">[요약_사진_제공_Canva]</a>
 </details>
 <br>
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/naverblog_pic_01.png" width="1024" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/naverblog_pic_01.png"style="width:100%; height:auto;"/>
 </div>  
 <br>
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/naverBlog_logo.png" width="256" height="auto"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/naverBlog_logo.png" style="width:256px; height:auto;"/>
 </div>
 
 블로그 화면 출처 : [SSAFYcial_13기_기자단_동료_블로그](https://blog.naver.com/iong_00)
@@ -174,18 +174,18 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 [Top Page](#)
 
 <details style="text-align: center;">
-  <summary><img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_06.png" width="1024" height="auto"/></summary>
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_09.png" width="1024" height="auto"/>
+  <summary><img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_06.png"style="width:100%; height:auto;"/></summary>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_09.png"style="width:100%; height:auto;"/>
   <br>
   <a herf="https://www.canva.com/">[요약_사진_제공_Canva]</a>
 </details>
 <br>
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/Tistory_pic_01.png" width="1024" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/Tistory_pic_01.png"style="width:100%; height:auto;"/>
 </div>  
 <br>
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/Tistory_logo.webp" width="256" height="auto"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/Tistory_logo.webp" style="width:256px; height:auto;"/>
 </div>
 
 블로그 화면 출처 : [SSAFYcial_13기_기자단_동료_블로그](https://0njung.tistory.com/)
@@ -215,18 +215,18 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 [Top Page](#)
 
 <details style="text-align: center;">
-  <summary><img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_06.png" width="1024" height="auto"/></summary>
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_10.png" width="1024" height="auto"/>
+  <summary><img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_06.png"style="width:100%; height:auto;"/></summary>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_10.png"style="width:100%; height:auto;"/>
   <br>
   <a herf="https://www.canva.com/">[요약_사진_제공_Canva]</a>
 </details>
 <br>
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/velog_pic_01.png" width="1024" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/velog_pic_01.png"style="width:100%; height:auto;"/>
 </div>  
 <br>
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/velog_logo.jpg" width="256" height="auto"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/velog_logo.jpg" style="width:256px; height:auto;"/>
 </div>
 
 블로그 화면 출처 : [SSAFYcial_13기_기자단_동료_블로그](https://velog.io/@develeep)
@@ -264,18 +264,18 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 [Top Page](#)
 
 <details style="text-align: center;">
-  <summary><img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_06.png" width="1024" height="auto"/></summary>
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_13.png" width="1024" height="auto"/>
+  <summary><img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_06.png"style="width:100%; height:auto;"/></summary>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_13.png"style="width:100%; height:auto;"/>
   <br>
   <a herf="https://www.canva.com/">[요약_사진_제공_Canva]</a>
 </details>
 <br>
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_11.png" width="1024" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_11.png"style="width:100%; height:auto;"/>
 </div>  
 <br>
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/jekyll_logo.png" width="256" height="auto"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/jekyll_logo.png" style="width:256px; height:auto;"/>
 </div>
 본 주제로 돌아와서 저는 이제 jekyll과 github-page 기능을 이용하여 블로그를 만드는 법을 알려주고자 합니다.  
 Jekyll은 프로그래밍 언어인 "Ruby"로 만들어진 정적 사이트 프레임 워크입니다.
@@ -286,7 +286,7 @@ Jekyll은 프로그래밍 언어인 "Ruby"로 만들어진 정적 사이트 프�
 
 <br>
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_HMM.png" width="256" height="auto"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_HMM.png" style="width:256px; height:auto;"/>
 </div>
 
 이러한 정적 사이트 생성기의 종류로는 Jekyll(Ruby), Hugo(Go), Gatsby(React), Hexo(Node.js) 등이 존재합니다만, 그 중에서 왜 Jekyll를 사용하려는지에 대한 이유를 설명하고자 합니다.  
@@ -294,10 +294,10 @@ Jekyll은 프로그래밍 언어인 "Ruby"로 만들어진 정적 사이트 프�
 ### 1. Github에서 Jekyll를 사용하면 즉시 블로그를 호스팅해준다.
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_07_github_jekyll_upload.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_07_github_jekyll_upload.png" style="width:100%; height:auto;"/>
 </div>  
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/github-page_logo.png" width="256" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/github-page_logo.png" style="width:256px; height:auto;"/>
 </div>  
 Github에서는 Jekyll 로 블로그를 작성한 뒤 레포지토리를 만들어 저장해두면, 즉시 블로그를 무료로 호스팅 해주는 파격적인 서비스를 제공해주고 있습니다. 추가로 SSL 인증서도 무료로 자동적으로 제공하고 있다는 점도 장점이라 볼 수 있습니다.  
 물론 제약이 있긴 있습니다. 레포지토리는 1GB 내외까지만 제공해주고 있어, 그 이상의 용량을 보관하려하면 경고문구를 띄우고 있고, 단일 파일은 100MB를 넘을 수 없습니다.  
@@ -315,7 +315,7 @@ Github에서는 Jekyll 로 블로그를 작성한 뒤 레포지토리를 만들�
 ### 3. 개발자로서 메리트가 높은 블로그 운영방식.
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_12.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_12.png" style="width:100%; height:auto;"/>
 </div>  
 
 앞의 1, 2번 장점을 합해서 생기는 장점입니다.  
@@ -329,7 +329,7 @@ Github-page를 이용하여 생성되는 블로그다보니 Github의 기능을 
 기본적으로 정적 사이트 생성기이다보니, 블로그 사이트내 로딩이 꽤 빠릅니다.  정적 사이트 생성기란 웹사이트의 콘텐츠를 미리 생성하여 정적인 HTML 파일로 만들어 주는 프레임워크 이다보니 사전에 모든 페이지가 미리 생성되어 있기 때문에 서버에서의 렌더링 시간이 필요 없습니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_OK.png" width="256" height="auto"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_OK.png" style="width:256px; height:auto;"/>
 </div>  
 위의 장점들이 있기 때문에 저는 jekyll 블로그 방식으로 개발 블로그를 운영중이며,  
 현재까지도 SSAFY 생활을 즐기면서 재밌게 가꿔나가고 있습니다.
@@ -337,7 +337,7 @@ Github-page를 이용하여 생성되는 블로그다보니 Github의 기능을 
 ---
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_Rain.png" width="256" height="auto"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_Rain.png" style="width:256px; height:auto;"/>
 </div>
 
 물론, jekyll 블로그의 단점도 꽤 많습니다.  
@@ -389,47 +389,47 @@ github 레포지토리에 push하여 github-page로 블로그를 생성해보는
 [Top Page](#)
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_14.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_14.png" style="width:100%; height:auto;"/>
 </div>  
 먼저, jekyll의 기반 프로그래밍 언어인 Ruby를 설치하여야합니다.  
 Ruby의 경우 Windows 기준으로 RubyInstaller를 통하여 설치할 수 있습니다.  
 MacOS의 경우 [공식 문서](https://jekyllrb-ko.github.io/docs/installation/macos) 를 참조 부탁드리겠습니다.
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_15.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_15.png" style="width:100%; height:auto;"/>
 </div>  
 Download에 들어가시면, With DEVKIT에서 가장 굵은 글씨로 강조되어있는 부분이 Stable Version이므로 해당 버전을 사용하시면 됩니다.
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_16.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_16.png" style="width:100%; height:auto;"/>
 </div>  
 설치시 가급적이면 C드라이브에 설치하는 것을 권장드리며 2 항목 모두 체크하시고 다운로드 받으시면 됩니다.
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_17.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_17.png" style="width:100%; height:auto;"/>
 </div>  
 설치가 완료되었다면 MSYS2 설치 부분도 체크하시고 Finish를 눌러주셔야 합니다.  
 MSYS2는 Ruby의 네이티브 젬 컴파일 및 패키지 관리를 담당하기 때문에 설치해주셔야 합니다.
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_18.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_18.png" style="width:100%; height:auto;"/>
 </div>  
 이후 명령 프롬포트로 해당 화면이 뜰껀데, 1번과 3번을 각각 설치해주시면 됩니다.  
 정상적으로 설치가 완료되었다면 초록글씨로 succeeded라 뜨고 다른 설치를 할꺼냐고 메뉴가 뜹니다.
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_OK.png" width="256" height="auto"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_OK.png" style="width:256px; height:auto;"/>
 </div>  
 이제 이러면 Ruby는 설치가 완료된 상태가 됩니다! 와우!
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_19.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_19.png" style="width:100%; height:auto;"/>
 </div>  
 이제 cmd를 열어서 'gem install jekyll bundler'를 입력하여 jekyll와 bundler를 깔아줍니다.  
 jekyll 블로그를 만들기 위해서 필수적인 플러그인입니다.
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_20.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_20.png" style="width:100%; height:auto;"/>
 </div>  
 추가로 VScode에서 Ruby LSP도 설치해주시면 됩니다.  
 과거에는 Ruby와 VScode Ruby를 사용하였지만, 지금은 Ruby LSP로 통합 변경되었습니다.
@@ -441,21 +441,21 @@ jekyll 블로그를 만들기 위해서 필수적인 플러그인입니다.
 [Top Page](#)
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_21.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_21.png" style="width:100%; height:auto;"/>
 </div>  
 이제 본격적으로 블로그를 만들 시간입니다.  
 바탕화면이나 블로그 파일을 만들 곳에 새폴더를 생성해줍니다.  
 가능하면 영어 이름으로 해두는 편이 오류를 방지하기 좋습니다.
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_22.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_22.png" style="width:100%; height:auto;"/>
 </div>  
 이후 만들 파일에 들어와서 'Code(으)로 열기'를 해주시면 됩니다.  
 만약 해당 커맨드가 안 보인다면, VSCode를 설치하셨을때 'Code(으)로 열기'를 설정 안 하시고 설치하신거라,  
 직접 VSCode를 여셔서 경로를 설정해주시면 됩니다.
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_23.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_23.png" style="width:100%; height:auto;"/>
 </div>  
 이후 Control + '~' 버튼을 눌러 콘솔을 켜시고,  
 콘솔창에 'jekyll new (프로젝트 명)'을 입력해주시면 됩니다.  
@@ -465,13 +465,13 @@ force로 설치하는 이유는 다른 파일이 있어서 Conflict 에러가 �
 현재 경로에 설치할 예정이라면 경로에 다른 파일이 없는지 확인하시고 설치하는 것을 권유합니다.
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_24.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_24.png" style="width:100%; height:auto;"/>
 </div>  
 명령어가 종료된다면, 가장 기본 형태의 jekyll 블로그 플랫폼이 설치된 것을 확인할 수 있습니다!  
 이것으로 여러분만의 블로그가 미약한 형태로나마 생긴 것입니다!
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_25.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_25.png" style="width:100%; height:auto;"/>
 </div>  
 이제 그럼 로컬 서버를 열어보면서, 블로그가 어떻게 보이는지 확인할 시간입니다.  
 다시 VSCode 콘솔에 'bundle exec jekyll serve' 를 입력하여 로컬 서버를 여시면 됩니다.  
@@ -480,7 +480,7 @@ force로 설치하는 이유는 다른 파일이 있어서 Conflict 에러가 �
 127.0.0.1:4000 으로 주소창에 입력하시면 로컬 서버로 사이트 확인이 가능해집니다.
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_26.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_26.png" style="width:100%; height:auto;"/>
 </div>  
 네. 이것으로 기념비적인 첫 블로그가 완성되었습니다!
 
@@ -491,7 +491,7 @@ force로 설치하는 이유는 다른 파일이 있어서 Conflict 에러가 �
 [Top Page](#)
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_27.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_27.png" style="width:100%; height:auto;"/>
 </div>  
 물론 진짜 0부터 만들어도 되지만, 이제 막 개발자로 한걸음 나선 학생으로서 너무 무리한 부탁이기도 합니다.  
 따라서 이미 있는 테마 중 오픈소스에 수정허가가 되어있는 테마를 사용해볼 예정입니다.  
@@ -502,7 +502,7 @@ force로 설치하는 이유는 다른 파일이 있어서 Conflict 에러가 �
 그리고 굉장히 깔끔하고 적당한 기능까지 있어 예시로 적합할 것으로 판단하였습니다.
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_28.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_28.png" style="width:100%; height:auto;"/>
 </div>  
 링크 내부에 들어가셔서 Download 버튼을 누르면 해당 탬플릿의 git 레포지토리로 이동됩니다.  
 여기서 <>code를 누르시고 주소를 따셔서 http를 복사하여 git clone을 해서 가져오시는 것이 일반적이나,  
@@ -517,39 +517,39 @@ force로 설치하는 이유는 다른 파일이 있어서 Conflict 에러가 �
 [Top Page](#)
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_OK.png" width="256" height="auto"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_OK.png" style="width:256px; height:auto;"/>
 </div>  
 우리는 이제 원하는 jekyll 테마까지 다운로드 하였습니다.  
 이제 github에 블로그 파일을 올려 github-page에 넘겨줄 차례가 되었습니다.
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_29.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_29.png" style="width:100%; height:auto;"/>
 </div>   
 github에 새로운 레포지토리를 제작합니다.
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_30.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_30.png" style="width:100%; height:auto;"/>
 </div>   
 레포지토리 명은 Owner명.github.io 가 권장사항입니다.  
 공개 범위는 Public으로 설정하시고 본 예제에서는 Readme File을 체크한 상태로 제작하겠습니다.
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_31.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_31.png" style="width:100%; height:auto;"/>
 </div>   
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_32.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_32.png" style="width:100%; height:auto;"/>
 </div>   
 이후 <>code를 눌러 html 주소를 복사한 뒤, 가져올 빈 폴더에서 git clone. 해주시면 됩니다.
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_33.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_33.png" style="width:100%; height:auto;"/>
 </div>   
 아까 받아두었던 탬플릿 파일을 그대로 복사하여 clone 해온 폴더에 붙혀넣고,  
 git add . -> git commit -. "커밋명 입력" -> git push origin main
 순으로 github에 push해주시면 됩니다.
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_34.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_34.png" style="width:100%; height:auto;"/>
 </div>   
 이후에 자기 레포지토리 이름을 주소에 입력하면,  
 보시는바와 같이 탬플릿이 블로그에 등록되어 정상적으로 출력되는 모습을 보실 수 있으며,  
@@ -563,7 +563,7 @@ git add . -> git commit -. "커밋명 입력" -> git push origin main
 [Top Page](#)
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_THANKS.png" width="256" height="auto"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_THANKS.png" style="width:256px; height:auto;"/>
 </div>  
 이번 기사에서는 개발 블로그에 대한 소개, 플랫폼 소개, github-page와 jekyll를 이용한 블로그 소개, 그리고 그 블로그의 개설까지 한번에 기사로 기록해보았습니다.  
 저도 jekyll에 대해 전문가 수준으로 많이 아는 사람이 아닌 같이 공부하는 학생으로서 부족한 점이 많습니다.  
@@ -579,7 +579,7 @@ git add . -> git commit -. "커밋명 입력" -> git push origin main
 [Top Page](#)
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_introduce_01.png" width="100%" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_introduce_01.png" style="width:100%; height:auto;"/>
 </div>   
 삼성 청년 SW 아카데미 ( Samsung Software Academy For Youth ) 는 고용노동부의 취업지원 노하우와 삼성의 SW 교육환경을 바탕으로 아이들과 미래재단과 멀티캠퍼스에서 운영하는 청년들을 위한 소프트웨어 교육 부트캠프 입니다.  
 각 전문분아별 자문 교수단과 삼성의 SW 전문가가 전공자와 비전공자, 마이스터고 학생들에게 SW 취업을 위해 최고 수준의 교육을 실시하는 프로그램입니다.  
@@ -588,7 +588,7 @@ git add . -> git commit -. "커밋명 입력" -> git push origin main
 12개월이라는 다소 넉넉한 기간으로 많은 내용을 배울 수 있고, 전반기 코딩-알고리즘, 후반기 프로젝트 제작을 통하여 체계적으로 배울 수 있다는 장점을 가지고 있습니다.  
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_introduce_02.webp" width="400" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_introduce_02.webp"style="width:400px; height:auto;"/>
 </div>   
 저 역시 국어국문학과 출신으로서 완전 비전공자로서 SSAFY의 혜택을 받아 교육을 받고 있고, 열심히 수업내용을 따라가고 있습니다.  
 SSAFY는 단순한 코딩 교육뿐만 아니라, 기본 코딩을 바탕으로 컴퓨터 알고리즘, 팀원과의 협력, 다양한 포트폴리오 프로젝트 제작, 삼성에서 직접 고용하고있는 SW 전문 취업 컨설턴트님에게 취업 지원까지 받을 수 있는,  
@@ -598,7 +598,7 @@ SSAFY는 단순한 코딩 교육뿐만 아니라, 기본 코딩을 바탕으로 
 처음에 배웠던 언어인 파이썬, 자바를 계속 사용하면서 공부하기에 알고리즘 공부를 하면서 프로그래밍 언어에 대해 확실하게 사용할 수 있다는 자신감을 가질 수 있습니다.  
 
 <div style="text-align: center;">
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_introduce_03.webp" width="400" height="auto"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_introduce_03.webp"style="width:400px; height:auto;"/>
 </div>   
 부트 캠프는 어렵다고 들었는데, 나는 따라갈 수 있을지 없을지 고민된다.  
 프로그래밍은 배운적이 없는데 따라갈 수 있을지 고민된다.  

@@ -8,7 +8,7 @@ permalink: SSAFYcial_03.html
 folder: SSAFYcial
 ---
 <div style="text-align: center;">
-  <img src="https://1drv.ms/i/c/0475b30c6541160c/IQSF5SO9oAv2Q52Kl45iMPucAc5qKrEfw9o1d1rro_vYZgo?width=1024" width="100%" height="auto"/>
+  <img src="SSAFYcial_img/ssafycial_series_header.png" width="100%" height="auto"/>
 </div>
 
 해당 포스트에 사용된 삽화는 ChatGPT DALL·E 를 사용한 AI 그림임을 알려드립니다.  
@@ -45,7 +45,7 @@ folder: SSAFYcial
 </div>  
 > **블로그(Blog)**  
 > 자신의 관심사에 따라 자유롭게 칼럼, 일기, 취재 기사 따위를 올리는 웹 사이트.  
-> -표준국어대사전  
+> -표준국어대사전
 
 Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.  
 자신만의 간단한 홈페이지를 만들어 그 곳에 자기가 원하는 정보들을 올려 공유하거나,  
@@ -67,15 +67,17 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 이에 개발 블로그를 했을때의 이점에 대해서 설명해보고자 합니다.  
 
 ### 1. 공부 내용을 리마인드 할 수 있다.
+
 <div style="text-align: center;">
   <img src="https://1drv.ms/u/c/0475b30c6541160c/IQQm05_pHk7wSoqAfQTik-Y8Aaosy2JzBw9Z06GWqIiD_NE?width=400" width="400" height="auto" />
 </div>  
 자기가 공부한 내용을 올리고 추후에 리마인드 할 수 있는 기회를 제공합니다.  
 저같은 경우 제가 오늘 푼 알고리즘 문제를 기록하는 방식으로 활용하고 있습니다.  
 물론 Notion 같은 메모, 문서 관리 등에 특화된 프로그램/사이트를 이용하는 것도 방법이며, 편하기도 합니다.  
-그럼에도 개발 Blog만의 이점이 있는 이유는 다음 장점으로 연결됩니다.  
+그럼에도 개발 Blog만의 이점이 있는 이유는 다음 장점으로 연결됩니다.
 
-### 2. 포트폴리오 연계가 가능하다.  
+### 2. 포트폴리오 연계가 가능하다.
+
 <div style="text-align: center;">
   <img src="https://1drv.ms/u/c/0475b30c6541160c/IQTAisD0vJa6Qb_y6l8F3nWLAZgnLhfcO297sS2r4HH3z5U?width=400" width="400" height="auto" />
 </div>  
@@ -85,19 +87,20 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 강조해서 보여줄 수 있기 때문에 이 점에서는 유리하다고 생각됩니다.
 
 ### 3. 글 쓰는 능력을 기를 수 있다.
+
 <div style="text-align: center;">
   <img src="https://1drv.ms/u/c/0475b30c6541160c/IQRsJ4zS_dD5TZwGCX7NlrNGAXK3cYpJfEy_djLX4nRT4Bg?width=400" width="400" height="auto" />
 </div> 
 블로그를 하려면 글을 계속 쓰게되고, '어떻게 쓰면 더 사람들에게 잘 받아들여질까?'를 고민하면서 쓰다보면,  
 글을 계속 쓰게 되므로 어느정도 글쓰기에 대한 두려움을 줄일 수 있는 선택지가 될 수 있다고 생각됩니다.  
 특히, 후에 프로젝트를 프레젠테이션 할 일이 있을 때, 어느정도 어떻게하면 확실하고 전달력있게 PT를 할 수 있을까 라는  
-좋은 연습 교재가 될 수 있다고 생각됩니다.  
+좋은 연습 교재가 될 수 있다고 생각됩니다.
 
 <div style="text-align: center;">
   <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEDAIAAAAAAZIhI_Z2cJAVt6NTwHRhnMU?width=256" width="256" height="auto" />
 </div>  
 위와 같은 이유들로 개발 블로그는 자기 개발과 취업적인 측면으로 봤을때,  
-결정적인 수단이 되진 않더라도 선택지 중 하나가 될 수 있다고 충분히 생각할 수 있다고 보여집니다.  
+결정적인 수단이 되진 않더라도 선택지 중 하나가 될 수 있다고 충분히 생각할 수 있다고 보여집니다.
 
 ---
 
@@ -112,7 +115,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 정말 많은 플랫폼들이 존재하여 고르는 것도 고민이 될 듯 합니다.  
 본문의 주제와 앞으로 시리즈로 나올 기사는 github-page를 이용한 jekyll에 초점을 둘 예정입니다만,  
 이 글을 읽고계신 분들의 선택권을 위하여 전부는 아니더라도  
-일단은 운영시 비용이 들어가지 않는 유명한 플랫폼 몇가지를 소개를 해보고자 합니다.  
+일단은 운영시 비용이 들어가지 않는 유명한 플랫폼 몇가지를 소개를 해보고자 합니다.
 
 ## 네이버 블로그(Naver Blog)
 
@@ -131,7 +134,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 <br>
 <div style="text-align: center;">
   <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQdNNBXLsZjT4g03pvQO4gkAV6BixtypuwABmn9o-mt0RQ?width=256" width="256" height="auto" />
-</div>  
+</div>
 
 블로그 화면 출처 : [SSAFYcial_13기_기자단_동료_블로그](https://blog.naver.com/iong_00)
 
@@ -143,17 +146,20 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 최근에 코드 스니펫도 추가되었고, 그래도 메이저하고 접근성 좋은 플랫폼이라 선택 메리트는 예전보다는 있다고 생각됩니다.
 
 ### 장점
+
 1. 타 플랫폼 대비 별 노력을 안 들여도 노출되기 쉽다.  
    네이버는 구글과 더불어서 대한민국 사람들이 가장 자주 사용하는 포털 사이트인 만큼 대중성 있으며, 큰 설정을 안 하더라도 네이버 자체 알고리즘이 게시글을 노출시켜줍니다.  따라서 robot.txt를 작성하느니, 서치 콘솔에 각각 일일이 등록시키느니 하는 별도의 SEO 작업 없이도 많은 사람들이 블로그를 방문할 수 있어 노출 효과가 큰 편입니다.
-   
-3. 낮은 입문 난이도.  
+
+2. 낮은 입문 난이도.  
    학창 시절이나 다른 직업을 하면서, 혹은 취미로 지금에도 네이버 블로그를 하는 사람은 아직도 매우 많고, 어린아이도 조금만 공부한다면 금방 블로그 운영을 할 수 있을정도로, 관리 툴을 쉽고 직관적으로 제공하고있습니다.  또한 서버는 네이버에서 담당하기 때문에 별도로 서버비같은 돈이 나갈 필요없이 네이버 계정만 만들면 된다는 점은 큰 메리트입니다.  만약 블로그를 하고싶은데, 따로 공부하기 싫다 싶으면 좋은 선택지가 될 수 있다고 생각됩니다. 또한 포스팅 난이도도 쉬운게 깔끔한 포스팅 에디터 툴을 제공하고 있기 때문에 직관적이고 빠르고 생산적으로 글을 쓸 수 있다는 장점이 있다고 생각됩니다.  
 
 ### 단점
+
 1. 낮은 자유도.  
    이것저것 다양한 기능을 제공하는만큼 블로그를 이리저리 꾸밀 수 있는 자유도는 타 블로그 플랫폼들에 비해 떨어진다고 생각됩니다.  물론 그만큼 꾸미기 쉽고, 나름 DIY할만한 거리는 있지만, 그래도 꽤 제한적이라고 생각됩니다.  플러그인 적용도 사실상 안 된다고 보는게 맞습니다.  
 
 2. 구글 애드센스 사용 불가. 
+   
    > 네이버의 동의 없이 자동화된 수단에 의해 네이버 서비스 상에 광고가 게재되는 영역 또는 그 밖의 영역에 부호, 문자, 음성, 음향, 그림, 사진, 동영상, 링크 등으로 구성된 각종 콘텐츠 자체 또는 파일을 삽입해서는 안 됩니다. 또한, 네이버 서비스 또는 이에 포함된 소프트웨어를 복사, 수정할 수 없으며, 이를 판매, 양도, 대여 또는 담보로 제공하거나 타인에게 그 이용을 허락해서는 안 됩니다. 네이버 서비스에 포함된 소프트웨어를 역 설계, 소스코드 추출 시도, 복제, 분해, 모방, 기타 변형하는 등의 행위도 금지됩니다(다만, 오픈소스에 해당되는 경우 그 자체 조건에 따릅니다). 그 밖에 바이러스나 기타 악성 코드를 업로드하거나 네이버 서비스의 원활한 운영을 방해할 목적으로 서비스 기능을 비정상적으로 이용하는 행위 역시 금지됩니다.  
    > [출처](https://policy.naver.com/policy/service.html)
    
@@ -180,7 +186,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 <br>
 <div style="text-align: center;">
 <img src="https://1drv.ms/u/c/0475b30c6541160c/IQQHNxUTFDQiSLaUzXskT4rVAVXPj1tBuG3ggPlxgz6p59I?width=256" width="256" height="auto" />
-</div>  
+</div>
 
 블로그 화면 출처 : [SSAFYcial_13기_기자단_동료_블로그](https://0njung.tistory.com/)
 
@@ -189,13 +195,15 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 많은 대안이 생긴 지금도 여전히 개발자 블로그 플랫폼 중에서는 상당히 메이저한 편에 속하고 있습니다.  
 
 ### 장점
+
 1. 높은 자유도와 쉬운 관리의 적절한 중간점.  
    티스토리는 네이버 블로그와 마찬가지로 기본적인 블로그 관리 툴을 제공하고 있어, 관리 난이도의 저점은 꽤나 높은 축에 속하며, 세세하게 파고들면 다양한 기능을 제공해줍니다.  긴 서비스 기간동안 쌓인 다양한 플러그인과 기능들이 축척되어있으며, HTML, CSS, Javascript등 프로그래머들이 자기 입맛대로 꾸밀만한 요소가 많습니다.  
-   
+
 2. 개발자들에게 특히 최적화가 잘 된 플랫폼.  
    티스토리는 SEO(검색 엔진 최적화)에 유리한 구조를 가지고 있어, 구글 검색 결과에서 잘 노출될 수 있습니다. 이를 통해 더 많은 사람들에게 블로그 내용을 공유할 수 있습니다. 따로 서치 콘솔들에게 올릴때도 가이드라인과 관리툴을 제공해주고있어, 쉽게 등록할 수 있습니다.  물론 무료로 서버를 제공해주고 있다는 장점뿐만아니라, 개인이 소유한 도메인을 등록시켜 블로그를 운영할 수 있다는 장점도 가지고 있습니다. 
 
 ### 단점
+
 1. 좀 공부해야하는 꾸미기 난이도.  
    물론 티스토리도 기본적으로 샘플 탬플릿을 제공해줍니다만, 갯수가 네이버 블로그에 비하면 많이 적어서, 사실상 본인이 직접 꾸며야 어느정도 특별함을 지닐 가능성이 큰데, 이를 꾸미려면 어느정도의 HTML, CSS, Javascript에 대한 지식을 요구합니다.  
 
@@ -219,7 +227,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 <br>
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQjpsAbNI_xQK7hQKscQ08XASflXqnzEOQLKznGSh5niE0?width=256" width="256" height="auto" />
-</div>  
+</div>
 
 블로그 화면 출처 : [SSAFYcial_13기_기자단_동료_블로그](https://velog.io/@develeep)
 
@@ -228,9 +236,10 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 매우 깔끔한 디자인과 낮은 운용난이도 덕분에 개발자 분들의 주력 블로그로 혜성같이 뜨고있습니다.  
 
 ### 장점
+
 1. 깔끔한 UI/UX와 쉬운 관리 난이도.  
    벨로그는 개발자들을 타겟으로 한 플랫폼으로, 코드 하이라이팅, Markdown 지원, GitHub 연동 등의 기능을 제공하여 개발자가 블로그에 기술적인 내용을 편리하게 작성할 수 있습니다. 또한, GitHub 계정으로 로그인할 수 있고 연동하기에도 꽤나 간편합니다.  
-   
+
 2. 개발자를 "타겟"으로 출시한 플랫폼.    
    티스토리는 SEO(검색 엔진 최적화)에 유리한 구조를 가지고 있어, 구글 검색 결과에서 잘 노출될 수 있습니다. 이를 통해 더 많은 사람들에게 블로그 내용을 공유할 수 있습니다. 따로 서치 콘솔들에게 올릴때도 가이드라인과 관리툴을 제공해주고있어, 쉽게 등록할 수 있습니다.  물론 무료로 서버를 제공해주고 있다는 장점뿐만아니라, 개인이 소유한 도메인을 등록시켜 블로그를 운영할 수 있다는 장점도 가지고 있습니다.
 
@@ -238,6 +247,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
    서버 리소스 자체를 적게 사용하는 경량화된 플랫폼이라 로딩속도가 매우 빠른 편에 속합니다.  벨로그를 운영중인 개발자님의 블로그를 들어가보면 코드를 리딩하기 위해 수초를 기다려야하는 경험은 하지 않아도 된다는 점이 장점입니다.  
 
 ### 단점
+
 1. 커스텀이 사실상 불가능.  
    벨로그는 기본적으로 제공되는 템플릿을 사용해야 하며, 다른 블로그 플랫폼에 비해 디자인 커스터마이징의 자유도가 낮습니다. HTML, CSS 등을 사용해 세밀한 디자인 수정이 불가능하여, 독특한 스타일을 만들기 어렵습니다.  
 
@@ -268,7 +278,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQR_s8_YQsqCRIM3eWcCMQlPAfIEa3kiVaeUH-Tyn7uAHNg?width=256" width="256" height="auto" />
 </div>  
 본 주제로 돌아와서 저는 이제 jekyll과 github-page 기능을 이용하여 블로그를 만드는 법을 알려주고자 합니다.  
-Jekyll은 프로그래밍 언어인 "Ruby"로 만들어진 정적 사이트 프레임 워크입니다.  
+Jekyll은 프로그래밍 언어인 "Ruby"로 만들어진 정적 사이트 프레임 워크입니다.
 
 정적 사이트 생성기는 미리 만들어진 정적 파일(HTML, CSS, JS 등등)을 기반으로 뚝딱 페이지를 만드는 방식이기 때문에, 모든 콘텐츠들이 미리 렌더링 되어 생성된....
 
@@ -277,11 +287,12 @@ Jekyll은 프로그래밍 언어인 "Ruby"로 만들어진 정적 사이트 프�
 <br>
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEDgIAAAAAASFyFuMJYg6NQVWp0_v-Baw?width=256" width="256" height="auto" />
-</div>  
+</div>
 
 이러한 정적 사이트 생성기의 종류로는 Jekyll(Ruby), Hugo(Go), Gatsby(React), Hexo(Node.js) 등이 존재합니다만, 그 중에서 왜 Jekyll를 사용하려는지에 대한 이유를 설명하고자 합니다.  
 
-### 1. Github에서 Jekyll를 사용하면 즉시 블로그를 호스팅해준다.  
+### 1. Github에서 Jekyll를 사용하면 즉시 블로그를 호스팅해준다.
+
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQsOPORQYhrQ466oUzW6HjyAXz17ZGLSrOEIQZq4w7oRoM?width=1024" width="1024" height="auto" />
 </div>  
@@ -293,6 +304,7 @@ Github에서는 Jekyll 로 블로그를 작성한 뒤 레포지토리를 만들�
 그래도 이 점을 고려하더라도 블로그 단위 혹은 포트폴리오 용 사이트 정도까지는 충분히 감수할만한 단점이라고 생각됩니다.
 
 ### 2. 능력만 된다면 뭐든 가능한 매우 높은 자유도
+
 상상하는 어떤거든 제작할 수 있다는 장점이 있습니다.  
 페이지 전체의 헤더, 바디, 푸터의 하나하나까지 전부 html과 css로 다 뜯어고칠 수 있고, bootstrap이나 node.js 같은 외부 프레임 워크랑 엮어서 다양한 기능도 구현할 수 있습니다.  
 0부터 만들지 못하더라도 걱정할 필요가 없는게, 수년간에 거쳐서 쌓인 다양한 오픈소스 탬플릿들이 존재하여 해당 탬플릿을 기반으로 개조하는 것도 물론 가능합니다. 실제로 저의 블로그도 jekyll documentation theme를 기반으로 어느정도 개조하면서 사용하고있기 때문입니다.  
@@ -300,7 +312,8 @@ Github에서는 Jekyll 로 블로그를 작성한 뒤 레포지토리를 만들�
 단순히 프론트엔드를 부트캠프나 수업에서 연습하지 않으면 실력이 늘지 않는데, jekyll 블로그를 관리하다보면 직접 자신이 기능을 구현하기 위해 자신이 아는 지식으로 개조를 하게 되므로 학습에 꽤 큰 도움이 된다고 저는 생각합니다.  
 실제로 SSAFY에서 배운 web 파트의 Javascript나 html, css 지식을 이용하여 블로그를 꾸미고 있다보니 최근 프론트 엔드 수업을 정말 재밌게 듣고있기도 합니다.  
 
-### 3. 개발자로서 메리트가 높은 블로그 운영방식.  
+### 3. 개발자로서 메리트가 높은 블로그 운영방식.
+
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQSmogfLCEeUS4jfKPh5wPWIAV1SZGTOZ8HgJnW-h_wV9YE?width=1024" width="1024" height="auto" />
 </div>  
@@ -308,9 +321,10 @@ Github에서는 Jekyll 로 블로그를 작성한 뒤 레포지토리를 만들�
 Github-page를 이용하여 생성되는 블로그다보니 Github의 기능을 끌어와서 사용하기 쉬우며, 개발자로서의 지식을 접목시켜 하나의 포트폴리오로 승화시키기 적절한 탬플릿이라고 생각됩니다.  
 물론 난이도는 결코 낮지 않습니다. 기본적으로 어느정도의 프론트엔드 지식이 있어야 꾸밀 수 있다는 점이 가장 큰 벽으로 느껴질 수 있습니다.  
 하지만 흥미를 가지고 연구한다면 개발자로서 이만한 재밌는 장난감이 없을 정도로 다양하게 꾸밀 수 있다보니 자기 개발에 큰 도움이 됩니다.  
-부가적인 장점으로 Github에 계속 push하면서 글을 쓰거나 작업을 하게되다보니, 매일매일 잔디를 심을 수 있다는 점도 재밌는 점입니다.  
+부가적인 장점으로 Github에 계속 push하면서 글을 쓰거나 작업을 하게되다보니, 매일매일 잔디를 심을 수 있다는 점도 재밌는 점입니다.
 
 ### 4. 웹페이지 로딩이 빠르다.
+
 기본적으로 정적 사이트 생성기이다보니, 블로그 사이트내 로딩이 꽤 빠릅니다.  정적 사이트 생성기란 웹사이트의 콘텐츠를 미리 생성하여 정적인 HTML 파일로 만들어 주는 프레임워크 이다보니 사전에 모든 페이지가 미리 생성되어 있기 때문에 서버에서의 렌더링 시간이 필요 없습니다.  
 
 <div style="text-align: center;">
@@ -323,24 +337,27 @@ Github-page를 이용하여 생성되는 블로그다보니 Github의 기능을 
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEDQIAAAAAAZU0B88KveEqdaK6FgvbkzU?width=256" width="256" height="auto" />
-</div>  
+</div>
 
 물론, jekyll 블로그의 단점도 꽤 많습니다.  
 
-### 1. 일단 어렵다!  
+### 1. 일단 어렵다!
+
 일단 프론트엔드 지식이 없으면 굉장히 힘듭니다.  
 저도 처음에 탬플릿을 복사한 뒤 옮겨서 운영을 할려고하니 관련 지식이 아무것도 없는 상태에서는 도무지 손을 댈 수 없었습니다.  
 기본적으로 HTML과 Markdown, CSS, Javascript에 대한 지식을 요구하며, 추가로 jekyll 사이트 내에서 jekyll 만의 구조와 명령어를 하는 것에 어느정도 시간과 노력을 할애하여야 합니다.  
 저도 SSAFY에 들어온 뒤 관련된 지식을 배우고 나서야 jekyll를 어느정도 다룰 수 있게 되었으며, 솔직히 이 기사를 쓰는 시점에서도 이 jekyll의 모든 기능과 탬플릿 내 코드들을 전부 해석하고 파악하고 있지 않아서 계속 공부하고 있습니다.  
 거기에 탬플릿에 따라선 bootstrap, Node.js, Typescript 등 다른 언어나 외부 프레임워크들을 활용했을 경우, 추가로 그 프레임워크에 대한 지식도 요구합니다.  
 
-### 2. SEO도 신경 써줘야한다!  
+### 2. SEO도 신경 써줘야한다!
+
 다른 블로그 플랫폼은 어느정도 SEO기능을 툴로 보조해주거나 아예 사이트에서 자제적으로 SEO를 자동적으로 설정해주는 경우도 있습니다.  
 하지만 Github-page 기능을 통해서 블로그를 호스트했다면, 수동으로 하나하나 다 해줘야합니다.  
 탬플릿에 따라서는 새로운 포스트를 올리면 sitemap도 추가 설정을 해줘야 합니다.  
 거기에 SEO 최적화도 자동으로 해주지 않기 때문에 관리를 할때 신경쓰면서 관리해야합니다.
 
-### 3. 손이 많이 갑니다.  
+### 3. 손이 많이 갑니다.
+
 포스트 에디터 같은 편리한 기능은 없습니다.  
 모든 포스트는 github를 통해서 일일히 push하면서 업데이트 해야하고, 
 앞서 언급한 높은 자유도 또한 이를 테스트하고 적용시키려면 꽤 많은 수정을 거쳐야하는 만큼 많은 시간을 할애해주어야합니다.  
@@ -375,29 +392,29 @@ github 레포지토리에 push하여 github-page로 블로그를 생성해보는
 </div>  
 먼저, jekyll의 기반 프로그래밍 언어인 Ruby를 설치하여야합니다.  
 Ruby의 경우 Windows 기준으로 RubyInstaller를 통하여 설치할 수 있습니다.  
-MacOS의 경우 [공식 문서](https://jekyllrb-ko.github.io/docs/installation/macos) 를 참조 부탁드리겠습니다.  
+MacOS의 경우 [공식 문서](https://jekyllrb-ko.github.io/docs/installation/macos) 를 참조 부탁드리겠습니다.
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQSYgNdV_RsTRq0OC5sgTQobAa7SgbxNHRoQU0zJOfHv6TU?width=1024" width="1024" height="auto" />
 </div>  
-Download에 들어가시면, With DEVKIT에서 가장 굵은 글씨로 강조되어있는 부분이 Stable Version이므로 해당 버전을 사용하시면 됩니다.  
+Download에 들어가시면, With DEVKIT에서 가장 굵은 글씨로 강조되어있는 부분이 Stable Version이므로 해당 버전을 사용하시면 됩니다.
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQTiFjf2Kp1vQJP6UsAdsyB-AVzXrd3oGW1JjN-zp0dUdpA?width=1024" width="1024" height="auto" />
 </div>  
-설치시 가급적이면 C드라이브에 설치하는 것을 권장드리며 2 항목 모두 체크하시고 다운로드 받으시면 됩니다.  
+설치시 가급적이면 C드라이브에 설치하는 것을 권장드리며 2 항목 모두 체크하시고 다운로드 받으시면 됩니다.
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQRflyxZecJuSLdeaN_0rPHCAcId-ChnxCAUTzCFWw7RHXw?width=1024" width="1024" height="auto" />
 </div>  
 설치가 완료되었다면 MSYS2 설치 부분도 체크하시고 Finish를 눌러주셔야 합니다.  
-MSYS2는 Ruby의 네이티브 젬 컴파일 및 패키지 관리를 담당하기 때문에 설치해주셔야 합니다.  
+MSYS2는 Ruby의 네이티브 젬 컴파일 및 패키지 관리를 담당하기 때문에 설치해주셔야 합니다.
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQRZ3a1GqHIhSqZbiZ6OPyb9AY4vQq7Jibfhk62FroljRHU?width=1024" width="1024" height="auto" />
 </div>  
 이후 명령 프롬포트로 해당 화면이 뜰껀데, 1번과 3번을 각각 설치해주시면 됩니다.  
-정상적으로 설치가 완료되었다면 초록글씨로 succeeded라 뜨고 다른 설치를 할꺼냐고 메뉴가 뜹니다.  
+정상적으로 설치가 완료되었다면 초록글씨로 succeeded라 뜨고 다른 설치를 할꺼냐고 메뉴가 뜹니다.
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEDAIAAAAAAZIhI_Z2cJAVt6NTwHRhnMU?width=256" width="256" height="auto" />
@@ -408,13 +425,13 @@ MSYS2는 Ruby의 네이티브 젬 컴파일 및 패키지 관리를 담당하기
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQ0ihZ_uMf0SJ1urpHSABBPAWKs3g9PAswuV2UlV6Q5uUI?width=1024" width="1024" height="auto" />
 </div>
 이제 cmd를 열어서 'gem install jekyll bundler'를 입력하여 jekyll와 bundler를 깔아줍니다.  
-jekyll 블로그를 만들기 위해서 필수적인 플러그인입니다.  
+jekyll 블로그를 만들기 위해서 필수적인 플러그인입니다.
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQTVwwuqS7cERK_g-CItQLPjAZsj2Lx6V1ExRlYWuTrHPys?width=1024" width="1024" height="auto" />
 </div>
 추가로 VScode에서 Ruby LSP도 설치해주시면 됩니다.  
-과거에는 Ruby와 VScode Ruby를 사용하였지만, 지금은 Ruby LSP로 통합 변경되었습니다.  
+과거에는 Ruby와 VScode Ruby를 사용하였지만, 지금은 Ruby LSP로 통합 변경되었습니다.
 
 ---
 
@@ -427,14 +444,14 @@ jekyll 블로그를 만들기 위해서 필수적인 플러그인입니다.
 </div>
 이제 본격적으로 블로그를 만들 시간입니다.  
 바탕화면이나 블로그 파일을 만들 곳에 새폴더를 생성해줍니다.  
-가능하면 영어 이름으로 해두는 편이 오류를 방지하기 좋습니다.  
+가능하면 영어 이름으로 해두는 편이 오류를 방지하기 좋습니다.
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQTtF3fLpf8uTIrEpvWy4FbRAYKNbG0JQG4VNvLAZo-z-oc?width=1024" width="1024" height="auto" />
 </div>
 이후 만들 파일에 들어와서 'Code(으)로 열기'를 해주시면 됩니다.  
 만약 해당 커맨드가 안 보인다면, VSCode를 설치하셨을때 'Code(으)로 열기'를 설정 안 하시고 설치하신거라,  
-직접 VSCode를 여셔서 경로를 설정해주시면 됩니다.  
+직접 VSCode를 여셔서 경로를 설정해주시면 됩니다.
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQRAagZhpSKqQaZOdC0MRRXrATIR-iIqNm6pbmBM8VIDl68?width=1024" width="1024" height="auto" />
@@ -444,13 +461,13 @@ jekyll 블로그를 만들기 위해서 필수적인 플러그인입니다.
 예시에서는 홈페이지에 나온대로 myblog라 입력하겠습니다.  
 참고로 해당 경로에 파일을 만들꺼면 'jekyll new ./ -f'를 입력해주시면 됩니다.  
 force로 설치하는 이유는 다른 파일이 있어서 Conflict 에러가 발생할 수 있는데, 이를 무시하고 강제 설치하기 위함입니다.  
-현재 경로에 설치할 예정이라면 경로에 다른 파일이 없는지 확인하시고 설치하는 것을 권유합니다.  
+현재 경로에 설치할 예정이라면 경로에 다른 파일이 없는지 확인하시고 설치하는 것을 권유합니다.
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQSWeLXDEx3oQpJvCbNWH6-pAfI0JicCb74qghU0ccp4n80?width=1024" width="1024" height="auto" />
 </div>
 명령어가 종료된다면, 가장 기본 형태의 jekyll 블로그 플랫폼이 설치된 것을 확인할 수 있습니다!  
-이것으로 여러분만의 블로그가 미약한 형태로나마 생긴 것입니다!  
+이것으로 여러분만의 블로그가 미약한 형태로나마 생긴 것입니다!
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQRUpwOR7aaIRZqhGWAw7aIHAe1WUrJ4sISZ9gzLE_ykJf4?width=1024" width="1024" height="auto" />
@@ -459,7 +476,7 @@ force로 설치하는 이유는 다른 파일이 있어서 Conflict 에러가 �
 다시 VSCode 콘솔에 'bundle exec jekyll serve' 를 입력하여 로컬 서버를 여시면 됩니다.  
 만약 저처럼 ./ 를 하여 현재 경로로 설치하지 않고 프로젝트 명을 입력하시고 설치했다면, 해당 디렉토리로 이동한 뒤(ex: cd myblog) 입력하시길 바랍니다.  
 로컬서버는 127.0.0.1의 루프백IP에 포트 4000이 기본으로 설정되어,  
-127.0.0.1:4000 으로 주소창에 입력하시면 로컬 서버로 사이트 확인이 가능해집니다.  
+127.0.0.1:4000 으로 주소창에 입력하시면 로컬 서버로 사이트 확인이 가능해집니다.
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQREnU0FqOJjS5MolS8FykvDAVD2ulEvIXrYA1UQ2f16HHA?width=1024" width="1024" height="auto" />
@@ -480,7 +497,7 @@ force로 설치하는 이유는 다른 파일이 있어서 Conflict 에러가 �
 [jekyll 공식 문서](https://jekyllrb-ko.github.io/docs/themes)에 있는 4가지 테마 보관 주소 중 어느 한가지를 이용해도 되지만,  
 이번 예시에서는 [Jekyll Theme](https://jekyll-themes.com)에 저장되어있는 [NOCC Jekyll Bundle](https://jekyll-themes.com/carlesloriente/bootstrap-theme-jekyll)을 예시를 사용해보도록 하겠습니다.  
 이유는 bootstrap 5 를 지원하며, MIT 라이센스라 상업적 이용 및 수정, 배포, 개인적 이용이 가능하기 때문입니다.  
-그리고 굉장히 깔끔하고 적당한 기능까지 있어 예시로 적합할 것으로 판단하였습니다.  
+그리고 굉장히 깔끔하고 적당한 기능까지 있어 예시로 적합할 것으로 판단하였습니다.
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQvG1CTU4HFSKxTGzSIowfNAeo-_PL0sZDoaR1ulErsB8I?width=1024" width="1024" height="auto" />
@@ -489,11 +506,11 @@ force로 설치하는 이유는 다른 파일이 있어서 Conflict 에러가 �
 여기서 <>code를 누르시고 주소를 따셔서 http를 복사하여 git clone을 해서 가져오시는 것이 일반적이나,  
 탬플릿에 따라서는 데모 사이트에서 다운로드가 가능한 경우도 있고,  
 혹은 아예 git 레포지토리에서 복사할 수 있는 버튼을 만든 경우도 있으니 편한대로 하시면 됩니다.  
-저는 demo 페이지에 있는 다운로드로 다운로드 하였습니다.  
+저는 demo 페이지에 있는 다운로드로 다운로드 하였습니다.
 
 ---
 
-## github에 blog 레포지토리 만들기.  
+## github에 blog 레포지토리 만들기.
 
 [Top Page](#)
 
@@ -501,18 +518,18 @@ force로 설치하는 이유는 다른 파일이 있어서 Conflict 에러가 �
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEDAIAAAAAAZIhI_Z2cJAVt6NTwHRhnMU?width=256" width="256" height="auto" />
 </div>  
 우리는 이제 원하는 jekyll 테마까지 다운로드 하였습니다.  
-이제 github에 블로그 파일을 올려 github-page에 넘겨줄 차례가 되었습니다.  
+이제 github에 블로그 파일을 올려 github-page에 넘겨줄 차례가 되었습니다.
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQTDM9exy-QpRb5ZH2QaxmZ3Abc1lGfx8lPp_8qZ-X11J14?width=1024" width="1024" height="auto" />
 </div>  
-github에 새로운 레포지토리를 제작합니다.  
+github에 새로운 레포지토리를 제작합니다.
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQRA3JOwmk1zRYIJkmrt7e4fARV-5EwiGQFLjSRnnq1qPjU?width=1024" width="1024" height="auto" />
 </div>  
 레포지토리 명은 Owner명.github.io 가 권장사항입니다.  
-공개 범위는 Public으로 설정하시고 본 예제에서는 Readme File을 체크한 상태로 제작하겠습니다.  
+공개 범위는 Public으로 설정하시고 본 예제에서는 Readme File을 체크한 상태로 제작하겠습니다.
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQTa7HtH3-F_SYpjfUVDVgDIAewHbq9ZmXaYLb2fi4MLvtU?width=1024" width="1024" height="auto" />
@@ -520,14 +537,14 @@ github에 새로운 레포지토리를 제작합니다.
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQFUiQWaJS7S5aI3FfNBqLlAfN1DZceZ5jKABuU1onhlZk?width=1024" width="1024" height="auto" />
 </div>  
-이후 <>code를 눌러 html 주소를 복사한 뒤, 가져올 빈 폴더에서 git clone. 해주시면 됩니다.  
+이후 <>code를 눌러 html 주소를 복사한 뒤, 가져올 빈 폴더에서 git clone. 해주시면 됩니다.
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQS3WVVSgXXbRoSAkPK7CJgHATIm4AVhWolySwgp_cYP0Cw?width=1024" width="1024" height="auto" />
 </div>  
 아까 받아두었던 탬플릿 파일을 그대로 복사하여 clone 해온 폴더에 붙혀넣고,  
 git add . -> git commit -. "커밋명 입력" -> git push origin main
-순으로 github에 push해주시면 됩니다.  
+순으로 github에 push해주시면 됩니다.
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQP7J_iYx8yT7OLNtYpR7leAT5xz1oQpGjL6lTQi2twnxQ?width=1024" width="1024" height="auto" />
@@ -535,7 +552,7 @@ git add . -> git commit -. "커밋명 입력" -> git push origin main
 이후에 자기 레포지토리 이름을 주소에 입력하면,  
 보시는바와 같이 탬플릿이 블로그에 등록되어 정상적으로 출력되는 모습을 보실 수 있으며,  
 드디어 블로그 개설에 성공하게 되었습니다!  
-참고로 push 한 뒤 github-page에 반영되기 최소 1분에서 최대 5분 이상 걸리기 때문에 여유를 가지시고 기다리시면 됩니다.  
+참고로 push 한 뒤 github-page에 반영되기 최소 1분에서 최대 5분 이상 걸리기 때문에 여유를 가지시고 기다리시면 됩니다.
 
 ---
 
@@ -548,20 +565,20 @@ git add . -> git commit -. "커밋명 입력" -> git push origin main
 </div>  
 이번 기사에서는 개발 블로그에 대한 소개, 플랫폼 소개, github-page와 jekyll를 이용한 블로그 소개, 그리고 그 블로그의 개설까지 한번에 기사로 기록해보았습니다.  
 저도 jekyll에 대해 전문가 수준으로 많이 아는 사람이 아닌 같이 공부하는 학생으로서 부족한 점이 많습니다.  
-하지만 이 기획 기사를 제작하고 SSAFY에서 공부하면서 이 기사를 읽는 분들과 같이 성장하고 싶은 마음에 해당 기사 주제를 기획하게 되었습니다.  
+하지만 이 기획 기사를 제작하고 SSAFY에서 공부하면서 이 기사를 읽는 분들과 같이 성장하고 싶은 마음에 해당 기사 주제를 기획하게 되었습니다.
 
 여러분들도 개발 블로그를 운영하면서 같이 배우면서 성장하는 개발자 지망생이 되었으면 하는 마음을 담아,  
 끝으로 SSAFY에 대해 소개를 하면서 이 기사를 마치도록 하겠습니다.  
 
 ---
 
-# SSAFY란?  
+# SSAFY란?
 
 [Top Page](#)
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/i/c/0475b30c6541160c/IQS6ZTDGJ1qxQqmXpKEaimFxAYmTWEsDRqeYchOWjEsPUA4?width=1024" width="1024" height="auto" />
-</div>  
+</div>
 
 삼성 청년 SW 아카데미 ( Samsung Software Academy For Youth ) 는 고용노동부의 취업지원 노하우와 삼성의 SW 교육환경을 바탕으로 아이들과 미래재단과 멀티캠퍼스에서 운영하는 청년들을 위한 소프트웨어 교육 부트캠프 입니다.  
 각 전문분아별 자문 교수단과 삼성의 SW 전문가가 전공자와 비전공자, 마이스터고 학생들에게 SW 취업을 위해 최고 수준의 교육을 실시하는 프로그램입니다.  
@@ -574,14 +591,14 @@ git add . -> git commit -. "커밋명 입력" -> git push origin main
 </div>  
 저 역시 국어국문학과 출신으로서 완전 비전공자로서 SSAFY의 혜택을 받아 교육을 받고 있고, 열심히 수업내용을 따라가고 있습니다.  
 SSAFY는 단순한 코딩 교육뿐만 아니라, 기본 코딩을 바탕으로 컴퓨터 알고리즘, 팀원과의 협력, 다양한 포트폴리오 프로젝트 제작, 삼성에서 직접 고용하고있는 SW 전문 취업 컨설턴트님에게 취업 지원까지 받을 수 있는,  
-삼성의 이름값만이 아닌 실질적으로 큰 도움을 받을 수 있는 탄탄한 지원을 바탕으로 취업을 정조준할 수 있습니다!  
+삼성의 이름값만이 아닌 실질적으로 큰 도움을 받을 수 있는 탄탄한 지원을 바탕으로 취업을 정조준할 수 있습니다!
 
 특히 알고리즘 수업을 통하여 코딩의 기초를 쌓을 수 있음과 동시에 기업 코딩 테스트를 천천히 대비할 수 있습니다.  
 처음에 배웠던 언어인 파이썬, 자바를 계속 사용하면서 공부하기에 알고리즘 공부를 하면서 프로그래밍 언어에 대해 확실하게 사용할 수 있다는 자신감을 가질 수 있습니다.  
 
 <div style="text-align: center;">
 <img src="https://1drv.ms/u/c/0475b30c6541160c/IQSOvVK4YvaOS7n7GVBtKzvkAaqNDv9cJiA3qlqSMKK8iYg?width=400" width="400" height="auto" />
-</div>  
+</div>
 
 부트 캠프는 어렵다고 들었는데, 나는 따라갈 수 있을지 없을지 고민된다.  
 프로그래밍은 배운적이 없는데 따라갈 수 있을지 고민된다.  

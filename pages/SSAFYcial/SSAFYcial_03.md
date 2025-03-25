@@ -16,7 +16,7 @@ folder: SSAFYcial
 또한 글 작성에 ChatGPT의 도움을 일부 받은 게시글 입니다.  
 
 <div style="text-align: center;">
-  <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAECgIAAAAAAZEcR1EUcRc0Ppn-iL8d9to?width=256" width="256" height="auto"/>
+  <img src="SSAFYcial_img/JSJ_Hello.png" width="256" height="auto"/>
 </div>
 
 안녕하세요!   SSAFYcial 13기 기자단 정승재 입니다.  
@@ -34,14 +34,14 @@ folder: SSAFYcial
 [Top Page](#)
 
 <details style="text-align: center;">
-  <summary><img src="https://1drv.ms/i/c/0475b30c6541160c/IQRzWWAk9hVFTI3dreGhiGqJAWbOuaUyZxGSh_XRHO3cNWU?width=1024" width="1024" height="auto" /></summary>
-  <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQxcGrtIKD-SrYUMWvG1lMwAZEMW4t48MuyjHeU3ejSM5k?width=1024" width="1024" height="auto" />
+  <summary><img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_06.png" width="1024" height="auto"/></summary>
+  <img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_05.png" width="1024" height="auto"/>
   <br>
   <a herf="https://www.canva.com/">[요약_사진_제공_Canva]</a>
 </details>
 
 <div style="text-align: center;">
-  <img src="https://1drv.ms/u/c/0475b30c6541160c/IQTMexQZJduVQI6ctHVELpnPAWdoIWxA0OAPZ5UqVMc6LeM?width=400" width="400" height="auto" />
+  <img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_01.webp" width="400" height="auto"/>
 </div>  
 > **블로그(Blog)**  
 > 자신의 관심사에 따라 자유롭게 칼럼, 일기, 취재 기사 따위를 올리는 웹 사이트.  
@@ -53,7 +53,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 최근에는 인플루언서가 되어 블로그를 이용해서 하나의 사업을 하시는 분들도 계십니다.  
 
 <div style="text-align: center;">
-  <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEDgIAAAAAASFyFuMJYg6NQVWp0_v-Baw?width=256" width="256" height="auto" />
+  <img src="SSAFYcial_img/JSJ_HMM.png" width="256" height="auto"/>
 </div>
 
 그럼 그 Blog와 개발자와 무슨 상관 관계가 있는가?  
@@ -69,7 +69,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 ### 1. 공부 내용을 리마인드 할 수 있다.
 
 <div style="text-align: center;">
-  <img src="https://1drv.ms/u/c/0475b30c6541160c/IQQm05_pHk7wSoqAfQTik-Y8Aaosy2JzBw9Z06GWqIiD_NE?width=400" width="400" height="auto" />
+  <img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_02.webp" width="400" height="auto"/>
 </div>  
 자기가 공부한 내용을 올리고 추후에 리마인드 할 수 있는 기회를 제공합니다.  
 저같은 경우 제가 오늘 푼 알고리즘 문제를 기록하는 방식으로 활용하고 있습니다.  
@@ -79,7 +79,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 ### 2. 포트폴리오 연계가 가능하다.
 
 <div style="text-align: center;">
-  <img src="https://1drv.ms/u/c/0475b30c6541160c/IQTAisD0vJa6Qb_y6l8F3nWLAZgnLhfcO297sS2r4HH3z5U?width=400" width="400" height="auto" />
+  <img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_03.webp" width="400" height="auto"/>
 </div>  
 요즘 IT회사들의 표준 규격 이력서에 blog가 있다면 적어달라는 곳들이 간간히 보이고 있습니다.  
 이는 개발 블로그도 포트폴리오로 활용될 수 있는 좋은 수단 중 하나로 보일 수 있다는 증거로도 볼 수 있다고 봅니다.  
@@ -89,7 +89,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 ### 3. 글 쓰는 능력을 기를 수 있다.
 
 <div style="text-align: center;">
-  <img src="https://1drv.ms/u/c/0475b30c6541160c/IQRsJ4zS_dD5TZwGCX7NlrNGAXK3cYpJfEy_djLX4nRT4Bg?width=400" width="400" height="auto" />
+   <img src="SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_04.webp" width="400" height="auto"/>
 </div> 
 블로그를 하려면 글을 계속 쓰게되고, '어떻게 쓰면 더 사람들에게 잘 받아들여질까?'를 고민하면서 쓰다보면,  
 글을 계속 쓰게 되므로 어느정도 글쓰기에 대한 두려움을 줄일 수 있는 선택지가 될 수 있다고 생각됩니다.  
@@ -97,7 +97,7 @@ Blog라는 개념에 대해서는 많이들 알고 계시리라 생각됩니다.
 좋은 연습 교재가 될 수 있다고 생각됩니다.
 
 <div style="text-align: center;">
-  <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEDAIAAAAAAZIhI_Z2cJAVt6NTwHRhnMU?width=256" width="256" height="auto" />
+  <img src="SSAFYcial_img/JSJ_OK.png" width="256" height="auto"/>
 </div>  
 위와 같은 이유들로 개발 블로그는 자기 개발과 취업적인 측면으로 봤을때,  
 결정적인 수단이 되진 않더라도 선택지 중 하나가 될 수 있다고 충분히 생각할 수 있다고 보여집니다.

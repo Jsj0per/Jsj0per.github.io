@@ -17,6 +17,7 @@ folder: SSAFYcial
 
 해당 포스트는 GIT의 사용법을 알고있다는 전제하에 작성된 포스트로, Windows 환경을 기준으로 작성되었습니다.  
 해당 내용을 잘 모르겠다면 아래 다른 SSAFYcial 게시글을 추천드리겠습니다.  
+[SSAFYcial) #2. 개발자의 첫걸음, Git과 알고리즘으로 시작하기](https://blog.naver.com/imdg3530/223810097602)  
 [SSAFYcial) 항해하기 위한 첫걸음 - 깃허브(GitHub) 알아보기](https://blog.naver.com/masterwayfinder/223627600291)  
 [SSAFYcial) 자주 쓰는 "GIT COMMAND" 정리✍🏻 (기본편)](https://velog.io/@king_kang/SSAFYcial-%EC%9E%90%EC%A3%BC-%EC%93%B0%EB%8A%94-GIT-COMMAND-%EC%A0%95%EB%A6%AC)  
 [SSAFYcial) 자주 쓰는 "GIT COMMAND" 정리👨‍👩‍👧‍👦 (협업편)](https://velog.io/@king_kang/SSAFYcial-%EC%9E%90%EC%A3%BC-%EC%93%B0%EB%8A%94-GIT-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)  

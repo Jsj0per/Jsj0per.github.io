@@ -16,6 +16,10 @@ folder: SSAFYcial
 또한 글 작성에 ChatGPT의 도움을 일부 받은 게시글 입니다.  
 
 해당 포스트는 GIT의 사용법을 알고있다는 전제하에 작성된 포스트로, Windows 환경을 기준으로 작성되었습니다.  
+해당 내용을 잘 모르겠다면 아래 다른 SSAFYcial 게시글을 추천드리겠습니다.  
+[SSAFYcial) 항해하기 위한 첫걸음 - 깃허브(GitHub) 알아보기](https://blog.naver.com/masterwayfinder/223627600291)  
+[SSAFYcial) 자주 쓰는 "GIT COMMAND" 정리✍🏻 (기본편)](https://velog.io/@king_kang/SSAFYcial-%EC%9E%90%EC%A3%BC-%EC%93%B0%EB%8A%94-GIT-COMMAND-%EC%A0%95%EB%A6%AC)  
+[SSAFYcial) 자주 쓰는 "GIT COMMAND" 정리👨‍👩‍👧‍👦 (협업편)](https://velog.io/@king_kang/SSAFYcial-%EC%9E%90%EC%A3%BC-%EC%93%B0%EB%8A%94-GIT-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)  
 
 <div style="text-align: center;">
   <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_Hello.png"/>
@@ -549,7 +553,7 @@ github에 새로운 레포지토리를 제작합니다.
 <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_03/SSAFYcial_mar_33.png"/>
 </div>   
 아까 받아두었던 탬플릿 파일을 그대로 복사하여 clone 해온 폴더에 붙혀넣고,  
-git add . -> git commit -. "커밋명 입력" -> git push origin main
+git add . -> git commit -m "커밋명 입력" -> git push origin main
 순으로 github에 push해주시면 됩니다.
 
 <div style="text-align: center;">

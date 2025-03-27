@@ -448,7 +448,7 @@ folder: SSAFY_LIFE
 이제서야 겨울 느낌이 사라지고 봄꽃 피는 봄이 찾아온 듯 한 느낌이 들었다.  
 유독 이번 겨울은 좀 길다는 느낌이 드는 거 같았던 것 같다.  
 
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQqrG-SmifXRpkvlQuh9kf0ASWItugXRPoY09g3IJdou74?width=1024" width="1024" height="auto" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQKzWqOKXD4T4FXmCBl-1GyAdVhj1q6sSAaPjfvQ6JKaqo?width=1024" width="1024" height="auto" />  
 오늘 점심은 불고기 전골을 받았다.  
 
 Django를 배우면서 느끼지만, 확실히 어렵긴한데 막 후반기 알고리즘처럼 처음부터 이해가 안 된다 하고 확 오는 느낌까지는 아닌 것 같다.  

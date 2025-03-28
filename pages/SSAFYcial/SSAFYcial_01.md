@@ -7,6 +7,7 @@ sidebar: SSAFY_sidebar
 permalink: SSAFYcial_01.html
 folder: SSAFYcial
 ---
+<a href="https://hits.sh/jsj0per.github.io/SSAFYcial_01.html/"><img alt="Hits" src="https://hits.sh/jsj0per.github.io/SSAFYcial_01.html.svg?style=for-the-badge&label=PostView&color=347DBE&logo=Perso"/></a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--7V6PN1UmU?si=MnWGb3cwGg_nLpz9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

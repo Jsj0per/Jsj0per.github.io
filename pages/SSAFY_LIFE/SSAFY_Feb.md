@@ -7,6 +7,7 @@ sidebar: SSAFY_sidebar
 permalink: SSAFY_Feb.html
 folder: SSAFY_LIFE
 ---
+<a href="https://hits.sh/jsj0per.github.io/SSAFY_Feb.html/"><img alt="Hits" src="https://hits.sh/jsj0per.github.io/SSAFY_Feb.html.svg?style=for-the-badge&label=PostView&color=347DBE"/></a>
 
 # 1주차
 

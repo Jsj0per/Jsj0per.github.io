@@ -27,6 +27,4 @@ I wish you all the best today, and I hope you continue to do everything you wish
 このブログは私が開発を始めた時から製作して今までも大切に管理しているブログです。
 今日一日も良いことばかりあるように願いながら望むことをすべて成し遂げることができる日々が続くことを祈ります。
 
-<a href="hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjsj0per.github.io%2Fhit-counter"/></a>
-
 #### This blog is based on the Documentation Theme for Jekyll created by tomjohnson1492

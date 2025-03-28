@@ -7,6 +7,8 @@ sidebar: SSAFY_sidebar
 permalink: SSAFYcial_03.html
 folder: SSAFYcial
 ---
+<a href="https://hits.sh/jsj0per.github.io/SSAFYcial_03.html/"><img alt="Hits" src="https://hits.sh/jsj0per.github.io/SSAFYcial_03.html.svg?style=for-the-badge&label=PostView&color=347DBE&logo=Perso"/></a>
+
 <div style="text-align: center;">
   <img src="/pages/SSAFYcial/SSAFYcial_img/ssafycial_series_header.png"/>
 </div>

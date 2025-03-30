@@ -986,13 +986,13 @@ else: # 그리고 답이 구해졌다면,
 
 ---
 
-## BaekJ sil) 16953. A → B
+## BaekJ sil) 20920. 영단어 암기는 괴로워
 
 [Top Page](#)  
 
 #### 문제 링크
 
-[Baekjoon 16953](https://www.acmicpc.net/problem/20920)  
+[Baekjoon 20920](https://www.acmicpc.net/problem/20920)  
 
 [풀이 답안](http://boj.kr/0dba68c36e5b4729897fe0d8eb2b95ff)
 

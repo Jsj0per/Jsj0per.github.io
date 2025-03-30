@@ -985,3 +985,53 @@ else: # 그리고 답이 구해졌다면,
 후자를 재귀시키는 구조로 하면 된다.  
 
 ---
+
+## BaekJ sil) 16953. A → B
+
+[Top Page](#)  
+
+#### 문제 링크
+
+[Baekjoon 16953](https://www.acmicpc.net/problem/20920)  
+
+[풀이 답안](http://boj.kr/0dba68c36e5b4729897fe0d8eb2b95ff)
+
+#### 풀이 언어
+
+Pypy3 (Python 인터프리터)
+
+#### 답안 코드
+
+```python
+import sys
+
+input_num, min_len = map(int, sys.stdin.readline().split())
+
+word_dict = {}
+
+final_list = [] # 마지막 값을 저장하는 리스트
+
+for i in range(input_num):
+    input_word = input()
+    if len(input_word) < min_len: # 만약 이 단어가 최소 요건 길이보다 짧다면
+        pass # 무시
+    elif input_word in word_dict: # 만약 dict안에 해당 값이 있다면
+        word_dict[input_word] += 1 # value를 +1 한다.
+    else: # 없다면
+        word_dict[input_word] = 1 # 해당 key를 추가한다.
+
+# 람다식을 이용해 정렬한다. 람다식에서 '-' 를 붙히면 내림차순으로 정렬된다.
+sorted_list = sorted(word_dict.items(), key=lambda words: (-words[1], -len(words[0]), words[0]))
+
+for i in sorted_list:
+    print(i[0])
+```
+
+#### 풀이 과정에 대한 사담
+
+진짜 안 풀려서 스터디 동기들에게 힌트를 좀 얻어서 푼 문제.  
+일단은 이 역시 푸는 방법이 더 있는지 아닌지 모르겠지만, 람다를 이용해서 3가지 조건을 걸고 풀었다.  
+해석을 하자면 sorted(1회성 리턴값을 뱉는 sort) word_dict items(키 밸류값 모두 조회), key값을 문제에서 제시한 순서대로 걸어서,  
+차례대로 재정렬하게 시켰다.  
+
+---

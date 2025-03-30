@@ -22,7 +22,7 @@ Student Developer who strives to become a developer who goes step by step.
 
 ## Ability(Tech Stacks)
 
-| Name       | Details                                                                                                                                                                                                      |
+| Name | Details |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Main language   | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow"> |
 | Studying language   | <img src="https://img.shields.io/badge/java-E11F21?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white">  |

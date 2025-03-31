@@ -25,6 +25,10 @@ entries:
       url: /SSAFY_Mar.html
       output: web, pdf
 
+    - title: SSAFY 4th Month
+      url: /SSAFY_Apr.html
+      output: web, pdf
+      
   - title: SSAFYcial
     output: web, pdf
 

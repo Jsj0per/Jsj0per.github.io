@@ -746,3 +746,45 @@ for i in shoujin:
 
 ---
 
+## BaekJ Brz) 10808. 알파벳 개수
+
+[Top Page](#)
+
+#### 문제 링크
+
+[Baekjoon 10808](https://www.acmicpc.net/problem/10808)
+
+[답안 링크](http://boj.kr/6f13b2a846e04772af1a3c42bc8b173d)
+
+#### 풀이 언어
+
+Ruby
+
+#### 답안 코드
+
+```ruby
+eng_hash = {'a' => 0, 'b' => 0, 'c' => 0, 'd' => 0, 'e' => 0, 'f' => 0, 'g' => 0, 'h' => 0, 'i' => 0, 'j' => 0, 'k' => 0, 'l' => 0, 'm' => 0, 'n' => 0, 'o' => 0, 'p' => 0, 'q' => 0, 'r' => 0, 's' => 0, 't' => 0, 'u' => 0, 'v' => 0, 'w' => 0, 'x' => 0, 'y' => 0, 'z' => 0} # 알파벳들의 색인
+
+word_get = gets.chomp # 단어를 입력 받기
+
+word_list = word_get.split('') # 그리고 알파벳 단위로 나눠 리스트에 보관.
+
+word_list.each do |i| # 단어 리스트 단위로 each문으로 하나씩 조회하여 
+    if eng_hash.key?(i) # 일치하는 알파벳이 있다면
+        eng_hash[i] += 1 # 1씩 더한다.
+    end
+end
+
+eng_hash.each do |key, value|
+    print "#{value} " # 그리고 그 값들을 출력하게한다.
+end
+```
+
+#### 풀이 과정에 대한 사담
+
+브론즈 문제들은 다른 언어로 풀어보는 소일거리를 해보기로 하였다.  
+ruby에서는 hash가 dict의 역할을 하는 것 같았다.  
+어쨋든 hash에 알파벳들을 집어넣어두고, 일일이 대조하여 비교하게 하였다.  
+그리고 일치하면 1씩 더하고, 출력하게 하면 된다.  
+
+---

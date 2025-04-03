@@ -72,7 +72,7 @@ form에 비하면 생각보다 할만한 기능 구현이라 크게 어렵지 �
 
 딱히 할 말 없음.  
 
-<img src="https://1drv.ms/i/c/0475b30c6541160c/IQRPkn4WUrjjR4rcvtAQy1JwAVzhmb5cPPnuAeosDa6QgXM?width=1024" width="1024" height="auto" />="https://1drv.ms/i/c/0475b30c6541160c/IQSRJ1rRsg05Rq1n2HhxDUJuAQ1_j89WIljpiO3b8oZIuf0?width=1024" width="1024" height="auto" />
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQRPkn4WUrjjR4rcvtAQy1JwAVzhmb5cPPnuAeosDa6QgXM?width=1024" width="1024" height="auto" />
 
 오늘 점심은 불낙전골(불고기 낙지 전골)이었다.  
 무난무난.  

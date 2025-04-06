@@ -1035,3 +1035,91 @@ for i in sorted_list:
 차례대로 재정렬하게 시켰다.  
 
 ---
+
+## BaekJ sil) 1018. 체스판 다시 칠하기
+
+[Top Page](#)  
+
+#### 문제 링크
+
+[Baekjoon 1018](https://www.acmicpc.net/problem/1018)  
+
+[풀이 답안](http://boj.kr/f046eed4790c4846b010049c39b3eea2)
+
+#### 풀이 언어
+
+Python
+
+#### 답안 코드
+
+```python
+def checkboard(start_y, start_x):
+    now_word = 'W' # 첫 케이스를 W로 정했을떄
+    cnt = 0
+
+    for i in range(start_y, start_y+8):
+        if now_word == 'B': # 다음 체스판을 옮겨갔을때 B->B
+            now_word = 'W'
+        elif now_word == 'W': # W->W 의 경우도 대응 가능하도록 하기 위하여...
+            now_word = 'B'
+        for j in range(start_x, start_x+8): # 그럼 이제 체스판을 순회해보자, 체스판은 8*8
+            if wordlist[i][j] != now_word: # 만약 체스판이 중복되는 칸이 아니라면
+                now_word = wordlist[i][j] # 현재의 값을 저장하고 다음 칸을 살핀다.
+            else: # 만약 같은 색이라면,
+                if now_word == 'B': # B일 경우
+                    now_word = 'W' # 현재 값을 W로 바꾸고
+                    cnt += 1 # cnt를 1 추가한다. 원래는 W가 들어가야하는 칸인데, 바꿨다친다.
+                else: # W일 경우
+                    now_word = 'B' # 현재 값을 B로 바꾸고
+                    cnt += 1 # cnt를 1 추가한다. 원래는 B가 들어가야하는 칸인데, 바꿨다친다.
+    cnt_list.append(cnt) # 반복문이 끝나면 cnt_list에 cnt를 추가한다.
+
+    now_word = 'B' # 첫 케이스를 B로 정했을때
+    cnt = 0 # 다시 cnt를 0으로 초기화.
+
+    for i in range(start_y, start_y+8): # 위의 반복문을 그~대로 똑같이 수행한다.
+        if now_word == 'B':
+            now_word = 'W'
+        elif now_word == 'W':
+            now_word = 'B'
+        for j in range(start_x, start_x+8):
+            if wordlist[i][j] != now_word:
+                now_word = wordlist[i][j]
+            else:
+                if now_word == 'B':
+                    now_word = 'W'
+                    cnt += 1
+                else:
+                    now_word = 'B'
+                    cnt += 1
+    cnt_list.append(cnt) # 반복문이 끝나면 cnt_list에 cnt를 추가한다.
+
+vertical, horizen = map(int, input().split()) # 세로, 가로
+wordlist = [input() for _ in range(vertical)] # 단어 리스트
+cnt_list = [] # 바꿔야하는 갯수 리스트 저장용
+
+for i in range(vertical - 7): # 만약 8 * 8 이상의 체스판이 주어졌을 경우
+    for j in range(horizen - 7): # 차액만큼 시작점을 이동하면서 찾아야하기 때문에...
+        checkboard(i, j) # checkboard def 호출
+
+print(min(cnt_list)) # cnt_list 중에서 가장 적은 값을 출력하면 끝.
+```
+
+#### 풀이 과정에 대한 사담
+
+브루트 포스로 푸는 문제다.  
+추가로 현재의 값을 저장해가면서 B-W-B-W 이처럼 반복되면 무사히 지나가고,  
+B-B-B처럼 같은 값이 출력되면 now_word만 바뀌었다고 감안하고, cnt를 추가하는 방식으로,  
+8*8 체스판을 돌게 설정하였다.  
+
+B-W-B-W  
+W-B-W-B  
+
+이런 형식으로 한 체스줄이 끝나면 다음 줄 역시 같은 알파벳으로 되어야 완벽한 체스판이 되므로,  
+줄바꿈이 된다면 그걸 감안하도록 코드를 추가로 짰다.  
+전체 체스판이 9*9를 초과한다면 시작점을 변경시켜야하므로 그것 역시 고려되어야한다.  
+
+단, 모든 경우의 수를 생각하려면 처음의 알파벳이 'B', 'W' 일 경우 모두 고려하도록 짜야지  
+예외 케이스에 걸리지 않으므로 이 또한 고려하였다.  
+
+---

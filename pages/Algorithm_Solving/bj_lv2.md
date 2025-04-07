@@ -1123,3 +1123,52 @@ W-B-W-B
 예외 케이스에 걸리지 않으므로 이 또한 고려하였다.  
 
 ---
+
+## BaekJ sil) 9095. 1, 2, 3 더하기
+
+[Top Page](#)  
+
+#### 문제 링크
+
+[Baekjoon 9095](https://www.acmicpc.net/problem/9095)  
+
+[풀이 답안](http://boj.kr/7137564574994f99a6deb1f0f2dea231)
+
+#### 풀이 언어
+
+Pypy3 (Python 인터프리터)
+
+#### 답안 코드
+
+```python
+def recursion(num):
+    global final_num
+    if num > target_num: # 만약 num이 target_num을 초과해버렸다면.
+        return # 성립되지 않는 경우의 수이므로 즉시 return
+    elif num == target_num: # 만약 num이 target_num이 된다면,
+        final_num += 1 # 방법의 수를 발견한 것이므로 final_num을 1 추가하고 return
+        return
+    else:
+        recursion(num+1) # 1씩 더하는 재귀
+        recursion(num+2) # 2씩 더하는 재귀
+        recursion(num+3) # 3씩 더하는 재귀
+
+testcase = int(input()) # 테스트 케이스 입력
+
+for tc_idx in range(1, testcase+1):
+    num = 0 # 시작점
+    final_num = 0 # 답을 저장할 num
+    target_num = int(input()) # 목표 숫자 입력
+    recursion(num) # 재귀 def 호출
+
+    print(final_num) # 답안 출력
+```
+
+#### 풀이 과정에 대한 사담
+
+재귀를 활용하면 간단한 문제다.  
+1, 2, 3씩 더해서 목표 숫자에 다다를 수 있는 경우의 수를 모두 구하는 문제인데,  
+재귀를 이용해서 일일히 하나하나 다 경우의 수를 찾아보고, 그 과정중에 목표치를 초과한다면 return, 달성하면 경우의 수를 1씩 더하는 방식으로  
+계속 재귀를 시키면 답이 나온다.  
+
+---

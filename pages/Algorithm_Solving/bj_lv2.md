@@ -1172,3 +1172,61 @@ for tc_idx in range(1, testcase+1):
 계속 재귀를 시키면 답이 나온다.  
 
 ---
+
+## BaekJ sil) 31575. 도시와 비트코인
+
+[Top Page](#)  
+
+#### 문제 링크
+
+[Baekjoon 31575](https://www.acmicpc.net/problem/31575)  
+
+[풀이 답안](http://boj.kr/13a090c923ab4bb0bd6b33df81f5fbb8)
+
+#### 풀이 언어
+
+Python 3
+
+#### 답안 코드
+
+```python
+def delta_move(start_x, start_y):
+    global cango
+    if start_x == horizen - 1 and start_y == vertical - 1: # 만약 가장 오른쪽 아래에 도달했다면
+        cango = 'Yes' # 판정을 Yes로 설정하고 return
+        return
+
+    delta_y = [0, 1]
+    delta_x = [1, 0] # 델타 리스트 정의
+
+    for dir in range(2):
+        if start_x + delta_x[dir] >= 0 and start_x + delta_x[dir] < horizen and start_y + delta_y[dir] >= 0 and start_y + delta_y[dir] < vertical: # 지도를 벗어나지 말것
+            new_y = start_y + delta_y[dir]
+            new_x = start_x + delta_x[dir]  # 탐색할 x 좌표 # 탐색할 y 좌표
+            if visited[new_y][new_x] == 0 and roadtobitcoin[new_y][new_x] == 1 and cango == 'No': # 방문한 적 없고, 갈 수 있는 곳이며, 이미 목적지에 도달한 상태가 아니라면
+                visited[new_y][new_x] = 1 # 그 쪽은 방문다고 하고
+                delta_move(new_x, new_y) # 재귀하여 기준점을 변경
+
+
+horizen, vertical = map(int, input().split()) # 가로와 세로
+roadtobitcoin = [list(map(int, input().split())) for _ in range(vertical)] # 지도 입력 받기
+visited = [[0] * horizen for _ in range(vertical)] # 방문 지도 정의
+
+cango = 'No' # 최종 목표에 도달했는지를 나타내는 str
+
+visited[0][0] = 1 # 0,0 에서 시작하므로 방문했다고 사전 지정
+delta_move(0, 0) # 0,0 부터 시작
+
+print(cango) # 답을 출력
+```
+
+#### 풀이 과정에 대한 사담
+
+델타 탐색과 재귀를 이용하여서 푼 문제.  
+사실 처음에 문제를 잘못 해석해서 4방향으로 만들었다가 나중에야 2방향으로만 가는 문제라는 꺠닳고 코드를 수정했다.  
+즉, visited는 안 만들어도 되지 않았을까... 라는 생각이 든다.  
+
+여튼 계속 전진 시키면서 끝까지 도달하게 짜면 된다.  
+이 코드는 델타 리스트만 2방향 더 추가하면 4방향 이동이 가능한 코드로 변경이 가능하니 참고하도록 하자.  
+
+---

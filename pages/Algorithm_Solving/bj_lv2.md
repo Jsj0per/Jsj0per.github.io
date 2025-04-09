@@ -1230,3 +1230,69 @@ print(cango) # 답을 출력
 이 코드는 델타 리스트만 2방향 더 추가하면 4방향 이동이 가능한 코드로 변경이 가능하니 참고하도록 하자.  
 
 ---
+
+## BaekJ sil) 31575. 점프왕 쩰리 (Small)
+
+[Top Page](#)  
+
+#### 문제 링크
+
+[Baekjoon 31575](https://www.acmicpc.net/problem/31575)  
+
+[풀이 답안](http://boj.kr/8d23aee1f0054c8ba0351c8b72d67876)
+
+#### 풀이 언어
+
+Python 3
+
+#### 답안 코드
+
+```python
+def checker(start_x, start_y):
+    global answer
+    if start_x >= map_len or start_y >= map_len: # 지도 공간을 벗어난다면, 바로 리턴한다.
+        return
+
+    if game_map[start_y][start_x] == 0: # 만약 현 위치의 값이 0이라면 무한루프에 빠지므로 즉시 리턴
+        return
+
+    if game_map[start_y][start_x] == -1: # 최종 목표에 도달할 시
+        answer = 'HaruHaru' # 출력할 문구를 HaruHaru로 변경
+        return
+
+    dy = [0, 1]
+    dx = [1, 0] # 델타 탐색용 리스트
+
+    for dir in range(2):
+        new_x = game_map[start_y][start_x] * dx[dir] + start_x
+        new_y = game_map[start_y][start_x] * dy[dir] + start_y # 젤리가 움직일 수 있는 곳은 현재 위치의 칸의 값 "만큼"
+        if answer == 'HaruHaru': # 만약 목표장소에 도달했다면 즉시 리턴.
+            return
+        else: # 그게 아니라면
+            checker(new_x, new_y) # 기준점을 이동 지점으로 바꾼 뒤 재귀
+
+map_len = int(input()) # 맵 크기
+
+game_map = [list(map(int, input().split())) for _ in range(map_len)] # 지도 제작
+
+answer = 'Hing' # 기본 값을 'Hing'으로 지점
+
+checker(0, 0) # check def 호출
+
+print(answer) # 답 출력
+```
+
+#### 풀이 과정에 대한 사담
+
+~~딱 봐도, 잘 싸우게 생기지 않았어?~~
+예외 케이스가 정말 많은 문제이다.  
+일단 칸에 적힐 수 있는 숫자의 범위는 '0 이상 100 이하의 정수' 라 적혀있는데,  
+문제는 0일 경우다.  
+0이면 무한루프에 빠지게 되므로 이 부분은 잘 처리해줘야하고,  
+지도 범위를 넘는 경우도 잘 처리해줘야한다.  
+그리고 어지간하면 new 좌표가 아닌 start좌표를 기준으로 판단해야지 안 그러면 또 제대로 돌지 않았던 것 같다.  
+
+쬐끄마한 문제가 상상외로 많은 문제를 일으키는 법이다.  
+
+---
+

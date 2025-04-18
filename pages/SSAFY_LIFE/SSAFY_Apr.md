@@ -351,3 +351,10 @@ SSAFY에서 배우고 공부하면서 자신감을 가진 결과 이런 결과�
 [Top Page](#)
 
 입실 08시 54분  
+
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQTwobA3DmtVTapJLxYAalSZAdMYnPLQS49-1zNQHDAH2U4?height=1024" width="auto" height="1024" />  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQRh3hmGB87_TajoImxYfutXARSaK-cwTBnKt09oPj22G4M?height=1024" width="auto" height="1024" />  
+오늘 아침에 날도 좋고 녹음도 꽤 짙어져서 보기 좋아서 입실하러 가는길에 이계천 다리 위에서 찍었다.  
+이런 평화로분 분위기랑 반대로 나는 굉~~~장히 바빠진 상태라는 점이 참 유감이다.  
+지금 아파서 못해서 밀렸던 과제+숙제에 과목 평가 대비에 A형 준비에 SSAFYcial 기사 탈고 2건 남아있고, 정처기, ADsP 시험도 준비해야하고, 면접 준비까지 해야하는 매우 유감스러운 상태다.  
+하하 눈물나네. 2학기가 되면 엄청 바빠진다고 하는데 이보다 바쁠걸 생각하니 몸서리가 살짝 쳐지는 기분이 든다.  

@@ -7,6 +7,8 @@ sidebar: SSAFY_sidebar
 permalink: SSAFYcial_01.html
 folder: SSAFYcial
 ---
+## SSAFYcial) 13기 기자단에게 인터뷰! (잠깐만_구미캠에서_시간_받아갈께요)
+
 <a href="https://hits.sh/jsj0per.github.io/SSAFYcial_01.html/"><img alt="Hits" src="https://hits.sh/jsj0per.github.io/SSAFYcial_01.html.svg?style=for-the-badge&label=PostView&color=347DBE&logo=Perso"/></a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--7V6PN1UmU?si=MnWGb3cwGg_nLpz9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -18,4 +20,11 @@ SSAFYcial 13기 기자단이 이 자리에 등장!
 SSAFY 기자단 인스타그램 주소(더 많은 기사를 볼 수 있는 곳): [https://www.instagram.com/hellossafycial](https://www.instagram.com/hellossafycial)  
 SSAFY 홈페이지: [www.ssafy.com](https://www.ssafy.com)  
 
-<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEcwAAAAAAAAcoy5d_P3wAyAk?width=490&height=900" width="490" height="900" />
+
+> SSAFY 기자단 인스타그램(더 많은 기사를 볼 수 있는 곳)  
+> [![SSAFYcial_Logo](/pages/SSAFYcial/SSAFYcial_img/ssafycial.png)](https://www.instagram.com/hellossafycial)
+
+> SSAFY 공식 홈페이지  
+> [![SSAFY_Logo](/pages/SSAFYcial/SSAFYcial_img/SSAFY_LOGO.jpg)](https://www.ssafy.com)
+
+![SSAFYcial_namecard](/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_namecard.png)

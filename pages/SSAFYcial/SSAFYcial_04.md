@@ -31,6 +31,6 @@ SSAFY 홈페이지: https://www.ssafy.com
 > [![SSAFYcial_Logo](/pages/SSAFYcial/SSAFYcial_img/ssafycial.png)](https://www.instagram.com/hellossafycial)  
 
 > SSAFY 공식 홈페이지  
-> [![SSAFY_Logo](/pages/SSAFYcial/SSAFYcial_img/SSAFY_LOGO.jpg)](https://www.ssafy.com)  
+> [![SSAFY_Logo](/pages/SSAFYcial/SSAFYcial_img/new_logo_ssafy.png)](https://www.ssafy.com)
 
 ![SSAFYcial_namecard](/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_namecard.png)  

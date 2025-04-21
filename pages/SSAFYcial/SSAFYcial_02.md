@@ -22,4 +22,10 @@ SSAFY 홈페이지: [www.ssafy.com](https://www.ssafy.com)
 
 #SSAFY #싸피 #SSAFYcial #컴퓨터알고리즘 #삼성청년SW아카데미 #싸피13기 #잠깐만_싸피에서_시간_받아갈께요 #잠싸시  
 
-<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEcwAAAAAAAAcoy5d_P3wAyAk?width=490&height=900" width="490" height="900" />
+> SSAFY 기자단 인스타그램(더 많은 기사를 볼 수 있는 곳)  
+> [![SSAFYcial_Logo](/pages/SSAFYcial/SSAFYcial_img/ssafycial.png)](https://www.instagram.com/hellossafycial)
+
+> SSAFY 공식 홈페이지  
+> [![SSAFY_Logo](/pages/SSAFYcial/SSAFYcial_img/SSAFY_LOGO.jpg)](https://www.ssafy.com)
+
+![SSAFYcial_namecard](/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_namecard.png)

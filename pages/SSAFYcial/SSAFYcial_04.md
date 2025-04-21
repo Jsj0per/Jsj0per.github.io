@@ -8,6 +8,9 @@ permalink: SSAFYcial_04.html
 folder: SSAFYcial
 ---
 
+<a href="https://hits.sh/jsj0per.github.io/SSAFYcial_04.html/"><img alt="Hits" src="https://hits.sh/jsj0per.github.io/SSAFYcial_04.html.svg?style=for-the-badge&label=PostView&color=347DBE&logo=Perso"/></a>
+
+
 ## SSAFYcial) SSAFY 캠퍼스 소개 편(잠깐만_SSAFY에서_시간_받아갈께요)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YLeWgvBUTeg?si=CgXfBX9ndWvgYP2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  

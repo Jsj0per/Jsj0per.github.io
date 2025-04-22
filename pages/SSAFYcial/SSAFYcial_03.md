@@ -628,4 +628,4 @@ SSAFY는 단순한 코딩 교육뿐만 아니라, 기본 코딩을 바탕으로 
 > SSAFY 공식 홈페이지  
 > [![SSAFY_Logo](/pages/SSAFYcial/SSAFYcial_img/new_logo_ssafy.png)](https://www.ssafy.com)
 
-![SSAFYcial_namecard](/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_namecard.png)
+![SSAFYcial_namecard](/pages/SSAFYcial/SSAFYcial_namecard_new.png)

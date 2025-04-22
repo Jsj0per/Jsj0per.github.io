@@ -20,9 +20,6 @@ SSAFY 14기 신청 전에 어느 캠퍼스로 지원할지 고민이 많이 되�
 13기 수강생들이 각자 자신들의 캠퍼스에 대해 장점을 물론 단점까지도 "가감 없이" 소개하였습니다.  
 수강생들로부터 듣는 캠퍼스의 솔직한 소개 한번 들어보시는 것이 어떨까요?  
 
-SSAFY 기자단 인스타그램 주소(더 많은 기사를 볼 수 있는 곳): https://www.instagram.com/hellossafycial  
-SSAFY 홈페이지: https://www.ssafy.com  
-
 일부 영상내 삽화는 ChatGPT DALL-E AI로 생성된 AI 그림임을 밝힙니다.
 
 #SSAFY #싸피 #SSAFYcial #컴퓨터알고리즘 #삼성청년SW·AI아카데미 #싸피13기 #잠깐만_싸피에서_시간_받아갈께요 #잠싸시
@@ -33,4 +30,4 @@ SSAFY 홈페이지: https://www.ssafy.com
 > SSAFY 공식 홈페이지  
 > [![SSAFY_Logo](/pages/SSAFYcial/SSAFYcial_img/new_logo_ssafy.png)](https://www.ssafy.com)
 
-![SSAFYcial_namecard](/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_namecard.png)  
+![SSAFYcial_namecard](/pages/SSAFYcial/SSAFYcial_namecard_new.png)  

@@ -17,10 +17,6 @@ SSAFYcial 13기 기자단이 이 자리에 등장!
 구미 캠퍼스에서 지금까지 2달간 공부해온 학생들에게 인터뷰한 내용을 쇼츠로 만들었습니다!  
 앞으로도 2025년의 SSAFYcial 13기에게 많은 관심과 응원 부탁드리겠습니다.  
 
-SSAFY 기자단 인스타그램 주소(더 많은 기사를 볼 수 있는 곳): [https://www.instagram.com/hellossafycial](https://www.instagram.com/hellossafycial)  
-SSAFY 홈페이지: [www.ssafy.com](https://www.ssafy.com)  
-
-
 > SSAFY 기자단 인스타그램(더 많은 기사를 볼 수 있는 곳)  
 > [![SSAFYcial_Logo](/pages/SSAFYcial/SSAFYcial_img/ssafycial.png)](https://www.instagram.com/hellossafycial)
 

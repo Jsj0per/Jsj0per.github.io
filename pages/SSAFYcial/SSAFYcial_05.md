@@ -17,11 +17,13 @@ folder: SSAFYcial
 또한 저를 형상화한 이모지는 삼성 AR 이모지를 이용하여 제작된 AI 이미지임도 알려드립니다.    
 
 > 해당 포스트는 전 포스트에 이은 SSAFYcial 기획 시리즈 입니다.  
-> [0️⃣부터 시작하는 개발 Blog 생활 1화](https://jsj0per.github.io/SSAFYcial_05.html)  
+>> [0️⃣부터 시작하는 개발 Blog 생활 1화](https://jsj0per.github.io/SSAFYcial_05.html)  
+>
 > 또한 해당 포스트는 HTML과 Markdown를 기본적으로 이해하고있다는 전제하에 작성된 글입니다.  
 > HTML은 단기간 숙달이 어려운 편이니 관련 강의를 찾아보시거나, [나무위키 HTML/태그](https://namu.wiki/w/HTML/%ED%83%9C%EA%B7%B8)문서를 참조해보시는 것을 추천드립니다.  
+>
 > 마크다운(Markdown, MD)는 아래 다른 기자분의 SSAFYcial 포스트를 참조하여 주신다면 해당 포스트를 이해하기 쉽습니다.  
-> [[Markdown] 마크다운, 그것이 알고싶다](https://memezz.tistory.com/20)
+>> [[Markdown] 마크다운, 그것이 알고싶다](https://memezz.tistory.com/20)
 
 <div style="text-align: center;">
   <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_Hello.png"/>

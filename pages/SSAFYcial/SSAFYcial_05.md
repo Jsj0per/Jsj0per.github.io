@@ -51,7 +51,7 @@ folder: SSAFYcial
 [Top Page](#)
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_01.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_01.png"/>
 </div>
 
 <div style="text-align: center;">
@@ -71,7 +71,7 @@ folder: SSAFYcial
 ### 일단 기본적인 디렉토리 구조...
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_03.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_03.png"/>
 </div>
 [출처: Jekyll 공식 문서](https://jekyllrb-ko.github.io/docs/structure/)
 
@@ -86,13 +86,13 @@ folder: SSAFYcial
 ### '_config.yml' ( 블로그 환경 설정 정보 )
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_04.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_04.png"/>
 </div>
 
 레포지토리에 있는 위 파일을 한번 클릭해보도록 하겠습니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_05.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_05.png"/>
 </div>
 
 이 파일이 바로 우리 블로그의 기초 환경설정을 할 수 있는 설정 파일이라고 생각하시면 됩니다.  
@@ -105,7 +105,7 @@ folder: SSAFYcial
 가장 기본적인 설정을 담당하는 부분입니다. gh_repository는 일단은 이번 포스트에서는 건들지 않겠습니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_06.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_06.png"/>
 </div>
 
 이 정보들을 먼저 바꿔보는 걸로 해보도록 하겠습니다.  
@@ -116,7 +116,7 @@ landing 부분은 추후에 설명해보도록하고 일단 권장사항인 fals
 locale과 lang은 바꿔도 지금 이 영어 페이지를 한국어로 자동으로 바꿔주는 기능은 아니니까, 안 바꿔주셔도 무방합니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_07.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_07.png"/>
 </div>
 
 그랬더니, 짜잔!  이 부분이 바뀐 것을 확인할 수 있었습니다.  
@@ -129,20 +129,20 @@ NOCC 부분이 바뀌진 않았지만 이 부분은 조금 있다가 말하겠�
 '# Features' 부분과 '# Theme Notice (please don't remove it ;))' 부분은 건너 뛰도록 하겠습니다.
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_08.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_08.png"/>
 </div>
 
 안 건들기로한 부분 다음 부분을 보면 # Social Profiles 문단이 나오는데... 
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_09.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_09.png"/>
 </div>
 
 분석해보니 홈페이지에 이 부분을 담당하는 기능으로 보여집니다.  
 SNS를 연동시키는 용도로 설정부분을 남겨두신 것 같습니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_10.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_10.png"/>
 </div>
 
 일단 본인이 홈페이지에 연동시키고싶은 SNS만 저렇게 적어두시면 될 것 같습니다.  
@@ -151,13 +151,13 @@ SNS를 연동시키는 용도로 설정부분을 남겨두신 것 같습니다.
 나머지는 주석처리 하도록 하겠습니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_11.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_11.png"/>
 </div>
 
 그랬더니 딱 적어둔 부분만이 등록된 것을 확인할 수 있었습니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_12.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_12.png"/>
 </div>
 
 바로 다음 부분은 Google Search console에서 사이트 검색 관리를 할 때 사용하는 코드입니다.  
@@ -179,7 +179,7 @@ config 파일은 이 처럼 우리 블로그의 기초적인 환경설정을 담
 ### 'index.html' (메인 페이지 문서)
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_13.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_13.png"/>
 </div>  
 레포지토리에 index.html(템플릿에 따라선 index.md 문서일 수 있음)는 블로그의 메인 페이지를 담당하게되는 부분입니다.  
 블로그를 방문할 사람들이 가장 먼저 보게되는 부분을 담당하는 부분입니다.  
@@ -201,7 +201,7 @@ background와 carousel은 배경설정 부분으로 이 템플릿에는 carousel
 해당 탬플릿의 index는 제가 몇번 시도해본 결과 나온 결론으로 Description 부분은 건들이지 마시길 바랍니다.
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_14.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_14.png"/>
 </div>  
 
 이렇게 바꾸어보았습니다.  
@@ -209,7 +209,7 @@ background와 carousel은 배경설정 부분으로 이 템플릿에는 carousel
 다만 HTML에 사용하는 만큼 HTML에 대해 조금 지식이 필요한 편입니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_15.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_15.png"/>
 </div>  
 
 꾸몄다면 이렇게 수정한 부분이 반영된 것을 확인활 수 있습니다.  
@@ -217,7 +217,7 @@ background와 carousel은 배경설정 부분으로 이 템플릿에는 carousel
 ### '＿post' (블로그 포스트 저장 폴더)
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_16.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_16.png"/>
 </div>  
 
 jekyll 블로그에서 가장 중요한 기능 중 하나로 우리들이 쓸 글들이 들어갈 구역입니다.  
@@ -225,7 +225,7 @@ jekyll 블로그에서 가장 중요한 기능 중 하나로 우리들이 쓸 �
 
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_17.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_17.png"/>
 </div>  
 
 해당 폴더에서 '년-월-일-제목.md' 혹은 '년-월-일-제목.markdown' 형식으로 하나의 포스트가 저장됩니다.  
@@ -241,13 +241,13 @@ jekyll 블로그에서 가장 중요한 기능 중 하나로 우리들이 쓸 �
 일단 마크다운에 대한 설명은 해당 블로그로 갈음하고, 포스트를 한번 작성해보도록 합시다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_18.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_18.png"/>
 </div>  
 
 저는 VS Code를 통해 작성할 예정이지만, github 레포지토리에서 create new file을 이용해서 작성해도 되고, MD 파일 작성 프로그램을 써도 무방합니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_19.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_19.png"/>
 </div>  
 
 아까 index 작성할 때 보신것 처럼 post 역시 YAML 머릿말(front-matter)을 사용합니다.  
@@ -259,14 +259,14 @@ date는 수동으로 알아서 작성해주시고, tags에 원하는 태그를 �
 해당 템플릿에서는 background가 있어서 사진을 경로 지정해서 등록해주시면 헤더 배경화면에 첨부됩니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_20.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_20.png"/>
 </div>  
 
 이렇게 첫번째 포스트를 작성해보았습니다. 이대로 등록시킨다면?  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_21.png"/>
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_22.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_21.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_22.png"/>
 </div>  
 
 이렇게 포스트가 작성되는 것을 확인할 수 있습니다.  
@@ -282,40 +282,40 @@ include 폴더는 쉽게 말하자면 포스트 템플릿을 저장하는 폴더
 이를 수정하려면 '_include' 폴더에 접근하여야 합니다.
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_23.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_23.png"/>
 </div>  
 
 아까 포스트를 작성하셨을 때, 그냥 마크다운으로 입력했는데, html로 바로 변환하여 출력되는 것이 include에 있는 템플릿에 content 부분에 아까 그 마크다운 내용을 집어넣고 바로 출력하는 원리로 되어있습니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_24.png"/>
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_25.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_24.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_25.png"/>
 </div>  
 
 post.html에 들어가셔서 해당 부분을 지워주시면 포스트에서 후원 부분이 깔끔하게 지워지는 것을 확인하실 수 있습니다.  
 
 #### navbar.html
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_27.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_27.png"/>
 </div> 
 화면 상단에 위치한 네비게이션 바를 담당하는 부분입니다. 
 혹시나 다른 page 부분을 추가하여 상단바에 추가하고 싶다면 해당 부분을 수정하시면 됩니다.  
 
 ### page
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_26.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_26.png"/>
 </div>  
 
 그러고보니, posts와 home을 제외한 다른 기능은 수정한 적이 없으니 한번 살펴보도록 합시다.  
 jekyll은 posts가 가장 메인인 페이지 제작이긴 합니다만, 그렇다고 다른 방식이 없는 것은 아닙니다.  
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_28.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_28.png"/>
 </div>  
 
 레포지토리를 찾아보시면 마침 제작자가 친절하게도 이름까지 통일시켜두어 해당 파일을 수정하면 된다는 식으로 설정을 해두셨는것을 보실 수 있습니다. 이중 저희는 about 부분을 예시로 수정해봅시다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_29.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_29.png"/>
 </div>  
 
 전반적으로 index.html 파일과 대충 비슷한 양식으로 되어있는데,  

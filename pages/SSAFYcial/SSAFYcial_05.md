@@ -100,7 +100,7 @@ folder: SSAFYcial
 다행스럽게도 어느정도 [템플릿 소개 페이지](https://jekyll-themes.com/carlesloriente/bootstrap-theme-jekyll)에서 config.yml에 대한 설명을 어느정도 해두었으므로 그것에 기반을 두고 설명하도록 하겠습니다.
 
 제일 윗 단락 부분은 블로그의 제목(title), 소유자 명(author), 주소 정보(url), 소개(decription), 그리고 지역 정보 설정들인 locale과 lang, timezone이 눈에 보입니다.  
-가장 기본적인 설정을 담당하는 부분입니다. gh_repository는 건들지 않으셔도 됩니다.  
+가장 기본적인 설정을 담당하는 부분입니다. gh_repository는 일단은 이번 포스트에서는 건들지 않겠습니다.  
 
 <div style="text-align: center;">
   <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_apr_06.png"/>

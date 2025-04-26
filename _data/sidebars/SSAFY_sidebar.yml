@@ -49,4 +49,8 @@ entries:
       url: SSAFYcial_03.html
       output: web, pdf
 
+    - title: 제블생)C2_디렉토리 분석과 포스팅.
+      url: SSAFYcial_05.html
+      output: web, pdf
+
 # Copyright 2021 Google LLC

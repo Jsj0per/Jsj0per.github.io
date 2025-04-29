@@ -214,7 +214,7 @@ background와 carousel은 배경설정 부분으로 이 템플릿에는 carousel
 
 꾸몄다면 이렇게 수정한 부분이 반영된 것을 확인활 수 있습니다.  
 
-### '＿post' (블로그 포스트 저장 폴더)
+### '＿posts' (블로그 포스트 저장 폴더)
 
 <div style="text-align: center;">
   <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_Apr_16.png"/>

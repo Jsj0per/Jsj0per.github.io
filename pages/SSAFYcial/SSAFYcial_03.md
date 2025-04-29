@@ -595,7 +595,7 @@ git add . -> git commit -m "커밋명 입력" -> git push origin main
 <div style="text-align: center;">
 <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_introduce_01.png"/>
 </div>   
-삼성 청년 SW·AI 아카데미 ( Samsung Software·AI Academy For Youth ) 는 고용노동부의 취업지원 노하우와 삼성의 SW 교육환경을 바탕으로 아이들과 미래재단과 멀티캠퍼스에서 운영하는 청년들을 위한 소프트웨어 교육 부트캠프 입니다.  
+삼성청년SW·AI아카데미 ( Samsung SW·AI acdemy For youth ) 는 고용노동부의 취업지원 노하우와 삼성의 SW 교육환경을 바탕으로 아이들과 미래재단과 멀티캠퍼스에서 운영하는 청년들을 위한 소프트웨어 교육 부트캠프 입니다.  
 각 전문분아별 자문 교수단과 삼성의 SW 전문가가 전공자와 비전공자, 마이스터고 학생들에게 SW 취업을 위해 최고 수준의 교육을 실시하는 프로그램입니다.  
 
 서울, 대전, 광주, 구미, 부산에 위치한 캠퍼스에서 파이썬, 자바, 임베디드, 데이터, 로봇, 모바일 트랙으로 나뉘어져 다양한 교육을 받을 수 있고,  

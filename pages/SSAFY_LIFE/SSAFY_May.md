@@ -1,25 +1,38 @@
 ---
-title: SSAFY May
-keywords: SSAFY, Diary
-tags: SSAFY, Diary
-summary: "This is just a sample topic..."
+title: SSAFY April
+keywords: [SSAFY, Diary]
+tags: [SSAFY, Diary]
+summary: "싸피에서의 1년간의 생활을 적는 공간. 5월"
 sidebar: SSAFY_sidebar
 permalink: SSAFY_May.html
 folder: SSAFY_LIFE
 ---
+<a href="https://hits.sh/jsj0per.github.io/SSAFY_May.html/"><img alt="Hits" src="https://hits.sh/jsj0per.github.io/SSAFY_May.html.svg?style=for-the-badge&label=PostView&color=347DBE"/></a>
 
-## Sample Content
+# 2주차
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+## 5월 7일
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+[Top Page](#)
 
-## More sample content
+입실 08시 57분  
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+5월 2일은 4월에 적혀있다(1주차가 그날 하루 뿐이었으므로 4월에 적어두었다.)  
+긴긴 연휴가 끝나고 1학기 수료를 향한 마지막 스퍼트의 시작의 날이다.  
+이번 달의 주요 이벤트는 자격증 시험들이 있다.  
+정보처리기사와 ADsP 시험이 있는데, 지금 면접 준비와 과제 해소를 최 우선으로 하고 있었던지라,  
+아무래도 우선도가 떨어졌었던 이벤트라 현재로서는 경험을 목적을 두고 도전하고 있다.  
+아쉽지만 여러개에 손 뻗히기엔 내 코가 석자인 상황이라 앞으로도 있을 기회는 우선도를 미루고 잡기 힘든 기회를 우선시하는 선택과 집중이 무엇보다 중요한 시기다.  
+열심히 임해보도록 하자.  
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+오늘도 점심은 집에서 먹었다.  
 
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+오늘 수업은 드디어 Vue.js의 시작인데, 크게 심화적인 내용은 배우지 않았고, 이 마저도 오후는 AI 관련 강의가 예정되어 있었어서 심도있게 배우지는 않았다. 본격적인 수업은 내일부터라고 들은 것 같다.  
+이제 수업일은 딱 3주, 단순 일자수로는 2주가 남았다.  
+길고 길었지만 1학기는 곧 종료되고 이제 프로젝트의 2학기가 다가오고 있다.  
+2학기는 충분히 바빴던 1학기보다도 더 정신 없어질 예정이라고 하니,  
+긴장풀지말고 계속 도전해야겠다.  
 
-{% include links.html %}
+퇴실 18시 00분  
+
+---

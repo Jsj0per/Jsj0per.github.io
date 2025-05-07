@@ -526,6 +526,8 @@ JavaScript에서 Fuction과 method에 대해서 배우는데 생각보다 고약
 
 ---
 
+# 5주차
+
 ## 4월 28일
 
 [Top Page](#)
@@ -613,7 +615,7 @@ JavaScript에서 Fuction과 method에 대해서 배우는데 생각보다 고약
 
 ---
 
-## 4월 4주차 소감
+## 4월 5주차 소감
 
 [Top Page](#)
 

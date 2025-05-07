@@ -1,5 +1,5 @@
 ---
-title: Kansai_Mojiko_Kitakyushu
+title: Kyushu_Mojiko_Kitakyushu
 keywords: [Travel, Japan]
 tags: [Travel, Japan, Kyushu]
 summary: "Japan Travel Log 5th."

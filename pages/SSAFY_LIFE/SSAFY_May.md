@@ -100,4 +100,25 @@ folder: SSAFY_LIFE
 
 [Top Page](#)
 
+입실 08시 52분  
+
+간만에 개운한 느낌으로 SSAFY에 입실하였다.  
+매일매일이 오늘만 같으면 좋겠다.  
+
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQtc_oL4cTZSJPe0SujSsZHATxnEVf3Eg8UYzSNyM-cEC8?width=1024" width="1024" height="auto" />  
+점심은 설렁탕.  
+
+오늘은 Node.js를 이용한 Vue Project를 만드는 방법을 배웠다.  
+마찬가지로 기초 개념을 배우는 날이라 저번주 금요일 수업보다 쉽게 느껴졌고,  
+과제도 오늘 치는 거의 다 끝낸채로 집에 갈 수 있었다.  
+간만에 떨어졌던 프론트엔드 자신감을 보충할 수 있었던 고마운 날이라고 해두는 편이 좋을 지도...  
+
+퇴실 18시 02분
+
+---
+
+## 5월 13일
+
+[Top Page](#)
+
 입실 08시 분  

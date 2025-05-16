@@ -49,6 +49,10 @@ entries:
       url: SSAFYcial_04.html
       output: web, pdf
 
+    - title: 잠싸시)캐릭터 콘테스트
+      url: SSAFYcial_06.html
+      output: web, pdf
+
     - title: 제블생)C1_개발 블로그를 만들자.
       url: SSAFYcial_03.html
       output: web, pdf

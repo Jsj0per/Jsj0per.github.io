@@ -10,10 +10,9 @@ folder: SSAFYcial
 
 <a href="https://hits.sh/jsj0per.github.io/SSAFYcial_06.html/"><img alt="Hits" src="https://hits.sh/jsj0per.github.io/SSAFYcial_06.html.svg?style=for-the-badge&label=PostView&color=347DBE&logo=Perso"/></a>
 
-
 ## SSAFYcial) SSAFY AI 캐릭터 콘테스트 편((잠깐만_SSAFY에서_시간_받아갈께요)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YLeWgvBUTeg?si=CgXfBX9ndWvgYP2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d0e-Tj2KGbI?si=qTF9OlD6bcq8oy0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 2025년 SSAFY는 '삼성청년SW아카데미' 에서 '삼성청년SW·AI아카데미' 로 업그레이드 되었습니다!
 새로운 SSAFY에 어울리는 마스코트 캐릭터를 선정하기 위해 지금 SSAFY 교육생들 대상으로 AI활용 캐릭터 제작 콘테스트가 진행 중입니다.

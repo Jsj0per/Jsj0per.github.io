@@ -42,8 +42,6 @@ folder: SSAFYcial
 다음 시리즈 마지막인 검색 등록을 알려드리기전에 포스팅을 하는데 도움을 주는 세부적인 기능을 알려드리도록 하겠습니다.  
 마지막까지 힘내서 같이 공부해볼 수 있는 시간을 가져보았으면 좋겠습니다!!  
 
-ㅍ
-
 ## 포스팅에 사진 첨부하는 방법
 
 깃허브 블로그는 사진을 올리는 방법이 크게 2가지가 있습니다.  
@@ -53,7 +51,7 @@ folder: SSAFYcial
 ### 내부 레포지토리를 이용한 사진 첨부
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_01.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_01.png"/>
 </div>
 
 먼저 내부 레포지토리를 이용한 사진 첨부 방식을 소개해드리도록 하겠습니다.  
@@ -75,7 +73,7 @@ folder: SSAFYcial
 위의 사진을 예시로 한다면,  
 
 ```markdown
-![응애 나 사진](/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_01.png)
+![응애 나 사진](/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_01.png)
 ```
 
 위 방식으로 올리는 방법이 마크다운 방식의 사진 첨부입니다.  
@@ -85,14 +83,14 @@ folder: SSAFYcial
 여기에 []와 ()를 더 붙힌다면...
 
 ```markdown
-[![응애 나 사진 누르면 네이버로 넘어가](/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_01.png)](naver.com)
+[![응애 나 사진 누르면 네이버로 넘어가](/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_08/SSAFYcial_May_01.png)](naver.com)
 ```
 이런식으로 사진에 링크까지 걸 수 있습니다.  
 
 매우 간단한 방식이지만, CSS 스타일을 적용할 수 없는 단점이 있습니다.  
 
 ```html
-<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_01.png"/>
+<img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_01.png"/>
 ```
 
 이를 극복하기 위해서 있는 방식이 html 방식으로 첨부하는 것입니다.  
@@ -103,7 +101,7 @@ HTML문서는 물론이고, 마크다운에서도 활용이 가능한 문법으�
 
 ```html
 <a href="naver.com">
-    <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_01.png"/>
+    <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_01.png"/>
 </a>
 ```
 이런식으로 링크를 걸면 앞서 했던 마크다운 사진 링크걸기처럼 링크를 걸 수 있습니다.  
@@ -117,7 +115,7 @@ HTML문서는 물론이고, 마크다운에서도 활용이 가능한 문법으�
 ### 외부 클라우드 저장소를 활용한 사진 첨부
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_02.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_02.png"/>
 </div>
 
 구글 드라이드, 원 드라이브같은 클라우드 저장소에 사진을 저장하고 불러와서 사용하는 방법도 물론 가능합니다.  
@@ -129,7 +127,7 @@ HTML문서는 물론이고, 마크다운에서도 활용이 가능한 문법으�
 만약, 이 점이 싫다 싶으시면, 용량이 큰 파일의 해상도를 변경하거나 품질을 살짝 열화시켜서 파일 크기를 줄여서 내부 레포지토리에 저장하는 것도 방법이라고 생각됩니다.
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_03.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_03.png"/>
 </div>
 저는 외부 레포지토리는 MicroSoft의 OneDrive의 사용을 권장하는 편입니다.  
 OneDrive의 경우 블로그에 사용하기 좋도록 크기마저 조정해주어 자동으로 html코드를 만들어주는 임베딩 기능을 기본적으로 제공해주고 있어서, 딸깍딸깍만 하면 사진을 바로 첨부할 수 있는 코드를 만들어주는데, 
@@ -145,20 +143,20 @@ HTML코드로 만들기를 설정한후 그대로 붙여넣어주면 되기 때�
 유튜브에 영상을 올리신 다음 아래 순서대로 따라주시면 됩니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_04.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_04.png"/>
 </div>
 
 유튜브 영상을 올리신 뒤, 영상에 직접 들어가보시면 아래 공유 버튼이 있습니다. 이를 누른 뒤...  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_05.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_05.png"/>
 </div>
 
 퍼가기 버튼을 누르시면 됩니다.  
 그러면 iframe 형식으로 유튜브가 해당 영상에 대한 코드를 줍니다.
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_06.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_06.png"/>
 </div>
 
 그런 다음 해당 코드를 복사하거나, 밑에 복사버튼을 누른 뒤, 코드를 그대로 작성하실 포스트에 갖다 붙이시면 되는데, 만약 동영상의 출력해상도를 조정하시고 싶으시다면, 앞쪽의 width, height를 수정해주시면 됩니다.  
@@ -168,7 +166,7 @@ HTML코드로 만들기를 설정한후 그대로 붙여넣어주면 되기 때�
 만약 플랫폼이 Youtube-Shorts(숏츠)라면 이러한 iframe 기능을 현재는 지원하지 않는 것을 알 수 있는데,  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_07.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_07.png"/>
 </div>
 
 ```plaintext
@@ -176,6 +174,25 @@ https://www.youtube.com/watch?
 ```
 
 해당 ?뒤에 빨간 박스안에 든 영상 코드를 붙여넣어서 일반 동영상으로 실행하여 위 과정을 똑같이 밟으면 iframe 코드를 가져올 수 있습니다.  
+
+---
+
+## 코드 스니펫 기능 추가하기.
+
+<div style="text-align: center;">
+  <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_OK.png"/>
+</div>
+
+깃허브 블로그는 Markdown 문법을 사용하는만큼 코드 스니펫 기능 또한 사용이 가능합니다.  
+이 글을 보시는 분들은 개발을 목표로 블로그를 만드는만큼, 코드 스니펫 기능은 빼놓을 수 없는 꼭 필요한 기능이라는 점은 아실거라 생각됩니다.  
+
+<div style="text-align: center;">
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_19.png"/>
+</div>
+
+엑센트 그레이브(` 억음부호)키를 3번 입력한 뒤, 뒤에 입력할 프로그래밍 언어를 입력한 뒤,  
+다음 엑센트 그레이브 3개 전 사이에 원하는 코드를 집어넣으면 코드 스니펫이 완성됩니다.  
+만약 markdown 코드를 입력하고싶다면 markdown, html을 입력하고 싶다면 html, python을 입력하고 싶다면 python을, 그냥 평범한 텍스트를 입력하고 싶다면 planetext를 입력하시면 됩니다.  
 
 ---
 
@@ -194,7 +211,7 @@ https://www.youtube.com/watch?
 ### 슬라이더/캐로셀(Slider/Carousel)
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_08.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_08.png"/>
 </div>
 
 [참고: 캐로셀 플러그인 Docs](https://jekyllcodex.org/without-plugin/slider/)
@@ -203,33 +220,21 @@ https://www.youtube.com/watch?
 이 기능은 하나의 공간에 사진을 여러개 집어넣고 슬라이드 형식으로 볼 수 있게 만든 플러그인입니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_09.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_09.png"/>
 </div>
 
 만약 NOCC 테마가 아니라 해당 캐로셀 기능이 없으시다면 공식 문서에 들어가셔서, 
 Installation의 Step 1.에 위치한 carousel.html을 눌러, 그대로 전체 내용을 복사하신 뒤,  
 '_includes’ 폴더에 같은 이름으로 넣어주시면 적용 완료입니다.  
 
-```html
-carousels:
-  - images: 
-    - image: /uploads/slider/image1.jpg
-    - image: /uploads/slider/image2.jpg
-    - image: /uploads/slider/image3.jpg
-    - image: /uploads/slider/image4.jpg
-  - images: 
-    - image: /uploads/slider/image1.jpg
-    - image: /uploads/slider/image2.jpg
-    - image: /uploads/slider/image3.jpg
-    - image: /uploads/slider/image4.jpg
-```
+<div style="text-align: center;">
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_20.png"/>
+</div>
 이후 위의 YAML 머릿말(front-matter, 가장 앞쪽에 title, layout 등등이 있는 부분) 부분에 해당 부분을 입력하고,  
 
-```html
-  {% include carousel.html height="50" unit="%" duration="7" number="1" %}
-
-  {% include carousel.html height="50" unit="%" duration="7" number="2" %}
-```
+<div style="text-align: center;">
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_21.png"/>
+</div>
 
 캐로셀을 넣고싶은 부분에 해당 코드를 집어넣으시면 됩니다.  
 위 처럼 한다면 2개의 캐로셀이 적용될 것입니다.  
@@ -241,7 +246,7 @@ carousels:
 ### 게시글의 조회수 기능 추가 ( HITS.sh )
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_10.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_10.png"/>
 </div>
 
 [HITS.sh 조회수 만들기](https://hits.sh/)
@@ -256,7 +261,7 @@ HITS를 이용하여 게시글에 조회수 기능도 만들 수 있습니다.
 ### 댓글 기능 추가 ( utterances )
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_11.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_11.png"/>
 </div>
 
 [utterances 댓글 플러그인](https://utteranc.es/)
@@ -266,20 +271,20 @@ HITS를 이용하여 게시글에 조회수 기능도 만들 수 있습니다.
 가볍고, 간단하고, Github Id로 등록하여 사용하는 구조로 되어있으며, 광고가 없기 때문입니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_12.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_12.png"/>
 </div>
 
 먼저, [github app](https://github.com/apps/utterances)을 통하여 설치를 해야합니다.  
 Install 버튼을 클릭합니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_13.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_13.png"/>
 </div>
 
 그 후, Only Select repositories를 선택한 후, 블로그 레포지토리로 설정하시면 됩니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_14.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_14.png"/>
 </div>
 
 repo에는 앞쪽에는 github 이름을 적고 / 뒤쪽에는 블로그 레포지토리 명을 집어넣습니다.  
@@ -288,21 +293,21 @@ repo에는 앞쪽에는 github 이름을 적고 / 뒤쪽에는 블로그 레포�
 그 후 Blog Post <-> Issue Mapping은 어지간하면 "Issue title contains page pathname"으로 설정해주셔야 각자의 포스팅마다 댓글창이 독립적으로 달리게 됩니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_15.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_15.png"/>
 </div>
 
 이후 테마는 자신의 블로그 테마에 어울릴만한 적당한 테마로 설정하신 뒤, 아래 Copy를 눌러주시면 코드가 복사가 됩니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_16.png"/>
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_17.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_16.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_17.png"/>
 </div>
 
 이후 '_layout'폴더에 들어가셔서 'post' 파일에 적용시키면 됩니다.  
 NOCC 기준으로 div class="divider"위가 가장 적당한 위치라고 생각됩니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_05/SSAFYcial_May_18.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_18.png"/>
 </div>
 
 이 상태로 저장하면 이렇게 포스트마다 댓글창이 생기는 것을 확인할 수 있습니다.  

@@ -61,4 +61,8 @@ entries:
       url: SSAFYcial_05.html
       output: web, pdf
 
+    - title: 제블생)C3_포스팅 심화와 플러그인.
+      url: SSAFYcial_07.html
+      output: web, pdf
+
 # Copyright 2021 Google LLC

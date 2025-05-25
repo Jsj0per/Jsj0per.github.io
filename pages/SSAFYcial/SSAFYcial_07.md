@@ -108,8 +108,8 @@ HTML문서는 물론이고, 마크다운에서도 활용이 가능한 문법으�
 이러한 부분은 HTML파트를 그대로 적용시키면 되니, 해당 부분은 따로 공부를 해두심이 좋을듯합니다.  
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_OK"/>
-</div>  
+  <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_OK.png"/>
+</div>
 물론 SSAFY에서도 HTML 파트를 가르쳐주니, 오셔서 배우시는 것도 하나의 방법이라고 생각됩니다.  
 
 ### 외부 클라우드 저장소를 활용한 사진 첨부

@@ -17,8 +17,8 @@ folder: SSAFYcial
 또한 저를 형상화한 이모지는 삼성 AR 이모지를 이용하여 제작된 AI 이미지임도 알려드립니다.    
 
 > 해당 포스트는 전 포스트에 이은 SSAFYcial 기획 시리즈 입니다.  
->> [0️⃣부터 시작하는 개발 Blog 생활 1화](https://jsj0per.github.io/SSAFYcial_03.html)
->> [0️⃣부터 시작하는 개발 Blog 생활 2화](https://jsj0per.github.io/SSAFYcial_05.html) 
+>> [0️⃣부터 시작하는 개발 Blog 생활 1화](https://jsj0per.github.io/SSAFYcial_03.html)  
+>> [0️⃣부터 시작하는 개발 Blog 생활 2화](https://jsj0per.github.io/SSAFYcial_05.html)  
 >
 > 또한 해당 포스트는 HTML과 Markdown를 기본적으로 이해하고있다는 전제하에 작성된 글입니다.  
 > HTML은 단기간 숙달이 어려운 편이니 관련 강의를 찾아보시거나, [나무위키 HTML/태그](https://namu.wiki/w/HTML/%ED%83%9C%EA%B7%B8)문서를 참조해보시는 것을 추천드립니다.  
@@ -223,7 +223,7 @@ https://www.youtube.com/watch?
   <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_09.png"/>
 </div>
 
-만약 NOCC 테마가 아니라 해당 캐로셀 기능이 없으시다면 공식 문서에 들어가셔서, 
+만약 NOCC 테마가 아니라 해당 캐로셀 기능이 없으시다면 공식 문서에 들어가셔서,  
 Installation의 Step 1.에 위치한 carousel.html을 눌러, 그대로 전체 내용을 복사하신 뒤,  
 '_includes’ 폴더에 같은 이름으로 넣어주시면 적용 완료입니다.  
 

@@ -227,7 +227,7 @@ https://www.youtube.com/watch?
 Installation의 Step 1.에 위치한 carousel.html을 눌러, 그대로 전체 내용을 복사하신 뒤,  
 '_includes’ 폴더에 같은 이름으로 넣어주시면 적용 완료입니다.  
 
-NOCC같은 이미 캐로셀이 설치되신 분들이라면 위에 부분은 건너뛰가 아래 사진부터 시작하시면 됩니다.  
+NOCC같은 이미 캐로셀이 설치되신 분들이라면 위에 부분은 건너뛰고 아래 사진부터 시작하시면 됩니다.  
 
 <div style="text-align: center;">
   <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_07/SSAFYcial_May_20.png"/>

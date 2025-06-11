@@ -33,6 +33,10 @@ entries:
       url: /SSAFY_May.html
       output: web, pdf
       
+    - title: SSAFY 6th Month
+      url: /SSAFY_Jun.html
+      output: web, pdf
+      
   - title: SSAFYcial
     output: web, pdf
 

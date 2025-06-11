@@ -1,25 +1,85 @@
 ---
 title: SSAFY June
-keywords: SSAFY, Diary
-tags: SSAFY, Diary
-summary: "This is just a sample topic..."
+keywords: [SSAFY, Diary]
+tags: [SSAFY, Diary]
+summary: "싸피에서의 1년간의 생활을 적는 공간. 6월"
 sidebar: SSAFY_sidebar
-permalink: SSAFY_June.html
+permalink: SSAFY_Jun.html
 folder: SSAFY_LIFE
 ---
+<a href="https://hits.sh/jsj0per.github.io/SSAFY_Jun.html/"><img alt="Hits" src="https://hits.sh/jsj0per.github.io/SSAFY_Jun.html.svg?style=for-the-badge&label=PostView&color=347DBE"/></a>
 
-## Sample Content
+# 1주차
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+[Top Page](#)
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+6월 1주차는 개인 휴양 목적 휴가차,  
+일본 다카마쓰 - 마쓰야마 여행을 잠깐 다녀왔다.  
 
-## More sample content
+---
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+# 2주차
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+## 6월 9일
 
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+[Top Page](#)
 
-{% include links.html %}
+입실 08시 32분  
+
+이번 달은 취업 집중 기간으로 캠퍼스에 가지 않고 온라인으로 취업관련 특강을 듣는 월이다.  
+어쩌면 크게 부담이 없는 형태일 수 있지만,  
+그만큼 나태해지기 쉬워지는 기간인 만큼 조심하여야한다.  
+이번달의 목표는 싸피레이스 작품 제작과, 6월의 SSAFYcial 기사 제출, 면접 준비가 큰 목표가 된다.  
+특히 면접은 1차 면접-적성 검사를 뚫은 기업의 최종 면접인만큼 심혈을 다해서 준비해야한다.  
+
+추가로 오늘 SSAFY Job Fair 마감일이라 마지막으로 한번 점검하고, 최종 확정처리 지었다.  
+역시나 나는 일본 기업을 위주로 제출하였다.  
+과연 어떤 결과가 나올지 지켜봐야할 것 같다.  
+
+퇴실 18시 00분  
+
+---
+
+## 6월 10일
+
+[Top Page](#)
+
+입실 08시 34분  
+
+아쉬운 점은 취업 관련 특강들은 대외비라 어떤걸 배웠는지 알려줄 수 없다는 점이 아쉽다.  
+어쨋든 간에 오늘도 관련 특강을 듣고 참여하는 것이 주 일과였다.  
+
+요즘 실천중인 노력으로 수업이 끝나고 구미 동락공원을 1바퀴씩 도는 운동을 하고 있다.  
+대략 다 걸으면 12000보 정도 소요되는 것 같다.  
+또한 공원내 기구로 추가 운동까지 마치고오면 그제서야 몸이 썩는 기분이 안 드는 것 같다.  
+아무래도 슬슬 나이가 나이인지라 이제부터 운동을 챙기지 않으면 위험하다.  
+
+계속 운동하는 버릇은 멈추지 말아야 겠다.  
+오늘도 강의 내용은 꽤나 쓸모가 많은 것 같다. 
+
+퇴실 18시 00분
+
+---
+
+## 6월 11일
+
+[Top Page](#)
+
+입실 08시 30분  
+
+오늘 취업은 직접적인 자기 분석에 가까운 내용들이었던 것 같다.  
+역시 상세 내용은 대외비라 알려줄 순 없는 것 같다.  
+
+싸피 레이스 대비를 슬슬 발동 시켜야할 것 같아서 조원분들께 말씀 드렸더니,  
+나처럼 역시 잊어먹고 있었나보다. ㅎㅎㅎㅎ  
+어쨋든 슬슬 시작해야하니 떡밥 던져뒀고, 추후에 어떻게 해야할 지 상담을 해봐야할 것 같다.  
+
+퇴실 18시 00분  
+
+---
+
+## 6월 12일
+
+[Top Page](#)
+
+입실 08시 분  

@@ -57,6 +57,10 @@ entries:
       url: SSAFYcial_06.html
       output: web, pdf
 
+    - title: 잠싸시)해외 취업 도전기
+      url: SSAFYcial_08.html
+      output: web, pdf
+    
     - title: 제블생)C1_개발 블로그를 만들자.
       url: SSAFYcial_03.html
       output: web, pdf

@@ -65,20 +65,24 @@ entries:
       url: SSAFYcial_10.html
       output: web, pdf
     
-    - title: 제블생)C1_개발 블로그를 만들자.
+    - title: 제블생)C1_개발 블로그를 만들자
       url: SSAFYcial_03.html
       output: web, pdf
 
-    - title: 제블생)C2_디렉토리 분석과 포스팅.
+    - title: 제블생)C2_디렉토리 분석과 포스팅
       url: SSAFYcial_05.html
       output: web, pdf
 
-    - title: 제블생)C3_포스팅 심화와 플러그인.
+    - title: 제블생)C3_포스팅 심화와 플러그인
       url: SSAFYcial_07.html
       output: web, pdf
 
-    - title: 제블생)C4_검색 엔진에 블로그를 노출.
+    - title: 제블생)C4_검색 엔진에 블로그를 노출
       url: SSAFYcial_09.html
+      output: web, pdf
+
+    - title: 제블생)C5_개발 블로그 운영 팁
+      url: SSAFYcial_11.html
       output: web, pdf
 
 # Copyright 2021 Google LLC

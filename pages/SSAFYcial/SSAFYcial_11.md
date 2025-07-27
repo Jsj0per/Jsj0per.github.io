@@ -19,8 +19,8 @@ folder: SSAFYcial
 > 해당 포스트는 전 포스트에 이은 SSAFYcial 기획 시리즈 입니다.  
 >> [0️⃣부터 시작하는 개발 Blog 생활 1화](https://jsj0per.github.io/SSAFYcial_03.html)  
 >> [0️⃣부터 시작하는 개발 Blog 생활 2화](https://jsj0per.github.io/SSAFYcial_05.html)  
->> [0️⃣부터 시작하는 개발 Blog 생활 3화](https://jsj0per.github.io/SSAFYcial_07.html) 
->> [0️⃣부터 시작하는 개발 Blog 생활 4화](https://jsj0per.github.io/SSAFYcial_09.html) 
+>> [0️⃣부터 시작하는 개발 Blog 생활 3화](https://jsj0per.github.io/SSAFYcial_07.html)  
+>> [0️⃣부터 시작하는 개발 Blog 생활 4화](https://jsj0per.github.io/SSAFYcial_09.html)  
 
 <div style="text-align: center;">
   <img src="/pages/SSAFYcial/SSAFYcial_img/JSJ_Hello.png"/>

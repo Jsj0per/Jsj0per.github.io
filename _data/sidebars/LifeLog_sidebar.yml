@@ -55,6 +55,10 @@ entries:
       url: /jp_Travel_05.html
       output: web, pdf
 
+    - title: Fukuoka(6th Log)
+      url: /jp_Travel_06.html
+      output: web, pdf
+
   - title: Cocktail
     output: web, pdf
 

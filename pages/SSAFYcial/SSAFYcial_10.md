@@ -8,7 +8,7 @@ permalink: SSAFYcial_10.html
 folder: SSAFYcial
 ---
 
-<a href="https://hits.sh/jsj0per.github.io/SSAFYcial_08.html/"><img alt="Hits" src="https://hits.sh/jsj0per.github.io/SSAFYcial_08.html.svg?style=for-the-badge&label=PostView&color=347DBE&logo=Perso"/></a>
+<a href="https://hits.sh/jsj0per.github.io/SSAFYcial_10.html/"><img alt="Hits" src="https://hits.sh/jsj0per.github.io/SSAFYcial_10.html.svg?style=for-the-badge&label=PostView&color=347DBE&logo=Perso"/></a>
 
 [SSAFYcial]구미 캠퍼스의 하루 편(잠깐만 SSAFY에서 시간 가져갈께요)
 

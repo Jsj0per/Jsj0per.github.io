@@ -64,6 +64,10 @@ entries:
     - title: 잠싸시)구미 캠퍼스의 하루
       url: SSAFYcial_10.html
       output: web, pdf
+
+    - title: 잠싸시)SS "AI" FY
+      url: SSAFYcial_12.html
+      output: web, pdf
     
     - title: 제블생)C1_개발 블로그를 만들자
       url: SSAFYcial_03.html

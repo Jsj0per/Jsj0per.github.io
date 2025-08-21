@@ -6,11 +6,60 @@ summary: "Japan Travel Log 3th."
 sidebar: LifeLog_sidebar
 permalink: jp_Travel_03.html
 folder: LifeLog
+carousels:
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEZAEAAAAAAalTJJ8aoxs3ktnKz02dTfI?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEZQEAAAAAAXT2W2cULkQrt_aU87RUIZ0?width=1024
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEZwEAAAAAAd2IVr3NmBkrcyRziLs7q2Y?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEZgEAAAAAAQ0FC20LJKUAsBXXEmuXR5U?height=1024
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEbgEAAAAAAU2vN8yCX1oGBCGUyR2ZWmQ?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEbwEAAAAAAXhjwb4_6utMT8nF8hY2X2M?height=1024
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEcgEAAAAAAaoZl_MJXtpi1r0D36nV3ts?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEcwEAAAAAAUAzJrjs8a5Xm8gZWSfyvKA?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEdAEAAAAAAb4v2ETuOwwU_ucZ3lIeb0w?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEdQEAAAAAAeG4_g7T9huAaa3YNMaVF28?height=1024
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEdgEAAAAAAWJumpzgLpIk0aSHYMJanWI?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEeAEAAAAAAQ-j-ZVkCOSgE9meBVum_XI?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEdwEAAAAAAa1rTn5rfXrE9uvGEDlerQA?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEeQEAAAAAAd0ymXjSxx6pIeN9ygORg4A?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEegEAAAAAAT_XmBR2cbrJjjnmpuESuYo?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEewEAAAAAAbIdqsbVp5TFVQr0CIbNg2I?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEfAEAAAAAAbaP91ScA-_Q2bl6uKBYgqI?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEfwEAAAAAAZvYm1jBT9ExgmPfbxJU3uU?height=1024
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEgQEAAAAAAUqa-q5Zk4Ejg2ObBtKwOEA?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEggEAAAAAAQQD0kDYHNVbQXCNwDMbWck?height=1024
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEgwEAAAAAAa2Q2qcNHaqvP5qta7Bk7HE?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEhAEAAAAAATek-lGQ3ghtmS2htwHXxxo?width=3000&height=4000
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEhgEAAAAAAThaJEK2xzy3rE-FgAsITtk?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEiAEAAAAAAfAdUYgi4kNmEyAwgtI21Sw?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEiQEAAAAAAYcoElPHTph6wv6_LIoL53E?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEigEAAAAAAT2EsoTq_DSnYp0pBgGxNjg?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEiwEAAAAAAWgkzm6mtINI0OjKdpvQe8s?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEjAEAAAAAAZf7mVNvnQYx3bZ61mdg6sE?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEjQEAAAAAAXR7ETZib9mwx4ePkQEFnt4?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEjgEAAAAAAWlXVFDUgrpWfXFnZgBuFZA?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEjwEAAAAAAcuLly_I5cNkXdU7wXUOEPA?height=1024
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEkgEAAAAAATEIoEtO-PKCTApl8A9T7CQ?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEkwEAAAAAAflhr9m6-Owh7d7ONwg6LCM?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAElAEAAAAAAT-dMWublLu7B2_-a72aNMU?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAElgEAAAAAAfrC77tV5E51hOYWpMubnXU?height=1024
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAElQEAAAAAAVRlTSnSgwcLZMCfx-8w6AI?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAElwEAAAAAAb4yallUOht9Q51oBZQ0Dc8?height=1024
 ---
 
 여행 일자는 24년 1월 22일 이었습니다.
 
-![00_PicT](./trevel_JP/JP_04/00_PicT.png)  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEXgEAAAAAAVvDucr0Ts1e7zvd7uWS4cU?width=546&height=423" width="546" height="423" />  
+
 다들 알다시피 도쿄 디즈니랜드랑 양대 일본 대형 프랜차이즈 유원지로 유명한 USJ입니다.  
 라지만... 사실 저는 INFP다보니까 놀이공원은 별로 좋아하는 편이 아닙니다. --친구 만나는거도 눈에 안 보이는 활력 게이지 쫙짝 줄어드는 사람이예요.--  
 오히려 기빨리고... 어린 시절처럼 파워도 안 나오고... 특히나 이런데는 사람구경만 하다 오기 십상이라  
@@ -18,31 +67,35 @@ folder: LifeLog
 하지만 우리 하늘보다도 높으신 1호 여동생님의 강렬한 요청이 있었어서, 특~별히 가게 되었습니다.  
 하지만 이러한 생각이 무색할 정도로 USJ에서는 정말 재밌게 잘 놀다온 기억이 남아서 저도 놀라웠습니다.  
 
-![01_PicT](./trevel_JP/JP_04/01_PicT.jpg)  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEYAEAAAAAAWlZ3-LqjQcXjnz4yi2_hjQ?height=1024" width="auto" height="1024" />  
+
 놀이공원 가는날의 우메다의 하늘은 엄청나게 화창합니다.  
 사실 비온다는 예보가 있었는데... 다행이도 맑군요.  
 
-![02_PicT](./trevel_JP/JP_04/02_PicT.jpg)  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEYQEAAAAAAcC2DH17CIbwUl7jJOxF950?height=1024" width="auto" height="1024" />  
+
 USJ로 가기위해서 우메다역에서 유니버셜시티 방면 지하철을 기다리고 있었습니다.  
 평일 아침 출퇴근+외국분들까지 합쳐져 복작복작거리네요.  
 역시 대도시의 기차/지하철은 여행객들의 기대와 직장인들의 찌듦이 있는... 한국이나 일본이나 만감교차의 플랫폼이네요.  
 
-![03_PicT](./trevel_JP/JP_04/03_PicT.jpg)  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEYgEAAAAAARQ03_E4bkkVrTMeYKT3btE?width=1024" width="1024" height="auto" />  
+
 유니버셜 시티역에서 내리자마자 여긴 어매리카의 분위기다 라고 광고를 하고있습니다.  
 동생들은 카메라 켜고 이리찍고 저리찍고 여기서부터 방방뛰고있었어요.  
 
-![04_PicT](./trevel_JP/JP_04/04_PicT.jpg)  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEYwEAAAAAAXmQvHLkiEfSyw6NcD2CuWc?height=1024" width="auto" height="1024" />  
+
 유니버셜 스튜디오 지점마다 꼭 있는 명물인 유니버셜 스튜디오 랜드마크.  
 재팬지점도 사진 꼭 찍고 들어가는 명물 코스더라구요.  
 마침 지나가던 한국분 가족이 계셔서 부탁드리고 저랑 동생이랑 같이 찍었습니다.  
 물론 동생의 초상권을 위해 해당 사진은 생략...  
 
-![05_PicT](./trevel_JP/JP_04/05_PicT.jpg)
-![06_PicT](./trevel_JP/JP_04/06_PicT.jpg)  
+  {% include carousel.html height="100" unit="%" duration="7" number="1" %}
+
 들어가자마자 드넓은 돔과 미쿡식 거리 분위기가 드디어 USJ에 도착했음을 느끼기 해주었습니다.  
 
-![07_PicT](./trevel_JP/JP_04/07_PicT.jpg)
-![08_PicT](./trevel_JP/JP_04/08_PicT.jpg)  
+  {% include carousel.html height="100" unit="%" duration="7" number="2" %}
+
 저희 부모님은 사진을 찍어서 보내줬을때, 일본에 간게 아니라 미국에 간거 아냐라고 했던말이 지금와서 생각해보면 맞을지도... 모르겠네요.  
 
 자 그럼 드디어 놀이기구 탑승의 시간인데  
@@ -58,7 +111,8 @@ USJ로 가기위해서 우메다역에서 유니버셜시티 방면 지하철을
 그런데도 이렇게 줄이 겁나게 길단말이죠. (물론, 이정도 줄은 우리나라에서도 흔한 일이지만 여튼 전 싫습니다 뿌뿌)  
 이쯤되면 사람 과메기 말리듯이 세워두는건지 놀이기구를 타러 온건지 헷갈리게 만들게 되는 현상입니다.  
 
-![09 PicT](./trevel_JP/JP_04/09_PicT.png)  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEaAEAAAAAAdGd5tGt2o3huBqs5T4EKLI?width=1024" width="1024" height="auto" />  
+
 그래서 어쩔 수 없이 저는 사전에 익스프레스 4를 사서 닌텐도 입장 확약권을 받는 김에 놀이기구도 몇개는 확실히 타고 가자고 생각했었습니다.  
 
 어흐흑 내돈...  
@@ -69,7 +123,8 @@ USJ로 가기위해서 우메다역에서 유니버셜시티 방면 지하철을
 
 일단 첫 고정타임 입장 시간이 13:10인만큼 첫 놀이기구는 일부러 줄 서서 타는걸로 하나 타기로 했어요.  
 
-![10_PicT](./trevel_JP/JP_04/10_PicT.jpg)  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEagEAAAAAAfXr81K4Am7Kksp22wnMoAA?height=1024" width="auto" height="1024" />  
+
 먼저 탄 놀이기구는 할리우드 드림 더 라이드.  
 가장 스탠다드한 롤러코스터로 격렬도도 적당하고 그렇다고 아주 강도가 낮지도 않은  
 정석에 가까운 롤러코스터였던것 같습니다.  
@@ -77,7 +132,8 @@ USJ로 가기위해서 우메다역에서 유니버셜시티 방면 지하철을
 역방향, 정방향 이렇게 두개가 동시에 운행되고있었는데, 저나 동생이나 역방향을 탔다간 멀미로 속을 게워낼게 뻔하였기 때문에 정방향으로 타기로 하였습니다.  
 참고로 줄은 역방향이 한 30분 정도 더 길었던 것 같습니다.  
 
-![11_PicT](./trevel_JP/JP_04/11_PicT.jpg)  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEaQEAAAAAAYs_EDKxmJzpt4jzxMgfWxQ?height=1024" width="auto" height="1024" />  
+
 아 물론 그렇다고 정방향이 줄이 안 긴건 아니구요.... ㄱ-  
 그래도 한 80분 정도 기다린 것 같습니다.  
 줄 자체는 매우매우매우 긴데, 이 놀이기구 보통이 아닌게 한번에 롤러코스터를 방향마다 3-4개씩 동시에 운영하고 있어서 손님 회전이 진짜 미친듯하게 빨랐어요. 그냥 사람들이 훅훅 들어갑니다.  
@@ -85,17 +141,20 @@ USJ로 가기위해서 우메다역에서 유니버셜시티 방면 지하철을
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ye4lfxIx6xg?si=ctrLTC-pmf5C1HwS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![12_PicT](./trevel_JP/JP_04/12_PicT.jpg)  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEawEAAAAAAWYe6JfvJ_wOnN96_519qmg?height=1024" width="auto" height="1024" />  
+
 추신: 주의사항은 한국어도 지원됩니다... 워낙에 중국분들 한국분들 많이 놀러오는지라... 뒤에는 영어로도 적혀있습니다. USJ는 일본어를 전혀 몰라도 즐기는데는 문제가 없습니다. 조금... 해설이 가미된 놀이기구를 이해하는데는 좀 아쉬울 수 있겠지만요...
 
-![13_PicT](./trevel_JP/JP_04/13_PicT.png)  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEbAEAAAAAAXrpVx-iwOiE8K3yKdbhQoA?width=1024" width="1024" height="auto" />  
+
 그런다음 점심을 햄버거로 간단하게 먹었습니다.  
 사진 누락된건 워낙 정신이 없었어 가지고 아쉽네요. 홈페이지 사진으로 대체...  
 저희 일부러 11시 30분에 일찍먹으러 왔었는데, 그 선택이 맞았습니다.  
 이때도 솔직히 자리 잡으려고 좀 서성이다가 나자마자 바로 엉덩이 깔고 앉았는데,  
 이후 저희 한참 밥 먹고있는데, 진짜... 자리를 노리는 사람들도 인산인해를 이루더군요.  
 
-![14_PicT](./trevel_JP/JP_04/14_PicT.jpg)  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEbQEAAAAAATbhhV2cGCFzTzeX4wbgij0?height=1024" width="auto" height="1024" />  
+
 그 문제의 300분 대기 놀이기구, 스파이더맨입니다.  
 왜 300분 대기냐. 사실 저희가 갔는 날의 스파이더맨이 마지막 운영일이라고 하더라구요.  
 이게 스파이더맨이 마블쪽으로 저작권이 넘어갔다보니까,  
@@ -104,8 +163,8 @@ USJ로 가기위해서 우메다역에서 유니버셜시티 방면 지하철을
 저희는 미리사둔 익스프레스 4를 이용하여서 프리패스 이용.  
 옆에 아아아아아주 길게 줄을 섰는데 저희는 수욱 들어가니까 약간의 죄악감이 느껴졌다는건 안 비밀...  
 
-![15_PicT](./trevel_JP/JP_04/15_PicT.jpg)
-![16_PicT](./trevel_JP/JP_04/16_PicT.jpg)  
+  {% include carousel.html height="100" unit="%" duration="7" number="2" %}
+
 내부사진은 이랬습니다.  
 엄청 재밌었습니다. 다크라이드 형식의 실내형 4D 어트랙션이었는데  
 없어지는게 너무 아쉬울 정도로 박진감 넘치고 즐거운 경험이었습니다.  
@@ -115,16 +174,14 @@ USJ로 가기위해서 우메다역에서 유니버셜시티 방면 지하철을
 
 지금은 없어진 놀이기구라 공식영상이 없어서 해당 영상으로 대체합니다.  
 
-![17_PicT](./trevel_JP/JP_04/17_PicT.jpg)
-![18_PicT](./trevel_JP/JP_04/18_PicT.jpg)  
+  {% include carousel.html height="100" unit="%" duration="7" number="3" %}
+
 이후에 잠시 산책하고 바로 해리포터 구역으로 왔습니다. 어우... 해리포터 팬이라면 이 USJ에 오게된 유일한 이유이기도 합니다. INFP인 저와 마찬가지로 I성향인 막내동생이 굳이 놀이공원에 따라오게된 가장 큰 이유.  
 둘 다 해리포터 찐팬이라는 것. 재현도부터 미쳐 돌아가네요.  
 비밀의 방때의 날아다니는 자동차와 호그스미드의 모습까지.  
 
-![19_PicT](./trevel_JP/JP_04/19_PicT.jpg)
-![20_PicT](./trevel_JP/JP_04/20_PicT.jpg)
-![21_PicT](./trevel_JP/JP_04/21_PicT.jpg)
-![22_PicT](./trevel_JP/JP_04/22_PicT.jpg)  
+  {% include carousel.html height="100" unit="%" duration="7" number="4" %}
+
 해리포터의 마을을 고대로 구현해둔 무시무시한 고증력은 놀라울 따름이었습니다.  
 그리고 아예 입구를 하나의 어트랙션처럼 꾸며서 해리포터 첫 지팡이를 사는 장면을 연출로 해뒀는데,  
 입장객중 1명을 선택하는데 그 사람이 해리포터의 지팡이 선택 장면의 주인공이 되어볼 수 있다고 하네요.  
@@ -134,14 +191,8 @@ USJ로 가기위해서 우메다역에서 유니버셜시티 방면 지하철을
 솔직히 스코틀랜드에서 만들어진 찐 공식 지팡이 굿즈를 산다고 생각한다면 아깝지는 않은 것 같아요.  
 물론 저는.... 지갑이 이미 충분히 얇아진 관계로...  
 
-![23_PicT](./trevel_JP/JP_04/23_PicT.jpg)  
-![24_PicT](./trevel_JP/JP_04/24_PicT.jpg)
-![25_PicT](./trevel_JP/JP_04/25_PicT.jpg)
-![26_PicT](./trevel_JP/JP_04/26_PicT.jpg)
-![27_PicT](./trevel_JP/JP_04/27_PicT.jpg)
-![28_PicT](./trevel_JP/JP_04/28_PicT.jpg)
-![29_PicT](./trevel_JP/JP_04/29_PicT.jpg)
-![30_PicT](./trevel_JP/JP_04/30_PicT.jpg)  
+  {% include carousel.html height="100" unit="%" duration="7" number="5" %}
+
 그 다음 해리포터의 호그와트 성을 구현하여 놀이기구로 만든 해리포터 앤 더 포비든 저니!  
 마찬가지로 저희는 익스프레스 패스로 130분의 줄을 기다릴 필요없이 5분만에 바로 입장했습니다.  
 아쉽게도 재팬 지점의 포비든 저니인만큼 일본어로 번역된 버전으로 나오긴하지만...  
@@ -160,10 +211,12 @@ USJ로 가기위해서 우메다역에서 유니버셜시티 방면 지하철을
 말고도 이런 신기한 굿즈들도 참 많았던것 같아요.  
 해리포터 영화를 본분이라면 누구나 기억하는 호그와트 움직이는 지도.  
 
-![31_PicT](./trevel_JP/JP_04/31_PicT.jpg)    
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEfQEAAAAAAXhgGXh66sYFNwidhstwI4Y?height=1024" width="auto" height="1024" />  
+
 이후에도 이런 두꺼비 공연도 하고 참 재미난 것들이 많은 곳인것 같습니다.  
 
-![32_PicT](./trevel_JP/JP_04/32_PicT.jpg)  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEfgEAAAAAAVmEX4T5Q8dSZ8QqcopB_7Y?height=1024" width="auto" height="1024" />  
+
 다음으로는 슈퍼 닌텐도 월드로 들어갔습니다.  
 
 슈퍼 닌텐도 월드는 현 시점 USJ에서 유일하게 추첨제로 들어갈 수 있는 구역으로  
@@ -187,14 +240,15 @@ USJ로 가기위해서 우메다역에서 유니버셜시티 방면 지하철을
 
 마지막 방법은 저희가 쓴 방법으로 확정 놀이기구 비대기 입장권인 익스프레스 권을 사는건데, 무작정 사는건 아니고 익스프레스 권중에 슈퍼 닌텐도 월드 놀이기구를 타는게 포함된 걸 사면 됩니다. 가장 비싼 방법입니다만, 저희는 어짜피 다른 놀이기구도 함께 확실히 타기위해 샀기 때문에 이 방법을 택했습니다.  
 
-![33_PicT](./trevel_JP/JP_04/33_PicT.jpg)
-![34_PicT](./trevel_JP/JP_04/34_PicT.jpg)  
+  {% include carousel.html height="100" unit="%" duration="7" number="6" %}
+
 들어가는 길 부터 슈퍼 마리오 기구들이 보이는게 드디어 슈퍼 닌텐도 월드에 들어온 것이 실감이 납니다.  
 
 참고로 슈퍼 닌텐도 월드라고 적혀있지만, 실제로는 마리오 테마파크라 보시면 됩니다.  
 다른 닌텐도 캐릭터는 이 구역에 등장하지 않으니 참고해 주시면 될것같습니다.  
 
-![35_PicT](./trevel_JP/JP_04/35_PicT.jpg)  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEgAEAAAAAAS4atS7KiwmaG1-OtjmNfE8?height=1024" width="auto" height="1024" />  
+
 걷다가 보니 드디어 슈퍼 닌텐도 월드 입구에 도착했습니다.  
 다만 들어가기 시작하자 전 걱정부터 되었습니다.  
 확약권 검사 장소부터 지금 입구까지의 이 인파...  
@@ -202,15 +256,16 @@ USJ로 가기위해서 우메다역에서 유니버셜시티 방면 지하철을
 물론 제가 닌텐도를 DS세대부터 스위치까지 가지고 논 사람으로써  
 꼭 가보고 싶은 장소였지만, 뭔가 쎼한 분위기를 느끼긴 했습니다.  
 
-![36_PicT](./trevel_JP/JP_04/36_PicT.jpg)
-![37_PicT](./trevel_JP/JP_04/37_PicT.jpg)  
+  {% include carousel.html height="100" unit="%" duration="7" number="7" %}
+
 네 그리고 그 예상은 정답입니다~~~  
 어우 긴말은 필요없고 이 USJ에 있는 사람의 40%의 인파가 다 여기있다고 생각해도 무방할 정도로 사람이 정말 많았습니다.  
 너무 인파가 많아서 휩쓸려 다니다보니 사진조차 제대로 찍기 힘들 정도더라구요.  
 
 그래도 닌텐도 월드의 구현도는 훌륭할 정도로 모든 배경들이 움직이고 사방에서 코인먹는 소리가 나는 것이 닌텐도 월드에 들어왔다는 것이 실감날 정도였습니다.  
 
-![38_PicT](./trevel_JP/JP_04/38_PicT.jpg)  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEhQEAAAAAAW5NQEOKqAtOsAdj5BsF1tU?height=1024" width="auto" height="1024" />  
+
 참고로 위저딩 월드의 지팡이처럼 여기서도 놀이기구와 상호작용이 가능한 팔찌를 굿즈로 팔고 있습니다.  
 가격은 지팡이보단 훨씬 착했지만 3천엔 대였던가...  
 
@@ -226,7 +281,8 @@ USJ로 가기위해서 우메다역에서 유니버셜시티 방면 지하철을
 저야 아미보에 큰 관심이 없고 집에 아미보가 많아서 굳이 안 사도 되지만, 사실 아미보를 3000엔대에 구할 수 있다면, 꽤 괜찮은 가격으로 보이기도 합니다.  
 더 저렴한 아미보 카드는 물량을 구하기 힘들고, 아미보 피규어는 아미보 기능만 이용해먹을 사람이라면 너무 비싼데, 팔찌는 3000엔 대로 딱 중간에 있으니까요.  
 
-![39_PicT](./trevel_JP/JP_04/39_PicT.jpg)  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEhwEAAAAAAe7zedNm-uPNGlWcWtiQ_zM?height=1024" width="auto" height="1024" />  
+
 그리고 슈퍼 닌텐도 월드에서 저희가 탈 놀이기구는 마리오카드 쿠파의 도전장 이었습니다.  
 이 역시 익스프래스 패스로 빠르게 진입했습니다. 여기는 그래도 인기있는 놀이기구다보니 익스프레스 패스 줄을 서고도 한 10분 기다렸던 것 같습니다.  
 
@@ -235,15 +291,8 @@ USJ로 가기위해서 우메다역에서 유니버셜시티 방면 지하철을
 
 생각도 못한 하이테크 기술을 접목시킨 놀이기구를 타니 참 과학이란 대단해! 소리가 절로 나오더군요.  
 
-![40_PicT](./trevel_JP/JP_04/40_PicT.jpg)
-![41_PicT](./trevel_JP/JP_04/41_PicT.jpg)
-![42_PicT](./trevel_JP/JP_04/42_PicT.jpg)
-![43_PicT](./trevel_JP/JP_04/43_PicT.jpg)
-![44_PicT](./trevel_JP/JP_04/44_PicT.jpg)
-![45_PicT](./trevel_JP/JP_04/45_PicT.jpg)
-![46_PicT](./trevel_JP/JP_04/46_PicT.jpg)
-![47_PicT](./trevel_JP/JP_04/47_PicT.jpg)
-![48_PicT](./trevel_JP/JP_04/48_PicT.jpg)  
+  {% include carousel.html height="100" unit="%" duration="7" number="8" %}
+
 놀이기구 내부의 모습입니다.  
 생각보다 잘 꾸며놨고, 그림과 영어로 잘 설명해줘서 이해하기는 어렵지 않았습니다.  
 
@@ -256,7 +305,8 @@ USJ로 가기위해서 우메다역에서 유니버셜시티 방면 지하철을
 
 탑승 영상은 USJ 공식 영상으로 갈음하겠습니다.  
 
-![49_PicT](./trevel_JP/JP_04/49_PicT.png)  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEkAEAAAAAAaUOoPqLA3nlg49lRzf3kBw?width=1024" width="1024" height="auto" />  
+ 
 마지막으로 탄 놀이기구도 제가 따로 사진을 안 찍어서 USJ 홈페이지 사진으로 대체하겠습니다.  
 --이쯤되니 너무 힘들어서 사진찍을 기력도 안 남았던 것 같습니다. 10살만 더 어렸어도...  --
 
@@ -275,17 +325,16 @@ USJ로 가기위해서 우메다역에서 유니버셜시티 방면 지하철을
 
 탑승 영상은 이러하다고 합니다. 아쉽게도 이건 공식영상이 없었네요.
 
-![50_PicT](./trevel_JP/JP_04/50_PicT.jpg)  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEkQEAAAAAATxiTOgMTofFQ7zBgf_feXk?height=1024" width="auto" height="1024" />  
+
 이 놀이기구 대기장소 안에서는 금지된 숲 앞에 있는 해그리드의 오두막이 구현되어있었습니다.  
 마침 달도 떠있어서 같이 원샷으로 찍어봤습니다.  
 
 이쯤 놀고나니 폐장시간에 가까워져서 아쉽지만 발길을 돌렸습니다.  
 저희가 간 날이 비수기 날이었다보니 야간 오픈도 안 하고있어서 7시만 되면 폐장을 한다는 알림이 들리더라구요.  
 
-![51_PicT](./trevel_JP/JP_04/51_PicT.jpg)
-![52_PicT](./trevel_JP/JP_04/52_PicT.jpg)
-![53_PicT](./trevel_JP/JP_04/53_PicT.jpg)
-![54_PicT](./trevel_JP/JP_04/54_PicT.jpg)  
+  {% include carousel.html height="100" unit="%" duration="7" number="9" %}
+
 놀이공원을 싫어하는 저도 어린시절로 돌아가서 재밌게 놀 수 있었던 USJ.  
 진짜 나이 10살만 어렸어도 더 재밌게 놀 수 있었을 것 같은데,  
 이렇게 삭아 20대 후반을 지내고있는 저로서는 아쉬울 따름이었습니다.  
@@ -295,14 +344,16 @@ USJ로 가기위해서 우메다역에서 유니버셜시티 방면 지하철을
 하지만 난 놀이공원의 구성요소는 놀이기구뿐만이 아니라 그 분위기 자체에 있다 라고 생각하는 사람이 있다면 어느 우리나라 놀이공원보다 즐겁게 지내다 올 수 있는 곳이라고 저는 생각합니다.  
 실제로 그 놀이공원을 별로 좋아하지 않는 저도 이렇게 재밌게 잘 놀다 왔고 또 가고싶다는 생각이 드는 장소였었으니까요.  
 
-![55_PicT](./trevel_JP/JP_04/55_PicT.jpg)
-![56_PicT](./trevel_JP/JP_04/56_PicT.jpg)  
+  {% include carousel.html height="100" unit="%" duration="7" number="10" %}
+
 즐거웠다 USJ! 다음에 기회가 있다면 또 볼 수 있기를~!  
 깨알같은 놀부와 쉑쉑버거  
 
 
 #### 사족:  
-![57_PicT](./trevel_JP/JP_04/57_PicT.png)  
+
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEmAEAAAAAAWoDYtIZi9EhNwQOFcdEVWQ?width=1024" width="1024" height="auto" />  
+
 사실 저희 익스프레스 권에 더 플라잉 다이너소어가 있었긴 한데 실제로는 타지 않았습니다.  
 첫번째 이유로는 롤코쫄보인 저는 저렇게 매달려서 탈 용기가 없었고, 롤코를 잘 타는 첫째여동생 조차 무서워 보인다고 안 타고 싶다고 하더군요.  
 두번째 이유로는 부모님이 타는것을 반대했는데, 저희가 놀이공원을 가기 딱 몇일전에 문제의 기사가 나왔는데,  

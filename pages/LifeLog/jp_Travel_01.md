@@ -6,11 +6,42 @@ summary: "Japan Travel Log 1st"
 sidebar: LifeLog_sidebar
 permalink: jp_Travel_01.html
 folder: LifeLog
+carousels:
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE4QEAAAAAAfVSTKlDmqVbRij_JRHz1F8?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE4gEAAAAAAXl4Q-eRUpn7aZa1_Mr-iyE?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE4wEAAAAAATLxn6AY9PxFkkpU_9h79Ys?width=1024
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE5AEAAAAAAZPI6-rYatO342RmBC4n4vU?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE5QEAAAAAAS04hJzdMohFkgQiK-iXxGc?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE5gEAAAAAARV3E8XyqSqUpABfYHDHHNo?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE5wEAAAAAAflOSLl1wi9h1g5GabQM5Zs?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE6AEAAAAAAWRLhoEvCE1vzJlISoq-84w?height=1024
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE7wEAAAAAATEW06fEB2DiuO1OWIjgMXE?width=4032&height=1960
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE8AEAAAAAARSp4Nv2nHvzpXiPkTH2jI8?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE8QEAAAAAAfFUb24Ufu-ekcQ7--dJN-o?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE8gEAAAAAAdvBsZ-P8K2TnPLZJTHCe60?width=1024
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE9QEAAAAAAaIPTrXIVn0FpztWncIC7Ak?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE9gEAAAAAAcUN-wBYRNfybBVVTf3avVw?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE9wEAAAAAAVQXibwi48-sFXxLMWTYTbk?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE-AEAAAAAAd8RcmejWZxq7QeTUubyrTE?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE-QEAAAAAAY9l8dZZCJZa8Yvq1q0qfPs?height=1024
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE_QEAAAAAAZm6KdlJ5wHzCx0AD3MT-bY?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE_gEAAAAAAXcqcU1d_zRIDFMXOFnK8a4?height=1024
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEAAIAAAAAAV4v7unmBDcm-3wRKjTjVWw?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEAQIAAAAAAU7OADdvtqHJZYNy6XFgIT0?width=1024
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEBQIAAAAAAeUy8r792oMGcE2ScC1urRw?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEBgIAAAAAASfXpGoK4bwyCLexYZhDKtM?width=1024
 ---
 
 여행 일자는 2020년 2월 2일~2월 4일입니다.
 
-![01_PicT](./trevel_JP/JP_01/01_PicT.png)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE3QEAAAAAARNRq4kJlHUn3yWAWfKjk8k?width=1015&height=609" width="1015" height="609" />  
 
 아주 예전의 여행이기도 하고 한편으로는
 
@@ -18,13 +49,13 @@ folder: LifeLog
 
 ( 이 여행 직후 몇달 뒤 바로 코로나 대유행이 퍼져버려 일본의 무비자 입국이 닫혀버려서 1-2년동안 여행을 못 가서 답답한 시기였기도합니다. )
 
-![02_PicT](./trevel_JP/JP_01/02_PicT.jpg)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE3gEAAAAAAUhrXGxTnhJ2gxCqVn1AiUo?width=1024" width="1024" height="auto" />  
 
 시작은 마츠야 규동으로 시작.
 
 오사카 간사이 공항에 입국한 뒤에 공항 주변에 있는 마츠야에서 잠시 규동만 먹고 출발 준비를 하였습니다.
 
-![03_PicT](./trevel_JP/JP_01/03_PicT.jpg)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE4AEAAAAAAbz0q9XkReK1KIg1zMrsfOg?height=1024" width="auto" height="1024" />  
 
 참고로 저는 이때 라피트를 타고 공항에서 오사카로 갔습니다.
 
@@ -38,7 +69,7 @@ JR의 하루카(특급)이나 공항철도를 타고 우메다(오사카)역, �
 
 ... 다양한 루트가 있습니다. 물론 보통은 특급 열차를 타고 편하게 가거나(물론 줄이 좀 있습니다), 공항철도나 버스를 타고 싸게 가거나 둘중 하나일 가능성이 높긴합니다.
 
-![04_PicT](./trevel_JP/JP_01/04_PicT.png)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE3wEAAAAAAR0HhQTvMOe9fk0cHkYrASw?width=873&height=480" width="873" height="480" />  
 
 일단 오사카는 구경하지않고 저는 나고야로 먼저 향했습니다.
 
@@ -46,19 +77,13 @@ JR의 하루카(특급)이나 공항철도를 타고 우메다(오사카)역, �
 
 첫번째 여행 일정이었기 때문입니다.
 
-![05_PicT](./trevel_JP/JP_01/05_PicT.jpg)
-![06_PicT](./trevel_JP/JP_01/06_PicT.jpg)
-![07_PicT](./trevel_JP//JP_01/07_PicT.jpg)
+  {% include carousel.html height="100" unit="%" duration="7" number="1" %}
 
 참고로 저는 난바역에서 킨키일본철도(킨테츠) 특급 어반라이너를 타고 나고야로 향했습니다.
 
 요즘은 최속 특급은 히노토리라는 신 특급철도로 바뀌고 어반라이너는 한단계 아랫 특급으로 간다고 들었습니다.
 
-![08_PicT](./trevel_JP/JP_01/08_PicT.jpg)
-![09_PicT](./trevel_JP/JP_01/09_PicT.jpg)
-![10_PicT](./trevel_JP/JP_01/10_PicT.jpg)
-![11_PicT](./trevel_JP/JP_01/11_PicT.jpg)
-​![13_PicT](./trevel_JP/JP_01/13_PicT.jpg)
+  {% include carousel.html height="100" unit="%" duration="7" number="2" %}
 
 그렇게 특급 열차를 타고 나고야로 달려갔답니다.
 
@@ -72,7 +97,7 @@ JR의 하루카(특급)이나 공항철도를 타고 우메다(오사카)역, �
 
 지금의 저라면 잘 대화할 자신이 있는데 ㅎ;;;
 
-​![12_PicT](./trevel_JP/JP_01/12_PicT.jpg)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE6QEAAAAAASC_MmMnH9hBEpF8hCUCLQM?width=1024" width="1024" height="auto" />  
 
 참고로 저기 우동 사진이 나고야의 그 유명한 키시멘이라는 우동입니다.
 
@@ -80,15 +105,15 @@ JR의 하루카(특급)이나 공항철도를 타고 우메다(오사카)역, �
 
 일반 우동보다 간장맛이 진하고 면도 쫄깃한데, 당장에 이거 하나만 먹으러 나고야가도 전 갈것 같은 맛입니다.
 
-​![14_PicT](./trevel_JP/JP_01/14_PicT.png)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE6gEAAAAAATMn7kWCZ6DIYBboekCqXeQ?width=1006&height=449" width="1006" height="449" />  
 
-​![15_PicT](./trevel_JP/JP_01/15_PicT.png)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE6wEAAAAAASSo7QfOcPiwmRPQIZl7v_g?width=1024" width="1024" height="auto" />  
 
 이후에 처음의 사진처럼 나고야에서 친구랑 헤어진 뒤 하코네로 향했고 오다와라역에서 원래 만나서 같이 여행하기로한 친구랑 합류한 뒤 료칸을 갔습니다.(이 친구는 저보다 하루 늦게 도쿄에 도착하여 바로 오다와라로 갔습니다)
 
 이동은 신칸센 그린샤(우등석)으로 발권했고, 제일 느린 등급+조기 발권 특전으로 굉장히 싸게 발권했던걸로 기억합니다. 대략 4000엔 후반 정도해 었었던 기억이 나네요.
 
-​![18_PicT](./trevel_JP/JP_01/18_PicT.png)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE7gEAAAAAAQH-ch4E1JOSJJnTcLyg4J8?width=742&height=725" width="742" height="725" />  
 
 홈페이지: http://www.musasino.net/  
 
@@ -110,7 +135,7 @@ JR의 하루카(특급)이나 공항철도를 타고 우메다(오사카)역, �
 
 이때부터 일반 비즈니스 호텔따위와는 비교하기도 미안한 서비스의 차이를 느낀것 같습니다.
 
-​![16_PicT](./trevel_JP/JP_01/16_PicT.jpg)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE7AEAAAAAAYVK2PxoSqKByQpVwOgdCdQ?width=1024" width="1024" height="auto" />  
 
 체크인 전 잠시 대기하는 다방 라운지.
 
@@ -120,16 +145,13 @@ JR의 하루카(특급)이나 공항철도를 타고 우메다(오사카)역, �
 
 (한국분들도 여기 많이 오셔서 그런지 아니면 저희가 한국 여행객이라 그런지 한국에 대해 잘 아시는 분이었습니다.)
 
-​![17_PicT](./trevel_JP/JP_01/17_PicT.jpg)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE7QEAAAAAAbYcMNnDLfSOcOCn87pRqoY?height=1024" width="auto" height="1024" />  
 
 료칸에 있던 낡은 전화기. 실제로 작동하는 전화기였다고 합니다.
 
 지금도 작동할려는 지는 모르겠네요.
 
-​![19_PicT](./trevel_JP/JP_01/19_PicT.jpg)
-​![20_PicT](./trevel_JP/JP_01/20_PicT.jpg)
-​![21_PicT](./trevel_JP/JP_01/21_PicT.jpg)
-​![22_PicT](./trevel_JP/JP_01/22_PicT.jpg)
+  {% include carousel.html height="100" unit="%" duration="7" number="3" %}
 
 료칸 방 내부 및 경치 사진이었습니다.
 
@@ -143,7 +165,7 @@ JR의 하루카(특급)이나 공항철도를 타고 우메다(오사카)역, �
 
 절~~때 손님이 수고스럽게 뭘 하게 두지 않고 다 알아서 해준시다고 하더라구요.
 
-​![23_PicT](./trevel_JP/JP_01/23_PicT.jpg)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE8wEAAAAAAVOR-9EpK_tN4nL_JuES_cY?width=1024" width="1024" height="auto" />  
 
 코타츠... 처음 느껴봤는데,
 
@@ -157,7 +179,7 @@ JR의 하루카(특급)이나 공항철도를 타고 우메다(오사카)역, �
 
 혹시나 겨울에 방문할 예정인데 추위에 진짜 약하다 하시는 분은 좀 고려해봐야겠네요.
 
-![24_PicT](./trevel_JP/JP_01/24_PicT.png)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE9AEAAAAAAdKOanlJhoJ9Z8-ybJeyA3A?width=742&height=742" width="742" height="742" />  
 
 이후에 저희는 잠시 대욕장에 다녀왔습니다.
 
@@ -171,11 +193,7 @@ JR의 하루카(특급)이나 공항철도를 타고 우메다(오사카)역, �
 
 저희 나갈때가 됐을때 일본분 부자가 와서 목욕하시더라구요.
 
-![25_PicT](./trevel_JP/JP_01/25_PicT.jpg)
-![26_PicT](./trevel_JP/JP_01/26_PicT.jpg)
-![27_PicT](./trevel_JP/JP_01/27_PicT.jpg)
-![28_PicT](./trevel_JP/JP_01/28_PicT.jpg)
-![29_PicT](./trevel_JP/JP_01/29_PicT.jpg)
+  {% include carousel.html height="100" unit="%" duration="7" number="4" %}
 
 잠시 대욕탕을 즐기고오니 그 유명한 가이세키를 즐길 수 있었습니다.
 
@@ -189,7 +207,7 @@ JR의 하루카(특급)이나 공항철도를 타고 우메다(오사카)역, �
 
 근데 자연 그대로의 맛을 좋아한다거나 회를 진짜 좋아한다라는 사람이라면 정말 좋은 요리가 되지 않을까 싶네요.
 ​
-![30_PicT](./trevel_JP/JP_01/30_PicT.jpg)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE_AEAAAAAAT5CDn0yZ4vLyts4SK2RqSM?width=1024" width="1024" height="auto" />  
 
 이 이후에 저희 대절탕 이용 시간이 되어서 잠시 이용하러 갔습니다.
 
@@ -197,7 +215,7 @@ JR의 하루카(특급)이나 공항철도를 타고 우메다(오사카)역, �
 
 말 그대로 탕에 담궜다가 나올정도의 시간밖에 안 되니까요.
 
-![31_PicT](./trevel_JP/JP_01/31_PicT.jpg)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE-gEAAAAAAaX3ub1Hva1w03OAtyI3ef0?height=1024" width="auto" height="1024" />  
 
 여기는 사진 촬영이 가능한 곳이라 찍어왔습니다.
 
@@ -205,12 +223,11 @@ JR의 하루카(특급)이나 공항철도를 타고 우메다(오사카)역, �
 
 30분이라는 시간도 뭐 씻어라는것 보다 몸담그고 조용히 즐겨봐라라는 의미가 아닌가 싶습니다.
 
-![32_PicT](./trevel_JP/JP_01/32_PicT.jpg)
+ <img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE-wEAAAAAATK3v3IlF5vegaFjmvJb9T8?height=1024" width="auto" height="1024" />  
 
 달이 휘영청하고 주변은 고요하니, 신선놀음이 따로없도다.
 
-![33_PicT](./trevel_JP/JP_01/33_PicT.jpg)
-![34_PicT](./trevel_JP/JP_01/34_PicT.jpg)
+  {% include carousel.html height="100" unit="%" duration="7" number="5" %}
 
 대절탕을 즐기고 오는길에 야식으로 라멘을 파는 코너가 있어서 맥주랑 같이 시켜서 즐겼습니다.
 
@@ -218,24 +235,23 @@ JR의 하루카(특급)이나 공항철도를 타고 우메다(오사카)역, �
 
 음식만들어주신 분께 물어보니 여기 료칸의 약간 백미라면서 자랑하시더라구요.
 
-저희는 이 라멘을 먹고 와보니 이부자리가 다 깔려있어서, 피곤함에 지쳐서 그대로 스르륵 잠에 들었다고합니다.
+저희는 이 라멘을 먹고 와보니 이부자리가 다 깔려있어서, 피곤함에 지쳐서 그대로 스르륵 잠에 들었다고합니다.  
 
-![35_PicT](./trevel_JP/JP_01/35_PicT.png)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE_wEAAAAAATGFVKWstrLT7M250slLRbM?width=735&height=323" width="735" height="323" />  
 
 P.S. 알고보니 진짜 정성들여 만든 라멘 맞았다고 합니다...
 
 아침이 되었습니다.
 
-아침은 정통 일본식 가정식 백반으로 깔아둬서 호불호 없이 정말 잘 먹었습니다.
+아침은 정통 일본식 가정식 백반(이라기엔 역시 료칸이라 좀 볼륨이 있는...)으로 깔아둬서 호불호 없이 정말 잘 먹었습니다.
 
-![36_PicT](./trevel_JP/JP_01/36_PicT.jpg)
-![37_PicT](./trevel_JP/JP_01/37_PicT.jpg)
+  {% include carousel.html height="100" unit="%" duration="7" number="6" %}
 
 특히 저기 유두부가 진짜 맛있었습니다.
 
 이 일 이후로 저는 온천마을에 가면 유두부를 찾아다니는 귀신이 되었다는 후일담이 있었답니다.
 
-![38_PicT](./trevel_JP/JP_01/38_PicT.jpg)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEAgIAAAAAAVeAQ0tgiBlr6mOeb-RhG-w?width=1024" width="1024" height="auto" />  
 
 아침에 보는 숙소밖 풍경은 밤풍경과 또 달라서 다른 맛이 있었네요.
 
@@ -245,9 +261,11 @@ P.S. 알고보니 진짜 정성들여 만든 라멘 맞았다고 합니다...
 
 이후는 친구랑 즐겁게 아키하바라를 조지고 돌아왔다고합니다.
 
-![39_PicT](./trevel_JP/JP_01/39_PicT.jpg)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEAwIAAAAAASMZ6iXmI_IqXNo4S9rUX0Y?width=1024" width="1024" height="auto" />  
 
 사진의 과자는 하코네에 있는 카페에 갔었는데, 최근에 2023년 가을에 다시한번 방문했는데 여전히 장사 잘되고있더라구요. 홍차가 맛있어요!
+
+  {% include carousel.html height="100" unit="%" duration="7" number="7" %}
 
 ​![40_PicT](./trevel_JP/JP_01/40_PicT.jpg)
 ![41_PicT](./trevel_JP/JP_01/41_PicT.jpg)

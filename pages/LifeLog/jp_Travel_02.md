@@ -6,12 +6,50 @@ summary: "Japan Travel Log 2nd."
 sidebar: LifeLog_sidebar
 permalink: jp_Travel_02.html
 folder: LifeLog
+carousels:
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEtwEAAAAAAearwSzwsAEyH10gfeNgXiQ?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEuAEAAAAAAVKY_CptAADhegYjAdqUsiI?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEuQEAAAAAAXZJdgUXZv4g-SjlPdDAECQ?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEugEAAAAAAdi9z-FnjMh7D0vmjCrcABY?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEuwEAAAAAASjyVsPQTbyiYbJEChx_csc?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEvAEAAAAAAYQFkN1ov0vvx7qgnJ5B0bg?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEvQEAAAAAARBU3z_DLxUZfven15V5zks?height=1024
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEvwEAAAAAAe_TXgiq-zsUFNy2D3iKJfg?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEwAEAAAAAAevfkYtyxtt9Kvjrfu5k8Ow?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEwQEAAAAAAQJdDyWVbgI9kynlqIDEA-0?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEwgEAAAAAAf_RVPxDXCx-lSEPS2p1dnI?height=1024
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAExQEAAAAAAXRztPxy7oVbK-i-fxBlFmg?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAExgEAAAAAAQ6ndz-sdeVP0oCSmDjznVo?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAExwEAAAAAAaPI98Lg5y21bx8xG-LOy9I?height=1024
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEywEAAAAAARZvD9Hek7MpRgDGvJal87A?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEzQEAAAAAAZ4xm77BOQIoIPppA-h3Tcg?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEzgEAAAAAATd2JVk2XLZlwWs1MhLEZew?height=1024
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEzwEAAAAAATH3AQ0D-whInqqZ4H5J1JY?width=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE0AEAAAAAAWiAk_mxhaPoxFKrXVxoh3s?width=1024
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE0QEAAAAAAUJe17zCTyBztBGGUynqaco?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE0gEAAAAAAeT-pA24BiqekfQ13cYxETc?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE0wEAAAAAAbvP3nc2Y-gq9-4dAyYi8C4?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE1AEAAAAAAVK713L5DdjSdnhoDxEol80?height=1024
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE1QEAAAAAAR3BA-GrgauYVlVrcdMiRQM?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE1gEAAAAAATfcDFkuUqx2EzaHBqehidI?height=1024
+  - images: 
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE2QEAAAAAAWUjfPeFnziIrPSmwnAUhaM?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE2gEAAAAAAVNuYml-_2RHw9A51H7hQfQ?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE2wEAAAAAAZca7roSmFik2ieuiOJJDEg?height=1024
+    - image: https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE3AEAAAAAAdxTV9jqdtCkqzu6dZ1V2_8?height=1024
 ---
 
 여행 일자는 2023년 1월 12일 입니다.  
 이 여행은 친구가 사진 마니아라서 관련하여 도움을 많이 받았습니다.  
 
-![01_PicT](./trevel_JP/JP_02/01_PicT.png)  
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEtQEAAAAAAUgftZGRbvnzUASuKOjMw50?width=665&height=737" width="665" height="737" />  
 
 보통 후쿠오카 여행을 가면 떠오르는 온천 여행지는 오이타현의 유후인, 벳푸, 아소시의 쿠로카와 온천을 먼저 떠올리고는 합니다만, 우레시노도 온천 마을로서서 알음알음 유명한 편입니다.  
 
@@ -21,7 +59,7 @@ folder: LifeLog
 후쿠오카에서 출발해도 2시간이 훨신 넘게 걸린다고합니다.  
 기차를 타고가면 릴레이카모메-북큐슈신칸센을 타고 총 1시간 20분가량을 달려야 도착하는 곳입니다.  
 
-![02_PicT](./trevel_JP/JP_02/02_PicT.jpg)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEtgEAAAAAAZe7p3NcS3nldIkzQOLmhrA?height=1024" width="auto" height="1024" />  
 
 이 여행은 SUNQ(산큐)패스를 끊고 버스 여행을 하였습니다.  
 그런데 산큐 패스를 쓰다보니 느끼는 거지만, 이게 후쿠오카 주변 근거리 여행(기타큐슈-시모노세키 정도)에는 참 좋은 패스인건 맞는데, 그 이상은 가면 차라리 돈 좀 더 주고 JR 레일패스를 사는게 더 좋아보이는것 같아요.  
@@ -31,63 +69,52 @@ folder: LifeLog
 ​만약, 3박4일 미만의 후쿠오카 근교만 둘러보는 여행은 버스값도 아낄꼄 SUNQ패스가 좋아보이고, 4박 5일 이상의 규슈 지역 단위로 둘러볼 여행을 갈꺼면 JR패스가 합리적인 선택이라 생각됩니다!  
 당연하지만 이동반경이 크지 않은 여행이라면 그냥 돈내고 가는게 제일 좋구요.  
 
-![03_PicT](./trevel_JP/JP_02/03_PicT.jpg)
-![04_PicT](./trevel_JP/JP_02/04_PicT.jpg)
-![05_PicT](./trevel_JP/JP_02/05_PicT.jpg)
-![06_PicT](./trevel_JP/JP_02/06_PicT.jpg)
-![07_PicT](./trevel_JP/JP_02/07_PicT.jpg)
-![08_PicT](./trevel_JP/JP_02/08_PicT.jpg)
-![09_PicT](./trevel_JP/JP_02/09_PicT.jpg)
+  {% include carousel.html height="100" unit="%" duration="7" number="1" %}
 
 그렇게 버스에서 내려서 본 우레시노 시는 온천 관광지 치고는 다소 조용한 곳이었습니다.  
 여기는 진짜배기 시골동네라 읍내만 벗어나면 정말 고요한 시골 주택가인데,  
 읍내도 맨홀아래에 있는 온천관에서 김만 모락모락올라오는 고요한 온천마을 분위기가 특징적이었습니다.  
 
-![10_PicT](./trevel_JP/JP_02/10_PicT.jpg)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEvgEAAAAAAWB7opM-DZv7pQAN2yNZOPM?height=1024" width="auto" height="1024" />  
 
 우레시오 읍내 사진.  정말 고요합니다.  
 
-![11_PicT](./trevel_JP/JP_02/11_PicT.jpg)
-![12_PicT](./trevel_JP/JP_02/12_PicT.jpg)
-![13_PicT](./trevel_JP/JP_02/13_PicT.jpg)
-![14_PicT](./trevel_JP/JP_02/14_PicT.jpg)
+  {% include carousel.html height="100" unit="%" duration="7" number="2" %}
 
 우레시노시도 저번에 올렸던 우지시처럼 녹차로 유명한 동네입니다.  
 다만 우지처럼 막 알려져 있는 곳은 아니고 곳곳에 녹차 판매점과 자그마한 찻집정도만 있는,  
 정말 고요한 시골 녹차마을에 더 가까운 점이 틀린 점인것 같습니다.  
 
-![15_PicT](./trevel_JP/JP_02/15_PicT.jpg)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEwwEAAAAAARfwhhq-a_od0HmLnRg4Wzk?height=1024" width="auto" height="1024" />  
 
 그렇게 걷고있는 절 몰래 찍은 친구.  
 
-![16_PicT](./trevel_JP/JP_02/16_PicT.jpg)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAExAEAAAAAAXvDZIHwKo8hTsp6CFTqJZo?height=1024" width="auto" height="1024" />  
 
 사실 저녁으로는 온천두부(유두부)를 먹으려고헀었는데 아쉽게도 도착한시간이 애매해서,  
 유두부집은 다 닫아서 정처없이 걷다가 라멘집 하나 들어갔습니다.  
 
-![17_PicT](./trevel_JP/JP_02/17_PicT.jpg)
-![18_PicT](./trevel_JP/JP_02/18_PicT.jpg)
-![19_PicT](./trevel_JP/JP_02/19_PicT.jpg)
+  {% include carousel.html height="100" unit="%" duration="7" number="3" %}
 
 우레시노는 한국분들이 많이 오셔서 그런지 이런 동네 라면집조차 한국어 메뉴판이 있을 정도였습니다.  
 
-![20_PicT](./trevel_JP/JP_02/20_PicT.jpg)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEyAEAAAAAAfiYDI0QuI4kpdWp8WMNmd8?width=1024" width="1024" height="auto" />  
 
 저는 차슈라멘을 시켜서 먹었는데, 돈코츠라멘하면 후쿠오카라고 하지만 여기 동네 라멘집도 깔끔하고 순박한 맛이 있어서 좋았던 것 같습니다.  
 가끔씩은 사전에 조사하고 가는 집들보다 우발적으로 찾아서 가는 집에서 숨겨진 맛집을 발견한다는 여행후기들이 괜한 말이 아닌 것 같습니다.  
 
-![21_PicT](./trevel_JP/JP_02/21_PicT.jpg)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEyQEAAAAAAaAteAX-5c9XOCvP8131yPg?height=1024" width="auto" height="1024" />
 
 밥을 먹고 나오니 진짜 어두워져서 아무것도 안 보이기 시작했습니다.  
 그러나 무섭고 불안한 느낌보다는 시골 전체가 잠든 느낌이 더 강했던것같습니다.  
 
-![22_PicT](./trevel_JP/JP_02/22_PicT.jpg)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEygEAAAAAAa8if4MqpTyHvKCl1UIchPU?height=1024" width="auto" height="1024" />
 
 자 밥을 먹고 조금만 걸어다녔고, 온천마을에 왔으면 온천을 즐겨야하는 것이 인지상정.  
 저희는 이 타이쇼야(大正屋)라는 온천 료칸의 온천을 히가에리(당일치기)로 즐겼습니다.  
 입욕료는 1,100엔으로 가격대는 다소 있는 편이었습니다.  
 
-![23_PicT](./trevel_JP/JP_02/23_PicT.png)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAEzAEAAAAAAcnHmawqkQ7MgbbHT8u8gdc?width=815&height=620" width="815" height="620" />
 
 [공식 홈페이지](https://www.taishoya.com/lg_ko/)  
 
@@ -112,14 +139,11 @@ folder: LifeLog
 라고 문의해보는 편이 좋을 것 같습니다.  
 저희도 여러곳 전화해보고 여기는 가능하다고해서 방문하였습니다.  
 
-![24_PicT](./trevel_JP/JP_02/24_PicT.jpg)
-![25_PicT](./trevel_JP/JP_02/25_PicT.jpg)
-![26_PicT](./trevel_JP/JP_02/26_PicT.jpg)
+  {% include carousel.html height="100" unit="%" duration="7" number="4" %}
 
 료칸 내부는 제가 개인적으로 가봤던 하코네 온천처럼 기분좋은 나무향이 나고 고요하면서도 정갈한 분위기가 매력적이었습니다. 사진은 안 찍었지만 우레시노의 료칸답게 내부 기념품 점에서는 다양한 녹차 기념품을 팔고있었습니다.  
 
-![27_PicT](./trevel_JP/JP_02/27_PicT.png)
-![28_PicT](./trevel_JP/JP_02/28_PicT.png)
+  {% include carousel.html height="100" unit="%" duration="7" number="5" %}
 
 온천 내부에서 사진은 금지사항이기 때문에(기본 매너죠? 어디 치한으로 잡혀갈 일은 없으니까요.)  
 홈페이지 소개 사진으로 갈음합니다.  
@@ -135,34 +159,27 @@ folder: LifeLog
 참고로 일본의 욕장은 들어가기전에 한번 몸을 씻고 들어가는게 예의이자 매너.  
 모두가 쓰는 물인만큼 한번 몸을 씻고 들어가는것이 뒷사람을 위한 매너입니다.  
 
-![29_PicT](./trevel_JP/JP_02/29_PicT.jpg)
-![30_PicT](./trevel_JP/JP_02/30_PicT.jpg)
-![31_PicT](./trevel_JP/JP_02/31_PicT.jpg)
-![32_PicT](./trevel_JP/JP_02/32_PicT.jpg)
+  {% include carousel.html height="100" unit="%" duration="7" number="6" %}
 
 그렇게 목욕하고 버스정류장으로 가고있는데, 이제는 진짜 한밤중(밤 7시~8시)사이라 거리에 돌아다니는 사람은 단 한명도 없었습니다.  
 오직 간간히 돌아다니는 자동차와 저랑 친구 둘뿐이었죠.  
 
-![33_PicT](./trevel_JP/JP_02/33_PicT.jpg)
-![34_PicT](./trevel_JP/JP_02/34_PicT.jpg)
+  {% include carousel.html height="100" unit="%" duration="7" number="7" %}
 
 영업 종료하고 문이 굳게 닫힌 우레시노 읍내 버스 정류장.  
 시내 정류장은 7시 이전차까지만 운행을 했고,  
 저희는 8시 차를 타야하기에 우레시노IC까지 산책하는겸 조용히 걸어가서 거기 임시 정류장에서 탔습니다.  
 
-![35_PicT](./trevel_JP/JP_02/35_PicT.jpg)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE1wEAAAAAAeDQEx1gMKRWJ7wSRPjUs8Y?height=1024" width="auto" height="1024" />  
 
 가는길에 찍은 또다른 온천 료칸.  
 우레시노는 이런 호텔, 리조트형식의 온천 료칸도 정말 많았던 것 같습니다.  
 
-![36_PicT](./trevel_JP/JP_02/36_PicT.jpg)
+<img src="https://1drv.ms/i/c/0475b30c6541160c/IQQMFkFlDLN1IIAE2AEAAAAAAbjcFX67XO6A5RmLV7Qt3JQ?width=1024" width="1024" height="auto" />
 
 과속 금지!  
 
-![37_PicT](./trevel_JP/JP_02/37_PicT.jpg)
-![38_PicT](./trevel_JP/JP_02/38_PicT.jpg)
-![39_PicT](./trevel_JP/JP_02/39_PicT.jpg)
-![40_PicT](./trevel_JP/JP_02/40_PicT.jpg)
+  {% include carousel.html height="100" unit="%" duration="7" number="8" %}
 
 한 20분 걸려서 도착한 버스 임시 대합소에서 한 몇분 기다리다가 버스가 오고 저희는 차를 타고 바로 후쿠오카 숙소로 돌아갔습니다. 후쿠오카 숙소에 도착하니 11시더군요.  
 우레시노는 온천은 가고싶은데 벳푸나 유후인의 복작복작한 느낌이 싫고 그렇다고 쿠로카와 온천의 높은 가격대가 부담된다면 충분히 가볼만한 장소라고 생각됩니다.  

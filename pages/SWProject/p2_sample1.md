@@ -67,3 +67,36 @@ AI 영화 추천 기능을 포함한 영화 데이터 베이스 사이트를 목
 https://www.canva.com/design/DAGomu6iwHg/A_Ff2Ay6rkecjNLHs1zY1A/view?utm_content=DAGomu6iwHg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h564ded3a66
 
 프레젠테이션 참조.
+
+## 참여 팀원 및 역할
+
+### 정승재
+  
+  * 팀장
+  
+  * Vue 파트 메인 담당
+  
+  * Bootstrap 5를 이용한 UI/UX 후처리
+
+  * PPT 제작 및 발표 담당
+
+### 박XX
+
+* 담당 파트
+  
+  * Django 백엔드 메인 파트(메인 기능 구현) 담당
+
+  * Movies 기능 구현 담당
+
+  * API, Model 담당
+
+### 이XX
+
+* 담당 파트
+  
+  * Django 백엔드 서브 파트(Auth 기능 구현) + AI 담당
+
+  * Auth(Accounts) 담당
+
+  * AI 기능 구현 담당
+

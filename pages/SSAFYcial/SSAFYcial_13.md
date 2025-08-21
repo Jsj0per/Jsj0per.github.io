@@ -59,7 +59,7 @@ SSAFY에는 다양한 취업 전략들이 존재합니다.
 ### 대기업을 목표로!
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_11/SSAFYcial_Aug_01.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_13/SSAFYcial_Aug_01.png"/>
   <p>누구나 선망하는 들어가고 싶어하는 대기업들...</p>
 </div>
 
@@ -92,7 +92,7 @@ CS지식이나 자격증 등등 더 말할 필요가 없겠습니다.  전자는
 [Top Page](#)
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_11/SSAFYcial_Aug_02.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_13/SSAFYcial_Aug_02.png"/>
   <p>SSAFY 공식 홈페이지 SSAFY 소식에서 발췌</p>
 </div>
 
@@ -111,7 +111,7 @@ CS지식이나 자격증 등등 더 말할 필요가 없겠습니다.  전자는
 [Top Page](#)
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_11/SSAFYcial_Aug_03.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_13/SSAFYcial_Aug_03.png"/>
   <p>SSAFY 공식 홈페이지 SSAFY 소식에서 발췌</p>
 </div>
 
@@ -126,7 +126,7 @@ CS지식이나 자격증 등등 더 말할 필요가 없겠습니다.  전자는
 [Top Page](#)
 
 <div style="text-align: center;">
-  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_11/SSAFYcial_Aug_04.png"/>
+  <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_13/SSAFYcial_Aug_04.png"/>
   <p>유명 대기업, 금융계 기업들 사이에 다양한 유망 스타트업, 유망 중소기업들도 섞여있습니다.</p>
 </div>
 

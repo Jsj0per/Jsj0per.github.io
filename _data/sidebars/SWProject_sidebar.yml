@@ -9,11 +9,11 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: TP_01_NOPROJECT
+    - title: SSAFY_MOVIES
       url: /p2_sample1.html
       output: web, pdf
 
-    - title: TP_02_NOPROJECT
+    - title: MOYOUNG
       url: /p2_sample2.html
       output: web, pdf
 
@@ -23,10 +23,6 @@ entries:
 
     - title: TP_04_NOPROJECT
       url: /p2_sample4.html
-      output: web, pdf
-
-    - title: TP_05_NOPROJECT
-      url: /p2_sample5.html
       output: web, pdf
 
   - title: Personal_Project

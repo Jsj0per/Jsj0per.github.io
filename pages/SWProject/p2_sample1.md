@@ -1,7 +1,7 @@
 ---
-title: Sample 1 Topic
+title: SSAFY Movies
 keywords: SWProject
-summary: "This is just a sample topic..."
+summary: "영화 사이트를 베이스로, 근처 영화관 찾기 기능과 영화, 관계자 상세 정보 조회가 가능하며, AI 영화 추천 기능을 포함한 영화 데이터 베이스 사이트를 목표로 제작된 사이트."
 sidebar: product2_sidebar
 permalink: p2_sample1.html
 simple_map: true
@@ -10,18 +10,60 @@ box_number: 1
 folder: product2
 ---
 
-## Sample Content
+# 주의 사항
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+해당 프로젝트는 SSAFY의 보안 관계상 아예 열람이 불가능한 프로젝트인 점 양해 부탁드립니다.    
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+---
 
-## More sample content
+## 개요
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+* 주제 : 영화 추천 시스템
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+* 서비스 제목 : SSAFY Movies
 
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+* 설계 기간 : 5월 20일(화) ~ 5월 22일(목)
 
-{% include links.html %}
+* 제작 기간 : 5월 22일(목) ~ 5월 28일(화)
+
+## 사용 언어 및 프레임 워크
+
+* Python v3.13.3
+
+* Django v5.2.1
+
+* Vue v3.5.14
+  
+  * vue-router v4.5.1
+  
+  * pinia v3.0.2
+
+  * vite v6.3.5
+
+* axios v1.9.0
+
+* node.js v22.15.1
+
+* Bootstrap v5.3.5
+
+* REST_API 시스템 적용
+
+## 사용 API
+
+- TMDB API
+
+- Youtube API
+
+## 서비스 소개
+
+저희 8조 ‘훈제연어’ 는 21세기에 걸 맞는 AI 환경에 어울리는 영화 추천 사이트를 목표로
+서비스를 제공할 수 있는 사이트를 만들기 위하여 해당 주제를 선정하였습니다.
+
+영화 사이트를 베이스로,  근처 영화관 찾기 기능과 영화, 관계자 상세 정보 조회가 가능하며,
+AI 영화 추천 기능을 포함한 영화 데이터 베이스 사이트를 목표로 제작된 사이트 입니다.
+
+## 설계도 및 ERD, 시연 장면
+
+https://www.canva.com/design/DAGomu6iwHg/A_Ff2Ay6rkecjNLHs1zY1A/view?utm_content=DAGomu6iwHg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h564ded3a66
+
+프레젠테이션 참조.

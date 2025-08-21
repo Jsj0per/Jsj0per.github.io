@@ -2,7 +2,7 @@
 title: 모영(Moyoung)
 keywords: SWProject
 summary: "실시간 화상회의에서 사용자별 음성을 Whisper를 이용해 실시간으로 전사하고, 자막을 제공하는 화상 회의 플랫폼입니다."
-sidebar: product2_sidebar
+sidebar: SWProject_sidebar
 permalink: p2_sample2.html
 folder: product2
 ---

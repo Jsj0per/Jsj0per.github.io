@@ -2,7 +2,7 @@
 title: SSAFY Movies
 keywords: SWProject
 summary: "영화 사이트를 베이스로, 근처 영화관 찾기 기능과 영화, 관계자 상세 정보 조회가 가능하며, AI 영화 추천 기능을 포함한 영화 데이터 베이스 사이트를 목표로 제작된 사이트."
-sidebar: product2_sidebar
+sidebar: SWProject_sidebar
 permalink: p2_sample1.html
 folder: product2
 ---

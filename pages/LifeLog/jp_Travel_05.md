@@ -161,52 +161,50 @@ carousels:
 참고로 이날 풍랑주의보였었어서 대마도 지날 때쯤에 배가 엄청시리 흔들렸습니다.  
 멀미약 안 먹었으면 오바이트했을지도... 
 
-  {% include carousel.html height="100" unit="%" duration="7" number="8" %}
-
 그리고 다음 날입니다. 간밤사이에 대한해협을 통과하고 시모노세키항 거의 바로 앞에 도착해있었고,  
 저희는 바로 하선준비를 하였습니다.  
 
-  {% include carousel.html height="100" unit="%" duration="7" number="9" %}
+  {% include carousel.html height="100" unit="%" duration="7" number="8" %}
 
 하선하였습니다.  
 시모노세키항 같은 경우 동네 항구 수준의 규모라 크게 찍을 건 없고, 시모노세키도 저희는 아침만 먹고 바로 사출할 계획이었어서, 빨리 아침을 먹으로 갔습니다.  
 
-  {% include carousel.html height="100" unit="%" duration="7" number="10" %}
+  {% include carousel.html height="100" unit="%" duration="7" number="9" %}
 
 첫 끼는 시모노세키 역 아래에 있는 모스버거에서 간단하게 해결했습니다.  
 약간 뻘하게 웃겼던게 햄버거 설명에 영어부분이 English English English로 되어있어서 한동안 이 이야기만 했었습니다.  
 참고로 다른 모스버거 매장에서는 후에 확인했을때 안 그랬던거 보면, 그냥 이 매장에서 설명만 잘못되어있었던 것 같습니다.  
 
-  {% include carousel.html height="100" unit="%" duration="7" number="11" %}
+  {% include carousel.html height="100" unit="%" duration="7" number="10" %}
 
 이후 지하철을 타고 빠르게 기타큐슈로 돌아왔습니다.  
 기타큐슈의 상장인 고쿠라역의 원형광장입니다.  
 
-  {% include carousel.html height="100" unit="%" duration="7" number="12" %}
+  {% include carousel.html height="100" unit="%" duration="7" number="11" %}
 
 숙소는 고쿠라 역 바로 위에 있는 JR계열 숙소로 잡았었습니다.  
 참고로 저희가 잡은 숙소는 냉장고가 옵션으로 없는 숙소였습니다.  
 예약할 때 냉장고나 그런 옵션이 필요하다면 꼭 옵션에 있는지 확인하시길 바랍니다.  
 
-  {% include carousel.html height="100" unit="%" duration="7" number="13" %}
+  {% include carousel.html height="100" unit="%" duration="7" number="12" %}
 
 이후 기타큐슈 시내를 돌아다니면서 좀 구경했습니다.  
 사진에는 안 찍었지만 물론 아루아루시티도 한번 더 방문하였습니다.  
 고쿠라 성도 갔긴 갔었으나, 거기는 저도 저번에 short travel story에 올린적 있으므로 생략하도록 하겠습니다.  
 
-  {% include carousel.html height="100" unit="%" duration="7" number="14" %}
+  {% include carousel.html height="100" unit="%" duration="7" number="13" %}
 
 점심은 길을 거닐다가 우연히 들어가게된 피자집에서 해결하였는데,  
 여기가 맛이 상상이상으로 기가 막혔는데, 가격도 샐러드, 드링크, 디저트 포함 세트가 1300~1600엔 이었어가지고 가격마저 합리적이었어서 다음에 갈일이 있다면 다시한번 갈 것 같습니다.  
 링크: [VICINO Restaurant](https://maps.app.goo.gl/VQ9WW3YZfbSxFZUZA)  
 
-  {% include carousel.html height="100" unit="%" duration="7" number="15" %}
+  {% include carousel.html height="100" unit="%" duration="7" number="14" %}
 
 이후 저희는 숙소에서 좀 쉬다가 모지코를 향해 갔습니다.  
 실은 이날 제가 인대 파열상태라 덜 무리하려고 했는데, 모지코는 한번은 꼭 보고 싶어서,  
 친구에게 부탁해서 한번 가보자고 하였습니다.  
 
-  {% include carousel.html height="100" unit="%" duration="7" number="16" %}
+  {% include carousel.html height="100" unit="%" duration="7" number="15" %}
 
 모지코역에 도착하였습니다.  
 모지코는 예전 모던한 시대의 모습을 보전한 모습을 유지하고 있는 곳으로 유명한 곳 중 하나입니다.  
@@ -218,7 +216,7 @@ carousels:
 그날 흐린 날에도 비가 부슬부슬 내리고있는데 비 맞으면서 꿋꿋하게 버티고있는 지모쿤...  
 아직도 친구랑 얘기하면 가끔씩 튀어나오는 애잔한 친구입니다.  
 
-  {% include carousel.html height="100" unit="%" duration="7" number="17" %}
+  {% include carousel.html height="100" unit="%" duration="7" number="16" %}
 
 모지코의 풍경들입니다.  
 그냥 조용하고 모던한 벽돌 항구들의 모습들로 구성되어있습니다.  
@@ -227,7 +225,7 @@ carousels:
 저희는 일부로 먹고싶지는 않아서 안 먹었긴한데, 관심있으신분들은 한번 가보는 것도 좋아보입니다.  
 막 일부러 찾아가서 먹을 맛까지는 아니라고는 하는데, 그래도 맛있는 곳 들어가면 먹을만하다고 들었습니다.  
 
-  {% include carousel.html height="100" unit="%" duration="7" number="18" %}
+  {% include carousel.html height="100" unit="%" duration="7" number="17" %}
 
 이후에 모지코를 다 둘러보고 다시 느긋하게 역을 찍어봤습니다.  
 낡은 듯 하면서도 이쁘긴 정말 이쁜 것 같습니다.  
@@ -236,7 +234,7 @@ carousels:
 
 이후 저녁은 백화점 음식코너에서 저는 소바, 친구는 우동과 덮밥을 시켜서 먹었습니다.  
 
-  {% include carousel.html height="100" unit="%" duration="7" number="19" %}
+  {% include carousel.html height="100" unit="%" duration="7" number="18" %}
 
 이후 다시 숙소가 있는 고쿠라역으로 돌아와서 쉬기전에 지하에 있는 슈퍼에 가서 뭐좀 사오기로 하였습니다.  
 
@@ -245,7 +243,7 @@ carousels:
 올라가는 길에 본 과일 푸딩.  
 사서 하나 먹어봤는데 좀 신맛이 있긴한데, 맛있었습니다.  
 
-  {% include carousel.html height="100" unit="%" duration="7" number="20" %}
+  {% include carousel.html height="100" unit="%" duration="7" number="19" %}
   
 그리고 밤이 되면서 하루가 마무리 되었습니다.  
 후쿠오카로의 이동 이야기는 다음에 해보도록 하겠습니다.  

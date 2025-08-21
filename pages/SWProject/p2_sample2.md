@@ -4,9 +4,6 @@ keywords: SWProject
 summary: "실시간 화상회의에서 사용자별 음성을 Whisper를 이용해 실시간으로 전사하고, 자막을 제공하는 화상 회의 플랫폼입니다."
 sidebar: product2_sidebar
 permalink: p2_sample2.html
-simple_map: true
-map_name: usermap
-box_number: 1
 folder: product2
 ---
 
@@ -213,9 +210,11 @@ API 문서는 Swagger UI를 통해 제공됩니다:
 
 ## 해당 프로젝트 기여내역
 
-저는 해당 프로젝트에서 Vue 프론트 엔드 프로그래밍과, TailwindCSS UI/UX 파트를 담당하였습니다.
+저는 해당 프로젝트에서 Vue 프론트 엔드 프로그래밍과, TailwindCSS UI/UX 파트를 담당하였습니다.  
+
 프론트엔드의 Auth(회원가입, 로그인 등), 메인페이지와 로그인 후 대쉬보드(단, 실시간 회의 요약, 회의 히스토리 파트는 정XX님이 담당하였습니다.), 설정 파일, 화상회의의 실시간 채팅 부분을 담당하였습니다.  
-또한 전반적인 TailwindCSS 디자인 작성을 담당했습니다.
+
+또한 전반적인 TailwindCSS 디자인 작성을 담당했습니다.  
 
 ---
 

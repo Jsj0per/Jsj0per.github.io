@@ -2,24 +2,94 @@
 title: SSAFY July
 keywords: SSAFY, Diary
 tags: SSAFY, Diary
-summary: "This is just a sample topic..."
+summary: "싸피에서의 1년간의 생활을 적는 공간. 7월"
 sidebar: SSAFY_sidebar
-permalink: SSAFY_July.html
+permalink: SSAFY_Jul.html
 folder: SSAFY_LIFE
 ---
 
-## Sample Content
+<a href="https://hits.sh/jsj0per.github.io/SSAFY_Jul.html/"><img alt="Hits" src="https://hits.sh/jsj0per.github.io/SSAFY_Jul.html.svg?style=for-the-badge&label=PostView&color=347DBE"/></a>
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+## 알림사항
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+2학기에 들어온 이후로 1학기와 다르게 일기를 쓸 여유가 도저히 안 났다.  
+지금 쓰는 이 일기도 사실 8월에 몰아서 쓰는 일기 아닌 일기가 된 것 같다.  
+따라서 2학기 부터는 부득이하게 주차별로 있었던 일을 적으려고 한다.  
+양해를 바란다.  
 
-## More sample content
+---
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+## 공통 프로젝트 1주차 ( 25.07.07 ~ 25.07.11 )
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+[Top Page](#)
 
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+이번 주차에서는 본격적인 프로젝트 전에 간단한 AI 활용에 관한 강의와 미니 프로젝트가 주된 활동이었다.  
+본격적인 프로젝트 전의 다짐이나 그런 레크레이션도 많았기도 하지만 대부분은 역시 강의였던 것 같다.  
+하지만 우리 조는 1주차때 최대한 개발 구조를 확립시키자고 의견이 모아져서 무엇을 어떻게 만들지에 대한,  
+상담과 의견 나누기가 대다수였다.  
 
-{% include links.html %}
+참고로 이 주차때 2학기 내도록 쓸 노트북도 지급받았다.  
+생각보다 성능이 좋은 것을 받아서 꽤 기대가 된다.  
+
+별로 쓸만한 일이 없어서 이번주차는 그렇게 지나갔다.  
+
+---
+
+## 공통 프로젝트 2주차 ( 25.07.14 ~ 25.07.20 )
+
+[Top Page](#)
+
+본격적으로 프로젝트 개발이 시작되었다.  
+우리 조의 경우는 웹 화상 채팅 프로그램을 개발하기로 얼추 정해졌고,  
+내가 맡을 파트는 역시 Vue 프론트엔드.  
+사실 React를 쓰는 방법도 있으나, 역시 첫 프로젝트는 공부했었던 내용을 복습한다는 느낌으로 Vue를 활용해보고 싶어서, 같은 비전공 프론트엔트 팀원의 동의를 얻어 Vue Vite를 쓰기로 결정하였다.  
+
+이번 주차는 전반적으로 명세서 작성을 완료하고 기초적인 뼈대를 세우는 것이 집중한 한 주차였다.  
+명세서가 막 계획하고 써내면 끝일 것 같았는데, 생각보다 복잡하고 해야할 일이 많았다.  
+
+대부분은 전공자 팀원 친구들이 지시를 잘 해준 덕분에 차근차근 진행되긴 하였긴한데, 솔직히 말하자면 여태까지 얼마나 아마추어 같이 굴려왔는지 체감할 수 있었을 정도로 좀 많이 모자란 산출물이 나와서 당혹스러웠다.  
+
+그래서 좀 한번 자존감이 낮아지는 느낌이 들기도 하였지만, 어쨋든 본격적으로 프로그래밍에 집중할 수 있게 될 것 같았다.  
+
+
+---
+
+## 공통 프로젝트 3주차 ( 25.07.21 ~ 25.07.27 )
+
+[Top Page](#)
+
+본격적으로 프로그래밍을 시작하는 주간이다. 미리 설계를 한 것 치곤 좀 늦은 스타트인 편이기에 약간은 조급함을 가지고 시작했다.  
+메인 화면과 아주 기본적인 로그인/회원가입 부분을 만들고 대부분은 백엔드 파트의 조원들과 합을 맞추면서 진행되었다.  
+
+채팅 기능을 구현하는 곳에서 부터 상당히 고역이었다.  
+가장 큰 문제는 내가 모르는 지식을 사용해서 만들어야한다는 것.  
+STOMP를 활용하여서 채팅을 구현해야하는데, STOMP를 처음 들어보고 처음 만져보는 입장에서 Docs를 읽어봐도 도통 이해되지 않았다.  ~~자존감 감소 2스택~~
+한가지 다행이었던 것은 전공자 팀원들이 싫어하거나 귀찮아하는 기색 없이 쾌히 도와줬고, 구현하는데 성공하면 '하면 할 수 있잖아요. 계속 해봐요.' 라면서 격려를 아끼지 않아줬다. ~~역시 칭찬을 먹고 사는게 사람인 것 같다~~  
+
+그 결과 다소 AI의 도움을 받긴 했지만 구현에는 성공을 하긴 했다.  
+다만 에러가 잦아서 계속 코드를 손봐야 했기 때문에 완전한 완성까지는 아니다.  
+
+그렇게 한주가 채팅 프로그램 구현에 통째로 갈려 들어갔다.
+
+---
+
+## 공통 프로젝트 4주차 ( 25.07.28 ~ 25.08.03 )
+
+[Top Page](#)
+
+이번 주차에는 본격적인 로그인/회원가입을 비롯한 Auth 페이지 구현과 서드파티 로그인 구현.  
+그리고 백엔드 부분이 미리 만들어둔 Whisper 모델을 로그 출력 기능과 연결시키는 부분도 작업했다.  
+당연하지만 수시로 고장나는 채팅 부분도 시간날때마다 고치는 시간도 가졌다.  
+
+사실 이번주 역시 전공자 친구들의 도움을 상당히 많이 받았다.  
+막히는 것 있을때마다 자주 물어보고, 그게 아니더라도 시연할 때 문제가 되는 부분이 있다면 알아서 찾아와서 확인하고 가르쳐 주셨던 것 같다.  
+
+그래도 아직까지는 할만하다.  
+이미 AI는 내 친구처럼 가까워지고 어떻게 하면 할루시네이션이 적은 답을 얻을 수 있는지에 대한 노하우도 얻어가는 기분인 것 같다.  
+
+그리고 CSS 부분은 TailwindCSS로 하기로 결정하였는데, 이는 내 의지가 컸다.  
+다양한 프레임워크를 써보고 싶기 때문이기도 하고, TailwindCSS를 쓰니 생각보다 원하는 디자인을 짜기 쉬웠기 떄문이다.  
+
+이번주차는 그렇게 흘러갔다.  
+
+---

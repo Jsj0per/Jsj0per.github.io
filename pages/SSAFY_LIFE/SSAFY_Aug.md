@@ -8,7 +8,7 @@ permalink: SSAFY_Aug.html
 folder: SSAFY_LIFE
 ---
 
-<a href="https://hits.sh/jsj0per.github.io/SSAFY_Jul.html/"><img alt="Hits" src="https://hits.sh/jsj0per.github.io/SSAFY_Jul.html.svg?style=for-the-badge&label=PostView&color=347DBE"/></a>
+<a href="https://hits.sh/jsj0per.github.io/SSAFY_Aug.html/"><img alt="Hits" src="https://hits.sh/jsj0per.github.io/SSAFY_Aug.html.svg?style=for-the-badge&label=PostView&color=347DBE"/></a>
 
 ## 공통 프로젝트 5주차 ( 25.08.04 ~ 25.08.10 )
 

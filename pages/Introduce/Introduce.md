@@ -9,6 +9,7 @@ permalink: Introduce.html
 folder: Introduce
 
 ---
+
 # 정 승재 Student Developer
 
 ### SungJae Jung, 鄭 承宰(ゾン, スンゼ)
@@ -22,7 +23,9 @@ Student Developer who strives to become a developer who goes step by step.
 
 ## Ability(Tech Stacks)
 
-| Name | Details |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsj0per)](https://github.com/anuraghazra/github-readme-stats)
+
+| Name       | Details                                                                                                                                                                                                      |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Main language   | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow"> |
 | Studying language   | <img src="https://img.shields.io/badge/java-E11F21?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white">  |
@@ -46,25 +49,30 @@ Student Developer who strives to become a developer who goes step by step.
 | Blog   | https://jsj0per.github.io/ |
 | E-mail | kor0peration@naver.com     |
 
-## Special Career
+## Portfolio
+ * [MOYOUNG](https://jsj0per.github.io/p2_sample2.html)  
+ 실시간 화상회의에서 사용자 별 음성을 Whisper를 이용해 실시간으로 전사하고, 자막을 제공하는 화상 회의 플랫폼입니다.  
+ It is a video conference platform that transmits user-specific voices in real-time using Whisper and provides subtitles in real-time in real-time video conferencing.  
 
-![SSAFYcial_namecard](/pages/SSAFYcial/SSAFYcial_namecard.png)
+## Career
 
-#### SSAFYcial 13기 구미 캠퍼스 기자단 2025/02 ~ Progressing  
+![SSAFYcial_namecard](https://jsj0per.github.io/pages/SSAFYcial/SSAFYcial_namecard.png)
 
-SSAFY Campus Press Corps "SSAFYcial" (Gumi), 13th Period Press Member  
+#### SSAFYcial 13기 구미 캠퍼스 기자단 2025/02 ~ Progressing
+
+SSAFY Campus Press Corps "SSAFYcial" (Gumi), 13th Period Press Member
 
 ## Education History
 
-#### 삼성 청년 SW 아카데미 구미캠퍼스 파이썬 과정                                   2025/01 ~ Progressing
+#### 삼성 청년 SW 아카데미 구미캠퍼스 파이썬 과정                                        2025/01 ~ Progressing
 
-K-Digital Traning Samsung SW Academy For Youth Program(SSAFY) Gumi Campus Python Course  
+K-Digital Traning Samsung SW Academy For Youth Program(SSAFY) Gumi Campus Python Course
 
-#### 엠비씨 아카데미 파이썬,자바,스프링기반 빅데이터 SW개발자 양성                      2023/04 ~ 2023/09  
+#### 엠비씨 아카데미 파이썬,자바,스프링기반 빅데이터 SW개발자 양성                        2023/04 ~ 2023/09  
 
-Digital Convergence MBC Academy Python, Java, Spring Base Big-Data SW Developer Course  
+Digital Convergence MBC Academy Python, Java, Spring Base Big-Data SW Developer Course
 
-#### 계명대학교 국어국문학과 학사 인문IT융합전공 복수전공                               2015/03 ~ 2022/08  
+#### 계명대학교 국어국문학과 학사 인문IT융합전공 복수전공                                2015/03 ~ 2022/08  
 
 Keimyung University Located in Daegu, Republic Of Korea  
 Department(major) of Major in Korean Language and Literature, Faculty of Korean Language and Literature  
@@ -72,5 +80,5 @@ College of Humanities and International Studies (Double Major: Major in Humaniti
 with the degree of Bachelor of Arts.  
 (include ROK AirForce Millitary Service Period 2016/04~2018/04)  
 
-#### 심인고등학교 졸업                                                                  2012/03 ~ 2015/02
-Simin High School Liberal Arts Track Diploma  
+#### 심인고등학교 졸업                                                                   2012/03 ~ 2015/02  
+Simin High School Liberal Arts Track Diploma

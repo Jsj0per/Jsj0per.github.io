@@ -12,7 +12,7 @@ folder: Introduce
 
 # 정 승재 Student Developer
 
-### SungJae Jung, 鄭 承宰(ゾン, スンゼ)
+### SungJae Jung, 鄭 承宰(ジョン, スンゼ)
 
 
 ## Introduce

@@ -66,7 +66,7 @@ SSAFY Campus Press Corps "SSAFYcial" (Gumi), 13th Period Press Member
 
 #### 삼성 청년 SW 아카데미 구미캠퍼스 파이썬 과정                                        2025/01 ~ Progressing
 
-K-Digital Traning Samsung SW Academy For Youth Program(SSAFY) Gumi Campus Python Course
+K-Digital Traning Coding Boot Camp Samsung SW Academy For Youth Program(SSAFY) Gumi Campus Python Course
 
 #### 엠비씨 아카데미 파이썬,자바,스프링기반 빅데이터 SW개발자 양성                        2023/04 ~ 2023/09  
 

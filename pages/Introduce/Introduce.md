@@ -56,7 +56,7 @@ Student Developer who strives to become a developer who goes step by step.
 
 ## Career
 
-![SSAFYcial_namecard](https://jsj0per.github.io/pages/SSAFYcial/SSAFYcial_namecard.png)
+![SSAFYcial_namecard](https://jsj0per.github.io/pages/SSAFYcial/SSAFYcial_namecard_new.png)
 
 #### SSAFYcial 13기 구미 캠퍼스 기자단 2025/02 ~ Progressing
 

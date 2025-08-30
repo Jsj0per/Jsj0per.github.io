@@ -4,7 +4,7 @@ keywords: [SSAFY, SSAFYcial, Shorts_Article]
 tags:  [SSAFY, SSAFYcial, Shorts_Article]
 summary: "주변에 SSAFY인이 있다면 누구나 참여 가능한 공모전이 열리고있습니다."
 sidebar: SSAFY_sidebar
-permalink: SSAFYcial_12.html
+permalink: SSAFYcial_14.html
 folder: SSAFYcial
 ---
 

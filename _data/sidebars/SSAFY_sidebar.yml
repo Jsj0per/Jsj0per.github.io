@@ -49,6 +49,10 @@ entries:
     output: web, pdf
 
     folderitems:
+    - title: 싸피 수기 공모전
+      url: SSAFYcial_14.html
+      output: web, pdf
+
     - title: 잠싸시)13기 인터뷰
       url: SSAFYcial_01.html
       output: web, pdf

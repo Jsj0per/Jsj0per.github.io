@@ -8,11 +8,11 @@ permalink: SSAFYcial_15.html
 folder: SSAFYcial
 carousels:
   - images: 
-    - image: /pages/SSAFYcial/SSAFYcial_img/SSAFYcial_15/SSAFYcial_Set_01.png
-    - image: /pages/SSAFYcial/SSAFYcial_img/SSAFYcial_15/SSAFYcial_Set_02.png
+    - image: /pages/SSAFYcial/SSAFYcial_img/SSAFYcial_15/SSAFYcial_Set_01.jpg
+    - image: /pages/SSAFYcial/SSAFYcial_img/SSAFYcial_15/SSAFYcial_Set_02.jpg
   - images: 
-    - image: /pages/SSAFYcial/SSAFYcial_img/SSAFYcial_15/SSAFYcial_Set_03.png
-    - image: /pages/SSAFYcial/SSAFYcial_img/SSAFYcial_15/SSAFYcial_Set_04.png
+    - image: /pages/SSAFYcial/SSAFYcial_img/SSAFYcial_15/SSAFYcial_Set_03.jpg
+    - image: /pages/SSAFYcial/SSAFYcial_img/SSAFYcial_15/SSAFYcial_Set_04.jpg
 ---
 <a href="https://hits.sh/jsj0per.github.io/SSAFYcial_15.html/"><img alt="Hits" src="https://hits.sh/jsj0per.github.io/SSAFYcial_13.html.svg?style=for-the-badge&label=PostView&color=347DBE&logo=Perso"/></a>
 
@@ -92,7 +92,7 @@ carousels:
 
 [Top Page](#)
 
-![디너회](/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_15/SSAFYcial_Set_08.png)
+![디너회](/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_15/SSAFYcial_Set_08.jpg)
 
 뿐만하니라, 이번 이벤트에서는 런치회나 디너회 중 선택하여, 직접 현업자분과 같이 식사를 하며,  
 가벼운 분위기로 프리토킹까지 할 수 있는 기회까지 제공되었습니다.  

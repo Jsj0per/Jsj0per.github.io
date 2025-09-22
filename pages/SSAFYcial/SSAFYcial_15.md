@@ -14,7 +14,7 @@ carousels:
     - image: /pages/SSAFYcial/SSAFYcial_img/SSAFYcial_15/SSAFYcial_Set_03.jpg
     - image: /pages/SSAFYcial/SSAFYcial_img/SSAFYcial_15/SSAFYcial_Set_04.jpg
 ---
-<a href="https://hits.sh/jsj0per.github.io/SSAFYcial_15.html/"><img alt="Hits" src="https://hits.sh/jsj0per.github.io/SSAFYcial_13.html.svg?style=for-the-badge&label=PostView&color=347DBE&logo=Perso"/></a>
+<a href="https://hits.sh/jsj0per.github.io/SSAFYcial_15.html/"><img alt="Hits" src="https://hits.sh/jsj0per.github.io/SSAFYcial_15.html.svg?style=for-the-badge&label=PostView&color=347DBE&logo=Perso"/></a>
 
 <div style="text-align: center;">
   <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFY_to_JAPAN.png"/>

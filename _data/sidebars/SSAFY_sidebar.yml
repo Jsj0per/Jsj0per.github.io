@@ -105,5 +105,8 @@ entries:
       url: SSAFYcial_13.html
       output: web, pdf
 
+    - title: 싸일취)C2_KOREC 밋업 이벤트 후기
+      url: SSAFYcial_15.html
+      output: web, pdf
 
 # Copyright 2021 Google LLC

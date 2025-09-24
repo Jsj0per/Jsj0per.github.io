@@ -1,5 +1,5 @@
 ---
-title: SSAFYcial) 구미 캠퍼스의 하루 편(잠깐만 SSAFY에서 시간 가져갈께요)
+title: SSAFYcial)구미 캠퍼스의 하루 편(잠깐만 SSAFY에서 시간 가져갈께요)
 keywords: [SSAFY, SSAFYcial, Shorts_Article]
 tags:  [SSAFY, SSAFYcial, Shorts_Article]
 summary: "SSAFYcial 기자단 활동 10호 기사! 구미 캠퍼스를 다니는 학생들은 무엇을 배울까요?"
@@ -12,7 +12,7 @@ folder: SSAFYcial
 
 [SSAFYcial]구미 캠퍼스의 하루 편(잠깐만 SSAFY에서 시간 가져갈께요)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9EasDuu363U?si=IPVsc65dWqNSzNAO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RsTaiJ-LfBg?si=2wcnjEuaXYZ0njfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 구미 캠퍼스에 다니는 SSAFY 학생들의 1학기 2학기는 어떻게 공부하는 걸까요? 그 궁금증을 해결하려 영상을 제작해보았습니다.
 

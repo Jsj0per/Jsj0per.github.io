@@ -80,6 +80,10 @@ entries:
     - title: 잠싸시)SS "AI" FY
       url: SSAFYcial_12.html
       output: web, pdf
+
+    - title: 잠싸시)필드 트립
+      url: SSAFYcial_16.html
+      output: web, pdf
     
     - title: 제블생)C1_개발 블로그를 만들자
       url: SSAFYcial_03.html

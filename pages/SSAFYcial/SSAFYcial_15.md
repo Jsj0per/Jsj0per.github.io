@@ -2,7 +2,7 @@
 title: SSAFYcial) SSAFY에서 일본까지 2화, KOREC Meet Up 이벤트 참여 후기.
 keywords: [SSAFY, SSAFYcial]
 tags:  [SSAFY, SSAFYcial]
-summary: "SSAFYcial 기사 15호. 일본 현직자와 직접 이야기 할 수 있는 이벤트가 있다!"
+summary: "SSAFYcial 기사 14호. 일본 현직자와 직접 이야기 할 수 있는 이벤트가 있다!"
 sidebar: SSAFY_sidebar
 permalink: SSAFYcial_15.html
 folder: SSAFYcial

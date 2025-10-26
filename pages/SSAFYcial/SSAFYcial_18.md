@@ -2,7 +2,7 @@
 title: SSAFYcial) SSAFY에서 일본까지 3화, 일본 취업을 노리는 사람을 위한 사이트.
 keywords: [SSAFY, SSAFYcial]
 tags:  [SSAFY, SSAFYcial]
-summary: "SSAFYcial 기사 18호. 일본 취업을 노린다면 기억해두자!"
+summary: "SSAFYcial 기사 17호. 일본 취업을 노린다면 기억해두자!"
 sidebar: SSAFY_sidebar
 permalink: SSAFYcial_18.html
 folder: SSAFYcial

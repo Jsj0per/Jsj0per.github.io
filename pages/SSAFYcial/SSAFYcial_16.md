@@ -10,8 +10,6 @@ folder: SSAFYcial
 
 <a href="https://hits.sh/jsj0per.github.io/SSAFYcial_16.html/"><img alt="Hits" src="https://hits.sh/jsj0per.github.io/SSAFYcial_16.html.svg?style=for-the-badge&label=PostView&color=347DBE&logo=Perso"/></a>
 
-[SSAFYcial]Samsung SW · "AI" academy For Youth 편(잠깐만 SSAFY에서 시간 가져갈께요) #ssafy #ssafycial  
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KNB-Jtpqc6M?si=LnBe_4useJ296w9j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 2학기 프로젝트를 지원하는 SSAFY의 다양한 정책들이 존재하는데요. 그 중 하나를 알려드릴까 합니다.  

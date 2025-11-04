@@ -84,6 +84,10 @@ entries:
     - title: 잠싸시)필드 트립
       url: SSAFYcial_16.html
       output: web, pdf
+
+    - title: 잠싸시)프로젝트
+      url: SSAFYcial_17.html
+      output: web, pdf
     
     - title: 제블생)C1_개발 블로그를 만들자
       url: SSAFYcial_03.html
@@ -112,5 +116,10 @@ entries:
     - title: 싸일취)C2_KOREC 밋업 이벤트 후기
       url: SSAFYcial_15.html
       output: web, pdf
+
+    - title: 싸일취)C3_일취에 유용한 사이트
+      url: SSAFYcial_18.html
+      output: web, pdf
+
 
 # Copyright 2021 Google LLC

@@ -1,8 +1,8 @@
 ---
-title: SSAFYcial) 필드 트립 편(잠깐만 SSAFY에서 시간 가져갈께요)
+title: SSAFYcial) 프로젝트 편(잠깐만 SSAFY에서 시간 가져갈께요)
 keywords: [SSAFY, SSAFYcial, Shorts_Article]
 tags:  [SSAFY, SSAFYcial, Shorts_Article]
-summary: "SSAFYcial 기자단 활동 16호 기사! 프로젝트 인사이트는 교실 밖에 있다!"
+summary: "SSAFYcial 기자단 활동 16호 기사! SSAFY의 꽃. SSAFY 2학기 프로젝트에 대해 알아보자."
 sidebar: SSAFY_sidebar
 permalink: SSAFYcial_17.html
 folder: SSAFYcial

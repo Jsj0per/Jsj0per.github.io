@@ -10,8 +10,6 @@ folder: SSAFYcial
 
 <a href="https://hits.sh/jsj0per.github.io/SSAFYcial_17.html/"><img alt="Hits" src="https://hits.sh/jsj0per.github.io/SSAFYcial_17.html.svg?style=for-the-badge&label=PostView&color=347DBE&logo=Perso"/></a>
 
-[SSAFYcial]Samsung SW · "AI" academy For Youth 편(잠깐만 SSAFY에서 시간 가져갈께요) #ssafy #ssafycial  
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bMniAFIks_U?si=vNEasXZTb2THONjy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 SSAFY의 2학기는 그야말로 SSAFY의 핵심이라 봐도 무방할 정도로 다양한 프로젝트를 제작하게 되는데요. 정확하게 어떤 프로젝트를 하며 SSAFY에서는 어떤 지원을 받을 수 있는 걸까요?

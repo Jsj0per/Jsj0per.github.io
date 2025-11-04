@@ -8,7 +8,7 @@ permalink: SSAFYcial_17.html
 folder: SSAFYcial
 ---
 
-<a href="https://hits.sh/jsj0per.github.io/SSAFYcial_16.html/"><img alt="Hits" src="https://hits.sh/jsj0per.github.io/SSAFYcial_16.html.svg?style=for-the-badge&label=PostView&color=347DBE&logo=Perso"/></a>
+<a href="https://hits.sh/jsj0per.github.io/SSAFYcial_17.html/"><img alt="Hits" src="https://hits.sh/jsj0per.github.io/SSAFYcial_17.html.svg?style=for-the-badge&label=PostView&color=347DBE&logo=Perso"/></a>
 
 [SSAFYcial]Samsung SW · "AI" academy For Youth 편(잠깐만 SSAFY에서 시간 가져갈께요) #ssafy #ssafycial  
 

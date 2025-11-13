@@ -1,27 +1,37 @@
 ---
-title: Sample 4 Topic
+title: 꼬마선장 에코
 keywords: sample
-summary: "This is just a sample topic..."
-sidebar: product2_sidebar
+summary: "난독증으로 어려움을 겪는 학생들을 위한 난독증 증상 개선 목적의 교육 사이트 제작."
+sidebar: SWProject_sidebar
 permalink: p2_sample4.html
-simple_map: true
-map_name: usermap
-box_number: 4
 folder: product2
 ---
 
-## Sample Content
+# 주의 사항
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+SSAFY 프로젝트는 보안 관계상 모든 소스코드 파일 열람이 불가능합니다.  
+열람이 필요하실 경우 저에게 연락한 뒤 제가 SSAFY를 통하여 소스코드 열람을 허가를 받은 뒤 공개가 가능합니다.  
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+---
 
-## More sample content
+내용 준비중
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+---
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+## 참가 팀원
 
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+* 김XX(팀장, AI 기능 구현)
+* 박XX(인프라, 서버, 프론트엔드 담당)
+* 황XX(백엔드 구현 담당)
+* 공XX(백엔드 구현 담당)
+* 김XX(프론트엔드 담당)
+* 정승재(프론트엔드 담당)
 
-{% include links.html %}
+## 해당 프로젝트 기여내역
+
+저는 해당 프로젝트에서 프론트엔드 파트를 담당하였습니다.  
+
+로그인 전 메인 페이지, 소개 페이지, Auth 페이지, 프로필 선택, 학생 대시보드 구현을 담당했으며,  
+전체적인 디자인, UI/UX를 다른 프론트엔드 담당들과 공동 분담하여 수행했습니다.  
+
+---

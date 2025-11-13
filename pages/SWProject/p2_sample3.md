@@ -9,6 +9,14 @@ map_name: usermap
 box_number: 3
 folder: product2
 ---
+
+# 주의 사항
+
+SSAFY 프로젝트는 보안 관계상 모든 소스코드 파일 열람이 불가능합니다.  
+열람이 필요하실 경우 저에게 연락한 뒤 제가 SSAFY를 통하여 소스코드 열람을 허가를 받은 뒤 공개가 가능합니다.  
+
+---
+
 # Inside Home – 유니티를 이용한 게임 제작
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3OM7SGs73jA?si=53yVkAyMkfmHxAr9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
@@ -123,5 +131,22 @@ Unity와 OpenXR 기반으로 제작된 AR/VR 전환형 퍼즐 게임입니다.
 - **ExitDoor.png, Exitdoor2.png**  
   - 주방 퍼즐 최종 단계에서 탈출구로 활용.  
   - 최종 기믹 성공 시 Exit Door가 활성화되어 엔딩 연출.
+
+---
+
+## 참가 팀원
+
+* 황XX(팀장, 유니티 씬 제작)
+* 이XX(유니티 기술 지원 및 씬 제작)
+* 손XX(유니티 씬 제작)
+* 박XX(유니티 씬 제작, 에셋 관리)
+* 김XX(유니티 씬 제작, 에셋 관리)
+* 정승재(UI/UX, 사운드, 컨트롤러 파트)
+
+## 해당 프로젝트 기여내역
+
+저는 해당 프로젝트에서 UI/UX, 사운드, 컨트롤러 파트를 담당하였습니다.  
+
+3D VR/AR에 출력되는 인터페이스 구성 및 컨트롤러 설정, 인벤토리 구현, 사운드 매니징 및 배경음악 작업 파트를 담당하여 구현하였습니다.  
 
 ---

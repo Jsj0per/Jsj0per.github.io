@@ -1,12 +1,9 @@
 ---
 title: Inside Home
 keywords: sample
-summary: "유니티를 이용한 게임 제작"
-sidebar: product2_sidebar
+summary: "Unity와 OpenXR 기반으로 제작된 AR/VR 전환형 퍼즐 게임입니다."
+sidebar: SWProject_sidebar
 permalink: p2_sample3.html
-simple_map: true
-map_name: usermap
-box_number: 3
 folder: product2
 ---
 

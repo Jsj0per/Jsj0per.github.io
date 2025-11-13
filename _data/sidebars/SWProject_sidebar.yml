@@ -17,11 +17,11 @@ entries:
       url: /p2_sample2.html
       output: web, pdf
 
-    - title: TP_03_NOPROJECT
+    - title: Inside Home
       url: /p2_sample3.html
       output: web, pdf
 
-    - title: TP_04_NOPROJECT
+    - title: Captain Echo
       url: /p2_sample4.html
       output: web, pdf
 

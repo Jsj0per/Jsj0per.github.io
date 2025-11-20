@@ -35,7 +35,6 @@ SSAFY 프로젝트는 보안 관계상 모든 소스코드 파일 열람이 불�
   - [Frontend](#frontend)
   - [AI Service](#ai-service)
   - [Infrastructure & DevOps](#infrastructure--devops)
-- [📁 프로젝트 구조](#-프로젝트-구조)
 - [📅 개발 기간](#-개발-기간)
 
 <br />

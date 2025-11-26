@@ -19,6 +19,8 @@ SSAFY 프로젝트는 보안 관계상 모든 소스코드 파일 열람이 불�
 > **AI 멀티 에이전트가 만드는 맞춤형 난독증 학습 여정**
 > CrewAI 기반 3+1 에이전트 협업으로 아동 개개인에게 최적화된 학습 커리큘럼을 자동 생성합니다.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ht3jnHnNjM?si=fmY3Ad1Le32VDQEs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
 <br />
 
 ## 📄 목차

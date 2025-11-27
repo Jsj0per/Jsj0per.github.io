@@ -81,7 +81,7 @@ KOREC은 순수 일본 취업만을 위해 개설된 취업 알선 사이트로 
 
 ---
 
-## 엔 카이샤노효오반(エン カイシャの評判: en 회사의 평판)
+## OpenWork
 
 [Top Page](#)
 
@@ -89,12 +89,12 @@ KOREC은 순수 일본 취업만을 위해 개설된 취업 알선 사이트로 
   <img src="/pages/SSAFYcial/SSAFYcial_img/SSAFYcial_18/SSAFYcial_Nov_04.png"/>
 </div>
 
-홈페이지1 : [엔 카이샤노효오반](https://en-hyouban.com/)
+홈페이지1 : [Openwork](https://www.openwork.jp/)
 
 일본의 잡플래닛, 블라인드 같은 쿠치코미(口コミ:회사 평판 리뷰 조회) 사이트로 외국인 입장에서는 알기 힘든 정보를 조회하기 좋은 사이트 입니다.  
-다만, 비회원이나 미취업 입장에서는 상단의 리뷰만 확인할 수 있다는 점이 단점으로 꼽힙니다.  
+다른 사이트들과 비교하면 회원가입만으로도 대부분의 평판 조회가 가능하여 접근성이 좋은 편입니다.  
 
-이외에도 openwork나 jobtalk, careerconnection, rakuten nikki 같은 다양한 쿠치코미 사이트들이 있으니 참고하시면 좋을 듯 합니다.  
+이외에도 エン カイシャの評判(en 회사의 평판)이나 jobtalk, careerconnection, rakuten nikki 같은 다양한 쿠치코미 사이트들이 있으니 참고하시면 좋을 듯 합니다.  
 
 ---
 

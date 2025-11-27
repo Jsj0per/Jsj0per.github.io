@@ -16,7 +16,15 @@ folder: SSAFYcial
 해당 포스트에 사용된 일부 삽화는 ChatGPT DALL·E 를 사용한 AI 그림임을 알려드립니다.  
 또한 저를 형상화한 이모지는 삼성 AR 이모지를 이용하여 제작된 AI 이미지임도 알려드립니다.    
 
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/jO-W5IFSKKk?si=ds2aJrKC9pWUj-tL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<iframe 
+  style="width: 100%; aspect-ratio: 16 / 9;" 
+  src="https://www.youtube.com/embed/jO-W5IFSKKk?si=ds2aJrKC9pWUj-tL" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  referrerpolicy="strict-origin-when-cross-origin" 
+  allowfullscreen>
+</iframe>  
 
 안녕하세요! SSAFYcial 13기 기자단 정승재 입니다.  
 

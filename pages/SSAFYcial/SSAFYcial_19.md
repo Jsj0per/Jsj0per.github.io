@@ -2,7 +2,7 @@
 title: SSAFYcial) 프로젝트 사이클 편(잠깐만 SSAFY에서 시간 가져갈께요)
 keywords: [SSAFY, SSAFYcial, Shorts_Article]
 tags:  [SSAFY, SSAFYcial, Shorts_Article]
-summary: "SSAFYcial 기자단 활동 18호 기사! SSAFY의 꽃. SSAFY 2학기 프로젝트에 대해 알아보자."
+summary: "SSAFYcial 기자단 활동 18호 기사! SSAFY의 꽃. 프로젝트의 6-7주간의 사이클에 대해 소개."
 sidebar: SSAFY_sidebar
 permalink: SSAFYcial_19.html
 folder: SSAFYcial

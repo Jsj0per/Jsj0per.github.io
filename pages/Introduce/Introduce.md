@@ -32,7 +32,7 @@ Student Developer who strives to become a developer who goes step by step.
 | Frameworks | ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 | Studying FW | <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> |
 | DataBase   | <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> |
-| ETC        | <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"> ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  |
+| ETC        | <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"> ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) |
 
 ## Git Animals
 
@@ -48,23 +48,35 @@ Student Developer who strives to become a developer who goes step by step.
 | GitHub | https://github.com/Jsj0per |
 | Blog   | https://jsj0per.github.io/ |
 | E-mail | kor0peration@naver.com     |
+| LinkedIn | https://www.linkedin.com/in/sungjae-jung-49a509389/ |
 
 ## Portfolio
- * [MOYOUNG](https://jsj0per.github.io/p2_sample2.html)  
+  * [MOYOUNG](https://jsj0per.github.io/p2_sample2.html)  
  실시간 화상회의에서 사용자 별 음성을 Whisper를 이용해 실시간으로 전사하고, 자막을 제공하는 화상 회의 플랫폼입니다.  
- It is a video conference platform that transmits user-specific voices in real-time using Whisper and provides subtitles in real-time in real-time video conferencing.  
+ It is a video conference platform that transmits user-specific voices in real-time using Whisper and provides subtitles in real-time in real-time video conferencing.
+
+  * [Inside Home](https://jsj0per.github.io/p2_sample3.html)  
+  Unity와 OpenXR 기반으로 제작된 AR/VR 전환형 퍼즐 게임입니다.  
+  AR/VR conversion puzzle game based on Unity and OpenXR.
+
+  * [Captain Echo](https://jsj0per.github.io/p2_sample4.html)  
+  AI 멀티 에이전트가 만드는 맞춤형 난독증 학습 여정 CrewAI 기반 3+1 에이전트 협업으로 아동 개개인에게 최적화된 학습 커리큘럼을 자동 생성합니다.  
+  Customized Dyslexia Learning Journey Created by AI Multi-Agent CrewAI-based 3+1 agent collaboration automatically creates a learning curriculum optimized for each child.
 
 ## Career
 
 ![SSAFYcial_namecard](https://jsj0per.github.io/pages/SSAFYcial/SSAFYcial_namecard_new.png)
 
-#### SSAFYcial 13기 구미 캠퍼스 기자단 2025/02 ~ Progressing
+#### SSAFYcial 13기 구미 캠퍼스 기자단 2025/02 ~ 2025/11
 
 SSAFY Campus Press Corps "SSAFYcial" (Gumi), 13th Period Press Member
 
-## Education History
+#### キャル株式会社(칼 주식회사) SWエンジニア 2026/04 ~ In office
 
-#### 삼성 청년 SW·AI 아카데미 구미캠퍼스 파이썬 과정                                        2025/01 ~ Progressing
+CAL Corporation SW Engineer
+
+## Education History
+#### 삼성 청년 SW·AI 아카데미 구미캠퍼스 파이썬 과정                                        2025/01 ~ 2025/12
 
 K-Digital Traning Coding Boot Camp Samsung SW·AI academy For Youth Program(SSAFY) Gumi Campus Python Course
 

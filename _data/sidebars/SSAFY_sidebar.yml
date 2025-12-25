@@ -92,6 +92,10 @@ entries:
     - title: 잠싸시)프로젝트 사이클
       url: SSAFYcial_19.html
       output: web, pdf
+
+    - title: 잠싸시)SSAFY 수료
+      url: SSAFYcial_21.html
+      output: web, pdf
     
     - title: 제블생)C1_개발 블로그를 만들자
       url: SSAFYcial_03.html
